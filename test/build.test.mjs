@@ -1,7 +1,13 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import { normalizeUrl, parseFeed, slugify } from '../scripts/lib/feed-utils.mjs';
 import { mergeArticles, splitArchive } from '../scripts/lib/article-store.mjs';
+
+const execFileAsync = promisify(execFile);
 
 test('parseFeed reads RSS items', () => {
   const xml = `<?xml version="1.0"?><rss><channel><item><title>ChatGPT update</title><link>https://example.com/x</link><pubDate>Thu, 29 May 2026 09:00:00 GMT</pubDate><description>New model notes.</description></item></channel></rss>`;
@@ -60,4 +66,19 @@ test('splitArchive moves older items out of live feed', () => {
   assert.equal(live.length, 1);
   assert.equal(archived.length, 1);
   assert.equal(archived[0].title, 'Old');
+});
+
+test('offline build renders featured focus sections', async () => {
+  const rootDir = path.resolve(import.meta.dirname, '..');
+  await execFileAsync('node', ['scripts/build-site.mjs'], {
+    cwd: rootDir,
+    env: {
+      ...process.env,
+      NEWS_OFFLINE_FIXTURES: '1'
+    }
+  });
+
+  const html = await readFile(path.join(rootDir, 'dist', 'index.html'), 'utf8');
+  assert.match(html, /AI Prioritaeten/);
+  assert.match(html, /Hamburg und Norderstedt/);
 });

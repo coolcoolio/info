@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T15:03:58.943Z",
+  "generatedAt": "2026-05-29T15:44:45.523Z",
   "items": [
     {
       "id": "https://example.com/openclaw-benchmark",
@@ -14,12 +14,12 @@
         "OpenClaw"
       ],
       "blurb": "The benchmark also compares Claude, ChatGPT and Gemini coding assistants.",
-      "score": 63,
+      "score": 78,
       "sourceMatchScore": 3,
       "key": "https://example.com/openclaw-benchmark",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
       "id": "https://example.com/norderstedt-digital-portal",
@@ -33,12 +33,12 @@
         "Norderstedt"
       ],
       "blurb": "Norderstedt launches a portal update focused on appointments and service requests.",
-      "score": 21,
+      "score": 39,
       "sourceMatchScore": 4,
       "key": "https://example.com/norderstedt-digital-portal",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     }
   ]
 }

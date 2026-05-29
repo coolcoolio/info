@@ -56,11 +56,34 @@ function getSourceMatchScore(item, source) {
   }, 0);
 }
 
+function countTermOccurrences(haystack, term) {
+  if (!term) return 0;
+  const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const matches = haystack.match(new RegExp(escaped, 'gi'));
+  return matches ? matches.length : 0;
+}
+
+function getRecencyBoost(article) {
+  const published = new Date(article.publishedAt).getTime();
+  if (Number.isNaN(published)) return 0;
+  const ageHours = Math.max(0, (Date.now() - published) / (1000 * 60 * 60));
+  if (ageHours <= 12) return 8;
+  if (ageHours <= 24) return 6;
+  if (ageHours <= 48) return 4;
+  if (ageHours <= 72) return 2;
+  return 0;
+}
+
 function scoreArticle(article) {
   const haystack = `${article.title} ${article.summary} ${article.tags.join(' ')} ${article.category}`.toLowerCase();
-  return Object.entries(site.interestWeights).reduce((score, [term, weight]) => {
-    return haystack.includes(term) ? score + weight : score;
+  const interestScore = Object.entries(site.interestWeights).reduce((score, [term, weight]) => {
+    const matches = countTermOccurrences(haystack, term);
+    return matches > 0 ? score + weight + (matches - 1) * Math.ceil(weight / 3) : score;
   }, 5);
+  const titleBoost = Object.keys(site.interestWeights).reduce((score, term) => {
+    return article.title.toLowerCase().includes(term) ? score + 2 : score;
+  }, 0);
+  return interestScore + titleBoost + (article.sourceMatchScore || 0) + getRecencyBoost(article);
 }
 
 function dedupeArticles(items) {
@@ -99,6 +122,16 @@ function renderCards(items) {
   `).join('\n');
 }
 
+function renderSectionCards(items) {
+  if (items.length === 0) {
+    return `<p class="empty">Noch keine passenden Artikel im aktuellen Speicherstand.</p>`;
+  }
+
+  return `<div class="grid compact-grid">
+    ${renderCards(items)}
+  </div>`;
+}
+
 function renderSourceStatus(statuses) {
   return statuses.map((status) => `
     <li class="${status.ok ? 'ok' : 'error'}">
@@ -126,6 +159,39 @@ function renderTopicOverview(items) {
     .sort((left, right) => right[1] - left[1])
     .map(([label, count]) => `<span>${escapeHtml(label)} ${count}</span>`)
     .join('');
+}
+
+function matchesFeaturedSection(article, section) {
+  const haystack = `${article.title} ${article.summary} ${article.tags.join(' ')} ${article.category}`.toLowerCase();
+  return (section.keywords || []).some((keyword) => haystack.includes(keyword.toLowerCase()));
+}
+
+function buildFeaturedSections(items) {
+  return (site.featuredSections || []).map((section) => {
+    const matches = items.filter((item) => matchesFeaturedSection(item, section)).slice(0, section.maxItems || 6);
+    return {
+      ...section,
+      items: matches
+    };
+  });
+}
+
+function renderFeaturedSections(items) {
+  const sections = buildFeaturedSections(items);
+  if (sections.length === 0) return '';
+
+  return sections.map((section) => `
+    <section class="panel">
+      <div class="panel-head stacked">
+        <div>
+          <p class="eyebrow">Fokus</p>
+          <h2>${escapeHtml(section.title)}</h2>
+        </div>
+        <p class="intro">${escapeHtml(section.description || '')}</p>
+      </div>
+      ${renderSectionCards(section.items)}
+    </section>
+  `).join('\n');
 }
 
 function renderIndex({ live, archived, generatedAt, sourceStatuses, coverage }) {
@@ -157,9 +223,11 @@ function renderIndex({ live, archived, generatedAt, sourceStatuses, coverage }) 
     <section class="panel">
       <h2>Jetzt relevant</h2>
       <div class="grid">
-        ${renderCards(live)}
+        ${renderCards(live.slice(0, 12))}
       </div>
     </section>
+
+    ${renderFeaturedSections(live)}
 
     <section class="panel">
       <h2>Archiv-Regel</h2>
@@ -380,17 +448,29 @@ h3 { font-size: 1.3rem; margin: 10px 0; }
   gap: 16px;
   align-items: baseline;
 }
+.panel-head.stacked {
+  align-items: start;
+  flex-direction: column;
+}
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 16px;
 }
+.compact-grid .card:nth-child(n+7) { display: none; }
 .compact .card:nth-child(n+9) { display: none; }
 .card {
   border: 1px solid var(--line);
   background: var(--panel);
   padding: 18px;
   min-height: 220px;
+}
+.empty {
+  margin: 0;
+  padding: 18px;
+  border: 1px dashed var(--line);
+  color: var(--muted);
+  background: rgba(255,253,248,0.7);
 }
 .card p { margin: 0; line-height: 1.5; }
 .meta, .score { color: var(--muted); font-size: 0.8rem; }

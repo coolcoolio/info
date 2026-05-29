@@ -7,6 +7,36 @@
   "maxArchiveItems": 120,
   "maxStoredItems": 400,
   "timezone": "Europe/Berlin",
+  "featuredSections": [
+    {
+      "id": "ai-priority",
+      "title": "AI Prioritaeten",
+      "description": "Hermes Agent, OpenClaw, Claude Code, ChatGPT, Gemini und GitHub-AI-Repos zuerst.",
+      "keywords": ["hermes", "openclaw", "claude code", "claude", "chatgpt", "gemini", "github", "ai repo", "ai skills"],
+      "maxItems": 8
+    },
+    {
+      "id": "north-local",
+      "title": "Hamburg und Norderstedt",
+      "description": "Lokale Themen aus dem Norden mit hoher Gewichtung fuer Hamburg und Norderstedt.",
+      "keywords": ["hamburg", "norderstedt"],
+      "maxItems": 6
+    },
+    {
+      "id": "science-gadgets",
+      "title": "Wissenschaft und Gadgets",
+      "description": "Neue Studien zu Ernaehrung sowie technische Gadgets und Hardware.",
+      "keywords": ["nutrition", "science", "gadget", "hardware", "device"],
+      "maxItems": 6
+    },
+    {
+      "id": "politics-culture",
+      "title": "Politik und Sci-Fi",
+      "description": "Trump-Politik sowie trendige Serien und Filme mit Sci-Fi-Fokus.",
+      "keywords": ["trump", "politics", "sci-fi", "science fiction", "series", "movie", "film", "serie"],
+      "maxItems": 6
+    }
+  ],
   "locales": {
     "de": {
       "hl": "de",

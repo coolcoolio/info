@@ -57,17 +57,29 @@ h3 { font-size: 1.3rem; margin: 10px 0; }
   gap: 16px;
   align-items: baseline;
 }
+.panel-head.stacked {
+  align-items: start;
+  flex-direction: column;
+}
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 16px;
 }
+.compact-grid .card:nth-child(n+7) { display: none; }
 .compact .card:nth-child(n+9) { display: none; }
 .card {
   border: 1px solid var(--line);
   background: var(--panel);
   padding: 18px;
   min-height: 220px;
+}
+.empty {
+  margin: 0;
+  padding: 18px;
+  border: 1px dashed var(--line);
+  color: var(--muted);
+  background: rgba(255,253,248,0.7);
 }
 .card p { margin: 0; line-height: 1.5; }
 .meta, .score { color: var(--muted); font-size: 0.8rem; }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T15:03:58.943Z",
+  "generatedAt": "2026-05-29T15:44:45.523Z",
   "items": [
     {
       "id": "https://example.com/claude-code-agent",
@@ -14,32 +14,12 @@
         "Claude Code"
       ],
       "blurb": "Anthropic expands Claude Code with autonomous repo navigation and AI skills tooling.",
-      "score": 61,
+      "score": 108,
       "sourceMatchScore": 9,
       "key": "https://example.com/claude-code-agent",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
-    },
-    {
-      "id": "https://example.com/hermes-agent-enterprise",
-      "title": "Hermes Agent gets traction in enterprise automation pilots",
-      "link": "https://example.com/hermes-agent-enterprise",
-      "summary": "Teams are evaluating Hermes Agent against ChatGPT and Gemini for internal workflows.",
-      "publishedAt": "2026-05-28T15:30:00.000Z",
-      "sourceName": "Hermes Agent",
-      "category": "AI Agents",
-      "tags": [
-        "AI",
-        "Hermes Agent"
-      ],
-      "blurb": "Teams are evaluating Hermes Agent against ChatGPT and Gemini for internal workflows.",
-      "score": 53,
-      "sourceMatchScore": 4,
-      "key": "https://example.com/hermes-agent-enterprise",
-      "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
       "id": "https://example.com/scifi-space-opera",
@@ -55,32 +35,32 @@
         "movies"
       ],
       "blurb": "The show is already trending among science fiction fans looking for the next big series.",
-      "score": 49,
+      "score": 87,
       "sourceMatchScore": 12,
       "key": "https://example.com/scifi-space-opera",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
-      "id": "tag:github.blog,2026:ai-skills-code-review",
-      "title": "How AI skills change the way teams review code",
-      "link": "https://github.blog/example/ai-skills-code-review",
-      "summary": "Practical patterns for using AI skills and repo automation in engineering teams.",
-      "publishedAt": "2026-05-27T10:15:00.000Z",
-      "sourceName": "GitHub AI",
-      "category": "AI Repos",
+      "id": "https://example.com/hermes-agent-enterprise",
+      "title": "Hermes Agent gets traction in enterprise automation pilots",
+      "link": "https://example.com/hermes-agent-enterprise",
+      "summary": "Teams are evaluating Hermes Agent against ChatGPT and Gemini for internal workflows.",
+      "publishedAt": "2026-05-28T15:30:00.000Z",
+      "sourceName": "Hermes Agent",
+      "category": "AI Agents",
       "tags": [
-        "GitHub",
-        "AI Repos"
+        "AI",
+        "Hermes Agent"
       ],
-      "blurb": "Practical patterns for using AI skills and repo automation in engineering teams.",
-      "score": 33,
-      "sourceMatchScore": 5,
-      "key": "https://github.blog/example/ai-skills-code-review",
+      "blurb": "Teams are evaluating Hermes Agent against ChatGPT and Gemini for internal workflows.",
+      "score": 86,
+      "sourceMatchScore": 4,
+      "key": "https://example.com/hermes-agent-enterprise",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
       "id": "tag:github.blog,2026:ai-repos-weekly",
@@ -95,12 +75,12 @@
         "AI Repos"
       ],
       "blurb": "GitHub highlights agent frameworks, AI repos and code tooling trends.",
-      "score": 29,
+      "score": 59,
       "sourceMatchScore": 8,
       "key": "https://github.blog/example/ai-repos-weekly",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
       "id": "https://example.com/protein-breakfast-study",
@@ -115,31 +95,32 @@
         "science"
       ],
       "blurb": "A new review summarizes dietary findings on satiety and long-term adherence.",
-      "score": 23,
+      "score": 51,
       "sourceMatchScore": 11,
       "key": "https://example.com/protein-breakfast-study",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
-      "id": "https://example.com/hamburg-shuttle-corridor",
-      "title": "Hamburg expands autonomous shuttle test corridor",
-      "link": "https://example.com/hamburg-shuttle-corridor",
-      "summary": "The Hamburg update combines local transit news with urban tech experimentation.",
-      "publishedAt": "2026-05-29T05:45:00.000Z",
-      "sourceName": "Hamburg",
-      "category": "Local",
+      "id": "tag:github.blog,2026:ai-skills-code-review",
+      "title": "How AI skills change the way teams review code",
+      "link": "https://github.blog/example/ai-skills-code-review",
+      "summary": "Practical patterns for using AI skills and repo automation in engineering teams.",
+      "publishedAt": "2026-05-27T10:15:00.000Z",
+      "sourceName": "GitHub AI",
+      "category": "AI Repos",
       "tags": [
-        "Hamburg"
+        "GitHub",
+        "AI Repos"
       ],
-      "blurb": "The Hamburg update combines local transit news with urban tech experimentation.",
-      "score": 19,
-      "sourceMatchScore": 4,
-      "key": "https://example.com/hamburg-shuttle-corridor",
+      "blurb": "Practical patterns for using AI skills and repo automation in engineering teams.",
+      "score": 50,
+      "sourceMatchScore": 5,
+      "key": "https://github.blog/example/ai-skills-code-review",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
       "id": "https://example.com/trump-policy-debate",
@@ -154,12 +135,12 @@
         "Politics"
       ],
       "blurb": "Fresh remarks from Trump trigger reactions across Congress and state officials.",
-      "score": 15,
+      "score": 44,
       "sourceMatchScore": 11,
       "key": "https://example.com/trump-policy-debate",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     },
     {
       "id": "https://example.com/foldable-eink-gadget",
@@ -174,12 +155,31 @@
         "hardware"
       ],
       "blurb": "Early reviewers say the gadget mixes calm reading with AI note extraction.",
-      "score": 15,
+      "score": 44,
       "sourceMatchScore": 7,
       "key": "https://example.com/foldable-eink-gadget",
       "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:03:58.943Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
+    },
+    {
+      "id": "https://example.com/hamburg-shuttle-corridor",
+      "title": "Hamburg expands autonomous shuttle test corridor",
+      "link": "https://example.com/hamburg-shuttle-corridor",
+      "summary": "The Hamburg update combines local transit news with urban tech experimentation.",
+      "publishedAt": "2026-05-29T05:45:00.000Z",
+      "sourceName": "Hamburg",
+      "category": "Local",
+      "tags": [
+        "Hamburg"
+      ],
+      "blurb": "The Hamburg update combines local transit news with urban tech experimentation.",
+      "score": 43,
+      "sourceMatchScore": 4,
+      "key": "https://example.com/hamburg-shuttle-corridor",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:44:45.523Z",
+      "seenCount": 5
     }
   ]
 }
