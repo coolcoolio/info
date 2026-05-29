@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Google News - AI</title>
+    <item>
+      <title>Claude Code rollout adds new agent workflow for developers</title>
+      <link>https://example.com/claude-code-agent</link>
+      <pubDate>Thu, 29 May 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Anthropic expands Claude Code with autonomous repo navigation and AI skills tooling.]]></description>
+    </item>
+    <item>
+      <title>Hermes Agent gets traction in enterprise automation pilots</title>
+      <link>https://example.com/hermes-agent-enterprise</link>
+      <pubDate>Wed, 28 May 2026 15:30:00 GMT</pubDate>
+      <description><![CDATA[Teams are evaluating Hermes Agent against ChatGPT and Gemini for internal workflows.]]></description>
+    </item>
+    <item>
+      <title>OpenClaw appears in new AI agent benchmark comparison</title>
+      <link>https://example.com/openclaw-benchmark</link>
+      <pubDate>Sat, 24 May 2026 11:00:00 GMT</pubDate>
+      <description><![CDATA[The benchmark also compares Claude, ChatGPT and Gemini coding assistants.]]></description>
+    </item>
+  </channel>
+</rss>

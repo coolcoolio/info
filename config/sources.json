@@ -1,0 +1,110 @@
+[
+  {
+    "id": "google-news-hermes-agent",
+    "title": "Hermes Agent",
+    "category": "AI Agents",
+    "tags": ["AI", "Hermes Agent"],
+    "matchAny": ["hermes agent", "hermes ai"],
+    "url": "https://news.google.com/rss/search?q=%22Hermes+Agent%22+OR+%22Hermes%22+AI&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "google-news-ai.xml"
+  },
+  {
+    "id": "google-news-openclaw",
+    "title": "OpenClaw",
+    "category": "AI Agents",
+    "tags": ["AI", "OpenClaw"],
+    "matchAny": ["openclaw"],
+    "url": "https://news.google.com/rss/search?q=OpenClaw+AI&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "google-news-ai.xml"
+  },
+  {
+    "id": "google-news-claude-code",
+    "title": "Claude and Claude Code",
+    "category": "AI Models",
+    "tags": ["Claude", "Claude Code"],
+    "matchAny": ["claude", "claude code", "anthropic"],
+    "url": "https://news.google.com/rss/search?q=%22Claude+Code%22+OR+Claude+Anthropic&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "google-news-ai.xml"
+  },
+  {
+    "id": "google-news-chatgpt-gemini",
+    "title": "ChatGPT and Gemini",
+    "category": "AI Models",
+    "tags": ["ChatGPT", "Gemini"],
+    "matchAny": ["chatgpt", "gemini", "openai"],
+    "url": "https://news.google.com/rss/search?q=ChatGPT+OR+Gemini+AI&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "google-news-ai.xml"
+  },
+  {
+    "id": "github-blog-ai",
+    "title": "GitHub AI",
+    "category": "AI Repos",
+    "tags": ["GitHub", "AI Repos"],
+    "matchAny": ["github", "repo", "repositories", "skills"],
+    "url": "https://github.blog/tag/ai/feed/",
+    "fixture": "github-ai.xml"
+  },
+  {
+    "id": "google-news-ai-skills",
+    "title": "AI Skills and repos",
+    "category": "AI Skills",
+    "tags": ["AI Skills", "Repos"],
+    "matchAny": ["ai skills", "github", "repository", "repo"],
+    "url": "https://news.google.com/rss/search?q=%22AI+skills%22+OR+%22GitHub+repository%22+AI&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "google-news-ai.xml"
+  },
+  {
+    "id": "google-news-gadgets",
+    "title": "Tech Gadgets",
+    "category": "Gadgets",
+    "tags": ["gadgets", "hardware"],
+    "matchAny": ["gadget", "hardware", "device", "e-ink"],
+    "url": "https://news.google.com/rss/search?q=tech+gadgets&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "gadgets.xml"
+  },
+  {
+    "id": "google-news-nutrition",
+    "title": "Nutrition Science",
+    "category": "Nutrition",
+    "tags": ["nutrition", "science"],
+    "matchAny": ["nutrition", "diet", "study", "science", "protein"],
+    "url": "https://news.google.com/rss/search?q=nutrition+science+study&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "nutrition.xml"
+  },
+  {
+    "id": "google-news-trump",
+    "title": "Trump Politics",
+    "category": "Politics",
+    "tags": ["Trump", "Politics"],
+    "matchAny": ["trump", "campaign", "politics", "policy"],
+    "url": "https://news.google.com/rss/search?q=Trump+politics&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "politics.xml"
+  },
+  {
+    "id": "google-news-hamburg",
+    "title": "Hamburg",
+    "category": "Local",
+    "tags": ["Hamburg"],
+    "matchAny": ["hamburg"],
+    "url": "https://news.google.com/rss/search?q=Hamburg&hl=de&gl=DE&ceid=DE:de",
+    "fixture": "hamburg.xml"
+  },
+  {
+    "id": "google-news-norderstedt",
+    "title": "Norderstedt",
+    "category": "Local",
+    "tags": ["Norderstedt"],
+    "matchAny": ["norderstedt"],
+    "url": "https://news.google.com/rss/search?q=Norderstedt&hl=de&gl=DE&ceid=DE:de",
+    "fixture": "hamburg.xml"
+  },
+  {
+    "id": "google-news-scifi",
+    "title": "Sci-Fi Serien und Filme",
+    "category": "Sci-Fi",
+    "tags": ["Sci-Fi", "series", "movies"],
+    "matchAny": ["sci-fi", "science fiction", "space opera", "series", "movie"],
+    "url": "https://news.google.com/rss/search?q=%22science+fiction%22+series+movies+OR+sci-fi&hl=en-US&gl=US&ceid=US:en",
+    "fixture": "scifi.xml"
+  }
+]

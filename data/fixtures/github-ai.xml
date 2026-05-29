@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blog AI</title>
+  <entry>
+    <title>New GitHub repo signals what AI developers star this week</title>
+    <link rel="alternate" href="https://github.blog/example/ai-repos-weekly" />
+    <updated>2026-05-29T08:45:00Z</updated>
+    <summary>GitHub highlights agent frameworks, AI repos and code tooling trends.</summary>
+    <id>tag:github.blog,2026:ai-repos-weekly</id>
+  </entry>
+  <entry>
+    <title>How AI skills change the way teams review code</title>
+    <link rel="alternate" href="https://github.blog/example/ai-skills-code-review" />
+    <updated>2026-05-27T10:15:00Z</updated>
+    <summary>Practical patterns for using AI skills and repo automation in engineering teams.</summary>
+    <id>tag:github.blog,2026:ai-skills-code-review</id>
+  </entry>
+</feed>

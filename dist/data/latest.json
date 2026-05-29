@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-05-29T15:03:58.943Z",
+  "items": [
+    {
+      "id": "https://example.com/claude-code-agent",
+      "title": "Claude Code rollout adds new agent workflow for developers",
+      "link": "https://example.com/claude-code-agent",
+      "summary": "Anthropic expands Claude Code with autonomous repo navigation and AI skills tooling.",
+      "publishedAt": "2026-05-29T09:00:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "Anthropic expands Claude Code with autonomous repo navigation and AI skills tooling.",
+      "score": 61,
+      "sourceMatchScore": 9,
+      "key": "https://example.com/claude-code-agent",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "https://example.com/hermes-agent-enterprise",
+      "title": "Hermes Agent gets traction in enterprise automation pilots",
+      "link": "https://example.com/hermes-agent-enterprise",
+      "summary": "Teams are evaluating Hermes Agent against ChatGPT and Gemini for internal workflows.",
+      "publishedAt": "2026-05-28T15:30:00.000Z",
+      "sourceName": "Hermes Agent",
+      "category": "AI Agents",
+      "tags": [
+        "AI",
+        "Hermes Agent"
+      ],
+      "blurb": "Teams are evaluating Hermes Agent against ChatGPT and Gemini for internal workflows.",
+      "score": 53,
+      "sourceMatchScore": 4,
+      "key": "https://example.com/hermes-agent-enterprise",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "https://example.com/scifi-space-opera",
+      "title": "New sci-fi series adapts a cult space opera with practical effects",
+      "link": "https://example.com/scifi-space-opera",
+      "summary": "The show is already trending among science fiction fans looking for the next big series.",
+      "publishedAt": "2026-05-28T20:00:00.000Z",
+      "sourceName": "Sci-Fi Serien und Filme",
+      "category": "Sci-Fi",
+      "tags": [
+        "Sci-Fi",
+        "series",
+        "movies"
+      ],
+      "blurb": "The show is already trending among science fiction fans looking for the next big series.",
+      "score": 49,
+      "sourceMatchScore": 12,
+      "key": "https://example.com/scifi-space-opera",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "tag:github.blog,2026:ai-skills-code-review",
+      "title": "How AI skills change the way teams review code",
+      "link": "https://github.blog/example/ai-skills-code-review",
+      "summary": "Practical patterns for using AI skills and repo automation in engineering teams.",
+      "publishedAt": "2026-05-27T10:15:00.000Z",
+      "sourceName": "GitHub AI",
+      "category": "AI Repos",
+      "tags": [
+        "GitHub",
+        "AI Repos"
+      ],
+      "blurb": "Practical patterns for using AI skills and repo automation in engineering teams.",
+      "score": 33,
+      "sourceMatchScore": 5,
+      "key": "https://github.blog/example/ai-skills-code-review",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "tag:github.blog,2026:ai-repos-weekly",
+      "title": "New GitHub repo signals what AI developers star this week",
+      "link": "https://github.blog/example/ai-repos-weekly",
+      "summary": "GitHub highlights agent frameworks, AI repos and code tooling trends.",
+      "publishedAt": "2026-05-29T08:45:00.000Z",
+      "sourceName": "GitHub AI",
+      "category": "AI Repos",
+      "tags": [
+        "GitHub",
+        "AI Repos"
+      ],
+      "blurb": "GitHub highlights agent frameworks, AI repos and code tooling trends.",
+      "score": 29,
+      "sourceMatchScore": 8,
+      "key": "https://github.blog/example/ai-repos-weekly",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "https://example.com/protein-breakfast-study",
+      "title": "Nutrition science review links higher protein breakfasts to improved satiety",
+      "link": "https://example.com/protein-breakfast-study",
+      "summary": "A new review summarizes dietary findings on satiety and long-term adherence.",
+      "publishedAt": "2026-05-27T12:00:00.000Z",
+      "sourceName": "Nutrition Science",
+      "category": "Nutrition",
+      "tags": [
+        "nutrition",
+        "science"
+      ],
+      "blurb": "A new review summarizes dietary findings on satiety and long-term adherence.",
+      "score": 23,
+      "sourceMatchScore": 11,
+      "key": "https://example.com/protein-breakfast-study",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "https://example.com/hamburg-shuttle-corridor",
+      "title": "Hamburg expands autonomous shuttle test corridor",
+      "link": "https://example.com/hamburg-shuttle-corridor",
+      "summary": "The Hamburg update combines local transit news with urban tech experimentation.",
+      "publishedAt": "2026-05-29T05:45:00.000Z",
+      "sourceName": "Hamburg",
+      "category": "Local",
+      "tags": [
+        "Hamburg"
+      ],
+      "blurb": "The Hamburg update combines local transit news with urban tech experimentation.",
+      "score": 19,
+      "sourceMatchScore": 4,
+      "key": "https://example.com/hamburg-shuttle-corridor",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "https://example.com/trump-policy-debate",
+      "title": "Trump campaign comments reshape the week's policy debate",
+      "link": "https://example.com/trump-policy-debate",
+      "summary": "Fresh remarks from Trump trigger reactions across Congress and state officials.",
+      "publishedAt": "2026-05-29T07:25:00.000Z",
+      "sourceName": "Trump Politics",
+      "category": "Politics",
+      "tags": [
+        "Trump",
+        "Politics"
+      ],
+      "blurb": "Fresh remarks from Trump trigger reactions across Congress and state officials.",
+      "score": 15,
+      "sourceMatchScore": 11,
+      "key": "https://example.com/trump-policy-debate",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    },
+    {
+      "id": "https://example.com/foldable-eink-gadget",
+      "title": "Foldable e-ink companion becomes the most talked-about gadget of the week",
+      "link": "https://example.com/foldable-eink-gadget",
+      "summary": "Early reviewers say the gadget mixes calm reading with AI note extraction.",
+      "publishedAt": "2026-05-29T06:10:00.000Z",
+      "sourceName": "Tech Gadgets",
+      "category": "Gadgets",
+      "tags": [
+        "gadgets",
+        "hardware"
+      ],
+      "blurb": "Early reviewers say the gadget mixes calm reading with AI note extraction.",
+      "score": 15,
+      "sourceMatchScore": 7,
+      "key": "https://example.com/foldable-eink-gadget",
+      "firstSeenAt": "2026-05-29T14:55:24.775Z",
+      "lastSeenAt": "2026-05-29T15:03:58.943Z",
+      "seenCount": 3
+    }
+  ]
+}

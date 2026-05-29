@@ -1,0 +1,46 @@
+{
+  "siteName": "Hermes Signal",
+  "siteDescription": "Kuratiertes Nachrichtenradar fuer KI, Wissenschaft, Politik, Norddeutschland und Sci-Fi.",
+  "archiveAfterDays": 4,
+  "dropAfterDays": 45,
+  "maxLiveItems": 36,
+  "maxArchiveItems": 120,
+  "maxStoredItems": 400,
+  "timezone": "Europe/Berlin",
+  "locales": {
+    "de": {
+      "hl": "de",
+      "gl": "DE",
+      "ceid": "DE:de"
+    },
+    "en": {
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en"
+    }
+  },
+  "interestWeights": {
+    "hermes": 16,
+    "openclaw": 14,
+    "claude": 12,
+    "claude code": 16,
+    "chatgpt": 12,
+    "gemini": 12,
+    "openai": 8,
+    "anthropic": 8,
+    "ai skills": 12,
+    "agent": 8,
+    "ai repo": 10,
+    "github": 6,
+    "gadget": 10,
+    "nutrition": 10,
+    "science": 8,
+    "trump": 10,
+    "hamburg": 14,
+    "norderstedt": 16,
+    "sci-fi": 14,
+    "science fiction": 14,
+    "serie": 8,
+    "film": 8
+  }
+}

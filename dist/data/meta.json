@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-05-29T15:03:58.943Z",
+  "archiveAfterDays": 4,
+  "dropAfterDays": 45,
+  "totalStored": 11,
+  "sourceStatuses": [
+    {
+      "title": "Hermes Agent",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "title": "OpenClaw",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "title": "Claude and Claude Code",
+      "ok": true,
+      "count": 2,
+      "error": null
+    },
+    {
+      "title": "ChatGPT and Gemini",
+      "ok": true,
+      "count": 2,
+      "error": null
+    },
+    {
+      "title": "GitHub AI",
+      "ok": true,
+      "count": 2,
+      "error": null
+    },
+    {
+      "title": "AI Skills and repos",
+      "ok": true,
+      "count": 3,
+      "error": null
+    },
+    {
+      "title": "Tech Gadgets",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "title": "Nutrition Science",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "title": "Trump Politics",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "title": "Hamburg",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "title": "Norderstedt",
+      "ok": true,
+      "count": 1,
+      "error": null
+    },
+    {
+      "title": "Sci-Fi Serien und Filme",
+      "ok": true,
+      "count": 1,
+      "error": null
+    }
+  ]
+}

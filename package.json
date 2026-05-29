@@ -1,0 +1,12 @@
+{
+  "name": "hermes-interest-news",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "build:offline": "NEWS_OFFLINE_FIXTURES=1 node scripts/build-site.mjs",
+    "start": "python3 -m http.server 4173 -d dist",
+    "test": "node --test"
+  }
+}
