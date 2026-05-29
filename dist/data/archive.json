@@ -1,44 +1,4 @@
 {
-  "generatedAt": "2026-05-29T15:44:45.523Z",
-  "items": [
-    {
-      "id": "https://example.com/openclaw-benchmark",
-      "title": "OpenClaw appears in new AI agent benchmark comparison",
-      "link": "https://example.com/openclaw-benchmark",
-      "summary": "The benchmark also compares Claude, ChatGPT and Gemini coding assistants.",
-      "publishedAt": "2026-05-24T11:00:00.000Z",
-      "sourceName": "OpenClaw",
-      "category": "AI Agents",
-      "tags": [
-        "AI",
-        "OpenClaw"
-      ],
-      "blurb": "The benchmark also compares Claude, ChatGPT and Gemini coding assistants.",
-      "score": 78,
-      "sourceMatchScore": 3,
-      "key": "https://example.com/openclaw-benchmark",
-      "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:44:45.523Z",
-      "seenCount": 5
-    },
-    {
-      "id": "https://example.com/norderstedt-digital-portal",
-      "title": "Norderstedt tests a new digital citizen service portal",
-      "link": "https://example.com/norderstedt-digital-portal",
-      "summary": "Norderstedt launches a portal update focused on appointments and service requests.",
-      "publishedAt": "2026-05-18T09:10:00.000Z",
-      "sourceName": "Norderstedt",
-      "category": "Local",
-      "tags": [
-        "Norderstedt"
-      ],
-      "blurb": "Norderstedt launches a portal update focused on appointments and service requests.",
-      "score": 39,
-      "sourceMatchScore": 4,
-      "key": "https://example.com/norderstedt-digital-portal",
-      "firstSeenAt": "2026-05-29T14:55:24.775Z",
-      "lastSeenAt": "2026-05-29T15:44:45.523Z",
-      "seenCount": 5
-    }
-  ]
+  "generatedAt": "2026-05-29T18:43:02.892Z",
+  "items": []
 }
