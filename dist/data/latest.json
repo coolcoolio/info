@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T10:17:00.340Z",
+  "generatedAt": "2026-05-30T14:03:53.870Z",
   "items": [
     {
       "id": "CBMixwFBVV95cUxQX2VrWjZzay0yNXBLTmdkbnZBTGR4Q0ZnYzdOd3BwYTBaNXFUdENoMnJqa0hUWDRFTHdmSzFGRGo0TTJWX2hWWFJGTTZ1OWtUMU1rekI2dkI3YW9wRTRPZDlQZXVXajVHbEtZajY4WVM3QWZraVVqZS1lQnNuNE5VNXJ4NGgybWRtdFFzcGRGXzlDUHJXZ09RdUxDSlp2UUZJaVRTSWNvUlNWRWJJU19EQnNHOThaOTc4VER2bzhHNXE5dm1qNy1v",
@@ -18,8 +18,8 @@
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2VrWjZzay0yNXBLTmdkbnZBTGR4Q0ZnYzdOd3BwYTBaNXFUdENoMnJqa0hUWDRFTHdmSzFGRGo0TTJWX2hWWFJGTTZ1OWtUMU1rekI2dkI3YW9wRTRPZDlQZXVXajVHbEtZajY4WVM3QWZraVVqZS1lQnNuNE5VNXJ4NGgybWRtdFFzcGRGXzlDUHJXZ09RdUxDSlp2UUZJaVRTSWNvUlNWRWJJU19EQnNHOThaOTc4VER2bzhHNXE5dm1qNy1v?oc=5",
       "firstSeenAt": "2026-05-30T10:13:25.556Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 3
     },
     {
       "id": "CBMijgFBVV95cUxNdnViME1BaVQzN2lSTXRTcnRwSV9TRGF6OEZMUGRiSjFxREIzaUJIX1ltS0JuMm0wQk12S181SEp3NF91Nm1uVGVLbElUZkRfRlRvTmpZNlN6T0lDTXZUN0dJWm1tMURWSTl3RlE1WGNHbzRpLVpaU1NRM0JPWl9palJfcFh6by1tbE1GMi1R",
@@ -54,7 +54,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlZLNGxUX0ZqMHNKdnhCaWcwUk5VX3ZXU2Z5cGRRYlJfLThCQ1JsTzhtaEM0Qzk3eXdpUmZOLWFESkNOTUMwZGNFY3pqd3A2QjRGcXdOMEpuMUlmZ2k1akFHa20yemxtRUhCNEJxbG9RQnlpUENHeWRLbHhyR2",
-      "score": 92,
+      "score": 90,
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlZLNGxUX0ZqMHNKdnhCaWcwUk5VX3ZXU2Z5cGRRYlJfLThCQ1JsTzhtaEM0Qzk3eXdpUmZOLWFESkNOTUMwZGNFY3pqd3A2QjRGcXdOMEpuMUlmZ2k1akFHa20yemxtRUhCNEJxbG9RQnlpUENHeWRLbHhyR2lsRURoWUlmQmR0NlBVTQ?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
@@ -62,24 +62,24 @@
       "seenCount": 3
     },
     {
-      "id": "CBMigAFBVV95cUxQc1hkRVFtNkJsTGxNcXRNdTRJaS01eDBaeVMzOGdvaGNRYnJodGxIbER3OF9Ca0FCRjkwRkRDNHloR20yZkdDQlcxRmJxQk5oSEludjdUdUZ0LXZucEdWYnpVQzEyalFPdHBwbEtWZVVuRzloYW5mdnJvY3M2OGQzVA",
-      "title": "Anthropic Unveils Dynamic Workflows for Claude Code - ForkLog",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1hkRVFtNkJsTGxNcXRNdTRJaS01eDBaeVMzOGdvaGNRYnJodGxIbER3OF9Ca0FCRjkwRkRDNHloR20yZkdDQlcxRmJxQk5oSEludjdUdUZ0LXZucEdWYnpVQzEyalFPdHBwbEtWZVVuRzloYW5mdnJvY3M2OGQzVA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1hkRVFtNkJsTGxNcXRNdTRJaS01eDBaeVMzOGdvaGNRYnJodGxIbER3OF9Ca0FCRjkwRkRDNHloR20yZkdDQlcxRmJxQk5oSEludjdUdUZ0LXZucEdWYnpVQzEyalFPdHBwbEtWZVVuRzloYW5mdnJvY3M2OGQzVA?oc=5\" target=\"_blank\">Anthropic Unveils Dynamic Workflows for Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ForkLog</font>",
-      "publishedAt": "2026-05-29T09:35:13.000Z",
+      "id": "CBMipAFBVV95cUxPUVVSTFhFSzhvQUNaQXZDWVUwUjFPaU5yZFA0anl2ekpMZllPcVJLMkNiSXhNMmZKMTVYR1pyTzU5aUc2WXM0NjZlekRQTnJhdkZtVG9jcHZzbDR6V25pZHd0MmJBNUs0NXBMOGxJUFhFTm1CcFdIOUtrOHpORzBFQV9yWUhETmZrNkJ5UzhyaG5Yb3BsVUhNbllkaHV5MUsxdlh0YQ",
+      "title": "Anthropic Releases Claude Opus 4.8 with Faster, Honest Reasoning - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVVSTFhFSzhvQUNaQXZDWVUwUjFPaU5yZFA0anl2ekpMZllPcVJLMkNiSXhNMmZKMTVYR1pyTzU5aUc2WXM0NjZlekRQTnJhdkZtVG9jcHZzbDR6V25pZHd0MmJBNUs0NXBMOGxJUFhFTm1CcFdIOUtrOHpORzBFQV9yWUhETmZrNkJ5UzhyaG5Yb3BsVUhNbllkaHV5MUsxdlh0YQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVVSTFhFSzhvQUNaQXZDWVUwUjFPaU5yZFA0anl2ekpMZllPcVJLMkNiSXhNMmZKMTVYR1pyTzU5aUc2WXM0NjZlekRQTnJhdkZtVG9jcHZzbDR6V25pZHd0MmJBNUs0NXBMOGxJUFhFTm1CcFdIOUtrOHpORzBFQV9yWUhETmZrNkJ5UzhyaG5Yb3BsVUhNbllkaHV5MUsxdlh0YQ?oc=5\" target=\"_blank\">Anthropic Releases Claude Opus 4.8 with Faster, Honest Reasoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "publishedAt": "2026-05-30T10:27:00.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1hkRVFtNkJsTGxNcXRNdTRJaS01eDBaeVMzOGdvaGNRYnJodGxIbER3OF9Ca0FCRjkwRkRDNHloR20yZkdDQlcxRmJxQk5oSEludjdUdUZ0LXZucEdWYnpVQzEyalFPdHBwbEtWZVVuRzloYW5mdnJvY3M2OG",
-      "score": 90,
-      "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1hkRVFtNkJsTGxNcXRNdTRJaS01eDBaeVMzOGdvaGNRYnJodGxIbER3OF9Ca0FCRjkwRkRDNHloR20yZkdDQlcxRmJxQk5oSEludjdUdUZ0LXZucEdWYnpVQzEyalFPdHBwbEtWZVVuRzloYW5mdnJvY3M2OGQzVA?oc=5",
-      "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-29T22:04:57.790Z",
-      "seenCount": 2
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVVSTFhFSzhvQUNaQXZDWVUwUjFPaU5yZFA0anl2ekpMZllPcVJLMkNiSXhNMmZKMTVYR1pyTzU5aUc2WXM0NjZlekRQTnJhdkZtVG9jcHZzbDR6V25pZHd0MmJBNUs0NXBMOGxJUFhFTm1CcFdIOUtrOHpORz",
+      "score": 89,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVVSTFhFSzhvQUNaQXZDWVUwUjFPaU5yZFA0anl2ekpMZllPcVJLMkNiSXhNMmZKMTVYR1pyTzU5aUc2WXM0NjZlekRQTnJhdkZtVG9jcHZzbDR6V25pZHd0MmJBNUs0NXBMOGxJUFhFTm1CcFdIOUtrOHpORzBFQV9yWUhETmZrNkJ5UzhyaG5Yb3BsVUhNbllkaHV5MUsxdlh0YQ?oc=5",
+      "firstSeenAt": "2026-05-30T14:03:53.870Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 1
     },
     {
       "id": "CBMiowFBVV95cUxOWEF2c3NvT2F2MEkyVXFlckFDdlYwSkp5dTlmUEN3QnlMRURDeVFTZXlHNWNTNmNfYTRvSmMtS0RCSTlsek5nOXB6cXJSVlZIUW9ub2tCWFd3b3BVSGRVNXk2MUJlVHdxWklnd1JZM2ZUU1dDUEdyNWRPODEtWnJjR2dvaUZUandCQ2VXbFhWOFJEc1JLZkVpcHBvS2F6dVlycEdZ",
@@ -98,8 +98,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEF2c3NvT2F2MEkyVXFlckFDdlYwSkp5dTlmUEN3QnlMRURDeVFTZXlHNWNTNmNfYTRvSmMtS0RCSTlsek5nOXB6cXJSVlZIUW9ub2tCWFd3b3BVSGRVNXk2MUJlVHdxWklnd1JZM2ZUU1dDUEdyNWRPODEtWnJjR2dvaUZUandCQ2VXbFhWOFJEc1JLZkVpcHBvS2F6dVlycEdZ?oc=5",
       "firstSeenAt": "2026-05-30T07:21:43.445Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 4
     },
     {
       "id": "CBMingFBVV95cUxPb0h6RTlkc3ZYdUk0SGJENTI2OUdBcHJZV0xSc3Z0Y2t2dFhHblhCa2pPcUNlalFOQkZYSmVnOV95dnJieVVNbmc0cmtuVjRJdmdMWm90ZTk4WXhrdFZxNlRLaXdndmQwNjJJNFVWdGVtX1Y0VGtYYUZibjFYT0syS0h6UlU5eUphZmRyLXhSdFZqajhsY2xKbnlROHNFZw",
@@ -118,8 +118,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0h6RTlkc3ZYdUk0SGJENTI2OUdBcHJZV0xSc3Z0Y2t2dFhHblhCa2pPcUNlalFOQkZYSmVnOV95dnJieVVNbmc0cmtuVjRJdmdMWm90ZTk4WXhrdFZxNlRLaXdndmQwNjJJNFVWdGVtX1Y0VGtYYUZibjFYT0syS0h6UlU5eUphZmRyLXhSdFZqajhsY2xKbnlROHNFZw?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     },
     {
       "id": "CBMikAFBVV95cUxQeHBKWEFGWHVmOFEwXzRJVlY2M05JMzU1Z1kyU2hEUURwejMyeDVWMWttcXc5RkI4cko1NEpDNzFwd0JvbUtseUJoWXBhZHJuaEpvSmtGczJob2Zoc3BLX2dQdnRFaDFIUGt2WlZNQTFHUmlZYVpvcTAxM2pPZ2JwcEZaWk5uWC13X2MyTXM1TGU",
@@ -138,8 +138,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHBKWEFGWHVmOFEwXzRJVlY2M05JMzU1Z1kyU2hEUURwejMyeDVWMWttcXc5RkI4cko1NEpDNzFwd0JvbUtseUJoWXBhZHJuaEpvSmtGczJob2Zoc3BLX2dQdnRFaDFIUGt2WlZNQTFHUmlZYVpvcTAxM2pPZ2JwcEZaWk5uWC13X2MyTXM1TGU?oc=5",
       "firstSeenAt": "2026-05-30T10:13:25.556Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 3
     },
     {
       "id": "CBMioAFBVV95cUxQYm1MWllFUVZsX2R5LWE0NWRoZHRNRHhmclpTWk1RWEp6WU1KZ3RsWEVLejh2NEdfclR2aU55Yno5XzN1Z0Z1Y0xrVVhNTWdLX1RwNkhnbC1XdEJKcG1kYjZrLWszd2hLOHhJZWd6alZHNHJhVFpnNENBUlZzSlhVUE1rajdsRFU2U3J4bHBLdkp0LUI5cWV1aDlxUGVfSWJE",
@@ -158,8 +158,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYm1MWllFUVZsX2R5LWE0NWRoZHRNRHhmclpTWk1RWEp6WU1KZ3RsWEVLejh2NEdfclR2aU55Yno5XzN1Z0Z1Y0xrVVhNTWdLX1RwNkhnbC1XdEJKcG1kYjZrLWszd2hLOHhJZWd6alZHNHJhVFpnNENBUlZzSlhVUE1rajdsRFU2U3J4bHBLdkp0LUI5cWV1aDlxUGVfSWJE?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     },
     {
       "id": "CBMiekFVX3lxTE1mUDdWckM4cFZYM0RQRklsNkIyOXp3eE9yZFB5Yi1rUGdpS1E3RFpkWHdSY18xbnFMQTVYOUJqSEVoSWZQZG5reGswcGlGZjVkU01LQ0l6QlFtQksyWHl5TTBfaFlIYkhvVmNaMzBSYU0zQ0FsTGVsbzh3",
@@ -179,8 +179,88 @@
       "sourceMatchScore": 9,
       "key": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mUDdWckM4cFZYM0RQRklsNkIyOXp3eE9yZFB5Yi1rUGdpS1E3RFpkWHdSY18xbnFMQTVYOUJqSEVoSWZQZG5reGswcGlGZjVkU01LQ0l6QlFtQksyWHl5TTBfaFlIYkhvVmNaMzBSYU0zQ0FsTGVsbzh3?oc=5",
       "firstSeenAt": "2026-05-29T22:04:57.790Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 5
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 6
+    },
+    {
+      "id": "CBMikgFBVV95cUxQdm1nV1VLazBqczV2VkRPemx5QVY5akViNkVvcS1Fd3JhNjlPbWdJclozdUJwbzN0UnRPejhJbUg4VkFCWlhBbDN5LUNLblFNR044OF9OdkxWdVNaZUtxMHFhbHU1dGNzZ1pLWmprdXVjWEN4SU1XMUNSYmoyeU5KaURCUk1XTUdtZWVmYWs4UVBuQQ",
+      "title": "Google rolls out Gemini Spark background agent - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdm1nV1VLazBqczV2VkRPemx5QVY5akViNkVvcS1Fd3JhNjlPbWdJclozdUJwbzN0UnRPejhJbUg4VkFCWlhBbDN5LUNLblFNR044OF9OdkxWdVNaZUtxMHFhbHU1dGNzZ1pLWmprdXVjWEN4SU1XMUNSYmoyeU5KaURCUk1XTUdtZWVmYWs4UVBuQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdm1nV1VLazBqczV2VkRPemx5QVY5akViNkVvcS1Fd3JhNjlPbWdJclozdUJwbzN0UnRPejhJbUg4VkFCWlhBbDN5LUNLblFNR044OF9OdkxWdVNaZUtxMHFhbHU1dGNzZ1pLWmprdXVjWEN4SU1XMUNSYmoyeU5KaURCUk1XTUdtZWVmYWs4UVBuQQ?oc=5\" target=\"_blank\">Google rolls out Gemini Spark background agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "publishedAt": "2026-05-30T09:12:54.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdm1nV1VLazBqczV2VkRPemx5QVY5akViNkVvcS1Fd3JhNjlPbWdJclozdUJwbzN0UnRPejhJbUg4VkFCWlhBbDN5LUNLblFNR044OF9OdkxWdVNaZUtxMHFhbHU1dGNzZ1pLWmprdXVjWEN4SU1XMUNSYmoyeU",
+      "score": 77,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdm1nV1VLazBqczV2VkRPemx5QVY5akViNkVvcS1Fd3JhNjlPbWdJclozdUJwbzN0UnRPejhJbUg4VkFCWlhBbDN5LUNLblFNR044OF9OdkxWdVNaZUtxMHFhbHU1dGNzZ1pLWmprdXVjWEN4SU1XMUNSYmoyeU5KaURCUk1XTUdtZWVmYWs4UVBuQQ?oc=5",
+      "firstSeenAt": "2026-05-30T14:03:53.870Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMirgFBVV95cUxPN25aUkNkdnN6NEV3TkR3WV9mQlpzZWttSDIyNkIwWFJMRjNMdjQ3dnhZNzJIVkl5NTRHakVQUThRTXE4Xzc3dG5zclNqUURRa0N1UExpOVhNRHFKWTNWSVF1d0E2eDIzWXRKVjFzTDA1ZGxFZHNzYUJxQkZCbktqRFZacUpJY3NQQVVhd2FUTlNLR0dFdDV2aTZFcnRUcWVtU0xUTW9HV2Z3MktHa3c",
+      "title": "Anthropic’s $65B Raise: Can Claude’s Enterprise Surge Justify a $965B Valuation? - The Futurum Group",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN25aUkNkdnN6NEV3TkR3WV9mQlpzZWttSDIyNkIwWFJMRjNMdjQ3dnhZNzJIVkl5NTRHakVQUThRTXE4Xzc3dG5zclNqUURRa0N1UExpOVhNRHFKWTNWSVF1d0E2eDIzWXRKVjFzTDA1ZGxFZHNzYUJxQkZCbktqRFZacUpJY3NQQVVhd2FUTlNLR0dFdDV2aTZFcnRUcWVtU0xUTW9HV2Z3MktHa3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPN25aUkNkdnN6NEV3TkR3WV9mQlpzZWttSDIyNkIwWFJMRjNMdjQ3dnhZNzJIVkl5NTRHakVQUThRTXE4Xzc3dG5zclNqUURRa0N1UExpOVhNRHFKWTNWSVF1d0E2eDIzWXRKVjFzTDA1ZGxFZHNzYUJxQkZCbktqRFZacUpJY3NQQVVhd2FUTlNLR0dFdDV2aTZFcnRUcWVtU0xUTW9HV2Z3MktHa3c?oc=5\" target=\"_blank\">Anthropic’s $65B Raise: Can Claude’s Enterprise Surge Justify a $965B Valuation?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Futurum Group</font>",
+      "publishedAt": "2026-05-30T13:46:02.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPN25aUkNkdnN6NEV3TkR3WV9mQlpzZWttSDIyNkIwWFJMRjNMdjQ3dnhZNzJIVkl5NTRHakVQUThRTXE4Xzc3dG5zclNqUURRa0N1UExpOVhNRHFKWTNWSVF1d0E2eDIzWXRKVjFzTDA1ZGxFZHNzYUJxQkZCbk",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN25aUkNkdnN6NEV3TkR3WV9mQlpzZWttSDIyNkIwWFJMRjNMdjQ3dnhZNzJIVkl5NTRHakVQUThRTXE4Xzc3dG5zclNqUURRa0N1UExpOVhNRHFKWTNWSVF1d0E2eDIzWXRKVjFzTDA1ZGxFZHNzYUJxQkZCbktqRFZacUpJY3NQQVVhd2FUTlNLR0dFdDV2aTZFcnRUcWVtU0xUTW9HV2Z3MktHa3c?oc=5",
+      "firstSeenAt": "2026-05-30T14:03:53.870Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiowFBVV95cUxPS2VCS3B2NWFIN0trS0xET2pYWlpOZnNpMjU3enM1MW5BVG5ES1lTNE04ZXRYRGJwRU5QSXhPck1SanhSX2w3SVA5YVBVTkdxdkNoNkE4NGJVUGhjc1JidE56TXp4WnZBRnVPSUZDNFdRYWRIblpDTGVqSjJ5TVh2ZFJmbUFDOWdEdnpYSURiRFhaSjhudVNyeThleG1GRXNmNjh3",
+      "title": "Anthropic’s Claude Says ServiceNow (NOW) Among The Best AI Stocks to Buy - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2VCS3B2NWFIN0trS0xET2pYWlpOZnNpMjU3enM1MW5BVG5ES1lTNE04ZXRYRGJwRU5QSXhPck1SanhSX2w3SVA5YVBVTkdxdkNoNkE4NGJVUGhjc1JidE56TXp4WnZBRnVPSUZDNFdRYWRIblpDTGVqSjJ5TVh2ZFJmbUFDOWdEdnpYSURiRFhaSjhudVNyeThleG1GRXNmNjh3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2VCS3B2NWFIN0trS0xET2pYWlpOZnNpMjU3enM1MW5BVG5ES1lTNE04ZXRYRGJwRU5QSXhPck1SanhSX2w3SVA5YVBVTkdxdkNoNkE4NGJVUGhjc1JidE56TXp4WnZBRnVPSUZDNFdRYWRIblpDTGVqSjJ5TVh2ZFJmbUFDOWdEdnpYSURiRFhaSjhudVNyeThleG1GRXNmNjh3?oc=5\" target=\"_blank\">Anthropic’s Claude Says ServiceNow (NOW) Among The Best AI Stocks to Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "publishedAt": "2026-05-30T13:04:50.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2VCS3B2NWFIN0trS0xET2pYWlpOZnNpMjU3enM1MW5BVG5ES1lTNE04ZXRYRGJwRU5QSXhPck1SanhSX2w3SVA5YVBVTkdxdkNoNkE4NGJVUGhjc1JidE56TXp4WnZBRnVPSUZDNFdRYWRIblpDTGVqSjJ5TV",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2VCS3B2NWFIN0trS0xET2pYWlpOZnNpMjU3enM1MW5BVG5ES1lTNE04ZXRYRGJwRU5QSXhPck1SanhSX2w3SVA5YVBVTkdxdkNoNkE4NGJVUGhjc1JidE56TXp4WnZBRnVPSUZDNFdRYWRIblpDTGVqSjJ5TVh2ZFJmbUFDOWdEdnpYSURiRFhaSjhudVNyeThleG1GRXNmNjh3?oc=5",
+      "firstSeenAt": "2026-05-30T14:03:53.870Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMickFVX3lxTFBVQThsdlNhc2w2NFNrUTBiR0syY2c3Z3JYeFRCc0V2UDhrZUdEYU94T0wzYXVIMzhIUzdfdl80a05zbjRCN0wzTUxaTWRZcDczS2NFZ0NGV01hV01IbjZtT3pEUmZtME1DU1pzZmJscERqUQ",
+      "title": "Anthropic launches Claude Opus 4.8 - varindia.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVQThsdlNhc2w2NFNrUTBiR0syY2c3Z3JYeFRCc0V2UDhrZUdEYU94T0wzYXVIMzhIUzdfdl80a05zbjRCN0wzTUxaTWRZcDczS2NFZ0NGV01hV01IbjZtT3pEUmZtME1DU1pzZmJscERqUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBVQThsdlNhc2w2NFNrUTBiR0syY2c3Z3JYeFRCc0V2UDhrZUdEYU94T0wzYXVIMzhIUzdfdl80a05zbjRCN0wzTUxaTWRZcDczS2NFZ0NGV01hV01IbjZtT3pEUmZtME1DU1pzZmJscERqUQ?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 4.8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">varindia.com</font>",
+      "publishedAt": "2026-05-30T11:52:06.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBVQThsdlNhc2w2NFNrUTBiR0syY2c3Z3JYeFRCc0V2UDhrZUdEYU94T0wzYXVIMzhIUzdfdl80a05zbjRCN0wzTUxaTWRZcDczS2NFZ0NGV01hV01IbjZtT3pEUmZtME1DU1pzZmJscERqUQ?oc=5\" target=\"_",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVQThsdlNhc2w2NFNrUTBiR0syY2c3Z3JYeFRCc0V2UDhrZUdEYU94T0wzYXVIMzhIUzdfdl80a05zbjRCN0wzTUxaTWRZcDczS2NFZ0NGV01hV01IbjZtT3pEUmZtME1DU1pzZmJscERqUQ?oc=5",
+      "firstSeenAt": "2026-05-30T14:03:53.870Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 1
     },
     {
       "id": "CBMiakFVX3lxTFBlUlZIc1JVWWRnYTdLcFhYRkkyNTBoQVNiYlBHUThWUW1xVlYzcnJxcjF4RWVjdVh1cmZhRExHYUpBOTU5S25pNkZRSVNXTjFBajZSRUhNUDR1MUR1SHFzRHlFQlJQRkRneFE",
@@ -199,8 +279,28 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlUlZIc1JVWWRnYTdLcFhYRkkyNTBoQVNiYlBHUThWUW1xVlYzcnJxcjF4RWVjdVh1cmZhRExHYUpBOTU5S25pNkZRSVNXTjFBajZSRUhNUDR1MUR1SHFzRHlFQlJQRkRneFE?oc=5",
       "firstSeenAt": "2026-05-30T10:13:25.556Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 3
+    },
+    {
+      "id": "CBMi0wFBVV95cUxOSFlVQURRV0RPVnZldEVFSVhrZWN3R2R5X193VlJuS2xKNVA0d2tDbkpQSGFBOFlETzlSblpBREJvTEtEODZFWldDQXpvd1o4Si1DZTdDeVd5UExBdnBLcmc2MTl4UUFXWXkyLVRiMnpsUGFDdGZxU0t0SDFZQVZfY1ZobGtFNXNRMzNCX3V2NzBjZ3hfTXdTTEVHbWFVSGVvZ00tdmMyMkpOcWt2dUU4d0xsMFE1dlF6emQtSFc5WW85TG1ZMGRLU3NBUzVkVTBVNjZz",
+      "title": "Anthropic unveils Claude Opus 4.8 as valuation nears $1T - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFlVQURRV0RPVnZldEVFSVhrZWN3R2R5X193VlJuS2xKNVA0d2tDbkpQSGFBOFlETzlSblpBREJvTEtEODZFWldDQXpvd1o4Si1DZTdDeVd5UExBdnBLcmc2MTl4UUFXWXkyLVRiMnpsUGFDdGZxU0t0SDFZQVZfY1ZobGtFNXNRMzNCX3V2NzBjZ3hfTXdTTEVHbWFVSGVvZ00tdmMyMkpOcWt2dUU4d0xsMFE1dlF6emQtSFc5WW85TG1ZMGRLU3NBUzVkVTBVNjZz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFlVQURRV0RPVnZldEVFSVhrZWN3R2R5X193VlJuS2xKNVA0d2tDbkpQSGFBOFlETzlSblpBREJvTEtEODZFWldDQXpvd1o4Si1DZTdDeVd5UExBdnBLcmc2MTl4UUFXWXkyLVRiMnpsUGFDdGZxU0t0SDFZQVZfY1ZobGtFNXNRMzNCX3V2NzBjZ3hfTXdTTEVHbWFVSGVvZ00tdmMyMkpOcWt2dUU4d0xsMFE1dlF6emQtSFc5WW85TG1ZMGRLU3NBUzVkVTBVNjZz?oc=5\" target=\"_blank\">Anthropic unveils Claude Opus 4.8 as valuation nears $1T</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "publishedAt": "2026-05-30T07:48:14.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFlVQURRV0RPVnZldEVFSVhrZWN3R2R5X193VlJuS2xKNVA0d2tDbkpQSGFBOFlETzlSblpBREJvTEtEODZFWldDQXpvd1o4Si1DZTdDeVd5UExBdnBLcmc2MTl4UUFXWXkyLVRiMnpsUGFDdGZxU0t0SDFZQV",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFlVQURRV0RPVnZldEVFSVhrZWN3R2R5X193VlJuS2xKNVA0d2tDbkpQSGFBOFlETzlSblpBREJvTEtEODZFWldDQXpvd1o4Si1DZTdDeVd5UExBdnBLcmc2MTl4UUFXWXkyLVRiMnpsUGFDdGZxU0t0SDFZQVZfY1ZobGtFNXNRMzNCX3V2NzBjZ3hfTXdTTEVHbWFVSGVvZ00tdmMyMkpOcWt2dUU4d0xsMFE1dlF6emQtSFc5WW85TG1ZMGRLU3NBUzVkVTBVNjZz?oc=5",
+      "firstSeenAt": "2026-05-30T14:03:53.870Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 1
     },
     {
       "id": "CBMixAJBVV95cUxNdUtJWGVwcFhVcHR6Q00zcEFUMVNacFJST1ctSDNQMXBkSXYxRlU3NzhtMTZIYnhlM1d2eHY0V0tpbVRFa1FJVDY0c2ZSRzNOakVqUDZ5R1FmQ2xtNUlCTmowMVhwbkdreTVVMnBPZ0tFZXBHb1FvbmlHQUlHTURmSTdrSkpJOU5HdVlMUzhidTJNX1RDS2VqaHkteWI4dlAyQ09VaHlpU05KU1pidHRPNWhRWk0tSFpjYzJ5RXRGNXdRM0h6M2pISnhIdXN4am90STFzVVdpdHQ1RGFnOHVkemRTSVk2dnAyZ1RvMEljQVU0YXVSV1MyVmt3QWNlRkZ6R0cwc19wVzN2LWNKdmJMRGJ0b1JuRmZCa2g0U2J0ZkJmOEQ1LVRueTBpa005eXlDdlFlcHgxMklSYkZNNDZlRU1wWmc",
@@ -239,28 +339,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEUzX00zLTM0QVM1LUs5cWNIRFRmOG5uUUFqWkFaQmF4R0I5bzNMSHJYZ0hTSzdmRUNFU2dTclVfbHZnZHhKWWM0bkwzbTh4QTNFY2hqY1BLTklHMU9WNVVKSFNHSGFaWDZEZE1qQnBLQlpURlRtYTcxamdUaENWOU9wLXdKbE5ULVFteFJJZF9XTkFETF9oTlJHcGZUVE9ESHdqS2F1MjFoUG9ucW8yZjJJdWtqVUNHSllTb2JkamRWTzlvMmJF?oc=5",
       "firstSeenAt": "2026-05-30T04:16:48.781Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 4
-    },
-    {
-      "id": "CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk",
-      "title": "Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model - KED Global",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5\" target=\"_blank\">Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
-      "publishedAt": "2026-05-29T22:50:47.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbV",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5",
-      "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 5
     },
     {
       "id": "CBMimwFBVV95cUxOR3c3ek5Ob25KbTY3YUE5V0w3eHpRLUNsU3dnZHN2OXg1QUdVNDMtNEVWNWFTQ3ZwQm9lNXFxNlNyeHZwMXUwMnJrQm9Nekl5MVJPTF9seTZzZ00taHRGWTRmWjBXUXpaTDlmZXpXTHpLWTJXRlhLdGVyQ3hQSUZMNkYzTmh6SWhYWGZORHBPN2s4YmFjWjg5clo4VdIBmwFBVV95cUxNNVFVRVVfTzIyb1VmSG51amg1dlNQeENfem9RckEtd0RseTh1djhJX2JuY1dGVFFCX3k4MmcyaTFWVEhHTzZ6MTJQekFkSExlblRZT3R1aGlXOFJaQmVyZ1ZnN3lfTFY2ZDJNUkJoT0psYzVIZmljNzREZnJjWnk0TElVc2Zzd3JUdVp5cXhCMTY0WmhxS09VdENTYw",
@@ -279,8 +359,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3c3ek5Ob25KbTY3YUE5V0w3eHpRLUNsU3dnZHN2OXg1QUdVNDMtNEVWNWFTQ3ZwQm9lNXFxNlNyeHZwMXUwMnJrQm9Nekl5MVJPTF9seTZzZ00taHRGWTRmWjBXUXpaTDlmZXpXTHpLWTJXRlhLdGVyQ3hQSUZMNkYzTmh6SWhYWGZORHBPN2s4YmFjWjg5clo4VdIBmwFBVV95cUxNNVFVRVVfTzIyb1VmSG51amg1dlNQeENfem9RckEtd0RseTh1djhJX2JuY1dGVFFCX3k4MmcyaTFWVEhHTzZ6MTJQekFkSExlblRZT3R1aGlXOFJaQmVyZ1ZnN3lfTFY2ZDJNUkJoT0psYzVIZmljNzREZnJjWnk0TElVc2Zzd3JUdVp5cXhCMTY0WmhxS09VdENTYw?oc=5",
       "firstSeenAt": "2026-05-30T10:13:25.556Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 3
     },
     {
       "id": "CBMikAFBVV95cUxOeGp1VEt6bTBBU1pTZzdsZU52a2g0X2RTaTZmR0lKOUpSOU9ZbE91XzZJcTZ4LWJ2NTdBYjVKX0xKblBFSDZOeVU3c01xUmJqT3FEOW5zeTZvSXlfUmxIbUFoWktCcDlXWXVFWmotX2hkUDQtUkI4T2J5cEFRT3dyMGpPVDZ4V01lYl8yWkx2Y0Y",
@@ -299,8 +379,28 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGp1VEt6bTBBU1pTZzdsZU52a2g0X2RTaTZmR0lKOUpSOU9ZbE91XzZJcTZ4LWJ2NTdBYjVKX0xKblBFSDZOeVU3c01xUmJqT3FEOW5zeTZvSXlfUmxIbUFoWktCcDlXWXVFWmotX2hkUDQtUkI4T2J5cEFRT3dyMGpPVDZ4V01lYl8yWkx2Y0Y?oc=5",
       "firstSeenAt": "2026-05-29T22:04:57.790Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 5
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 6
+    },
+    {
+      "id": "CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk",
+      "title": "Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model - KED Global",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5\" target=\"_blank\">Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+      "publishedAt": "2026-05-29T22:50:47.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbV",
+      "score": 74,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5",
+      "firstSeenAt": "2026-05-29T18:43:02.892Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     },
     {
       "id": "CBMivwFBVV95cUxOWjJlMlFNMWtodlJ5NUQ3T01tQzVCOXl4OGJaaXNFSDM5T2hFTFFPazl2Z1VqaHRxM2VQR1VQOF96WUVQT1hlcWVIaEhROXloeFpOMmZiTVdZRTZmNHB5ajJSTy0weWhGYXA5b0RVMF9STG4wWjhFU3BLbHRDSHM0N2t6Q0F3QTVTSkdWUVBMTUtjUG5jakFySVFKczZYTk9PaXVlRWFSSGlFa1lyalVTMWpoZWYxMG9xQ3lHdTBXMA",
@@ -359,8 +459,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVWtpZnRrcEsxTlpqeklPZmxSNUlZdHJOMzhqV0JHUFJUdXYwazd4ek4tUVNSRi1ZSUp5d3lIekdZUDFZcVBVYWVhOEN0dmRXT0VQYTMtWVJMMTZFU0NyU0JOYTdwdkdGaUxCV2x1Yw?oc=5",
       "firstSeenAt": "2026-05-30T07:21:43.445Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 4
     },
     {
       "id": "CBMiiAFBVV95cUxOelN2SU0zNTUzcVlFLWx3WmRwRzkzQlZhcDJQV0pEd1FQaFgwTWlKWEdVb0dsUTdoV3RSV3EyX3VhcWJodDZhZ1ptUzd6aDFhVlJNWW9KOXo1SmRrNWdnYmpNNTVqaHZ5dGVZWXNWWmVNalNHczRQSWJ0X1pYSmdSQ05KQ3JHNXly",
@@ -419,8 +519,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0ItdDRhdG9HZ0tDelJ3YUtRN2I5Z0tSRlVza3A0VW5yMDJ1U2xRMUlYODFHUjIwcUp0ODhnaDZ2c2VuN0F1SnBwdW1OdEpkVDJaR2xwN3dqWkdwaHNiZVBrTTVBRUNhTXZtVUZqMmZnN21zaUpmb0dlcXRsbFRSZVAtNEktb1RYWldvaTgwdktLRFJRTWl1bGhoanhuSFlybUVSZkhKUzJ6Y2c?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     },
     {
       "id": "CBMi1AJBVV95cUxPV3dfN1l4RzdkeDNqY2tyUDEzeHNqU21RR29OSTBFSXhoc0JQY1JlNlFKQ2lRSVJHcjhfSXZ3TE9VVjJDQ0FuN245R0pxWlQxT1J3V2FkMUVGSTNiOVIwM1Z1QllmekhhdzB3SG5rQklMcUszRlBvWElyRE5JSVBWVzZCaDlmQTZaRW1GRjZ5Ukp6VGpFM2xSOVVZdjczR3FqYmV1T2pHWWFDa3NyTHI2UUVRY2dYNGNjLWxZWFlsbVgwS1dsVGJlQ1VSV2lrVVpUVDFqeGtNeV9FY0ZGQU1RYjlOX1RranB3c21XeEJjS0FxZmUwRjZuclNPM3VHelp2WXZBTTItdG03c3RNdEdieDdmeGs1b0hHZnNVcjdOWWJXTHdYOE9zTkMxbW9RaVMzVjhOejM4RXhYZ3RsRW8xVjk5VVVEdzRrLUotQ1JtQ3pJZmNK0gHaAkFVX3lxTE9HcEhoak8yOFlLRWxkRk5HdFVmcmRYZkx2N3ZkeXNEQnlrZHBNZ0E0NzhZMVdKS2NPVUZ2X0lNU05XSXVrQVpWOUdBWGZxRkx4eHYzSl9jSDhORElUYng0ODdxakJ6UkFqU2hLZHg4RmNvMzZmMUxYenlnTkg2YjNIR3VEanFyY1B3dHBPZ09RUnNvdGZGenBIWGJYcFNucHlBU1lqUGhWQmpNSnd5eHI0Q1dCSnkxcUpSWHJSTndhRkF1eDFlTWtWbUZjdUtBdldfWlVIX19XTFE0SEs2N0FzMi04WVJfbUlsM3dCWXAzX3dzdDB1V3dQdmQtMXQ3ZWdWZWpOelBmcTJnQm4xZjNxcE9ldTdMel9hRHIzVnNmeC01a1EzbXBMNDNTT1Y1WmNVOWhMVy1nOWFvbnNQZ2Q4RDJKdmkzTVl4NW1rZnFPaGhtVEE4V01rSEE",
@@ -443,126 +543,6 @@
       "seenCount": 4
     },
     {
-      "id": "CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA",
-      "title": "Elon Musk praises Anthropic's Claude Opus 4.8: What makes the AI model stand out? - WION",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA?oc=5\" target=\"_blank\">Elon Musk praises Anthropic's Claude Opus 4.8: What makes the AI model stand out?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WION</font>",
-      "publishedAt": "2026-05-29T13:28:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA?oc=5",
-      "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-29T18:43:02.892Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR",
-      "title": "Anthropic Customer Accidentally Spends $500M on Claude in One Month - incrypted",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR?oc=5\" target=\"_blank\">Anthropic Customer Accidentally Spends $500M on Claude in One Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">incrypted</font>",
-      "publishedAt": "2026-05-29T13:21:55.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR?oc=5",
-      "firstSeenAt": "2026-05-29T22:04:57.790Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE",
-      "title": "Anthropic Releases Claude Opus 4.8 With Dynamic Workflows, Just 41 Days After Opus 4.7 - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE?oc=5\" target=\"_blank\">Anthropic Releases Claude Opus 4.8 With Dynamic Workflows, Just 41 Days After Opus 4.7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Org</font>",
-      "publishedAt": "2026-05-29T12:06:21.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfen",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE?oc=5",
-      "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
-    },
-    {
-      "id": "CBMikwFBVV95cUxNMkNybmJkWXhJX2FCQVpwVjdmRGduY2ZCeEsyWFpCMXRvQWhhZUZmSnl0bnhPTkVJY1pSQ2w3UTR5S0J4cGZXN2VGcHJscy1URm9zMzdlbEltd3NrWWRFcEFSSXFWOFZkSXVfRm1uZ1V4OVloaUZNMFdzY1kwNFZ2dk1nNThXZHpqeWZPeEtSVm1qZHM",
-      "title": "Anthropic releases Claude Opus 4.8 - AI News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNybmJkWXhJX2FCQVpwVjdmRGduY2ZCeEsyWFpCMXRvQWhhZUZmSnl0bnhPTkVJY1pSQ2w3UTR5S0J4cGZXN2VGcHJscy1URm9zMzdlbEltd3NrWWRFcEFSSXFWOFZkSXVfRm1uZ1V4OVloaUZNMFdzY1kwNFZ2dk1nNThXZHpqeWZPeEtSVm1qZHM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNybmJkWXhJX2FCQVpwVjdmRGduY2ZCeEsyWFpCMXRvQWhhZUZmSnl0bnhPTkVJY1pSQ2w3UTR5S0J4cGZXN2VGcHJscy1URm9zMzdlbEltd3NrWWRFcEFSSXFWOFZkSXVfRm1uZ1V4OVloaUZNMFdzY1kwNFZ2dk1nNThXZHpqeWZPeEtSVm1qZHM?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 4.8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-      "publishedAt": "2026-05-29T10:52:03.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNybmJkWXhJX2FCQVpwVjdmRGduY2ZCeEsyWFpCMXRvQWhhZUZmSnl0bnhPTkVJY1pSQ2w3UTR5S0J4cGZXN2VGcHJscy1URm9zMzdlbEltd3NrWWRFcEFSSXFWOFZkSXVfRm1uZ1V4OVloaUZNMFdzY1kwNF",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNybmJkWXhJX2FCQVpwVjdmRGduY2ZCeEsyWFpCMXRvQWhhZUZmSnl0bnhPTkVJY1pSQ2w3UTR5S0J4cGZXN2VGcHJscy1URm9zMzdlbEltd3NrWWRFcEFSSXFWOFZkSXVfRm1uZ1V4OVloaUZNMFdzY1kwNFZ2dk1nNThXZHpqeWZPeEtSVm1qZHM?oc=5",
-      "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMitAFBVV95cUxQTlRYd1VIbl9fQ0V2MmhqZEg4X0U3alkycGMtakVadkJBcmFNaWxtc3Zwc2xPbERMV2FXNTZjVncyd2JydWoyQ0NFTC02X3BLM21yeVgzMjRVdGNvSmtLRHBJWldFc2Zwd292T09VQVFpX1dRR19FLXRBTUV6Qzh4bG5yNF9qRXNZVENFd1pwUWU2WEVaeGdJUDE4OHZsZTRtdnF4VWtKeFowWl9jTWNVMDRCbnY",
-      "title": "Claude maker Anthropic valued at nearly $1tn after record AI funding round - The European Magazine",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRYd1VIbl9fQ0V2MmhqZEg4X0U3alkycGMtakVadkJBcmFNaWxtc3Zwc2xPbERMV2FXNTZjVncyd2JydWoyQ0NFTC02X3BLM21yeVgzMjRVdGNvSmtLRHBJWldFc2Zwd292T09VQVFpX1dRR19FLXRBTUV6Qzh4bG5yNF9qRXNZVENFd1pwUWU2WEVaeGdJUDE4OHZsZTRtdnF4VWtKeFowWl9jTWNVMDRCbnY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRYd1VIbl9fQ0V2MmhqZEg4X0U3alkycGMtakVadkJBcmFNaWxtc3Zwc2xPbERMV2FXNTZjVncyd2JydWoyQ0NFTC02X3BLM21yeVgzMjRVdGNvSmtLRHBJWldFc2Zwd292T09VQVFpX1dRR19FLXRBTUV6Qzh4bG5yNF9qRXNZVENFd1pwUWU2WEVaeGdJUDE4OHZsZTRtdnF4VWtKeFowWl9jTWNVMDRCbnY?oc=5\" target=\"_blank\">Claude maker Anthropic valued at nearly $1tn after record AI funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The European Magazine</font>",
-      "publishedAt": "2026-05-29T10:32:30.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRYd1VIbl9fQ0V2MmhqZEg4X0U3alkycGMtakVadkJBcmFNaWxtc3Zwc2xPbERMV2FXNTZjVncyd2JydWoyQ0NFTC02X3BLM21yeVgzMjRVdGNvSmtLRHBJWldFc2Zwd292T09VQVFpX1dRR19FLXRBTUV6Qz",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRYd1VIbl9fQ0V2MmhqZEg4X0U3alkycGMtakVadkJBcmFNaWxtc3Zwc2xPbERMV2FXNTZjVncyd2JydWoyQ0NFTC02X3BLM21yeVgzMjRVdGNvSmtLRHBJWldFc2Zwd292T09VQVFpX1dRR19FLXRBTUV6Qzh4bG5yNF9qRXNZVENFd1pwUWU2WEVaeGdJUDE4OHZsZTRtdnF4VWtKeFowWl9jTWNVMDRCbnY?oc=5",
-      "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T07:21:43.445Z",
-      "seenCount": 4
-    },
-    {
-      "id": "CBMilAFBVV95cUxQS0ZVaFpxYlhRSXpZRzgzbHZDX0F6U29odWw1dnBhZVlkanh0S3VibUlKQmhJQm5UWEY2VUE1LU4xMlpYT0l2dDlPUWQtQU9tUlloQTRieGN2TnRYMXVRNnFVT01NcHMxaXhjSTctUFdMSkNMS1B2U0lvYjJwMlpydVpYVE9hUTZkSHlPZy13Z3MzTHNZ",
-      "title": "Anthropic launches Claude Opus 4.8 and new effort selector - TestingCatalog AI News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0ZVaFpxYlhRSXpZRzgzbHZDX0F6U29odWw1dnBhZVlkanh0S3VibUlKQmhJQm5UWEY2VUE1LU4xMlpYT0l2dDlPUWQtQU9tUlloQTRieGN2TnRYMXVRNnFVT01NcHMxaXhjSTctUFdMSkNMS1B2U0lvYjJwMlpydVpYVE9hUTZkSHlPZy13Z3MzTHNZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0ZVaFpxYlhRSXpZRzgzbHZDX0F6U29odWw1dnBhZVlkanh0S3VibUlKQmhJQm5UWEY2VUE1LU4xMlpYT0l2dDlPUWQtQU9tUlloQTRieGN2TnRYMXVRNnFVT01NcHMxaXhjSTctUFdMSkNMS1B2U0lvYjJwMlpydVpYVE9hUTZkSHlPZy13Z3MzTHNZ?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 4.8 and new effort selector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TestingCatalog AI News</font>",
-      "publishedAt": "2026-05-29T10:27:14.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0ZVaFpxYlhRSXpZRzgzbHZDX0F6U29odWw1dnBhZVlkanh0S3VibUlKQmhJQm5UWEY2VUE1LU4xMlpYT0l2dDlPUWQtQU9tUlloQTRieGN2TnRYMXVRNnFVT01NcHMxaXhjSTctUFdMSkNMS1B2U0lvYjJwMl",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0ZVaFpxYlhRSXpZRzgzbHZDX0F6U29odWw1dnBhZVlkanh0S3VibUlKQmhJQm5UWEY2VUE1LU4xMlpYT0l2dDlPUWQtQU9tUlloQTRieGN2TnRYMXVRNnFVT01NcHMxaXhjSTctUFdMSkNMS1B2U0lvYjJwMlpydVpYVE9hUTZkSHlPZy13Z3MzTHNZ?oc=5",
-      "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T04:16:48.781Z",
-      "seenCount": 3
-    },
-    {
       "id": "CBMisgFBVV95cUxQMC1FeXhHR0kyOXBiVVMtazFFX2dVMWh3Y0pGS0REWWhYQldmVEtVN0pRVGZBMEh3a29oUWJhRS1VSkdmS0NOU0VKSHdzZnZ1UWQxbENxTDdDakR5UnVEeVp1MGgwc3paTXoyUkJpRFhvU3kzckozaUlQV0doenBiRGRJenNlN2trX0NyOUEwMTBsV2ZmTFlKamFnYnRiYmRzakJRdkdQN082VF9kTlJzQVZR",
       "title": "Anthropic just topped OpenAI on a major metric ahead of rival IPOs - Fast Company",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMC1FeXhHR0kyOXBiVVMtazFFX2dVMWh3Y0pGS0REWWhYQldmVEtVN0pRVGZBMEh3a29oUWJhRS1VSkdmS0NOU0VKSHdzZnZ1UWQxbENxTDdDakR5UnVEeVp1MGgwc3paTXoyUkJpRFhvU3kzckozaUlQV0doenBiRGRJenNlN2trX0NyOUEwMTBsV2ZmTFlKamFnYnRiYmRzakJRdkdQN082VF9kTlJzQVZR?oc=5",
@@ -579,8 +559,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMC1FeXhHR0kyOXBiVVMtazFFX2dVMWh3Y0pGS0REWWhYQldmVEtVN0pRVGZBMEh3a29oUWJhRS1VSkdmS0NOU0VKSHdzZnZ1UWQxbENxTDdDakR5UnVEeVp1MGgwc3paTXoyUkJpRFhvU3kzckozaUlQV0doenBiRGRJenNlN2trX0NyOUEwMTBsV2ZmTFlKamFnYnRiYmRzakJRdkdQN082VF9kTlJzQVZR?oc=5",
       "firstSeenAt": "2026-05-30T04:16:48.781Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 4
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 5
     },
     {
       "id": "CBMiwwFBVV95cUxNb1pYYmw0VFM4RFQ0cUVZd20taEUxX3NLRUxjQ29jWUU2MXRiVGZIa2ZGZEc0M0VUbDZDOVI5MklyS051VXRmcDVHMEdfSDFRWFY0akU5cEpMYUJfODUzbjJQYWY4RVdtY0JRTzM5aWpNTTk2blE1bDNWTi1fVGdkSE9fVVlBVlJpOUljV3VEYUlHZnVLcUJhTVlzWE93R0ZpRTZ5WDRmblFsTlRiVUhlUFo3RmFqZlNEWlVhTjMtR3BLMEU",
@@ -599,8 +579,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1pYYmw0VFM4RFQ0cUVZd20taEUxX3NLRUxjQ29jWUU2MXRiVGZIa2ZGZEc0M0VUbDZDOVI5MklyS051VXRmcDVHMEdfSDFRWFY0akU5cEpMYUJfODUzbjJQYWY4RVdtY0JRTzM5aWpNTTk2blE1bDNWTi1fVGdkSE9fVVlBVlJpOUljV3VEYUlHZnVLcUJhTVlzWE93R0ZpRTZ5WDRmblFsTlRiVUhlUFo3RmFqZlNEWlVhTjMtR3BLMEU?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     },
     {
       "id": "CBMiiwFBVV95cUxOZWJ2U0kzOUxVZWJaNmJWUHZjaDZtMUVaWG5zc2g0eVdZeEZLcWwySWx0X3pUQ0E3VkZfdUp6OHQwUHlkY3ZEeU11cG5jdnAyQlpaRjJjQVR0YjJOdjA4TTlvaEhWV0JpbG1JTFJUQm1ydHEzMlk5MVFhSXhUTW45Ymp6X29STjF0V0xj",
@@ -619,8 +599,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWJ2U0kzOUxVZWJaNmJWUHZjaDZtMUVaWG5zc2g0eVdZeEZLcWwySWx0X3pUQ0E3VkZfdUp6OHQwUHlkY3ZEeU11cG5jdnAyQlpaRjJjQVR0YjJOdjA4TTlvaEhWV0JpbG1JTFJUQm1ydHEzMlk5MVFhSXhUTW45Ymp6X29STjF0V0xj?oc=5",
       "firstSeenAt": "2026-05-29T22:04:57.790Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 5
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 6
     },
     {
       "id": "CBMigwJBVV95cUxOcFEtdXBqZTVzYmttUEV0QkRlRnBVbnRPSEczVVcxWUtIdGxCY3EzQ3F0ZkRZcGJ0X01tblF0T3JoUENiSDhXWW5IcGJnMHpwZDJoT0R4Z3pzWlo1aWZ2VV9fcDJPWHJralVLbVA3d1B6YmlDb1BOOGc1Y2lINUxuV213QWZMNUtES0E4am1DNFN0X0x5RUQwTmF3dkt4aWRCbURBQTRmOXloQXFzVlllMzFlVDRUaGxkRXd6djdtZkJlRmNHbnpwYlAtemYtVndEU2lhVHVwVlJ1czRVNzNoX3YtSXppOG16SEd6ZzVvTkROMFFxcGUwT3owNG5TNmdnWkk4",
@@ -639,8 +619,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcFEtdXBqZTVzYmttUEV0QkRlRnBVbnRPSEczVVcxWUtIdGxCY3EzQ3F0ZkRZcGJ0X01tblF0T3JoUENiSDhXWW5IcGJnMHpwZDJoT0R4Z3pzWlo1aWZ2VV9fcDJPWHJralVLbVA3d1B6YmlDb1BOOGc1Y2lINUxuV213QWZMNUtES0E4am1DNFN0X0x5RUQwTmF3dkt4aWRCbURBQTRmOXloQXFzVlllMzFlVDRUaGxkRXd6djdtZkJlRmNHbnpwYlAtemYtVndEU2lhVHVwVlJ1czRVNzNoX3YtSXppOG16SEd6ZzVvTkROMFFxcGUwT3owNG5TNmdnWkk4?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     },
     {
       "id": "CBMiiAFBVV95cUxQRHlVcWp1VmwwY0VOTDJqRm45Ymo0Qy1ZYzQweElNOUtTOTh1LWpJTVJVb2NBRFpMTXBjcTZXR01TRFAyNzJ2dHlCa0RDMld2aGJVaHR5ZWJ1TnVUUEJONGZyel9WZUdqWjZ5VjYwWkJ5eGpkM2JoYjk5WVFxQ0V4dGdDSU41M2RT",
@@ -659,8 +639,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlVcWp1VmwwY0VOTDJqRm45Ymo0Qy1ZYzQweElNOUtTOTh1LWpJTVJVb2NBRFpMTXBjcTZXR01TRFAyNzJ2dHlCa0RDMld2aGJVaHR5ZWJ1TnVUUEJONGZyel9WZUdqWjZ5VjYwWkJ5eGpkM2JoYjk5WVFxQ0V4dGdDSU41M2RT?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T10:17:00.340Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     },
     {
       "id": "CBMipwFBVV95cUxORi1fX3MyQlJrOEJqWTIzY1hOem9pdWM2ZkhmZDBDVmQ5RU1aTTUyYnNweGpOb2hQd0ZtekswT2hEX2RwdmVRM0FHOEViY0JIdjFGOTJJb0hMc0o3ekxPZUk0Z3laWVd5cDBGWnpfaWszU3NMWVhQMEQtLXNLRWp3TjZxR0VQZl9qMmx1Y1EzNEw4TUNrenRuNDU2R3RzSk5FeW95amZIMA",
@@ -683,44 +663,64 @@
       "seenCount": 4
     },
     {
-      "id": "CBMirAFBVV95cUxQd1FJMFY2dHp4cmFKMFpoelVfX2FnTHZZbl9VLUt3MTZKN1luN25la1Nsb19JX3JaM3lOcDNmcG1oUlNYMVpFdW5sODFvOTdBZnBuOHpaOHJ0c3BqVUt0bkctcXA0TXFZMDNmWW1PU19ERnBxQm03U2J2LXF2VGNIWEpwMl81aWxFdDdwNFpvM2dvY2dsRE5iejNYRFdkTlJyNzRrcVFlSzBNcXNf",
-      "title": "AI Shakeup: Anthropic's $96.5B Valuation Overtakes OpenAI - StartupHub.ai",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1FJMFY2dHp4cmFKMFpoelVfX2FnTHZZbl9VLUt3MTZKN1luN25la1Nsb19JX3JaM3lOcDNmcG1oUlNYMVpFdW5sODFvOTdBZnBuOHpaOHJ0c3BqVUt0bkctcXA0TXFZMDNmWW1PU19ERnBxQm03U2J2LXF2VGNIWEpwMl81aWxFdDdwNFpvM2dvY2dsRE5iejNYRFdkTlJyNzRrcVFlSzBNcXNf?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1FJMFY2dHp4cmFKMFpoelVfX2FnTHZZbl9VLUt3MTZKN1luN25la1Nsb19JX3JaM3lOcDNmcG1oUlNYMVpFdW5sODFvOTdBZnBuOHpaOHJ0c3BqVUt0bkctcXA0TXFZMDNmWW1PU19ERnBxQm03U2J2LXF2VGNIWEpwMl81aWxFdDdwNFpvM2dvY2dsRE5iejNYRFdkTlJyNzRrcVFlSzBNcXNf?oc=5\" target=\"_blank\">AI Shakeup: Anthropic's $96.5B Valuation Overtakes OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StartupHub.ai</font>",
-      "publishedAt": "2026-05-29T14:02:10.000Z",
+      "id": "CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA",
+      "title": "Elon Musk praises Anthropic's Claude Opus 4.8: What makes the AI model stand out? - WION",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA?oc=5\" target=\"_blank\">Elon Musk praises Anthropic's Claude Opus 4.8: What makes the AI model stand out?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WION</font>",
+      "publishedAt": "2026-05-29T13:28:00.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1FJMFY2dHp4cmFKMFpoelVfX2FnTHZZbl9VLUt3MTZKN1luN25la1Nsb19JX3JaM3lOcDNmcG1oUlNYMVpFdW5sODFvOTdBZnBuOHpaOHJ0c3BqVUt0bkctcXA0TXFZMDNmWW1PU19ERnBxQm03U2J2LXF2VG",
-      "score": 73,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1FJMFY2dHp4cmFKMFpoelVfX2FnTHZZbl9VLUt3MTZKN1luN25la1Nsb19JX3JaM3lOcDNmcG1oUlNYMVpFdW5sODFvOTdBZnBuOHpaOHJ0c3BqVUt0bkctcXA0TXFZMDNmWW1PU19ERnBxQm03U2J2LXF2VGNIWEpwMl81aWxFdDdwNFpvM2dvY2dsRE5iejNYRFdkTlJyNzRrcVFlSzBNcXNf?oc=5",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU",
+      "score": 72,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVZ6YzY3TlNRR0owblVHS0pMdXM2TndpR2g1bnllalViaEkyX3pSVTdyaXBPb25YNXBwLTNMRFhndWFYMF9oV2NwVDNXTV91NGpSN3V5b052WVQzMEdRb0x2aWhVQnBDSmlNdlFTckl5Q3NpY2U1RXMxQzZOWU5sRjRHQldNcFY5U0d4cGFYSmxPRXQ3T0RxQXZZM0E0R1lUTWZWOWY0U3RwTzhuNlE0MG1hMEdYcG50akFoY0hvWGc4RGdGUmhj0gHMAUFVX3lxTE5BNWpFUlhPSUc2Rll2dUtIUWFySFp0emlWUGgyd1ZKaGlqQS03M2I4UEdSYmxBbVFWQXRlUEZxXzU1TXVpeGtQaEEyLVlnTHk0Y0JLYTdvWE4xQUlpZ29SWEJzQ1BNVnJFVUx5SmRIR3pOSWVqblZXQ1FhcExvOVB1Z0RLUmx0ekkzMS1mZHd3LWx3cGJhZWI2d281M29KUWtwUWJBTkNtclpUZndIcDNGVl9CVENMYmZVOXVlQzhHT0RUYk9MS3VyOUJiTA?oc=5",
       "firstSeenAt": "2026-05-29T18:43:02.892Z",
-      "lastSeenAt": "2026-05-30T04:16:48.781Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-05-29T18:43:02.892Z",
+      "seenCount": 1
     },
     {
-      "id": "CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81",
-      "title": "Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5\" target=\"_blank\">Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "publishedAt": "2026-05-29T13:55:11.000Z",
+      "id": "CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR",
+      "title": "Anthropic Customer Accidentally Spends $500M on Claude in One Month - incrypted",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR?oc=5\" target=\"_blank\">Anthropic Customer Accidentally Spends $500M on Claude in One Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">incrypted</font>",
+      "publishedAt": "2026-05-29T13:21:55.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eD",
-      "score": 73,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3",
+      "score": 72,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVF2UXJmU0JOZHRlYUZzWjhKTUFwVHAyUHJ2amYxZ2xPX1JQVkwyYWFIVlFsck9ZMThFT2E4RWxPcElPdUFfVjlsOUxNbFVoeTl0b0ZsdUVPd3ZPQlJ3ZWFDb3dOQ0luS2tBclBPSmhrbXlWSjRQcWU4UkxDV3NEWmxR?oc=5",
       "firstSeenAt": "2026-05-29T22:04:57.790Z",
       "lastSeenAt": "2026-05-30T10:17:00.340Z",
       "seenCount": 5
+    },
+    {
+      "id": "CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE",
+      "title": "Anthropic Releases Claude Opus 4.8 With Dynamic Workflows, Just 41 Days After Opus 4.7 - Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE?oc=5\" target=\"_blank\">Anthropic Releases Claude Opus 4.8 With Dynamic Workflows, Just 41 Days After Opus 4.7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Org</font>",
+      "publishedAt": "2026-05-29T12:06:21.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfen",
+      "score": 72,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE?oc=5",
+      "firstSeenAt": "2026-05-29T18:43:02.892Z",
+      "lastSeenAt": "2026-05-30T14:03:53.870Z",
+      "seenCount": 7
     }
   ]
 }
