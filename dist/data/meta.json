@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T14:03:53.870Z",
+  "generatedAt": "2026-05-30T17:20:22.506Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -13,13 +13,13 @@
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 90,
+      "count": 87,
       "error": null
     },
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 91,
+      "count": 99,
       "error": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 95,
+      "count": 97,
       "error": null
     },
     {
