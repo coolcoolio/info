@@ -1,25 +1,85 @@
 {
-  "generatedAt": "2026-06-10T11:47:23.159Z",
+  "generatedAt": "2026-06-10T16:08:04.702Z",
   "items": [
     {
-      "id": "CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA",
-      "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5\" target=\"_blank\">Claude Fable 5 and Claude Mythos 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3BPWjQxZlR3bHJkQUd3cDRyNThrWmYxMzR1OGU2TVpvYm9iTHc0aFNYVGNBOXplVGlSUUNNM3ZubENENGw2SzBWSk9kbTdKNGQ3UGlVZ0t2UV9sak9PSmhHcjZzR0RLVHY1b3YzbE1yTkhZS0JsMHRJRGY4RmNaeHBSSzFGWVhYSVh3OUxrQQ?oc=5\" target=\"_blank\">Claude Fable 5 from Anthropic now available on AWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2N1T3FoR29kaW1tem9jSVJFQUZiSmQ5alpvMEIzdjVPVFA3OXVPb0pjbFU3cFVVOWhEN1NYWmJKaGNFUW5aMlZNQUwtTVBNNG9ZZllOY1hpeWtXNXR4VUZyaktEV2FyTHpFbFJ6Z0lkUkxlOGlyazFvOXpZMDBqMDRwYU0tYnhPQVVDbzdZV2RrU0s4NnZuejFKOEotdTQ?oc=5\" target=\"_blank\">Claude Fable 5 is generally available for GitHub Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The GitHub Blog</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVhKbkdVdEdSYkdtb1gzTWNhb2s5MjFIZ1ZuNlpadXhxalI4LWl3Uk9HWEkyd0d2WV9xcDlENURNaVJya0E2NEJsMXNDX2FLNTVKWHRWT3RRb0ZocFM5VTNsYXRLUEZndGFqNGR0cUp1c3RKcFFqUG1qVzM1OFRYWndKaTM1WlAxZFBaanNGQ1VzeEZUbTAzZW9uTmxUNjh6QXhKNnJvZFhqUWdtOTdpR1R0NA?oc=5\" target=\"_blank\">Anthropic’s Fable 5 can make weirdly fun video games with the click of a button</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFRhZ09YbWgwbWhKYkVZRmVMUTJyMnpWeTR3SU5qRU45a1lWVV9GbVhzOEJ4ZUNLQzNLb3FMWUFxc1Q3dk9pMzlyTXNiaUtZcURKMW55dC03UlNwZEdzLUF1bDdqZUE4WmlCeGlLSTZEUHZaaHhFRDh1SFpmdGR3VEp1bFFhOTU1RTJkOTQ4YUxDUTVY?oc=5\" target=\"_blank\">Anthropic releases Claude Fable 5, a 'Mythos-class' AI model with safeguards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE43STJBdE9kUy1LZGV5MjNQdTdzOVFVQUswRkF4cEpUU3ZfTjJ1bGtKVVdoUTBkeGdYY2JLUU94eXlBSTdtczJXWF85bmFoWlJTcDFrcWlwSmg4d3A1M3FhRG9WOFc3Zw?oc=5\" target=\"_blank\">Anthropic launches Claude Mythos/Fable 5, but you better try it soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxON296bVlNQTJuY0RzMDdyV0dNTWhaNHVQak1wUGpKNWJsM21qWEZjQ1J5d0pIbEE4dWNFZURZWjFwVzUteHE0S2ZfQlQxYXQtVjlVc0hWeDlmVUUtVzhvSld4YldCYmJsclBxVnhrbTJza1ZZRXZxNHhzU1dfb1IyZVdCVzZZNHVTcGM1ZjhmWkV3dTBISXprMXJOUGF2dVR3MmNRWUJkVmduajRtYThXeTdaeW1XVWwyRDVFRnNNdHF3XzJiX2FiU0Z3QVppZXNPblJPT3BudnY?oc=5\" target=\"_blank\">Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYktvQlRBTjZRZEJuWW83U01ZRmdialUtTk5ud21IWmlZVDNjRXprdllSeXBaa1FkTjJ0SV9EWThuQWVPdHV5ZFBnMktZVzRGX19pSVNQam5leTJrLXBNSTJXNVFmdjYzbzR3R2ZaNVJNUlgyUTJ2eFlmMkxGQzZvanJXYnlLWmRySEpxc3FQcmFyUFFnVUYtNWtQRS1jUTAyQ0ZWdElGVjBrOHNfRDBV?oc=5\" target=\"_blank\">Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-decoder.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmNtOTNDbGhjZTdLSWVjNnJuUV9aOUxKNTZ0dm5qLWNwd2l4NlRsZlFjb3cybXk1cTRSQkJEZFgwbkExVGJyaFctQjFYVHNFclpPb0ZWT1FuYUFGZmhubDhKWFJhcTQ4ay1pTzBzUzJhblNvTllySkpqSEp0dEZUX0ZFSTRWVGZua1pR?oc=5\" target=\"_blank\">Anthropic's new Claude Fable 5 is the same base model as Mythos but with guardrails attached</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font></li></ol>",
-      "publishedAt": "2026-06-09T17:08:42.000Z",
+      "id": "CBMinAFBVV95cUxOTHZHdFhwd294WFdZQXBUc1V4RWxlTDZOLW1kU0tvdzdFY1VNVFQ1SHQ5bkFDYkNrRHVjRGNVcWRoTW43LXZ6UXBoNjIwQTBuVTM4VGhtOGFhWmdJMU96R2tTbnU3NUo4YlBKalhqTjVDSjdwX2tfaFFJbHFUME9MSWpMeG5fdDFBSTFGdlVKNVRnOEZoZGxMUkxPQXA",
+      "title": "OpenAI: Mega IPO Faces Anthropic Claude Mythos Reckoning (Private:OPENAI) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHZHdFhwd294WFdZQXBUc1V4RWxlTDZOLW1kU0tvdzdFY1VNVFQ1SHQ5bkFDYkNrRHVjRGNVcWRoTW43LXZ6UXBoNjIwQTBuVTM4VGhtOGFhWmdJMU96R2tTbnU3NUo4YlBKalhqTjVDSjdwX2tfaFFJbHFUME9MSWpMeG5fdDFBSTFGdlVKNVRnOEZoZGxMUkxPQXA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHZHdFhwd294WFdZQXBUc1V4RWxlTDZOLW1kU0tvdzdFY1VNVFQ1SHQ5bkFDYkNrRHVjRGNVcWRoTW43LXZ6UXBoNjIwQTBuVTM4VGhtOGFhWmdJMU96R2tTbnU3NUo4YlBKalhqTjVDSjdwX2tfaFFJbHFUME9MSWpMeG5fdDFBSTFGdlVKNVRnOEZoZGxMUkxPQXA?oc=5\" target=\"_blank\">OpenAI: Mega IPO Faces Anthropic Claude Mythos Reckoning (Private:OPENAI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "publishedAt": "2026-06-10T13:00:00.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5\" target=\"_blank\">Clau",
-      "score": 147,
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHZHdFhwd294WFdZQXBUc1V4RWxlTDZOLW1kU0tvdzdFY1VNVFQ1SHQ5bkFDYkNrRHVjRGNVcWRoTW43LXZ6UXBoNjIwQTBuVTM4VGhtOGFhWmdJMU96R2tTbnU3NUo4YlBKalhqTjVDSjdwX2tfaFFJbHFUME",
+      "score": 95,
       "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-      "firstSeenAt": "2026-06-09T18:20:37.866Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 4
+      "key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHZHdFhwd294WFdZQXBUc1V4RWxlTDZOLW1kU0tvdzdFY1VNVFQ1SHQ5bkFDYkNrRHVjRGNVcWRoTW43LXZ6UXBoNjIwQTBuVTM4VGhtOGFhWmdJMU96R2tTbnU3NUo4YlBKalhqTjVDSjdwX2tfaFFJbHFUME9MSWpMeG5fdDFBSTFGdlVKNVRnOEZoZGxMUkxPQXA?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMi0wFBVV95cUxPYW5XNGhzaU5Db2V3UWV1ZXZFYTd6akplMWREYUNQdjN5c0h2Y1dCR3dfR194VC13N1J4V0tyVEZaNy1IZkVwWGhTa3huSGVyRHZxdUVfdkRxbjZ4ejFKS18yclBxalVYMGdNMjdOSkpKTk5GSDJqcGRkMHNyY3RvUnV5VDRncmZEajZEOWlOVmhWSzQ4OVVCUlplU25oaDBhN3FIeHFYVFZ3ZWs3MUlwa1FuMEFBNzFxS0JaWVA4bk9Jdk4xQThvWTMwZU5KM3BfaXYw",
+      "title": "The architect behind Claude Code reveals the three things Anthropic looks for in a good hire - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYW5XNGhzaU5Db2V3UWV1ZXZFYTd6akplMWREYUNQdjN5c0h2Y1dCR3dfR194VC13N1J4V0tyVEZaNy1IZkVwWGhTa3huSGVyRHZxdUVfdkRxbjZ4ejFKS18yclBxalVYMGdNMjdOSkpKTk5GSDJqcGRkMHNyY3RvUnV5VDRncmZEajZEOWlOVmhWSzQ4OVVCUlplU25oaDBhN3FIeHFYVFZ3ZWs3MUlwa1FuMEFBNzFxS0JaWVA4bk9Jdk4xQThvWTMwZU5KM3BfaXYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYW5XNGhzaU5Db2V3UWV1ZXZFYTd6akplMWREYUNQdjN5c0h2Y1dCR3dfR194VC13N1J4V0tyVEZaNy1IZkVwWGhTa3huSGVyRHZxdUVfdkRxbjZ4ejFKS18yclBxalVYMGdNMjdOSkpKTk5GSDJqcGRkMHNyY3RvUnV5VDRncmZEajZEOWlOVmhWSzQ4OVVCUlplU25oaDBhN3FIeHFYVFZ3ZWs3MUlwa1FuMEFBNzFxS0JaWVA4bk9Jdk4xQThvWTMwZU5KM3BfaXYw?oc=5\" target=\"_blank\">The architect behind Claude Code reveals the three things Anthropic looks for in a good hire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "publishedAt": "2026-06-10T14:44:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYW5XNGhzaU5Db2V3UWV1ZXZFYTd6akplMWREYUNQdjN5c0h2Y1dCR3dfR194VC13N1J4V0tyVEZaNy1IZkVwWGhTa3huSGVyRHZxdUVfdkRxbjZ4ejFKS18yclBxalVYMGdNMjdOSkpKTk5GSDJqcGRkMHNyY3",
+      "score": 94,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYW5XNGhzaU5Db2V3UWV1ZXZFYTd6akplMWREYUNQdjN5c0h2Y1dCR3dfR194VC13N1J4V0tyVEZaNy1IZkVwWGhTa3huSGVyRHZxdUVfdkRxbjZ4ejFKS18yclBxalVYMGdNMjdOSkpKTk5GSDJqcGRkMHNyY3RvUnV5VDRncmZEajZEOWlOVmhWSzQ4OVVCUlplU25oaDBhN3FIeHFYVFZ3ZWs3MUlwa1FuMEFBNzFxS0JaWVA4bk9Jdk4xQThvWTMwZU5KM3BfaXYw?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMitAFBVV95cUxPTGhaVHJ1WTJ0LWpta2k5aWRGdGt2bnQ1cURmVnJEX0RyMVp4WEx1NV9pX2p1MU9xTjk0dzl2UWVJaFdtUHppYWM1NktPalZWY2xoOHNwM0syX2RIN1JOTXdVWnNmckl0UTRzLVlTZDQwMDhNV3R0Q2h6b3JVYmZnZlBXY09vZlFQWVBvekhhZXhxVUZXcnNKRlB2YTktZk5NUHd1cEJTcnF2dnpVSWxCYTdoNmU",
+      "title": "JFrog launches plugin for Anthropic’s Claude Code platform - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGhaVHJ1WTJ0LWpta2k5aWRGdGt2bnQ1cURmVnJEX0RyMVp4WEx1NV9pX2p1MU9xTjk0dzl2UWVJaFdtUHppYWM1NktPalZWY2xoOHNwM0syX2RIN1JOTXdVWnNmckl0UTRzLVlTZDQwMDhNV3R0Q2h6b3JVYmZnZlBXY09vZlFQWVBvekhhZXhxVUZXcnNKRlB2YTktZk5NUHd1cEJTcnF2dnpVSWxCYTdoNmU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGhaVHJ1WTJ0LWpta2k5aWRGdGt2bnQ1cURmVnJEX0RyMVp4WEx1NV9pX2p1MU9xTjk0dzl2UWVJaFdtUHppYWM1NktPalZWY2xoOHNwM0syX2RIN1JOTXdVWnNmckl0UTRzLVlTZDQwMDhNV3R0Q2h6b3JVYmZnZlBXY09vZlFQWVBvekhhZXhxVUZXcnNKRlB2YTktZk5NUHd1cEJTcnF2dnpVSWxCYTdoNmU?oc=5\" target=\"_blank\">JFrog launches plugin for Anthropic’s Claude Code platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "publishedAt": "2026-06-10T13:36:31.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGhaVHJ1WTJ0LWpta2k5aWRGdGt2bnQ1cURmVnJEX0RyMVp4WEx1NV9pX2p1MU9xTjk0dzl2UWVJaFdtUHppYWM1NktPalZWY2xoOHNwM0syX2RIN1JOTXdVWnNmckl0UTRzLVlTZDQwMDhNV3R0Q2h6b3JVYm",
+      "score": 94,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGhaVHJ1WTJ0LWpta2k5aWRGdGt2bnQ1cURmVnJEX0RyMVp4WEx1NV9pX2p1MU9xTjk0dzl2UWVJaFdtUHppYWM1NktPalZWY2xoOHNwM0syX2RIN1JOTXdVWnNmckl0UTRzLVlTZDQwMDhNV3R0Q2h6b3JVYmZnZlBXY09vZlFQWVBvekhhZXhxVUZXcnNKRlB2YTktZk5NUHd1cEJTcnF2dnpVSWxCYTdoNmU?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNkxhOU9RVEF6TS10QjNrMkVKQ3RDOWFsWXI2Sy10UFZDbndpLVhRdVVJNmNjU0E",
+      "title": "JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNkxhOU9RVEF6TS10QjNrMkVKQ3RDOWFsWXI2Sy10UFZDbndpLVhRdVVJNmNjU0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNkxhOU9RVEF6TS10QjNrMkVKQ3RDOWFsWXI2Sy10UFZDbndpLVhRdVVJNmNjU0E?oc=5\" target=\"_blank\">JFrog and Anthropic Bring Enterprise-Grade Software Supply Chain Governance and Security to Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "publishedAt": "2026-06-10T13:15:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNk",
+      "score": 94,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFFWblJvN1EwNUdzaUtydGQwSFE3VVRodURDZVV4WlR4RGdRYTBPc0pfQXRJV3Jtd2pOV05KeC05alotMDNDZkRwMmh0ajhqQm9MRlpMcGt1Q1lQSUJKeF9PMXhXa0xaN3plR1FFTU5wcFVnMnBwVzdYeUNSNkxhOU9RVEF6TS10QjNrMkVKQ3RDOWFsWXI2Sy10UFZDbndpLVhRdVVJNmNjU0E?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
     },
     {
       "id": "CBMijgFBVV95cUxPYnM2cExwbW1mWmxiY3pfMWxteTY4cW15THhKMlF2WkRuOTZkOFd0VFFuOWxwX2dEdW5iUmZtc0ItdUw2WWhnZ0EyWFVBR0lzQnlSN002X1M3dEV5Y1ZiZTV3UU9TNl9qcXlCamRSeGVYWnBnbWcxTC1ZY1Bva2VLWUxYa2NUMDhnU0Iyb1l3",
@@ -34,12 +94,32 @@
         "Gemini"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnM2cExwbW1mWmxiY3pfMWxteTY4cW15THhKMlF2WkRuOTZkOFd0VFFuOWxwX2dEdW5iUmZtc0ItdUw2WWhnZ0EyWFVBR0lzQnlSN002X1M3dEV5Y1ZiZTV3UU9TNl9qcXlCamRSeGVYWnBnbWcxTC1ZY1Bva2",
-      "score": 93,
+      "score": 91,
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnM2cExwbW1mWmxiY3pfMWxteTY4cW15THhKMlF2WkRuOTZkOFd0VFFuOWxwX2dEdW5iUmZtc0ItdUw2WWhnZ0EyWFVBR0lzQnlSN002X1M3dEV5Y1ZiZTV3UU9TNl9qcXlCamRSeGVYWnBnbWcxTC1ZY1Bva2VLWUxYa2NUMDhnU0Iyb1l3?oc=5",
       "firstSeenAt": "2026-06-10T04:47:33.455Z",
       "lastSeenAt": "2026-06-10T11:47:23.159Z",
       "seenCount": 2
+    },
+    {
+      "id": "CBMiwwFBVV95cUxPQjlBWHNGRmUxcWdIdFllbjlXZHZCaE56NnN1empoWWFGSmZtOC1QZ3lDc0g5TjJhMXl4c3pwU3FGRnoybjZvOWlpbWRjOUZhYS1xQ1pmTDkycFl0MVBLeGtQT0IyQXVZSUo2dmdpMHNxcndQQnBuWFQwcnBGcVd3RVk0NEVLM0tXQkhfemVlR0FpMU02UjJSZDVFTmdsejNpOEZ1UjdqbkktaTY2aGt5eU80aTZycmoxM2tiMF8zVXFQWTA",
+      "title": "Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science - OODAloop",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjlBWHNGRmUxcWdIdFllbjlXZHZCaE56NnN1empoWWFGSmZtOC1QZ3lDc0g5TjJhMXl4c3pwU3FGRnoybjZvOWlpbWRjOUZhYS1xQ1pmTDkycFl0MVBLeGtQT0IyQXVZSUo2dmdpMHNxcndQQnBuWFQwcnBGcVd3RVk0NEVLM0tXQkhfemVlR0FpMU02UjJSZDVFTmdsejNpOEZ1UjdqbkktaTY2aGt5eU80aTZycmoxM2tiMF8zVXFQWTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjlBWHNGRmUxcWdIdFllbjlXZHZCaE56NnN1empoWWFGSmZtOC1QZ3lDc0g5TjJhMXl4c3pwU3FGRnoybjZvOWlpbWRjOUZhYS1xQ1pmTDkycFl0MVBLeGtQT0IyQXVZSUo2dmdpMHNxcndQQnBuWFQwcnBGcVd3RVk0NEVLM0tXQkhfemVlR0FpMU02UjJSZDVFTmdsejNpOEZ1UjdqbkktaTY2aGt5eU80aTZycmoxM2tiMF8zVXFQWTA?oc=5\" target=\"_blank\">Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OODAloop</font>",
+      "publishedAt": "2026-06-10T15:43:18.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjlBWHNGRmUxcWdIdFllbjlXZHZCaE56NnN1empoWWFGSmZtOC1QZ3lDc0g5TjJhMXl4c3pwU3FGRnoybjZvOWlpbWRjOUZhYS1xQ1pmTDkycFl0MVBLeGtQT0IyQXVZSUo2dmdpMHNxcndQQnBuWFQwcnBGcV",
+      "score": 89,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjlBWHNGRmUxcWdIdFllbjlXZHZCaE56NnN1empoWWFGSmZtOC1QZ3lDc0g5TjJhMXl4c3pwU3FGRnoybjZvOWlpbWRjOUZhYS1xQ1pmTDkycFl0MVBLeGtQT0IyQXVZSUo2dmdpMHNxcndQQnBuWFQwcnBGcVd3RVk0NEVLM0tXQkhfemVlR0FpMU02UjJSZDVFTmdsejNpOEZ1UjdqbkktaTY2aGt5eU80aTZycmoxM2tiMF8zVXFQWTA?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
     },
     {
       "id": "CBMikwFBVV95cUxQSmZfdGs1ZzJNOE1vZTdNcGRPdDhFaGVRMXlfX3BpbW05TWQySnUyN3Z6R3pkcUlPLVppS0ZGaFRlZkJnQlI2WTIwR09XaDJpSHZIZlV6aG1xb25ES1Uwa3NXRE04YVJfaTJtNGc2cmUxTllsa0haam5uZWlLZGp4NGx3U19fRkJyUkVtTTlvRmpJTkU",
@@ -54,7 +134,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSmZfdGs1ZzJNOE1vZTdNcGRPdDhFaGVRMXlfX3BpbW05TWQySnUyN3Z6R3pkcUlPLVppS0ZGaFRlZkJnQlI2WTIwR09XaDJpSHZIZlV6aG1xb25ES1Uwa3NXRE04YVJfaTJtNGc2cmUxTllsa0haam5uZWlLZG",
-      "score": 89,
+      "score": 87,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSmZfdGs1ZzJNOE1vZTdNcGRPdDhFaGVRMXlfX3BpbW05TWQySnUyN3Z6R3pkcUlPLVppS0ZGaFRlZkJnQlI2WTIwR09XaDJpSHZIZlV6aG1xb25ES1Uwa3NXRE04YVJfaTJtNGc2cmUxTllsa0haam5uZWlLZGp4NGx3U19fRkJyUkVtTTlvRmpJTkU?oc=5",
       "firstSeenAt": "2026-06-10T04:47:33.455Z",
@@ -142,26 +222,6 @@
       "seenCount": 2
     },
     {
-      "id": "CBMitwFBVV95cUxPMXlzTzFIR0ZVUXY1ZjgyVFFESlZmWm8wclBCNlN6SnowY2FueW1UcjlHenNaTU8wNWI1REFmSTQ0SmR1QUdubURRaDdtM2tvejQ3cE1TNW54MTNLT0t4UkhsU3JWNkZONEI3N2tUSkFfUDZxdHZ0YXhwOGY4TlhBNjVjRm1nZkhHb1NYUzlpdDBHVW1NdWNpZVgwS19IQW5iX0hwN29YRk9fb0pRUi14bWQwRVNQTzg",
-      "title": "Anthropic launches Claude Fable 5, a state-of-the-art AI model that beats OpenAI's GPT-5.5 - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXlzTzFIR0ZVUXY1ZjgyVFFESlZmWm8wclBCNlN6SnowY2FueW1UcjlHenNaTU8wNWI1REFmSTQ0SmR1QUdubURRaDdtM2tvejQ3cE1TNW54MTNLT0t4UkhsU3JWNkZONEI3N2tUSkFfUDZxdHZ0YXhwOGY4TlhBNjVjRm1nZkhHb1NYUzlpdDBHVW1NdWNpZVgwS19IQW5iX0hwN29YRk9fb0pRUi14bWQwRVNQTzg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXlzTzFIR0ZVUXY1ZjgyVFFESlZmWm8wclBCNlN6SnowY2FueW1UcjlHenNaTU8wNWI1REFmSTQ0SmR1QUdubURRaDdtM2tvejQ3cE1TNW54MTNLT0t4UkhsU3JWNkZONEI3N2tUSkFfUDZxdHZ0YXhwOGY4TlhBNjVjRm1nZkhHb1NYUzlpdDBHVW1NdWNpZVgwS19IQW5iX0hwN29YRk9fb0pRUi14bWQwRVNQTzg?oc=5\" target=\"_blank\">Anthropic launches Claude Fable 5, a state-of-the-art AI model that beats OpenAI's GPT-5.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "publishedAt": "2026-06-09T18:25:13.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXlzTzFIR0ZVUXY1ZjgyVFFESlZmWm8wclBCNlN6SnowY2FueW1UcjlHenNaTU8wNWI1REFmSTQ0SmR1QUdubURRaDdtM2tvejQ3cE1TNW54MTNLT0t4UkhsU3JWNkZONEI3N2tUSkFfUDZxdHZ0YXhwOGY4Tl",
-      "score": 87,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXlzTzFIR0ZVUXY1ZjgyVFFESlZmWm8wclBCNlN6SnowY2FueW1UcjlHenNaTU8wNWI1REFmSTQ0SmR1QUdubURRaDdtM2tvejQ3cE1TNW54MTNLT0t4UkhsU3JWNkZONEI3N2tUSkFfUDZxdHZ0YXhwOGY4TlhBNjVjRm1nZkhHb1NYUzlpdDBHVW1NdWNpZVgwS19IQW5iX0hwN29YRk9fb0pRUi14bWQwRVNQTzg?oc=5",
-      "firstSeenAt": "2026-06-09T21:58:26.851Z",
-      "lastSeenAt": "2026-06-10T04:47:33.455Z",
-      "seenCount": 2
-    },
-    {
       "id": "CBMi2wFBVV95cUxQT3NZNVRfaFJERmU3STZzSE8wTUUyb3lxZExlVWxMQlhBYTF6b0Z5MDE3cERsMEVleTllR0FfWFNSbG8zU1ZDaUxFckFxMWQ4Nm9RUHJKQ1ZtT1lIVGVKa3g3SVRKMHdydjRtMS1tOC16bjhscWRzZGhMcWs4cFFmNlFINm5iSl82UU9vaTZIZ0w2WDZhRVVCVjBfVnI2WmxIa3JrSUJGZ21WVEI4TFluX3lkOVlwU2pSWS01SlFxT3Rydk5rckxoSDJSNXZCNnY2ZWRSV2JjMlIwd0XSAeABQVVfeXFMT0N2cjVzZW9WbGN2WU0yRTZLUkl2cDVrOEZxR3Jfb2tRQlFaRXpxa0d4RHpCc1Z1T2xISXg2NWtzSU9YaENXUUtoaWtUb3F3dXdnV1pSQ09odS1qaWJ2Z1F2T2dNVktlUkZxVTdFSWk2aE5PRTAxWTYtaFUzekNqa3RJOU9QWS1pT0hKX3BXV0lzV1FJempaMWFYTVRCZEp2aHlCQkZCWG0xU2ppa2pEVXNmNWplRWNZUkdLTl9xSE93SjMzX05hTVFzZW9IeFB4cllTNzNJMXQ0NHdyZG1Ra2w",
       "title": "Anthropic launches Claude Fable 5, unveils restricted-access Claude Mythos 5 - Indiatimes",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT3NZNVRfaFJERmU3STZzSE8wTUUyb3lxZExlVWxMQlhBYTF6b0Z5MDE3cERsMEVleTllR0FfWFNSbG8zU1ZDaUxFckFxMWQ4Nm9RUHJKQ1ZtT1lIVGVKa3g3SVRKMHdydjRtMS1tOC16bjhscWRzZGhMcWs4cFFmNlFINm5iSl82UU9vaTZIZ0w2WDZhRVVCVjBfVnI2WmxIa3JrSUJGZ21WVEI4TFluX3lkOVlwU2pSWS01SlFxT3Rydk5rckxoSDJSNXZCNnY2ZWRSV2JjMlIwd0XSAeABQVVfeXFMT0N2cjVzZW9WbGN2WU0yRTZLUkl2cDVrOEZxR3Jfb2tRQlFaRXpxa0d4RHpCc1Z1T2xISXg2NWtzSU9YaENXUUtoaWtUb3F3dXdnV1pSQ09odS1qaWJ2Z1F2T2dNVktlUkZxVTdFSWk2aE5PRTAxWTYtaFUzekNqa3RJOU9QWS1pT0hKX3BXV0lzV1FJempaMWFYTVRCZEp2aHlCQkZCWG0xU2ppa2pEVXNmNWplRWNZUkdLTl9xSE93SjMzX05hTVFzZW9IeFB4cllTNzNJMXQ0NHdyZG1Ra2w?oc=5",
@@ -179,6 +239,66 @@
       "key": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT3NZNVRfaFJERmU3STZzSE8wTUUyb3lxZExlVWxMQlhBYTF6b0Z5MDE3cERsMEVleTllR0FfWFNSbG8zU1ZDaUxFckFxMWQ4Nm9RUHJKQ1ZtT1lIVGVKa3g3SVRKMHdydjRtMS1tOC16bjhscWRzZGhMcWs4cFFmNlFINm5iSl82UU9vaTZIZ0w2WDZhRVVCVjBfVnI2WmxIa3JrSUJGZ21WVEI4TFluX3lkOVlwU2pSWS01SlFxT3Rydk5rckxoSDJSNXZCNnY2ZWRSV2JjMlIwd0XSAeABQVVfeXFMT0N2cjVzZW9WbGN2WU0yRTZLUkl2cDVrOEZxR3Jfb2tRQlFaRXpxa0d4RHpCc1Z1T2xISXg2NWtzSU9YaENXUUtoaWtUb3F3dXdnV1pSQ09odS1qaWJ2Z1F2T2dNVktlUkZxVTdFSWk2aE5PRTAxWTYtaFUzekNqa3RJOU9QWS1pT0hKX3BXV0lzV1FJempaMWFYTVRCZEp2aHlCQkZCWG0xU2ppa2pEVXNmNWplRWNZUkdLTl9xSE93SjMzX05hTVFzZW9IeFB4cllTNzNJMXQ0NHdyZG1Ra2w?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
       "lastSeenAt": "2026-06-10T11:47:23.159Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiiwFBVV95cUxNVnNSamRYR0ctSS1weEJsX1oyd3BYVTFVcjVySzJmN21rN3hTaV9taVcxd2w2UzhPdW91Q3NudVJRNFNEdmpUT3lJblRMYW9la0ljUkNLcDNSczJVNHp6M1lPSVhMYVRwa0lxYVpOR0EzTzJyZXY3b1VzVGRveTJFc1hjVWdxSDhndHFJ",
+      "title": "The guide on blocking ChatGPT, Gemini, Claude, and other AI tools at work - Kaspersky",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnNSamRYR0ctSS1weEJsX1oyd3BYVTFVcjVySzJmN21rN3hTaV9taVcxd2w2UzhPdW91Q3NudVJRNFNEdmpUT3lJblRMYW9la0ljUkNLcDNSczJVNHp6M1lPSVhMYVRwa0lxYVpOR0EzTzJyZXY3b1VzVGRveTJFc1hjVWdxSDhndHFJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnNSamRYR0ctSS1weEJsX1oyd3BYVTFVcjVySzJmN21rN3hTaV9taVcxd2w2UzhPdW91Q3NudVJRNFNEdmpUT3lJblRMYW9la0ljUkNLcDNSczJVNHp6M1lPSVhMYVRwa0lxYVpOR0EzTzJyZXY3b1VzVGRveTJFc1hjVWdxSDhndHFJ?oc=5\" target=\"_blank\">The guide on blocking ChatGPT, Gemini, Claude, and other AI tools at work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kaspersky</font>",
+      "publishedAt": "2026-06-10T11:53:44.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnNSamRYR0ctSS1weEJsX1oyd3BYVTFVcjVySzJmN21rN3hTaV9taVcxd2w2UzhPdW91Q3NudVJRNFNEdmpUT3lJblRMYW9la0ljUkNLcDNSczJVNHp6M1lPSVhMYVRwa0lxYVpOR0EzTzJyZXY3b1VzVGRveT",
+      "score": 83,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnNSamRYR0ctSS1weEJsX1oyd3BYVTFVcjVySzJmN21rN3hTaV9taVcxd2w2UzhPdW91Q3NudVJRNFNEdmpUT3lJblRMYW9la0ljUkNLcDNSczJVNHp6M1lPSVhMYVRwa0lxYVpOR0EzTzJyZXY3b1VzVGRveTJFc1hjVWdxSDhndHFJ?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMipgFBVV95cUxQWFN5OElKNnM0VTRUOTk3angxY1VkY3ZFUGk0ZC1CcWxNREJsd1ZiU2ROR3lGTUZLME92ZzBvMm5jclNzZXZ1SnJQSFBFcGt3NFI1alhScS1sOTY4ZzE5b01MNGdvcDhCMm5qOFdjUzJycURqdloyZ1JmVUVTSFBwdzUwclA2UUZHdTZ3dmx4dWpZVEVMVUp2U1MyY0JOeG53WlpWOFBB",
+      "title": "ChatGPT, Gemini, Claude and Grok all created virtual societies — one built a democracy, others descended into chaos - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFN5OElKNnM0VTRUOTk3angxY1VkY3ZFUGk0ZC1CcWxNREJsd1ZiU2ROR3lGTUZLME92ZzBvMm5jclNzZXZ1SnJQSFBFcGt3NFI1alhScS1sOTY4ZzE5b01MNGdvcDhCMm5qOFdjUzJycURqdloyZ1JmVUVTSFBwdzUwclA2UUZHdTZ3dmx4dWpZVEVMVUp2U1MyY0JOeG53WlpWOFBB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFN5OElKNnM0VTRUOTk3angxY1VkY3ZFUGk0ZC1CcWxNREJsd1ZiU2ROR3lGTUZLME92ZzBvMm5jclNzZXZ1SnJQSFBFcGt3NFI1alhScS1sOTY4ZzE5b01MNGdvcDhCMm5qOFdjUzJycURqdloyZ1JmVUVTSFBwdzUwclA2UUZHdTZ3dmx4dWpZVEVMVUp2U1MyY0JOeG53WlpWOFBB?oc=5\" target=\"_blank\">ChatGPT, Gemini, Claude and Grok all created virtual societies — one built a democracy, others descended into chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "publishedAt": "2026-06-10T11:30:00.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFN5OElKNnM0VTRUOTk3angxY1VkY3ZFUGk0ZC1CcWxNREJsd1ZiU2ROR3lGTUZLME92ZzBvMm5jclNzZXZ1SnJQSFBFcGt3NFI1alhScS1sOTY4ZzE5b01MNGdvcDhCMm5qOFdjUzJycURqdloyZ1JmVUVTSF",
+      "score": 83,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFN5OElKNnM0VTRUOTk3angxY1VkY3ZFUGk0ZC1CcWxNREJsd1ZiU2ROR3lGTUZLME92ZzBvMm5jclNzZXZ1SnJQSFBFcGt3NFI1alhScS1sOTY4ZzE5b01MNGdvcDhCMm5qOFdjUzJycURqdloyZ1JmVUVTSFBwdzUwclA2UUZHdTZ3dmx4dWpZVEVMVUp2U1MyY0JOeG53WlpWOFBB?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMi-AFBVV95cUxQbGZzQjZGQUVwWkprQ1luX29SdFM1b3BpV1RrQUZNVGhrSFBwR3ZyZHNvcTc1SWdXSEdVRUl0Szc4QzMyQ1N6S0IxdlVHMXB1b1J3UU1EYUlBVWNQWEQ1Vk1fREZVX0hjM2wxWnhsWm1POUFSbWt6RTltc0hMZWVrT2RWUGtPVVdRU1lsNzhEWjVGQ0NRcG9ITHlDcDVKTmRsYXR4NkRGZXZuZHFPOWM4SjVWUk54anBoUGhZQlhpWndZb0pWSGJLSVo4MGxPYjZYWVV4YS1hYVdZU1pUN2IwVWtNOEpBZnFMTlJsRlFlNkM0RjBBQks1Vg",
+      "title": "Siri AI may actively encourage users to take a break from it — something ChatGPT, Gemini and Claude told me they don't do - Tom's Guide",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbGZzQjZGQUVwWkprQ1luX29SdFM1b3BpV1RrQUZNVGhrSFBwR3ZyZHNvcTc1SWdXSEdVRUl0Szc4QzMyQ1N6S0IxdlVHMXB1b1J3UU1EYUlBVWNQWEQ1Vk1fREZVX0hjM2wxWnhsWm1POUFSbWt6RTltc0hMZWVrT2RWUGtPVVdRU1lsNzhEWjVGQ0NRcG9ITHlDcDVKTmRsYXR4NkRGZXZuZHFPOWM4SjVWUk54anBoUGhZQlhpWndZb0pWSGJLSVo4MGxPYjZYWVV4YS1hYVdZU1pUN2IwVWtNOEpBZnFMTlJsRlFlNkM0RjBBQks1Vg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbGZzQjZGQUVwWkprQ1luX29SdFM1b3BpV1RrQUZNVGhrSFBwR3ZyZHNvcTc1SWdXSEdVRUl0Szc4QzMyQ1N6S0IxdlVHMXB1b1J3UU1EYUlBVWNQWEQ1Vk1fREZVX0hjM2wxWnhsWm1POUFSbWt6RTltc0hMZWVrT2RWUGtPVVdRU1lsNzhEWjVGQ0NRcG9ITHlDcDVKTmRsYXR4NkRGZXZuZHFPOWM4SjVWUk54anBoUGhZQlhpWndZb0pWSGJLSVo4MGxPYjZYWVV4YS1hYVdZU1pUN2IwVWtNOEpBZnFMTlJsRlFlNkM0RjBBQks1Vg?oc=5\" target=\"_blank\">Siri AI may actively encourage users to take a break from it — something ChatGPT, Gemini and Claude told me they don't do</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font>",
+      "publishedAt": "2026-06-10T11:28:38.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbGZzQjZGQUVwWkprQ1luX29SdFM1b3BpV1RrQUZNVGhrSFBwR3ZyZHNvcTc1SWdXSEdVRUl0Szc4QzMyQ1N6S0IxdlVHMXB1b1J3UU1EYUlBVWNQWEQ1Vk1fREZVX0hjM2wxWnhsWm1POUFSbWt6RTltc0hMZW",
+      "score": 83,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbGZzQjZGQUVwWkprQ1luX29SdFM1b3BpV1RrQUZNVGhrSFBwR3ZyZHNvcTc1SWdXSEdVRUl0Szc4QzMyQ1N6S0IxdlVHMXB1b1J3UU1EYUlBVWNQWEQ1Vk1fREZVX0hjM2wxWnhsWm1POUFSbWt6RTltc0hMZWVrT2RWUGtPVVdRU1lsNzhEWjVGQ0NRcG9ITHlDcDVKTmRsYXR4NkRGZXZuZHFPOWM4SjVWUk54anBoUGhZQlhpWndZb0pWSGJLSVo4MGxPYjZYWVV4YS1hYVdZU1pUN2IwVWtNOEpBZnFMTlJsRlFlNkM0RjBBQks1Vg?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
       "seenCount": 1
     },
     {
@@ -202,50 +322,10 @@
       "seenCount": 1
     },
     {
-      "id": "CBMikwFBVV95cUxPNVpvQklzeUpyLS1vVHU3aE9HMEJ6THVtN3d0ZndIQ3d1NG5VOHUxRy0yUW9HWnNjNW4xTzdld2E2a04tUXJkcllzbGtUeS0xb1hZSTEweVB4YmJtQ0drUWRFLXp6MlRKSjdPM2EzN2x1cV9tYlNNXzNoWG9EX0U0OFd4N1JoRzFWa183RTR1RjhxMnM",
-      "title": "Claude Fable 5: Anthropic releases a 'safe' version of Claude Mythos - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVpvQklzeUpyLS1vVHU3aE9HMEJ6THVtN3d0ZndIQ3d1NG5VOHUxRy0yUW9HWnNjNW4xTzdld2E2a04tUXJkcllzbGtUeS0xb1hZSTEweVB4YmJtQ0drUWRFLXp6MlRKSjdPM2EzN2x1cV9tYlNNXzNoWG9EX0U0OFd4N1JoRzFWa183RTR1RjhxMnM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVpvQklzeUpyLS1vVHU3aE9HMEJ6THVtN3d0ZndIQ3d1NG5VOHUxRy0yUW9HWnNjNW4xTzdld2E2a04tUXJkcllzbGtUeS0xb1hZSTEweVB4YmJtQ0drUWRFLXp6MlRKSjdPM2EzN2x1cV9tYlNNXzNoWG9EX0U0OFd4N1JoRzFWa183RTR1RjhxMnM?oc=5\" target=\"_blank\">Claude Fable 5: Anthropic releases a 'safe' version of Claude Mythos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "publishedAt": "2026-06-09T18:56:04.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVpvQklzeUpyLS1vVHU3aE9HMEJ6THVtN3d0ZndIQ3d1NG5VOHUxRy0yUW9HWnNjNW4xTzdld2E2a04tUXJkcllzbGtUeS0xb1hZSTEweVB4YmJtQ0drUWRFLXp6MlRKSjdPM2EzN2x1cV9tYlNNXzNoWG9EX0",
-      "score": 82,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVpvQklzeUpyLS1vVHU3aE9HMEJ6THVtN3d0ZndIQ3d1NG5VOHUxRy0yUW9HWnNjNW4xTzdld2E2a04tUXJkcllzbGtUeS0xb1hZSTEweVB4YmJtQ0drUWRFLXp6MlRKSjdPM2EzN2x1cV9tYlNNXzNoWG9EX0U0OFd4N1JoRzFWa183RTR1RjhxMnM?oc=5",
-      "firstSeenAt": "2026-06-09T21:58:26.851Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 3
-    },
-    {
-      "id": "CBMingFBVV95cUxNd0FqNERiMkxld0ZabnEtMlh0NWM0aVhKcmpFUjA5VFNTMkZTTmdRQmJmUFZWakwzTnk1WDZpVno2MU0yY2FMVWNDeGVTcGRIdkl0UmMtQzZyQklOdnp2dlFVb0hYck5vMUVjcVZwd1BCZnk3Y0l6MVJkR2hnSlJKMHZjWW5PNnhwdml2OTV6a2RldEtBaHhHTDBHX3dIQQ",
-      "title": "Anthropic unveils new Claude Fable 5, Claude Mythos 5 models (ANTHRO:Private) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0FqNERiMkxld0ZabnEtMlh0NWM0aVhKcmpFUjA5VFNTMkZTTmdRQmJmUFZWakwzTnk1WDZpVno2MU0yY2FMVWNDeGVTcGRIdkl0UmMtQzZyQklOdnp2dlFVb0hYck5vMUVjcVZwd1BCZnk3Y0l6MVJkR2hnSlJKMHZjWW5PNnhwdml2OTV6a2RldEtBaHhHTDBHX3dIQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNd0FqNERiMkxld0ZabnEtMlh0NWM0aVhKcmpFUjA5VFNTMkZTTmdRQmJmUFZWakwzTnk1WDZpVno2MU0yY2FMVWNDeGVTcGRIdkl0UmMtQzZyQklOdnp2dlFVb0hYck5vMUVjcVZwd1BCZnk3Y0l6MVJkR2hnSlJKMHZjWW5PNnhwdml2OTV6a2RldEtBaHhHTDBHX3dIQQ?oc=5\" target=\"_blank\">Anthropic unveils new Claude Fable 5, Claude Mythos 5 models (ANTHRO:Private)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "publishedAt": "2026-06-09T18:03:41.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNd0FqNERiMkxld0ZabnEtMlh0NWM0aVhKcmpFUjA5VFNTMkZTTmdRQmJmUFZWakwzTnk1WDZpVno2MU0yY2FMVWNDeGVTcGRIdkl0UmMtQzZyQklOdnp2dlFVb0hYck5vMUVjcVZwd1BCZnk3Y0l6MVJkR2hnSl",
-      "score": 82,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0FqNERiMkxld0ZabnEtMlh0NWM0aVhKcmpFUjA5VFNTMkZTTmdRQmJmUFZWakwzTnk1WDZpVno2MU0yY2FMVWNDeGVTcGRIdkl0UmMtQzZyQklOdnp2dlFVb0hYck5vMUVjcVZwd1BCZnk3Y0l6MVJkR2hnSlJKMHZjWW5PNnhwdml2OTV6a2RldEtBaHhHTDBHX3dIQQ?oc=5",
-      "firstSeenAt": "2026-06-09T18:20:37.866Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 4
-    },
-    {
       "id": "CBMipwFBVV95cUxPWEF4Z050amsxd18wajV2OVZIcmlGNVc4QUUwU3M2SUJWU0VxUDJsM0x2a3VBamNXTmtMeUNwQk1sVWFaRzNERjhST2EweUc0aWVIYTBVUnVtZmJRM2t4R3RFXzVmTjR4RjAzRUZFVzdZU1h6eTBxaWl4aV9PR084VnJBeHB1ck5yR09ETlNnTGdibUdkY0JZblU4MDBLV1hDSmo3QnBrVQ",
-      "title": "‘Chat is dead’: OpenAI plots ChatGPT ‘superapp’ overhaul ahead of public listing – with agents and coding tools the new focus - IT Pro",
+      "title": "‘Chat is dead’: OpenAI plots ChatGPT ‘super app’ overhaul ahead of public listing – with agents and coding tools the new focus - IT Pro",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEF4Z050amsxd18wajV2OVZIcmlGNVc4QUUwU3M2SUJWU0VxUDJsM0x2a3VBamNXTmtMeUNwQk1sVWFaRzNERjhST2EweUc0aWVIYTBVUnVtZmJRM2t4R3RFXzVmTjR4RjAzRUZFVzdZU1h6eTBxaWl4aV9PR084VnJBeHB1ck5yR09ETlNnTGdibUdkY0JZblU4MDBLV1hDSmo3QnBrVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEF4Z050amsxd18wajV2OVZIcmlGNVc4QUUwU3M2SUJWU0VxUDJsM0x2a3VBamNXTmtMeUNwQk1sVWFaRzNERjhST2EweUc0aWVIYTBVUnVtZmJRM2t4R3RFXzVmTjR4RjAzRUZFVzdZU1h6eTBxaWl4aV9PR084VnJBeHB1ck5yR09ETlNnTGdibUdkY0JZblU4MDBLV1hDSmo3QnBrVQ?oc=5\" target=\"_blank\">‘Chat is dead’: OpenAI plots ChatGPT ‘superapp’ overhaul ahead of public listing – with agents and coding tools the new focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Pro</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEF4Z050amsxd18wajV2OVZIcmlGNVc4QUUwU3M2SUJWU0VxUDJsM0x2a3VBamNXTmtMeUNwQk1sVWFaRzNERjhST2EweUc0aWVIYTBVUnVtZmJRM2t4R3RFXzVmTjR4RjAzRUZFVzdZU1h6eTBxaWl4aV9PR084VnJBeHB1ck5yR09ETlNnTGdibUdkY0JZblU4MDBLV1hDSmo3QnBrVQ?oc=5\" target=\"_blank\">‘Chat is dead’: OpenAI plots ChatGPT ‘super app’ overhaul ahead of public listing – with agents and coding tools the new focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Pro</font>",
       "publishedAt": "2026-06-10T08:15:38.000Z",
       "sourceName": "ChatGPT and Gemini",
       "category": "AI Models",
@@ -258,27 +338,246 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEF4Z050amsxd18wajV2OVZIcmlGNVc4QUUwU3M2SUJWU0VxUDJsM0x2a3VBamNXTmtMeUNwQk1sVWFaRzNERjhST2EweUc0aWVIYTBVUnVtZmJRM2t4R3RFXzVmTjR4RjAzRUZFVzdZU1h6eTBxaWl4aV9PR084VnJBeHB1ck5yR09ETlNnTGdibUdkY0JZblU4MDBLV1hDSmo3QnBrVQ?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 2
+    },
+    {
+      "id": "CBMi2gFBVV95cUxQd2ZSWFYxdmc2aUVqN1dSN3gwMWpidmp5Q2RHUjRRRGpMWGRQM29xcEltZHEwS0YwdTZ4VFFjeHZYRVZwRTllS2dVWkdIVXRXQmZUMmxIYk9sM2NIQk54WTBMZ3hEUHgtMFJjNTJWRGdBQ3lKNnBLUVQxUndWS29VdHpFeHFvOC12Y0V5eUlqV1JxTUxSRFhZNXJWRVBEMll1U2xlZ1F6U0lRZ0txdDBZOU9UakdLQWJPeC1POG1jNUZqQ3g5aGxfdFg5aGswdEdOLWxYS0FpZkk0Zw",
+      "title": "Trotz 100 freier Plätze: 379 Norderstedter Kinder gehen in Hamburger Kitas - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2ZSWFYxdmc2aUVqN1dSN3gwMWpidmp5Q2RHUjRRRGpMWGRQM29xcEltZHEwS0YwdTZ4VFFjeHZYRVZwRTllS2dVWkdIVXRXQmZUMmxIYk9sM2NIQk54WTBMZ3hEUHgtMFJjNTJWRGdBQ3lKNnBLUVQxUndWS29VdHpFeHFvOC12Y0V5eUlqV1JxTUxSRFhZNXJWRVBEMll1U2xlZ1F6U0lRZ0txdDBZOU9UakdLQWJPeC1POG1jNUZqQ3g5aGxfdFg5aGswdEdOLWxYS0FpZkk0Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2ZSWFYxdmc2aUVqN1dSN3gwMWpidmp5Q2RHUjRRRGpMWGRQM29xcEltZHEwS0YwdTZ4VFFjeHZYRVZwRTllS2dVWkdIVXRXQmZUMmxIYk9sM2NIQk54WTBMZ3hEUHgtMFJjNTJWRGdBQ3lKNnBLUVQxUndWS29VdHpFeHFvOC12Y0V5eUlqV1JxTUxSRFhZNXJWRVBEMll1U2xlZ1F6U0lRZ0txdDBZOU9UakdLQWJPeC1POG1jNUZqQ3g5aGxfdFg5aGswdEdOLWxYS0FpZkk0Zw?oc=5\" target=\"_blank\">Trotz 100 freier Plätze: 379 Norderstedter Kinder gehen in Hamburger Kitas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
+      "publishedAt": "2026-06-10T14:59:07.000Z",
+      "sourceName": "Norderstedt",
+      "category": "Local",
+      "tags": [
+        "Norderstedt"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2ZSWFYxdmc2aUVqN1dSN3gwMWpidmp5Q2RHUjRRRGpMWGRQM29xcEltZHEwS0YwdTZ4VFFjeHZYRVZwRTllS2dVWkdIVXRXQmZUMmxIYk9sM2NIQk54WTBMZ3hEUHgtMFJjNTJWRGdBQ3lKNnBLUVQxUndWS2",
+      "score": 78,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2ZSWFYxdmc2aUVqN1dSN3gwMWpidmp5Q2RHUjRRRGpMWGRQM29xcEltZHEwS0YwdTZ4VFFjeHZYRVZwRTllS2dVWkdIVXRXQmZUMmxIYk9sM2NIQk54WTBMZ3hEUHgtMFJjNTJWRGdBQ3lKNnBLUVQxUndWS29VdHpFeHFvOC12Y0V5eUlqV1JxTUxSRFhZNXJWRVBEMll1U2xlZ1F6U0lRZ0txdDBZOU9UakdLQWJPeC1POG1jNUZqQ3g5aGxfdFg5aGswdEdOLWxYS0FpZkk0Zw?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
       "seenCount": 1
     },
     {
-      "id": "CBMi0gFBVV95cUxQeW54c2t4eUNTNS1kOFBqTzhlZU1TeHktR2g0QzhIeHcydGpzVzdEX3JQSURDQ2pHd1ZRTG41ZGJQbXhobkZrTXQ0Mmw3RWIzOVBQeW51SHNlZ0EtUlZ3Wi1DbDl6NGttNHIzOURETmZtWUVOT0paQlNqTzVqVll0UV8zZE1mNWpQQ2FES1prWDdTMHNPXzN1dGRwaHZLZ3ZHTjdTd2NRZjNEUjNxc0VXbjJlSEI5WFdhQzZNX0xKVVFpeWgzeURYU0VLYmFxSHV4cUE",
-      "title": "Gemini, Claude Take Another Bite Out Of ChatGPT's Market Share - Alphabet (NASDAQ:GOOGL) - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeW54c2t4eUNTNS1kOFBqTzhlZU1TeHktR2g0QzhIeHcydGpzVzdEX3JQSURDQ2pHd1ZRTG41ZGJQbXhobkZrTXQ0Mmw3RWIzOVBQeW51SHNlZ0EtUlZ3Wi1DbDl6NGttNHIzOURETmZtWUVOT0paQlNqTzVqVll0UV8zZE1mNWpQQ2FES1prWDdTMHNPXzN1dGRwaHZLZ3ZHTjdTd2NRZjNEUjNxc0VXbjJlSEI5WFdhQzZNX0xKVVFpeWgzeURYU0VLYmFxSHV4cUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeW54c2t4eUNTNS1kOFBqTzhlZU1TeHktR2g0QzhIeHcydGpzVzdEX3JQSURDQ2pHd1ZRTG41ZGJQbXhobkZrTXQ0Mmw3RWIzOVBQeW51SHNlZ0EtUlZ3Wi1DbDl6NGttNHIzOURETmZtWUVOT0paQlNqTzVqVll0UV8zZE1mNWpQQ2FES1prWDdTMHNPXzN1dGRwaHZLZ3ZHTjdTd2NRZjNEUjNxc0VXbjJlSEI5WFdhQzZNX0xKVVFpeWgzeURYU0VLYmFxSHV4cUE?oc=5\" target=\"_blank\">Gemini, Claude Take Another Bite Out Of ChatGPT's Market Share - Alphabet (NASDAQ:GOOGL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "publishedAt": "2026-06-09T17:48:02.000Z",
-      "sourceName": "ChatGPT and Gemini",
+      "id": "CBMitAFBVV95cUxPcUVhaE5DR2hEVjN4M19sYjlGNUFwTE43a1F6NlFDM09qU0x5elZxUGdzRmttQWpGUEpaQ05tQnNVWFpqQW1Td2Qyb0I4WFNia2t5WGFPbG5icWlxSzZIbVlmU3ctbS1zYW41cy1KTjM1VTY2Y1AzN09laTNBYkttZXlJZ3hxS25jZmk3T2w5NDRtSmNNTDlpZWI2RzBYUVZZU19hWFZ0Z2hVMVQzUkROMlVfRG0",
+      "title": "Anthropic CEO Doesn’t Know If Claude Used in Iran School Strike - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUVhaE5DR2hEVjN4M19sYjlGNUFwTE43a1F6NlFDM09qU0x5elZxUGdzRmttQWpGUEpaQ05tQnNVWFpqQW1Td2Qyb0I4WFNia2t5WGFPbG5icWlxSzZIbVlmU3ctbS1zYW41cy1KTjM1VTY2Y1AzN09laTNBYkttZXlJZ3hxS25jZmk3T2w5NDRtSmNNTDlpZWI2RzBYUVZZU19hWFZ0Z2hVMVQzUkROMlVfRG0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUVhaE5DR2hEVjN4M19sYjlGNUFwTE43a1F6NlFDM09qU0x5elZxUGdzRmttQWpGUEpaQ05tQnNVWFpqQW1Td2Qyb0I4WFNia2t5WGFPbG5icWlxSzZIbVlmU3ctbS1zYW41cy1KTjM1VTY2Y1AzN09laTNBYkttZXlJZ3hxS25jZmk3T2w5NDRtSmNNTDlpZWI2RzBYUVZZU19hWFZ0Z2hVMVQzUkROMlVfRG0?oc=5\" target=\"_blank\">Anthropic CEO Doesn’t Know If Claude Used in Iran School Strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "publishedAt": "2026-06-10T15:17:06.000Z",
+      "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
-        "ChatGPT",
-        "Gemini"
+        "Claude",
+        "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeW54c2t4eUNTNS1kOFBqTzhlZU1TeHktR2g0QzhIeHcydGpzVzdEX3JQSURDQ2pHd1ZRTG41ZGJQbXhobkZrTXQ0Mmw3RWIzOVBQeW51SHNlZ0EtUlZ3Wi1DbDl6NGttNHIzOURETmZtWUVOT0paQlNqTzVqVl",
-      "score": 81,
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUVhaE5DR2hEVjN4M19sYjlGNUFwTE43a1F6NlFDM09qU0x5elZxUGdzRmttQWpGUEpaQ05tQnNVWFpqQW1Td2Qyb0I4WFNia2t5WGFPbG5icWlxSzZIbVlmU3ctbS1zYW41cy1KTjM1VTY2Y1AzN09laTNBYk",
+      "score": 76,
       "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeW54c2t4eUNTNS1kOFBqTzhlZU1TeHktR2g0QzhIeHcydGpzVzdEX3JQSURDQ2pHd1ZRTG41ZGJQbXhobkZrTXQ0Mmw3RWIzOVBQeW51SHNlZ0EtUlZ3Wi1DbDl6NGttNHIzOURETmZtWUVOT0paQlNqTzVqVll0UV8zZE1mNWpQQ2FES1prWDdTMHNPXzN1dGRwaHZLZ3ZHTjdTd2NRZjNEUjNxc0VXbjJlSEI5WFdhQzZNX0xKVVFpeWgzeURYU0VLYmFxSHV4cUE?oc=5",
+      "key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUVhaE5DR2hEVjN4M19sYjlGNUFwTE43a1F6NlFDM09qU0x5elZxUGdzRmttQWpGUEpaQ05tQnNVWFpqQW1Td2Qyb0I4WFNia2t5WGFPbG5icWlxSzZIbVlmU3ctbS1zYW41cy1KTjM1VTY2Y1AzN09laTNBYkttZXlJZ3hxS25jZmk3T2w5NDRtSmNNTDlpZWI2RzBYUVZZU19hWFZ0Z2hVMVQzUkROMlVfRG0?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMimgFBVV95cUxNTVpmdUlhb3o5ZUhyYmZ5RjJadVFzeTV4cTlPSnEtdlpGY1NVQlM2VjB4X1NrcXFTUENsREZ1SmRkb0p6ZC1mYTROSEszQnk4ZkhnaTBidUtUc2tfRXBSRkxWQVBpRHBnWkhyMkFLNGJpWE02UFh3VFRyZjlpVnF1b3JucWZUSWpqT013aUlGNnFFRk1yNGEwXy13",
+      "title": "😸 Claude Fable Five is Anthropic's Most Controversial Model Yet - The Neuron",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVpmdUlhb3o5ZUhyYmZ5RjJadVFzeTV4cTlPSnEtdlpGY1NVQlM2VjB4X1NrcXFTUENsREZ1SmRkb0p6ZC1mYTROSEszQnk4ZkhnaTBidUtUc2tfRXBSRkxWQVBpRHBnWkhyMkFLNGJpWE02UFh3VFRyZjlpVnF1b3JucWZUSWpqT013aUlGNnFFRk1yNGEwXy13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVpmdUlhb3o5ZUhyYmZ5RjJadVFzeTV4cTlPSnEtdlpGY1NVQlM2VjB4X1NrcXFTUENsREZ1SmRkb0p6ZC1mYTROSEszQnk4ZkhnaTBidUtUc2tfRXBSRkxWQVBpRHBnWkhyMkFLNGJpWE02UFh3VFRyZjlpVnF1b3JucWZUSWpqT013aUlGNnFFRk1yNGEwXy13?oc=5\" target=\"_blank\">😸 Claude Fable Five is Anthropic's Most Controversial Model Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Neuron</font>",
+      "publishedAt": "2026-06-10T15:09:22.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVpmdUlhb3o5ZUhyYmZ5RjJadVFzeTV4cTlPSnEtdlpGY1NVQlM2VjB4X1NrcXFTUENsREZ1SmRkb0p6ZC1mYTROSEszQnk4ZkhnaTBidUtUc2tfRXBSRkxWQVBpRHBnWkhyMkFLNGJpWE02UFh3VFRyZjlpVn",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVpmdUlhb3o5ZUhyYmZ5RjJadVFzeTV4cTlPSnEtdlpGY1NVQlM2VjB4X1NrcXFTUENsREZ1SmRkb0p6ZC1mYTROSEszQnk4ZkhnaTBidUtUc2tfRXBSRkxWQVBpRHBnWkhyMkFLNGJpWE02UFh3VFRyZjlpVnF1b3JucWZUSWpqT013aUlGNnFFRk1yNGEwXy13?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMinAFBVV95cUxNVVhwbkhUZVAtb1RfbVA3bV9WeU5ySHpiTkJQY1VvNGtuNnplTTZmekJWNXZpNkpwbFlxYWxManV0S3pjUVJRTUd0bXBKcUJPRUgtTEhxUEFFamZQRVBJZXhDbEozLXBTcERoOG1yR0FjeUtpaDNhZGdTNlo0RVh1cE41bmdJcXc2OTZ1QlNBeWJON0pSZnhSRm54V0k",
+      "title": "Anthropic Unveils Fable 5 and Mythos 5: New Claude Models with Benchmarks - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVhwbkhUZVAtb1RfbVA3bV9WeU5ySHpiTkJQY1VvNGtuNnplTTZmekJWNXZpNkpwbFlxYWxManV0S3pjUVJRTUd0bXBKcUJPRUgtTEhxUEFFamZQRVBJZXhDbEozLXBTcERoOG1yR0FjeUtpaDNhZGdTNlo0RVh1cE41bmdJcXc2OTZ1QlNBeWJON0pSZnhSRm54V0k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVhwbkhUZVAtb1RfbVA3bV9WeU5ySHpiTkJQY1VvNGtuNnplTTZmekJWNXZpNkpwbFlxYWxManV0S3pjUVJRTUd0bXBKcUJPRUgtTEhxUEFFamZQRVBJZXhDbEozLXBTcERoOG1yR0FjeUtpaDNhZGdTNlo0RVh1cE41bmdJcXc2OTZ1QlNBeWJON0pSZnhSRm54V0k?oc=5\" target=\"_blank\">Anthropic Unveils Fable 5 and Mythos 5: New Claude Models with Benchmarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ForkLog</font>",
+      "publishedAt": "2026-06-10T14:58:33.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVhwbkhUZVAtb1RfbVA3bV9WeU5ySHpiTkJQY1VvNGtuNnplTTZmekJWNXZpNkpwbFlxYWxManV0S3pjUVJRTUd0bXBKcUJPRUgtTEhxUEFFamZQRVBJZXhDbEozLXBTcERoOG1yR0FjeUtpaDNhZGdTNlo0RV",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVhwbkhUZVAtb1RfbVA3bV9WeU5ySHpiTkJQY1VvNGtuNnplTTZmekJWNXZpNkpwbFlxYWxManV0S3pjUVJRTUd0bXBKcUJPRUgtTEhxUEFFamZQRVBJZXhDbEozLXBTcERoOG1yR0FjeUtpaDNhZGdTNlo0RVh1cE41bmdJcXc2OTZ1QlNBeWJON0pSZnhSRm54V0k?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMixgFBVV95cUxNc1lCejNWc2ZmdVZ5cmNvM21OblR5ZGstVWtiWjlZdHVKQmxxOHJJUFJSemYtTE9ibWxIbFhvWEotMW4xTFRRaTBTM05mRTltcGJ6bWQxQnlkUHZyM1V6Q3NvSHRORFpZSlVrbTJEUnZYT04tZ1kzY3Vhb1plYjBWeGMyZXZ1UnlWc1JaOUhqeWw4U19EaERkbE1hSEdRQ2FVMHBlNWx5R1JVYkhSWWx6M3kzSFZIaFlickZEc2RUQmtUMVlnbVE",
+      "title": "Rockefeller taps Anthropic's Claude to build AI-enabled wealth management platform - InvestmentNews",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1lCejNWc2ZmdVZ5cmNvM21OblR5ZGstVWtiWjlZdHVKQmxxOHJJUFJSemYtTE9ibWxIbFhvWEotMW4xTFRRaTBTM05mRTltcGJ6bWQxQnlkUHZyM1V6Q3NvSHRORFpZSlVrbTJEUnZYT04tZ1kzY3Vhb1plYjBWeGMyZXZ1UnlWc1JaOUhqeWw4U19EaERkbE1hSEdRQ2FVMHBlNWx5R1JVYkhSWWx6M3kzSFZIaFlickZEc2RUQmtUMVlnbVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1lCejNWc2ZmdVZ5cmNvM21OblR5ZGstVWtiWjlZdHVKQmxxOHJJUFJSemYtTE9ibWxIbFhvWEotMW4xTFRRaTBTM05mRTltcGJ6bWQxQnlkUHZyM1V6Q3NvSHRORFpZSlVrbTJEUnZYT04tZ1kzY3Vhb1plYjBWeGMyZXZ1UnlWc1JaOUhqeWw4U19EaERkbE1hSEdRQ2FVMHBlNWx5R1JVYkhSWWx6M3kzSFZIaFlickZEc2RUQmtUMVlnbVE?oc=5\" target=\"_blank\">Rockefeller taps Anthropic's Claude to build AI-enabled wealth management platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestmentNews</font>",
+      "publishedAt": "2026-06-10T14:20:47.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1lCejNWc2ZmdVZ5cmNvM21OblR5ZGstVWtiWjlZdHVKQmxxOHJJUFJSemYtTE9ibWxIbFhvWEotMW4xTFRRaTBTM05mRTltcGJ6bWQxQnlkUHZyM1V6Q3NvSHRORFpZSlVrbTJEUnZYT04tZ1kzY3Vhb1plYj",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1lCejNWc2ZmdVZ5cmNvM21OblR5ZGstVWtiWjlZdHVKQmxxOHJJUFJSemYtTE9ibWxIbFhvWEotMW4xTFRRaTBTM05mRTltcGJ6bWQxQnlkUHZyM1V6Q3NvSHRORFpZSlVrbTJEUnZYT04tZ1kzY3Vhb1plYjBWeGMyZXZ1UnlWc1JaOUhqeWw4U19EaERkbE1hSEdRQ2FVMHBlNWx5R1JVYkhSWWx6M3kzSFZIaFlickZEc2RUQmtUMVlnbVE?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE",
+      "title": "Anthropic rolls out ‘Mythos-like’ AI model Claude Fable 5 - Silicon Republic",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE?oc=5\" target=\"_blank\">Anthropic rolls out ‘Mythos-like’ AI model Claude Fable 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Silicon Republic</font>",
+      "publishedAt": "2026-06-10T14:09:43.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMD",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 2
+    },
+    {
+      "id": "CBMi2gFBVV95cUxNeVZkQlFnc05ZcmtFU3hIUE8xZFY1dzM0WXJTSnB6NVBST010aF9lamFBUmZVbjVub1FfcHppRDVSeVAwcXBFOXZSTXdpUFliQjJmeUFNVldfUVIwdXllTEp6ZGozLTd4WG41ako2cDBpelpuRFFpd3owdXV6c0xTSmpGdWp1WnJmcFRnY2xBbVVFWkU5eFM5S2tKczdNaDBuNThkYlZNNU5KM2tNVHRnZG53a3hNeTFvRy1JTVhYeXZ1OTNRamZwNHRhbV9pTTBZZmxicTFjNEZ6dw",
+      "title": "Anthropic Launches Claude Fable 5 as Service Disruption Tests Enterprise Confidence in AI Infrastructure - AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVZkQlFnc05ZcmtFU3hIUE8xZFY1dzM0WXJTSnB6NVBST010aF9lamFBUmZVbjVub1FfcHppRDVSeVAwcXBFOXZSTXdpUFliQjJmeUFNVldfUVIwdXllTEp6ZGozLTd4WG41ako2cDBpelpuRFFpd3owdXV6c0xTSmpGdWp1WnJmcFRnY2xBbVVFWkU5eFM5S2tKczdNaDBuNThkYlZNNU5KM2tNVHRnZG53a3hNeTFvRy1JTVhYeXZ1OTNRamZwNHRhbV9pTTBZZmxicTFjNEZ6dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVZkQlFnc05ZcmtFU3hIUE8xZFY1dzM0WXJTSnB6NVBST010aF9lamFBUmZVbjVub1FfcHppRDVSeVAwcXBFOXZSTXdpUFliQjJmeUFNVldfUVIwdXllTEp6ZGozLTd4WG41ako2cDBpelpuRFFpd3owdXV6c0xTSmpGdWp1WnJmcFRnY2xBbVVFWkU5eFM5S2tKczdNaDBuNThkYlZNNU5KM2tNVHRnZG53a3hNeTFvRy1JTVhYeXZ1OTNRamZwNHRhbV9pTTBZZmxicTFjNEZ6dw?oc=5\" target=\"_blank\">Anthropic Launches Claude Fable 5 as Service Disruption Tests Enterprise Confidence in AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
+      "publishedAt": "2026-06-10T13:54:41.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVZkQlFnc05ZcmtFU3hIUE8xZFY1dzM0WXJTSnB6NVBST010aF9lamFBUmZVbjVub1FfcHppRDVSeVAwcXBFOXZSTXdpUFliQjJmeUFNVldfUVIwdXllTEp6ZGozLTd4WG41ako2cDBpelpuRFFpd3owdXV6c0",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVZkQlFnc05ZcmtFU3hIUE8xZFY1dzM0WXJTSnB6NVBST010aF9lamFBUmZVbjVub1FfcHppRDVSeVAwcXBFOXZSTXdpUFliQjJmeUFNVldfUVIwdXllTEp6ZGozLTd4WG41ako2cDBpelpuRFFpd3owdXV6c0xTSmpGdWp1WnJmcFRnY2xBbVVFWkU5eFM5S2tKczdNaDBuNThkYlZNNU5KM2tNVHRnZG53a3hNeTFvRy1JTVhYeXZ1OTNRamZwNHRhbV9pTTBZZmxicTFjNEZ6dw?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMi5wFBVV95cUxPN09qVFI5bjNFRkZ6VFhwYjFpUDNKX1pVY1hEMHhZWllqQnpER3ZBY2o0aTNXTTRETC1xUWlOSGFTY1VnMWtPWUJ5SGFrSldXem9pWXJUN2FhUFF2RjRjVXlzQTNIaGM3TUZNeW0yU2tKTk9wMEs0c2t6ZDZwMUxKSUhQS282RHJqYVJjcHNscjZib010MzVkb3lTdFVsYmxXQUhhUXdQd25XOV9RVE0xTXV4R08xd01QY3JaQkl6d1NicmJBV3B1U2drY0VNa2YwdEI3RFpUYzQteFoweDZqd2JoRndYbkU",
+      "title": "Rubrik using AI for a service interface, Anthropic Claude safety net and cloud app stack recovery - Blocks & Files",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN09qVFI5bjNFRkZ6VFhwYjFpUDNKX1pVY1hEMHhZWllqQnpER3ZBY2o0aTNXTTRETC1xUWlOSGFTY1VnMWtPWUJ5SGFrSldXem9pWXJUN2FhUFF2RjRjVXlzQTNIaGM3TUZNeW0yU2tKTk9wMEs0c2t6ZDZwMUxKSUhQS282RHJqYVJjcHNscjZib010MzVkb3lTdFVsYmxXQUhhUXdQd25XOV9RVE0xTXV4R08xd01QY3JaQkl6d1NicmJBV3B1U2drY0VNa2YwdEI3RFpUYzQteFoweDZqd2JoRndYbkU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN09qVFI5bjNFRkZ6VFhwYjFpUDNKX1pVY1hEMHhZWllqQnpER3ZBY2o0aTNXTTRETC1xUWlOSGFTY1VnMWtPWUJ5SGFrSldXem9pWXJUN2FhUFF2RjRjVXlzQTNIaGM3TUZNeW0yU2tKTk9wMEs0c2t6ZDZwMUxKSUhQS282RHJqYVJjcHNscjZib010MzVkb3lTdFVsYmxXQUhhUXdQd25XOV9RVE0xTXV4R08xd01QY3JaQkl6d1NicmJBV3B1U2drY0VNa2YwdEI3RFpUYzQteFoweDZqd2JoRndYbkU?oc=5\" target=\"_blank\">Rubrik using AI for a service interface, Anthropic Claude safety net and cloud app stack recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blocks & Files</font>",
+      "publishedAt": "2026-06-10T13:47:15.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN09qVFI5bjNFRkZ6VFhwYjFpUDNKX1pVY1hEMHhZWllqQnpER3ZBY2o0aTNXTTRETC1xUWlOSGFTY1VnMWtPWUJ5SGFrSldXem9pWXJUN2FhUFF2RjRjVXlzQTNIaGM3TUZNeW0yU2tKTk9wMEs0c2t6ZDZwMU",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN09qVFI5bjNFRkZ6VFhwYjFpUDNKX1pVY1hEMHhZWllqQnpER3ZBY2o0aTNXTTRETC1xUWlOSGFTY1VnMWtPWUJ5SGFrSldXem9pWXJUN2FhUFF2RjRjVXlzQTNIaGM3TUZNeW0yU2tKTk9wMEs0c2t6ZDZwMUxKSUhQS282RHJqYVJjcHNscjZib010MzVkb3lTdFVsYmxXQUhhUXdQd25XOV9RVE0xTXV4R08xd01QY3JaQkl6d1NicmJBV3B1U2drY0VNa2YwdEI3RFpUYzQteFoweDZqd2JoRndYbkU?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMitgFBVV95cUxPUmxfQ2J0ZG96cHZSSnlVQTBIeHdya3J2Uy1XX3h2YU5WdGx2Qms1QlM0X3FaZ1NpQ1pWNWlNR3A4U3pxNGV3NTJXdWtqYTZ5UXd3eTN6aVUzT3NCSGI5WmtadlFIalVwcUZrMGFUS1lqcmI1SENTbzlVRUZNVU5paHpkWjd3RG9UcUprOWdoODh6WWQ2eDB6WlBRUFlQd1NoUHdoQ1N3QW11Zl9uSXZIV1ozWnREdw",
+      "title": "AI firm Anthropic releases long-anticipated Claude Fable 5 - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmxfQ2J0ZG96cHZSSnlVQTBIeHdya3J2Uy1XX3h2YU5WdGx2Qms1QlM0X3FaZ1NpQ1pWNWlNR3A4U3pxNGV3NTJXdWtqYTZ5UXd3eTN6aVUzT3NCSGI5WmtadlFIalVwcUZrMGFUS1lqcmI1SENTbzlVRUZNVU5paHpkWjd3RG9UcUprOWdoODh6WWQ2eDB6WlBRUFlQd1NoUHdoQ1N3QW11Zl9uSXZIV1ozWnREdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmxfQ2J0ZG96cHZSSnlVQTBIeHdya3J2Uy1XX3h2YU5WdGx2Qms1QlM0X3FaZ1NpQ1pWNWlNR3A4U3pxNGV3NTJXdWtqYTZ5UXd3eTN6aVUzT3NCSGI5WmtadlFIalVwcUZrMGFUS1lqcmI1SENTbzlVRUZNVU5paHpkWjd3RG9UcUprOWdoODh6WWQ2eDB6WlBRUFlQd1NoUHdoQ1N3QW11Zl9uSXZIV1ozWnREdw?oc=5\" target=\"_blank\">AI firm Anthropic releases long-anticipated Claude Fable 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
+      "publishedAt": "2026-06-10T13:22:57.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmxfQ2J0ZG96cHZSSnlVQTBIeHdya3J2Uy1XX3h2YU5WdGx2Qms1QlM0X3FaZ1NpQ1pWNWlNR3A4U3pxNGV3NTJXdWtqYTZ5UXd3eTN6aVUzT3NCSGI5WmtadlFIalVwcUZrMGFUS1lqcmI1SENTbzlVRUZNVU",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmxfQ2J0ZG96cHZSSnlVQTBIeHdya3J2Uy1XX3h2YU5WdGx2Qms1QlM0X3FaZ1NpQ1pWNWlNR3A4U3pxNGV3NTJXdWtqYTZ5UXd3eTN6aVUzT3NCSGI5WmtadlFIalVwcUZrMGFUS1lqcmI1SENTbzlVRUZNVU5paHpkWjd3RG9UcUprOWdoODh6WWQ2eDB6WlBRUFlQd1NoUHdoQ1N3QW11Zl9uSXZIV1ozWnREdw?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMi5AFBVV95cUxPaGduWjBKZjN3R3g3MmN6b0ExaUNaWnR4N3hYbmFvWVNfOFJIVmV6SDVoa0Y3NVlCZkxvb0hFUnpEX3JwZ3cxaVUxQTkwVlFBNXIxWFlINVM0TVZzVjQtZS16VjA4ZHpqLW84djdsUFZBZnhGeEZZcmJObWV6R251eWFOczJyTElSeHZocUc0My15SEFKVHQ3ZGZONGpzemdXTWQxLU04cEJkOW5PdmVIdlJBbUcySVM3Qk1ST19ROUV1LUhVMktGcTA3TVRaandNNVdHd0FpMnpodVMxVFMtUHhwVHc",
+      "title": "Anthropic Releases Mythos-Class Claude Fable 5 as Enterprises Struggle to Govern AI Security Risk - CX Today",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGduWjBKZjN3R3g3MmN6b0ExaUNaWnR4N3hYbmFvWVNfOFJIVmV6SDVoa0Y3NVlCZkxvb0hFUnpEX3JwZ3cxaVUxQTkwVlFBNXIxWFlINVM0TVZzVjQtZS16VjA4ZHpqLW84djdsUFZBZnhGeEZZcmJObWV6R251eWFOczJyTElSeHZocUc0My15SEFKVHQ3ZGZONGpzemdXTWQxLU04cEJkOW5PdmVIdlJBbUcySVM3Qk1ST19ROUV1LUhVMktGcTA3TVRaandNNVdHd0FpMnpodVMxVFMtUHhwVHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGduWjBKZjN3R3g3MmN6b0ExaUNaWnR4N3hYbmFvWVNfOFJIVmV6SDVoa0Y3NVlCZkxvb0hFUnpEX3JwZ3cxaVUxQTkwVlFBNXIxWFlINVM0TVZzVjQtZS16VjA4ZHpqLW84djdsUFZBZnhGeEZZcmJObWV6R251eWFOczJyTElSeHZocUc0My15SEFKVHQ3ZGZONGpzemdXTWQxLU04cEJkOW5PdmVIdlJBbUcySVM3Qk1ST19ROUV1LUhVMktGcTA3TVRaandNNVdHd0FpMnpodVMxVFMtUHhwVHc?oc=5\" target=\"_blank\">Anthropic Releases Mythos-Class Claude Fable 5 as Enterprises Struggle to Govern AI Security Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CX Today</font>",
+      "publishedAt": "2026-06-10T13:14:13.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGduWjBKZjN3R3g3MmN6b0ExaUNaWnR4N3hYbmFvWVNfOFJIVmV6SDVoa0Y3NVlCZkxvb0hFUnpEX3JwZ3cxaVUxQTkwVlFBNXIxWFlINVM0TVZzVjQtZS16VjA4ZHpqLW84djdsUFZBZnhGeEZZcmJObWV6R2",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGduWjBKZjN3R3g3MmN6b0ExaUNaWnR4N3hYbmFvWVNfOFJIVmV6SDVoa0Y3NVlCZkxvb0hFUnpEX3JwZ3cxaVUxQTkwVlFBNXIxWFlINVM0TVZzVjQtZS16VjA4ZHpqLW84djdsUFZBZnhGeEZZcmJObWV6R251eWFOczJyTElSeHZocUc0My15SEFKVHQ3ZGZONGpzemdXTWQxLU04cEJkOW5PdmVIdlJBbUcySVM3Qk1ST19ROUV1LUhVMktGcTA3TVRaandNNVdHd0FpMnpodVMxVFMtUHhwVHc?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiW0FVX3lxTE9pX0VvdkNzRF9kQVpXNGtSSnRrTFhyZkxwX1pTLVZNMkJuV0tRa05URjRQaEMxUks1cEpyY0JDRTVqTkxkMk9GT01BSFFfemRYXzlia2xYemZ6X1k",
+      "title": "Anthropic releases powerful Claude Fable 5 AI model with enhanced safety - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pX0VvdkNzRF9kQVpXNGtSSnRrTFhyZkxwX1pTLVZNMkJuV0tRa05URjRQaEMxUks1cEpyY0JDRTVqTkxkMk9GT01BSFFfemRYXzlia2xYemZ6X1k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pX0VvdkNzRF9kQVpXNGtSSnRrTFhyZkxwX1pTLVZNMkJuV0tRa05URjRQaEMxUks1cEpyY0JDRTVqTkxkMk9GT01BSFFfemRYXzlia2xYemZ6X1k?oc=5\" target=\"_blank\">Anthropic releases powerful Claude Fable 5 AI model with enhanced safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "publishedAt": "2026-06-10T12:44:40.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pX0VvdkNzRF9kQVpXNGtSSnRrTFhyZkxwX1pTLVZNMkJuV0tRa05URjRQaEMxUks1cEpyY0JDRTVqTkxkMk9GT01BSFFfemRYXzlia2xYemZ6X1k?oc=5\" target=\"_blank\">Anthropic releases power",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pX0VvdkNzRF9kQVpXNGtSSnRrTFhyZkxwX1pTLVZNMkJuV0tRa05URjRQaEMxUks1cEpyY0JDRTVqTkxkMk9GT01BSFFfemRYXzlia2xYemZ6X1k?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMidEFVX3lxTFB0RGNBWHZpREJEUGJONVZBdHcyeUxvWldRNUpvand3dVRGQzNsOTVzRm1zUjVmbnlqYXVETWpPZFlKUGhaaFE2QnRDTUR4WWtvTUZ4c251WVhfYVJwSGR2bDU4QWdseTdOUjBnWFRXVS02Qk9Y",
+      "title": "Anthropic launches Claude Design - App Developer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0RGNBWHZpREJEUGJONVZBdHcyeUxvWldRNUpvand3dVRGQzNsOTVzRm1zUjVmbnlqYXVETWpPZFlKUGhaaFE2QnRDTUR4WWtvTUZ4c251WVhfYVJwSGR2bDU4QWdseTdOUjBnWFRXVS02Qk9Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB0RGNBWHZpREJEUGJONVZBdHcyeUxvWldRNUpvand3dVRGQzNsOTVzRm1zUjVmbnlqYXVETWpPZFlKUGhaaFE2QnRDTUR4WWtvTUZ4c251WVhfYVJwSGR2bDU4QWdseTdOUjBnWFRXVS02Qk9Y?oc=5\" target=\"_blank\">Anthropic launches Claude Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">App Developer Magazine</font>",
+      "publishedAt": "2026-06-10T12:29:19.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB0RGNBWHZpREJEUGJONVZBdHcyeUxvWldRNUpvand3dVRGQzNsOTVzRm1zUjVmbnlqYXVETWpPZFlKUGhaaFE2QnRDTUR4WWtvTUZ4c251WVhfYVJwSGR2bDU4QWdseTdOUjBnWFRXVS02Qk9Y?oc=5\" target=",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0RGNBWHZpREJEUGJONVZBdHcyeUxvWldRNUpvand3dVRGQzNsOTVzRm1zUjVmbnlqYXVETWpPZFlKUGhaaFE2QnRDTUR4WWtvTUZ4c251WVhfYVJwSGR2bDU4QWdseTdOUjBnWFRXVS02Qk9Y?oc=5",
+      "firstSeenAt": "2026-06-10T16:08:04.702Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
       "seenCount": 1
     },
     {
@@ -298,8 +597,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XMTJ5Tk10VkNlT3hHUU9TT1czdk96TGZBMlNRS0YzMjZKeE9yLUpKV0ZBREtFYWVkTDhRYUYzYVpjVnRPZHowOG5BbFpXXzJWeEQzaGtIU24zU084MmpWNkNCMmRKemhaMll3?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 2
     },
     {
       "id": "CBMizAFBVV95cUxNcVROcXpKVjFmbzdiSWFoNG9qR1ljVllUcFZsZlAwaVdIY1dXblJtNE03cWpWZlZOdEpVeUFTMmUyWWN2QUxnWllYZmxEQWNhWmZ1dk1kb0YwWS1DX09jUlljc3dmeUw0Y2pfcDJ6aHNWNWNnYnFha0Zta2lOUTNmOEtKcTRoajNJbXhDM19zeW1LUHI5OTBkNjdaMDZzY0JrbV9nbjhSM1dRX3ZiTUxUam55Qy15Z0dnTDhYaWVMamZ2ajhnY1B0Rmx6WkI",
@@ -318,8 +617,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcVROcXpKVjFmbzdiSWFoNG9qR1ljVllUcFZsZlAwaVdIY1dXblJtNE03cWpWZlZOdEpVeUFTMmUyWWN2QUxnWllYZmxEQWNhWmZ1dk1kb0YwWS1DX09jUlljc3dmeUw0Y2pfcDJ6aHNWNWNnYnFha0Zta2lOUTNmOEtKcTRoajNJbXhDM19zeW1LUHI5OTBkNjdaMDZzY0JrbV9nbjhSM1dRX3ZiTUxUam55Qy15Z0dnTDhYaWVMamZ2ajhnY1B0Rmx6WkI?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 2
     },
     {
       "id": "CBMiqgFBVV95cUxOSnZONm1Uc1Zmc19PZmd0d3NILWstSi14M2F2bEhzOGIzWVZjNkRLdXEzZGgxWDUtaW1pUmJodEg1ek9fUmNQSUhHRVA3Tk9IWC1ya3RBSDRMNzJFY2hieU5sbUJjYUxvZXgxVExiSjd2dmhGNm9tMXFIVHl5bzZBU2pDNDZBelF1V29WUE9XQUdZR2psdjRGVDJ5dDZic1ZkMnRhdWVSNnQtdw",
@@ -338,8 +637,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnZONm1Uc1Zmc19PZmd0d3NILWstSi14M2F2bEhzOGIzWVZjNkRLdXEzZGgxWDUtaW1pUmJodEg1ek9fUmNQSUhHRVA3Tk9IWC1ya3RBSDRMNzJFY2hieU5sbUJjYUxvZXgxVExiSjd2dmhGNm9tMXFIVHl5bzZBU2pDNDZBelF1V29WUE9XQUdZR2psdjRGVDJ5dDZic1ZkMnRhdWVSNnQtdw?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 2
     },
     {
       "id": "CBMixwFBVV95cUxOZlNBX2FINmlmRXY0a3NtSGd5NGM0SEpQQXNyNllBS0g3V3h3bF9fT3VsbUhFRTFhU0NjNk85TkdwSVFjVUFYdkNrZnYzR09xRkRLaVBfaUFZaWlxVE1MYjBkc3k0SHE5bzBFbUhRQ1k2U3gxRzlCbnd6V2NSYndwN0prSjhMY28yTnp6LWt3XzgtRnlSRm1nYnJoZl9YZ1h2eVZxNmxJT1R4NEswUWt6ZlI1QkZlVlZDbVhCTGkxNkJGei1hM1I0",
@@ -358,8 +657,28 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlNBX2FINmlmRXY0a3NtSGd5NGM0SEpQQXNyNllBS0g3V3h3bF9fT3VsbUhFRTFhU0NjNk85TkdwSVFjVUFYdkNrZnYzR09xRkRLaVBfaUFZaWlxVE1MYjBkc3k0SHE5bzBFbUhRQ1k2U3gxRzlCbnd6V2NSYndwN0prSjhMY28yTnp6LWt3XzgtRnlSRm1nYnJoZl9YZ1h2eVZxNmxJT1R4NEswUWt6ZlI1QkZlVlZDbVhCTGkxNkJGei1hM1I0?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 2
+    },
+    {
+      "id": "CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ",
+      "title": "Anthropic releases Claude Fabel 5, it's \"Mythos-class\" model. - investingLive",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ?oc=5\" target=\"_blank\">Anthropic releases Claude Fabel 5, it's \"Mythos-class\" model.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investingLive</font>",
+      "publishedAt": "2026-06-10T09:15:56.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNz",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ?oc=5",
+      "firstSeenAt": "2026-06-09T18:20:37.866Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
+      "seenCount": 5
     },
     {
       "id": "CBMiU0FVX3lxTFBPRVg5dnNqekd2NjRzMmtMTGtjU1NrVGpRb0hsSnN5TkQ2LXA2NHJGRTljcGtUTlFvMmJ1VDM0Wk9jcWNLTnYxWHFqUWdVa05PbFhn",
@@ -398,327 +717,7 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuMjM4bXdkeDY2Qlo0eWdEYmhENDFHdjlLVUllOGlFVzBiemRoWDNGRUZpR2lfSUFKUlFxUmdtbnBsTnlpX0hkdVRzbzdNSV9haTZIandFWXBJRV85TkdBT2xCVTlucmhEcFJNU1V6UjhueXZ2TzBv?oc=5",
       "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE",
-      "title": "Anthropic rolls out ‘Mythos-like’ AI model Claude Fable 5 - Silicon Republic",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE?oc=5\" target=\"_blank\">Anthropic rolls out ‘Mythos-like’ AI model Claude Fable 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Silicon Republic</font>",
-      "publishedAt": "2026-06-10T08:36:51.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMD",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1pFZVUteVljOWRtZnVMcmNqWlhzN3VDeF8zcFctM21VaTdOX3N4YUlaVENMTjhrYkp4VHRQV0FZcXNGSDUxaTlkMUNBeEZfLXpFWThSbGo5T1hwWk82TXc4UzlOQTc0a1BNQ3N6ei1ETXpKLXhadUlQRkxRMDBXWUY5am5Bb1hfMlJSU2E1MkF2MC1ySUoydGlGRlJVNkhzdHhSeHNzczlySjdOZVE?oc=5",
-      "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMiuwFBVV95cUxQSGc3a2hkMXl1OExPd3VaVHNaclA4b0llMko1STZJZmFxaFVlUld0djNfdjE0Nk1HVWpmZmhpd2t1WW1TR0NpZ0NESzVpV0FUbGM1R19FVUx4ZmNXcFJYbUF6YVhiWEFUTDRSRnJzN1dSOGNTdUllc1VlU1dyUzdqZWQ1SXV6bHB0a01vbnNreEFIX01GblJwcERYcExqT3NmTFMtTFB1Wm5ERHlfeVR2cWh5ZXBzZkxkbThn",
-      "title": "Anthropic Releases Claude Fable 5 to Pro, Max, and Enterprise Users Free Until June 22 - gHacks",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGc3a2hkMXl1OExPd3VaVHNaclA4b0llMko1STZJZmFxaFVlUld0djNfdjE0Nk1HVWpmZmhpd2t1WW1TR0NpZ0NESzVpV0FUbGM1R19FVUx4ZmNXcFJYbUF6YVhiWEFUTDRSRnJzN1dSOGNTdUllc1VlU1dyUzdqZWQ1SXV6bHB0a01vbnNreEFIX01GblJwcERYcExqT3NmTFMtTFB1Wm5ERHlfeVR2cWh5ZXBzZkxkbThn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGc3a2hkMXl1OExPd3VaVHNaclA4b0llMko1STZJZmFxaFVlUld0djNfdjE0Nk1HVWpmZmhpd2t1WW1TR0NpZ0NESzVpV0FUbGM1R19FVUx4ZmNXcFJYbUF6YVhiWEFUTDRSRnJzN1dSOGNTdUllc1VlU1dyUzdqZWQ1SXV6bHB0a01vbnNreEFIX01GblJwcERYcExqT3NmTFMtTFB1Wm5ERHlfeVR2cWh5ZXBzZkxkbThn?oc=5\" target=\"_blank\">Anthropic Releases Claude Fable 5 to Pro, Max, and Enterprise Users Free Until June 22</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gHacks</font>",
-      "publishedAt": "2026-06-10T08:25:25.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGc3a2hkMXl1OExPd3VaVHNaclA4b0llMko1STZJZmFxaFVlUld0djNfdjE0Nk1HVWpmZmhpd2t1WW1TR0NpZ0NESzVpV0FUbGM1R19FVUx4ZmNXcFJYbUF6YVhiWEFUTDRSRnJzN1dSOGNTdUllc1VlU1dyUz",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGc3a2hkMXl1OExPd3VaVHNaclA4b0llMko1STZJZmFxaFVlUld0djNfdjE0Nk1HVWpmZmhpd2t1WW1TR0NpZ0NESzVpV0FUbGM1R19FVUx4ZmNXcFJYbUF6YVhiWEFUTDRSRnJzN1dSOGNTdUllc1VlU1dyUzdqZWQ1SXV6bHB0a01vbnNreEFIX01GblJwcERYcExqT3NmTFMtTFB1Wm5ERHlfeVR2cWh5ZXBzZkxkbThn?oc=5",
-      "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMiggFBVV95cUxPYU42SE1XcFZfY1pmQ3BvRlFqYmJIcHBXTlNKVUZpeHdieEZUQlZOeXJ6al9iMGltb2RqVjZsMlo1X3RxazctS1RCQTVrUnFGVmJDMjhqdEFGcVV3anFsNWdiVTBvaElKTEpkUkdFWS1UbkNTazZXQkNucGNPdzR3UzN3",
-      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU42SE1XcFZfY1pmQ3BvRlFqYmJIcHBXTlNKVUZpeHdieEZUQlZOeXJ6al9iMGltb2RqVjZsMlo1X3RxazctS1RCQTVrUnFGVmJDMjhqdEFGcVV3anFsNWdiVTBvaElKTEpkUkdFWS1UbkNTazZXQkNucGNPdzR3UzN3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU42SE1XcFZfY1pmQ3BvRlFqYmJIcHBXTlNKVUZpeHdieEZUQlZOeXJ6al9iMGltb2RqVjZsMlo1X3RxazctS1RCQTVrUnFGVmJDMjhqdEFGcVV3anFsNWdiVTBvaElKTEpkUkdFWS1UbkNTazZXQkNucGNPdzR3UzN3?oc=5\" target=\"_blank\">Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "publishedAt": "2026-06-10T07:37:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU42SE1XcFZfY1pmQ3BvRlFqYmJIcHBXTlNKVUZpeHdieEZUQlZOeXJ6al9iMGltb2RqVjZsMlo1X3RxazctS1RCQTVrUnFGVmJDMjhqdEFGcVV3anFsNWdiVTBvaElKTEpkUkdFWS1UbkNTazZXQkNucGNPdz",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU42SE1XcFZfY1pmQ3BvRlFqYmJIcHBXTlNKVUZpeHdieEZUQlZOeXJ6al9iMGltb2RqVjZsMlo1X3RxazctS1RCQTVrUnFGVmJDMjhqdEFGcVV3anFsNWdiVTBvaElKTEpkUkdFWS1UbkNTazZXQkNucGNPdzR3UzN3?oc=5",
-      "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMivgFBVV95cUxPZWdWSDlpLXVKMEhZRk00ZHdRcEQ0OFNEQlNQU09WYmZ4aEw2TUhZLVpyQU9QVU5zc2x1QmVXSnBnbkcwMnJFdTBnOUdkci15RmhXR2lRZmNVTTZ1ZktLdlJSU3gzZ1ZnVkFEZ0xWMEV3M0ZHUHJ2STF2YlhCWXhWQUlqLUdTXzBnYy1wTWJwR216d3haWUNDUEFhRDBKZ18xYzZwNjl2MmI1ZTBwLXFPRUhGUExZME9mZ2N0RVZR",
-      "title": "Anthropic Launches Claude Fable 5 Amid DeFi Security Concerns - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWdWSDlpLXVKMEhZRk00ZHdRcEQ0OFNEQlNQU09WYmZ4aEw2TUhZLVpyQU9QVU5zc2x1QmVXSnBnbkcwMnJFdTBnOUdkci15RmhXR2lRZmNVTTZ1ZktLdlJSU3gzZ1ZnVkFEZ0xWMEV3M0ZHUHJ2STF2YlhCWXhWQUlqLUdTXzBnYy1wTWJwR216d3haWUNDUEFhRDBKZ18xYzZwNjl2MmI1ZTBwLXFPRUhGUExZME9mZ2N0RVZR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWdWSDlpLXVKMEhZRk00ZHdRcEQ0OFNEQlNQU09WYmZ4aEw2TUhZLVpyQU9QVU5zc2x1QmVXSnBnbkcwMnJFdTBnOUdkci15RmhXR2lRZmNVTTZ1ZktLdlJSU3gzZ1ZnVkFEZ0xWMEV3M0ZHUHJ2STF2YlhCWXhWQUlqLUdTXzBnYy1wTWJwR216d3haWUNDUEFhRDBKZ18xYzZwNjl2MmI1ZTBwLXFPRUhGUExZME9mZ2N0RVZR?oc=5\" target=\"_blank\">Anthropic Launches Claude Fable 5 Amid DeFi Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "publishedAt": "2026-06-10T07:23:05.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWdWSDlpLXVKMEhZRk00ZHdRcEQ0OFNEQlNQU09WYmZ4aEw2TUhZLVpyQU9QVU5zc2x1QmVXSnBnbkcwMnJFdTBnOUdkci15RmhXR2lRZmNVTTZ1ZktLdlJSU3gzZ1ZnVkFEZ0xWMEV3M0ZHUHJ2STF2YlhCWX",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWdWSDlpLXVKMEhZRk00ZHdRcEQ0OFNEQlNQU09WYmZ4aEw2TUhZLVpyQU9QVU5zc2x1QmVXSnBnbkcwMnJFdTBnOUdkci15RmhXR2lRZmNVTTZ1ZktLdlJSU3gzZ1ZnVkFEZ0xWMEV3M0ZHUHJ2STF2YlhCWXhWQUlqLUdTXzBnYy1wTWJwR216d3haWUNDUEFhRDBKZ18xYzZwNjl2MmI1ZTBwLXFPRUhGUExZME9mZ2N0RVZR?oc=5",
-      "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMilwFBVV95cUxNcFNqZmVkbzZJczNkbll2NVpJd3ZpT1BUSnJRU2t6X0NLZVpEb3J5cGMwaXlLNXQwWV9uMXlSZEF3OHlfck13TG9fZWxrZ0pOc2RlaVl3SGhHUlQ1R0EyUTNrSUs5RFAwZHdkUVZwSHVOOV9yMXQtbnlWdEppVXM3c1NSbGZlLXZCOUtKek96NGNRR21XUkxv0gGcAUFVX3lxTFBNaG5KV0taMmtUNXozdE5QRGU4OWMxbTNjYWphVVBETHJ4bGtHV3hNdFNVcU9GLWZmcTBlTk5laXhka1huZXFyazFldno0dHBZNzgxSTRud0VxM1YwTmJKQWM1V1V2T1FsbjE5aS1jTVlvQTY5RWdDWm1LazlkdlM1blVBT1hOZUhEckhvTnotVmpXQ1pBYUR6US1oZA",
-      "title": "Anthropic Launches Claude Fable 5 Amid DeFi Security Concerns - Coinpedia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFNqZmVkbzZJczNkbll2NVpJd3ZpT1BUSnJRU2t6X0NLZVpEb3J5cGMwaXlLNXQwWV9uMXlSZEF3OHlfck13TG9fZWxrZ0pOc2RlaVl3SGhHUlQ1R0EyUTNrSUs5RFAwZHdkUVZwSHVOOV9yMXQtbnlWdEppVXM3c1NSbGZlLXZCOUtKek96NGNRR21XUkxv0gGcAUFVX3lxTFBNaG5KV0taMmtUNXozdE5QRGU4OWMxbTNjYWphVVBETHJ4bGtHV3hNdFNVcU9GLWZmcTBlTk5laXhka1huZXFyazFldno0dHBZNzgxSTRud0VxM1YwTmJKQWM1V1V2T1FsbjE5aS1jTVlvQTY5RWdDWm1LazlkdlM1blVBT1hOZUhEckhvTnotVmpXQ1pBYUR6US1oZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFNqZmVkbzZJczNkbll2NVpJd3ZpT1BUSnJRU2t6X0NLZVpEb3J5cGMwaXlLNXQwWV9uMXlSZEF3OHlfck13TG9fZWxrZ0pOc2RlaVl3SGhHUlQ1R0EyUTNrSUs5RFAwZHdkUVZwSHVOOV9yMXQtbnlWdEppVXM3c1NSbGZlLXZCOUtKek96NGNRR21XUkxv0gGcAUFVX3lxTFBNaG5KV0taMmtUNXozdE5QRGU4OWMxbTNjYWphVVBETHJ4bGtHV3hNdFNVcU9GLWZmcTBlTk5laXhka1huZXFyazFldno0dHBZNzgxSTRud0VxM1YwTmJKQWM1V1V2T1FsbjE5aS1jTVlvQTY5RWdDWm1LazlkdlM1blVBT1hOZUhEckhvTnotVmpXQ1pBYUR6US1oZA?oc=5\" target=\"_blank\">Anthropic Launches Claude Fable 5 Amid DeFi Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
-      "publishedAt": "2026-06-10T07:23:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFNqZmVkbzZJczNkbll2NVpJd3ZpT1BUSnJRU2t6X0NLZVpEb3J5cGMwaXlLNXQwWV9uMXlSZEF3OHlfck13TG9fZWxrZ0pOc2RlaVl3SGhHUlQ1R0EyUTNrSUs5RFAwZHdkUVZwSHVOOV9yMXQtbnlWdEppVX",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFNqZmVkbzZJczNkbll2NVpJd3ZpT1BUSnJRU2t6X0NLZVpEb3J5cGMwaXlLNXQwWV9uMXlSZEF3OHlfck13TG9fZWxrZ0pOc2RlaVl3SGhHUlQ1R0EyUTNrSUs5RFAwZHdkUVZwSHVOOV9yMXQtbnlWdEppVXM3c1NSbGZlLXZCOUtKek96NGNRR21XUkxv0gGcAUFVX3lxTFBNaG5KV0taMmtUNXozdE5QRGU4OWMxbTNjYWphVVBETHJ4bGtHV3hNdFNVcU9GLWZmcTBlTk5laXhka1huZXFyazFldno0dHBZNzgxSTRud0VxM1YwTmJKQWM1V1V2T1FsbjE5aS1jTVlvQTY5RWdDWm1LazlkdlM1blVBT1hOZUhEckhvTnotVmpXQ1pBYUR6US1oZA?oc=5",
-      "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ",
-      "title": "Anthropic releases Claude Fabel 5, it's \"Mythos-class\" model. - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ?oc=5\" target=\"_blank\">Anthropic releases Claude Fabel 5, it's \"Mythos-class\" model.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investingLive</font>",
-      "publishedAt": "2026-06-10T05:12:15.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNz",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlprNHFubmExdGRacllwaHZTWDlVbFVzY1VmeDdTcTlPYnBxcW9uSW1QY0lUUEMyR05NQmgtSlI0T01SSU5Db2NBNGhuX0V4Q3pIUVFndW1pOEQyc01pQ3FteVRnaDBCX1dpZ3RmOFZRTUw5MmctMWdpNjhxNzNJUkxsX1p4YVB6X3FSanhraklZRGlzVnhjVEpxc3FQQQ?oc=5",
-      "firstSeenAt": "2026-06-09T18:20:37.866Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 4
-    },
-    {
-      "id": "CBMizgFBVV95cUxNa0w2NnUxT3NZRHdtWTdaUUlId3pnVVpHcEFTTDFSSHZ3MVBReXd4T2NrTlBYeG9MVTFUbm9nZ0N3SndEYXhnbXowZE9oclA5Q3BMTHlHOVAxdm81cHN1TnFENTRSSkhHUU1qVFhSQXBFcXNGLTZIZXhnNEZCcEhTNlZINXlsaTB3TTBWQTdSX0RWemFQc0lGUktvZm9KVU13SXFQTVNKT3dvcVF6SDhma2w1UTdVa2dvSlIyNllwNWRDMTNtcW9pYzNRTGVPUQ",
-      "title": "Crypto users wary as Anthropic releases Claude Mythos with safeguards - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0w2NnUxT3NZRHdtWTdaUUlId3pnVVpHcEFTTDFSSHZ3MVBReXd4T2NrTlBYeG9MVTFUbm9nZ0N3SndEYXhnbXowZE9oclA5Q3BMTHlHOVAxdm81cHN1TnFENTRSSkhHUU1qVFhSQXBFcXNGLTZIZXhnNEZCcEhTNlZINXlsaTB3TTBWQTdSX0RWemFQc0lGUktvZm9KVU13SXFQTVNKT3dvcVF6SDhma2w1UTdVa2dvSlIyNllwNWRDMTNtcW9pYzNRTGVPUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0w2NnUxT3NZRHdtWTdaUUlId3pnVVpHcEFTTDFSSHZ3MVBReXd4T2NrTlBYeG9MVTFUbm9nZ0N3SndEYXhnbXowZE9oclA5Q3BMTHlHOVAxdm81cHN1TnFENTRSSkhHUU1qVFhSQXBFcXNGLTZIZXhnNEZCcEhTNlZINXlsaTB3TTBWQTdSX0RWemFQc0lGUktvZm9KVU13SXFQTVNKT3dvcVF6SDhma2w1UTdVa2dvSlIyNllwNWRDMTNtcW9pYzNRTGVPUQ?oc=5\" target=\"_blank\">Crypto users wary as Anthropic releases Claude Mythos with safeguards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "publishedAt": "2026-06-10T04:04:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0w2NnUxT3NZRHdtWTdaUUlId3pnVVpHcEFTTDFSSHZ3MVBReXd4T2NrTlBYeG9MVTFUbm9nZ0N3SndEYXhnbXowZE9oclA5Q3BMTHlHOVAxdm81cHN1TnFENTRSSkhHUU1qVFhSQXBFcXNGLTZIZXhnNEZCcE",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0w2NnUxT3NZRHdtWTdaUUlId3pnVVpHcEFTTDFSSHZ3MVBReXd4T2NrTlBYeG9MVTFUbm9nZ0N3SndEYXhnbXowZE9oclA5Q3BMTHlHOVAxdm81cHN1TnFENTRSSkhHUU1qVFhSQXBFcXNGLTZIZXhnNEZCcEhTNlZINXlsaTB3TTBWQTdSX0RWemFQc0lGUktvZm9KVU13SXFQTVNKT3dvcVF6SDhma2w1UTdVa2dvSlIyNllwNWRDMTNtcW9pYzNRTGVPUQ?oc=5",
-      "firstSeenAt": "2026-06-10T11:47:23.159Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMi0gFBVV95cUxPT3UydEg0YkE3dTR1N1dfdDBWUzkyOFpBNXJKdHd5aVcwV1RpY1ZpVzNQRmFBMlQwV1RKZjN1MWFqeHItNGVDbTVUQldnZzBIRGdUbG5tOGdfb1hJeFlyZnJkWWRJeUxleF9xbndnQWNtS21vV3RiaDNYbmFCZG1oNTFqYWRVeEdPVktGcFlicnV5Q3E4amRVeTNEdkdVOUVXRUxMOFc4NE5Ec2k4UmVwZ1hQWk9kX2RqWVhkdzM4OHFTMHZJdnZmeF9CVWZhM2hvZ2fSAdgBQVVfeXFMTnJpMF9hR1pqRlBTVnNkTWRGZTBQdURzWlZqdjdrZndUa3BoNmFZenhTRmpzTkgxMkdlU01CTHhuYWNPMFl5cklfeEZoTkxBRDZ1QmRQUGFiRFprSEJBa0U2eWU4aS13RXprUDlIYkVycWFTcHJfZDdoZkZmYl9kMlhZM1lHM3YyNTFldkxrOG42bHIyMTZlbHFnLTNaRkxITXZLM3dsTTZObjhuSWw1LXowSHo3czdHX1BmbXFxOEVKeGlqRkRnYnpaekNSX0M2M0ZITFMxNWRO",
-      "title": "Anthropic opens Fable 5, restricted version of Claude Mythos 5, to public - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3UydEg0YkE3dTR1N1dfdDBWUzkyOFpBNXJKdHd5aVcwV1RpY1ZpVzNQRmFBMlQwV1RKZjN1MWFqeHItNGVDbTVUQldnZzBIRGdUbG5tOGdfb1hJeFlyZnJkWWRJeUxleF9xbndnQWNtS21vV3RiaDNYbmFCZG1oNTFqYWRVeEdPVktGcFlicnV5Q3E4amRVeTNEdkdVOUVXRUxMOFc4NE5Ec2k4UmVwZ1hQWk9kX2RqWVhkdzM4OHFTMHZJdnZmeF9CVWZhM2hvZ2fSAdgBQVVfeXFMTnJpMF9hR1pqRlBTVnNkTWRGZTBQdURzWlZqdjdrZndUa3BoNmFZenhTRmpzTkgxMkdlU01CTHhuYWNPMFl5cklfeEZoTkxBRDZ1QmRQUGFiRFprSEJBa0U2eWU4aS13RXprUDlIYkVycWFTcHJfZDdoZkZmYl9kMlhZM1lHM3YyNTFldkxrOG42bHIyMTZlbHFnLTNaRkxITXZLM3dsTTZObjhuSWw1LXowSHo3czdHX1BmbXFxOEVKeGlqRkRnYnpaekNSX0M2M0ZITFMxNWRO?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3UydEg0YkE3dTR1N1dfdDBWUzkyOFpBNXJKdHd5aVcwV1RpY1ZpVzNQRmFBMlQwV1RKZjN1MWFqeHItNGVDbTVUQldnZzBIRGdUbG5tOGdfb1hJeFlyZnJkWWRJeUxleF9xbndnQWNtS21vV3RiaDNYbmFCZG1oNTFqYWRVeEdPVktGcFlicnV5Q3E4amRVeTNEdkdVOUVXRUxMOFc4NE5Ec2k4UmVwZ1hQWk9kX2RqWVhkdzM4OHFTMHZJdnZmeF9CVWZhM2hvZ2fSAdgBQVVfeXFMTnJpMF9hR1pqRlBTVnNkTWRGZTBQdURzWlZqdjdrZndUa3BoNmFZenhTRmpzTkgxMkdlU01CTHhuYWNPMFl5cklfeEZoTkxBRDZ1QmRQUGFiRFprSEJBa0U2eWU4aS13RXprUDlIYkVycWFTcHJfZDdoZkZmYl9kMlhZM1lHM3YyNTFldkxrOG42bHIyMTZlbHFnLTNaRkxITXZLM3dsTTZObjhuSWw1LXowSHo3czdHX1BmbXFxOEVKeGlqRkRnYnpaekNSX0M2M0ZITFMxNWRO?oc=5\" target=\"_blank\">Anthropic opens Fable 5, restricted version of Claude Mythos 5, to public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-      "publishedAt": "2026-06-10T03:38:33.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3UydEg0YkE3dTR1N1dfdDBWUzkyOFpBNXJKdHd5aVcwV1RpY1ZpVzNQRmFBMlQwV1RKZjN1MWFqeHItNGVDbTVUQldnZzBIRGdUbG5tOGdfb1hJeFlyZnJkWWRJeUxleF9xbndnQWNtS21vV3RiaDNYbmFCZG",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3UydEg0YkE3dTR1N1dfdDBWUzkyOFpBNXJKdHd5aVcwV1RpY1ZpVzNQRmFBMlQwV1RKZjN1MWFqeHItNGVDbTVUQldnZzBIRGdUbG5tOGdfb1hJeFlyZnJkWWRJeUxleF9xbndnQWNtS21vV3RiaDNYbmFCZG1oNTFqYWRVeEdPVktGcFlicnV5Q3E4amRVeTNEdkdVOUVXRUxMOFc4NE5Ec2k4UmVwZ1hQWk9kX2RqWVhkdzM4OHFTMHZJdnZmeF9CVWZhM2hvZ2fSAdgBQVVfeXFMTnJpMF9hR1pqRlBTVnNkTWRGZTBQdURzWlZqdjdrZndUa3BoNmFZenhTRmpzTkgxMkdlU01CTHhuYWNPMFl5cklfeEZoTkxBRDZ1QmRQUGFiRFprSEJBa0U2eWU4aS13RXprUDlIYkVycWFTcHJfZDdoZkZmYl9kMlhZM1lHM3YyNTFldkxrOG42bHIyMTZlbHFnLTNaRkxITXZLM3dsTTZObjhuSWw1LXowSHo3czdHX1BmbXFxOEVKeGlqRkRnYnpaekNSX0M2M0ZITFMxNWRO?oc=5",
-      "firstSeenAt": "2026-06-10T04:47:33.455Z",
-      "lastSeenAt": "2026-06-10T04:47:33.455Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMimAJBVV95cUxNYXNhaElYRGg0QWI4ZV92WXZTWVJHcXc1STAyWXVlaWtVdjRJbDg4Qk4xTmZfMlhOU0d1RnZzcG93S3RTakYyTXFfaUxvUFhaUEpNa2Ywek90UXB5QWdzSkRRSVhocmZMTm40VmZQRE1kQlhCbXFYTGFMUG9XSlZoM2pocGkta1VjUkRhbFRMRzFDM0Q3NEYxYlhEbG5IMEN0MmRSSDdPbk9vVVNuNkNmeHJyd0RXU1BqMDNRSnI1MWNXS2dYaFJfMEZMeThoaVJSVkllcGFISUJFTUg1XzdhaWdpWW1aNDZDVXYxeXZuRW0zNVhYZkl6bU5kbzhNYnlfRVRTV2VteG9VTzBBVnI2cHRpRzZuTU0t0gGeAkFVX3lxTFBxbmh4U0V3bTh0M3hzUUJQV0hEMTV2SDcwVldvODZEQUJqelNtYk9saTM1NzVfMkFJeUFYb1BkZ2hRX2RXT09saXZKRUw1T0VacWI3amVPZ0VIRjhJZl9uMTNaMWZ5cHpPVGkwUE5wNjI1NlBEaWwwQ1E4cnhSMVZQUERfUWxvNDJORlI2MTUxSFZ0bHZyY0JxeVRYajZmb3dvQV82eHdkTjZJZzNickc2bk8zN1RWRmxmUHNQcEtjTkFjUWw4QnY4NFE3cVppWXRPaGV2UmxZNlItdjVXT2tGRVhrOS02eDl1Q3Rsam1qMnBQMEc4aGw3Z0x2clg5clk1WGVtWVNxaDhRTlp2RGtnTTlBUG9pTHBrZ3lkdnc",
-      "title": "Anthropic's Claude Fable 5 is here: The Mythos-class AI model anyone can now use and what makes it differ - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYXNhaElYRGg0QWI4ZV92WXZTWVJHcXc1STAyWXVlaWtVdjRJbDg4Qk4xTmZfMlhOU0d1RnZzcG93S3RTakYyTXFfaUxvUFhaUEpNa2Ywek90UXB5QWdzSkRRSVhocmZMTm40VmZQRE1kQlhCbXFYTGFMUG9XSlZoM2pocGkta1VjUkRhbFRMRzFDM0Q3NEYxYlhEbG5IMEN0MmRSSDdPbk9vVVNuNkNmeHJyd0RXU1BqMDNRSnI1MWNXS2dYaFJfMEZMeThoaVJSVkllcGFISUJFTUg1XzdhaWdpWW1aNDZDVXYxeXZuRW0zNVhYZkl6bU5kbzhNYnlfRVRTV2VteG9VTzBBVnI2cHRpRzZuTU0t0gGeAkFVX3lxTFBxbmh4U0V3bTh0M3hzUUJQV0hEMTV2SDcwVldvODZEQUJqelNtYk9saTM1NzVfMkFJeUFYb1BkZ2hRX2RXT09saXZKRUw1T0VacWI3amVPZ0VIRjhJZl9uMTNaMWZ5cHpPVGkwUE5wNjI1NlBEaWwwQ1E4cnhSMVZQUERfUWxvNDJORlI2MTUxSFZ0bHZyY0JxeVRYajZmb3dvQV82eHdkTjZJZzNickc2bk8zN1RWRmxmUHNQcEtjTkFjUWw4QnY4NFE3cVppWXRPaGV2UmxZNlItdjVXT2tGRVhrOS02eDl1Q3Rsam1qMnBQMEc4aGw3Z0x2clg5clk1WGVtWVNxaDhRTlp2RGtnTTlBUG9pTHBrZ3lkdnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNYXNhaElYRGg0QWI4ZV92WXZTWVJHcXc1STAyWXVlaWtVdjRJbDg4Qk4xTmZfMlhOU0d1RnZzcG93S3RTakYyTXFfaUxvUFhaUEpNa2Ywek90UXB5QWdzSkRRSVhocmZMTm40VmZQRE1kQlhCbXFYTGFMUG9XSlZoM2pocGkta1VjUkRhbFRMRzFDM0Q3NEYxYlhEbG5IMEN0MmRSSDdPbk9vVVNuNkNmeHJyd0RXU1BqMDNRSnI1MWNXS2dYaFJfMEZMeThoaVJSVkllcGFISUJFTUg1XzdhaWdpWW1aNDZDVXYxeXZuRW0zNVhYZkl6bU5kbzhNYnlfRVRTV2VteG9VTzBBVnI2cHRpRzZuTU0t0gGeAkFVX3lxTFBxbmh4U0V3bTh0M3hzUUJQV0hEMTV2SDcwVldvODZEQUJqelNtYk9saTM1NzVfMkFJeUFYb1BkZ2hRX2RXT09saXZKRUw1T0VacWI3amVPZ0VIRjhJZl9uMTNaMWZ5cHpPVGkwUE5wNjI1NlBEaWwwQ1E4cnhSMVZQUERfUWxvNDJORlI2MTUxSFZ0bHZyY0JxeVRYajZmb3dvQV82eHdkTjZJZzNickc2bk8zN1RWRmxmUHNQcEtjTkFjUWw4QnY4NFE3cVppWXRPaGV2UmxZNlItdjVXT2tGRVhrOS02eDl1Q3Rsam1qMnBQMEc4aGw3Z0x2clg5clk1WGVtWVNxaDhRTlp2RGtnTTlBUG9pTHBrZ3lkdnc?oc=5\" target=\"_blank\">Anthropic's Claude Fable 5 is here: The Mythos-class AI model anyone can now use and what makes it differ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "publishedAt": "2026-06-10T02:36:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNYXNhaElYRGg0QWI4ZV92WXZTWVJHcXc1STAyWXVlaWtVdjRJbDg4Qk4xTmZfMlhOU0d1RnZzcG93S3RTakYyTXFfaUxvUFhaUEpNa2Ywek90UXB5QWdzSkRRSVhocmZMTm40VmZQRE1kQlhCbXFYTGFMUG9XSl",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYXNhaElYRGg0QWI4ZV92WXZTWVJHcXc1STAyWXVlaWtVdjRJbDg4Qk4xTmZfMlhOU0d1RnZzcG93S3RTakYyTXFfaUxvUFhaUEpNa2Ywek90UXB5QWdzSkRRSVhocmZMTm40VmZQRE1kQlhCbXFYTGFMUG9XSlZoM2pocGkta1VjUkRhbFRMRzFDM0Q3NEYxYlhEbG5IMEN0MmRSSDdPbk9vVVNuNkNmeHJyd0RXU1BqMDNRSnI1MWNXS2dYaFJfMEZMeThoaVJSVkllcGFISUJFTUg1XzdhaWdpWW1aNDZDVXYxeXZuRW0zNVhYZkl6bU5kbzhNYnlfRVRTV2VteG9VTzBBVnI2cHRpRzZuTU0t0gGeAkFVX3lxTFBxbmh4U0V3bTh0M3hzUUJQV0hEMTV2SDcwVldvODZEQUJqelNtYk9saTM1NzVfMkFJeUFYb1BkZ2hRX2RXT09saXZKRUw1T0VacWI3amVPZ0VIRjhJZl9uMTNaMWZ5cHpPVGkwUE5wNjI1NlBEaWwwQ1E4cnhSMVZQUERfUWxvNDJORlI2MTUxSFZ0bHZyY0JxeVRYajZmb3dvQV82eHdkTjZJZzNickc2bk8zN1RWRmxmUHNQcEtjTkFjUWw4QnY4NFE3cVppWXRPaGV2UmxZNlItdjVXT2tGRVhrOS02eDl1Q3Rsam1qMnBQMEc4aGw3Z0x2clg5clk1WGVtWVNxaDhRTlp2RGtnTTlBUG9pTHBrZ3lkdnc?oc=5",
-      "firstSeenAt": "2026-06-10T04:47:33.455Z",
-      "lastSeenAt": "2026-06-10T04:47:33.455Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMickFVX3lxTE0zSzR3V3dpN0JNd3RpLTVSVkJZeUlQYUlLNlRDQ0x0d1p5M3ltRkJnaG5IbzNuLW9EWnRGWGxvSUxmWGdDTmhRVWRuZFdMTENXZFFRcWU0VnRVVU5DU2FTdDQ3d1dOano5dW5IdnBMejJJUQ",
-      "title": "Claude Fable 5: Anthropic Releases Public Version Of High-Risk AI - Ubergizmo",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zSzR3V3dpN0JNd3RpLTVSVkJZeUlQYUlLNlRDQ0x0d1p5M3ltRkJnaG5IbzNuLW9EWnRGWGxvSUxmWGdDTmhRVWRuZFdMTENXZFFRcWU0VnRVVU5DU2FTdDQ3d1dOano5dW5IdnBMejJJUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zSzR3V3dpN0JNd3RpLTVSVkJZeUlQYUlLNlRDQ0x0d1p5M3ltRkJnaG5IbzNuLW9EWnRGWGxvSUxmWGdDTmhRVWRuZFdMTENXZFFRcWU0VnRVVU5DU2FTdDQ3d1dOano5dW5IdnBMejJJUQ?oc=5\" target=\"_blank\">Claude Fable 5: Anthropic Releases Public Version Of High-Risk AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ubergizmo</font>",
-      "publishedAt": "2026-06-10T02:14:15.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zSzR3V3dpN0JNd3RpLTVSVkJZeUlQYUlLNlRDQ0x0d1p5M3ltRkJnaG5IbzNuLW9EWnRGWGxvSUxmWGdDTmhRVWRuZFdMTENXZFFRcWU0VnRVVU5DU2FTdDQ3d1dOano5dW5IdnBMejJJUQ?oc=5\" target=\"_",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zSzR3V3dpN0JNd3RpLTVSVkJZeUlQYUlLNlRDQ0x0d1p5M3ltRkJnaG5IbzNuLW9EWnRGWGxvSUxmWGdDTmhRVWRuZFdMTENXZFFRcWU0VnRVVU5DU2FTdDQ3d1dOano5dW5IdnBMejJJUQ?oc=5",
-      "firstSeenAt": "2026-06-10T04:47:33.455Z",
-      "lastSeenAt": "2026-06-10T04:47:33.455Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMizwFBVV95cUxPSkRmRkFxRklyNmQ2eFJXX2czODNDUkJ4ZU9VMDdPeksyYnVCOW9rYlRCM21pSWJqaHhLclZ1dmJKRm1GZzNkT3gtZVd4emtNM0FpSlVES0Ytdmw1clA4eGpYSWYxdjhlU2gzcnVlU3ZJWGNWTElfak50MkZ3d3hJeU45V1ktbGlVNFNVU0M0MWU4TGQ0bDBuZmVERVlFNVdsUmhKWW8zMVJJZ0hCUlRnQTkwVkNJMkVuRUpOUkZYaDEyem44NGU3UGROVU45S03SAdQBQVVfeXFMT3F0bTk2ZGlia0w3ZmhwZW9LaGZXMF9pdzJ5N09xN3luQlp1akh4cjJ5M3RzenRJendjYWM1OEhTdWJnTVFxZjF6aGstSWlSOS1vd1l6QlU0YlAzYXdGWXpFeWJOZlp0N1d3bEwzbW1ZTnk5d1h0X3BXN3dtLVBsM3NURWFWMy1xUjB6U1JtT1V6Nk9CRHNFR295WkY0R0loNVB3MUNLRDdpaUx1dTdwTmZ4bDFCc1JwVDI2ZmtEd19wM2VUYlNxc1NURlRVNEItcHpmWkw",
-      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkRmRkFxRklyNmQ2eFJXX2czODNDUkJ4ZU9VMDdPeksyYnVCOW9rYlRCM21pSWJqaHhLclZ1dmJKRm1GZzNkT3gtZVd4emtNM0FpSlVES0Ytdmw1clA4eGpYSWYxdjhlU2gzcnVlU3ZJWGNWTElfak50MkZ3d3hJeU45V1ktbGlVNFNVU0M0MWU4TGQ0bDBuZmVERVlFNVdsUmhKWW8zMVJJZ0hCUlRnQTkwVkNJMkVuRUpOUkZYaDEyem44NGU3UGROVU45S03SAdQBQVVfeXFMT3F0bTk2ZGlia0w3ZmhwZW9LaGZXMF9pdzJ5N09xN3luQlp1akh4cjJ5M3RzenRJendjYWM1OEhTdWJnTVFxZjF6aGstSWlSOS1vd1l6QlU0YlAzYXdGWXpFeWJOZlp0N1d3bEwzbW1ZTnk5d1h0X3BXN3dtLVBsM3NURWFWMy1xUjB6U1JtT1V6Nk9CRHNFR295WkY0R0loNVB3MUNLRDdpaUx1dTdwTmZ4bDFCc1JwVDI2ZmtEd19wM2VUYlNxc1NURlRVNEItcHpmWkw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkRmRkFxRklyNmQ2eFJXX2czODNDUkJ4ZU9VMDdPeksyYnVCOW9rYlRCM21pSWJqaHhLclZ1dmJKRm1GZzNkT3gtZVd4emtNM0FpSlVES0Ytdmw1clA4eGpYSWYxdjhlU2gzcnVlU3ZJWGNWTElfak50MkZ3d3hJeU45V1ktbGlVNFNVU0M0MWU4TGQ0bDBuZmVERVlFNVdsUmhKWW8zMVJJZ0hCUlRnQTkwVkNJMkVuRUpOUkZYaDEyem44NGU3UGROVU45S03SAdQBQVVfeXFMT3F0bTk2ZGlia0w3ZmhwZW9LaGZXMF9pdzJ5N09xN3luQlp1akh4cjJ5M3RzenRJendjYWM1OEhTdWJnTVFxZjF6aGstSWlSOS1vd1l6QlU0YlAzYXdGWXpFeWJOZlp0N1d3bEwzbW1ZTnk5d1h0X3BXN3dtLVBsM3NURWFWMy1xUjB6U1JtT1V6Nk9CRHNFR295WkY0R0loNVB3MUNLRDdpaUx1dTdwTmZ4bDFCc1JwVDI2ZmtEd19wM2VUYlNxc1NURlRVNEItcHpmWkw?oc=5\" target=\"_blank\">Anthropic rolls out Claude Fable 5, but it's available for a limited time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "publishedAt": "2026-06-10T02:03:31.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkRmRkFxRklyNmQ2eFJXX2czODNDUkJ4ZU9VMDdPeksyYnVCOW9rYlRCM21pSWJqaHhLclZ1dmJKRm1GZzNkT3gtZVd4emtNM0FpSlVES0Ytdmw1clA4eGpYSWYxdjhlU2gzcnVlU3ZJWGNWTElfak50MkZ3d3",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkRmRkFxRklyNmQ2eFJXX2czODNDUkJ4ZU9VMDdPeksyYnVCOW9rYlRCM21pSWJqaHhLclZ1dmJKRm1GZzNkT3gtZVd4emtNM0FpSlVES0Ytdmw1clA4eGpYSWYxdjhlU2gzcnVlU3ZJWGNWTElfak50MkZ3d3hJeU45V1ktbGlVNFNVU0M0MWU4TGQ0bDBuZmVERVlFNVdsUmhKWW8zMVJJZ0hCUlRnQTkwVkNJMkVuRUpOUkZYaDEyem44NGU3UGROVU45S03SAdQBQVVfeXFMT3F0bTk2ZGlia0w3ZmhwZW9LaGZXMF9pdzJ5N09xN3luQlp1akh4cjJ5M3RzenRJendjYWM1OEhTdWJnTVFxZjF6aGstSWlSOS1vd1l6QlU0YlAzYXdGWXpFeWJOZlp0N1d3bEwzbW1ZTnk5d1h0X3BXN3dtLVBsM3NURWFWMy1xUjB6U1JtT1V6Nk9CRHNFR295WkY0R0loNVB3MUNLRDdpaUx1dTdwTmZ4bDFCc1JwVDI2ZmtEd19wM2VUYlNxc1NURlRVNEItcHpmWkw?oc=5",
-      "firstSeenAt": "2026-06-10T04:47:33.455Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMifkFVX3lxTFBKdXhPVm1PeGRTUXVwLUJJNnJrdFhqbWNfVm4zZlRCYXJpYW5xa1FjSlExbEFuSU14cUFkV1BMaGZSaVdGRmg3elpJNVk2WFB4Mmc0YkM3R3lyeTg5V3FXaGQwQzI5Rk9MeEJtMDRkMFYtUWt2TXZILUdBWXE1UQ",
-      "title": "Anthropic launches Claude Fable 5, the safer public version of Mythos AI - Cybernews",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdXhPVm1PeGRTUXVwLUJJNnJrdFhqbWNfVm4zZlRCYXJpYW5xa1FjSlExbEFuSU14cUFkV1BMaGZSaVdGRmg3elpJNVk2WFB4Mmc0YkM3R3lyeTg5V3FXaGQwQzI5Rk9MeEJtMDRkMFYtUWt2TXZILUdBWXE1UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdXhPVm1PeGRTUXVwLUJJNnJrdFhqbWNfVm4zZlRCYXJpYW5xa1FjSlExbEFuSU14cUFkV1BMaGZSaVdGRmg3elpJNVk2WFB4Mmc0YkM3R3lyeTg5V3FXaGQwQzI5Rk9MeEJtMDRkMFYtUWt2TXZILUdBWXE1UQ?oc=5\" target=\"_blank\">Anthropic launches Claude Fable 5, the safer public version of Mythos AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
-      "publishedAt": "2026-06-10T01:40:09.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdXhPVm1PeGRTUXVwLUJJNnJrdFhqbWNfVm4zZlRCYXJpYW5xa1FjSlExbEFuSU14cUFkV1BMaGZSaVdGRmg3elpJNVk2WFB4Mmc0YkM3R3lyeTg5V3FXaGQwQzI5Rk9MeEJtMDRkMFYtUWt2TXZILUdBWXE1UQ",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdXhPVm1PeGRTUXVwLUJJNnJrdFhqbWNfVm4zZlRCYXJpYW5xa1FjSlExbEFuSU14cUFkV1BMaGZSaVdGRmg3elpJNVk2WFB4Mmc0YkM3R3lyeTg5V3FXaGQwQzI5Rk9MeEJtMDRkMFYtUWt2TXZILUdBWXE1UQ?oc=5",
-      "firstSeenAt": "2026-06-10T04:47:33.455Z",
-      "lastSeenAt": "2026-06-10T04:47:33.455Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMieEFVX3lxTE50ME1nY2p1TkVqQUxKMzk5REsza25EZXNqcjdveTVpUDFKZ0x1LUlLeHhScXRFUllHLXVlcEtmcHFtNjZacVUtaTJlbHB1aG5IM09iYU5xTjRrWm8wSmNlMXJXTmtOUGZSWnBSc2pybGhGdDluUm9JZg",
-      "title": "Anthropic releases Claude Fable 5, Mythos 5 - SD Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ME1nY2p1TkVqQUxKMzk5REsza25EZXNqcjdveTVpUDFKZ0x1LUlLeHhScXRFUllHLXVlcEtmcHFtNjZacVUtaTJlbHB1aG5IM09iYU5xTjRrWm8wSmNlMXJXTmtOUGZSWnBSc2pybGhGdDluUm9JZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE50ME1nY2p1TkVqQUxKMzk5REsza25EZXNqcjdveTVpUDFKZ0x1LUlLeHhScXRFUllHLXVlcEtmcHFtNjZacVUtaTJlbHB1aG5IM09iYU5xTjRrWm8wSmNlMXJXTmtOUGZSWnBSc2pybGhGdDluUm9JZg?oc=5\" target=\"_blank\">Anthropic releases Claude Fable 5, Mythos 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SD Times</font>",
-      "publishedAt": "2026-06-09T23:58:56.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE50ME1nY2p1TkVqQUxKMzk5REsza25EZXNqcjdveTVpUDFKZ0x1LUlLeHhScXRFUllHLXVlcEtmcHFtNjZacVUtaTJlbHB1aG5IM09iYU5xTjRrWm8wSmNlMXJXTmtOUGZSWnBSc2pybGhGdDluUm9JZg?oc=5\" t",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50ME1nY2p1TkVqQUxKMzk5REsza25EZXNqcjdveTVpUDFKZ0x1LUlLeHhScXRFUllHLXVlcEtmcHFtNjZacVUtaTJlbHB1aG5IM09iYU5xTjRrWm8wSmNlMXJXTmtOUGZSWnBSc2pybGhGdDluUm9JZg?oc=5",
-      "firstSeenAt": "2026-06-09T18:20:37.866Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 4
-    },
-    {
-      "id": "CBMingFBVV95cUxPLUt3RWhNM3ByUFBMT0VHbVltS0g1TkpkSWlOUFkwNlVKbUJjaW5qQXRwTnBhS0dQbkR4LXB4QXpoMEhzMHZXeDgyTGgyY2c1U1gtTmRCd3RpTHZSZ1JaN1hOSTA3TnBOcVVkX3ZvSk1McHlMRm5paS0tQ0dELUxJTWxnQW1UMnhMT2Z2bHZreXEtSEhLS1VwcHlNMFNMQQ",
-      "title": "Anthropic Unveils Claude Fable 5, Keeps Mythos Restricted - Bank Info Security",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUt3RWhNM3ByUFBMT0VHbVltS0g1TkpkSWlOUFkwNlVKbUJjaW5qQXRwTnBhS0dQbkR4LXB4QXpoMEhzMHZXeDgyTGgyY2c1U1gtTmRCd3RpTHZSZ1JaN1hOSTA3TnBOcVVkX3ZvSk1McHlMRm5paS0tQ0dELUxJTWxnQW1UMnhMT2Z2bHZreXEtSEhLS1VwcHlNMFNMQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPLUt3RWhNM3ByUFBMT0VHbVltS0g1TkpkSWlOUFkwNlVKbUJjaW5qQXRwTnBhS0dQbkR4LXB4QXpoMEhzMHZXeDgyTGgyY2c1U1gtTmRCd3RpTHZSZ1JaN1hOSTA3TnBOcVVkX3ZvSk1McHlMRm5paS0tQ0dELUxJTWxnQW1UMnhMT2Z2bHZreXEtSEhLS1VwcHlNMFNMQQ?oc=5\" target=\"_blank\">Anthropic Unveils Claude Fable 5, Keeps Mythos Restricted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bank Info Security</font>",
-      "publishedAt": "2026-06-09T23:53:45.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPLUt3RWhNM3ByUFBMT0VHbVltS0g1TkpkSWlOUFkwNlVKbUJjaW5qQXRwTnBhS0dQbkR4LXB4QXpoMEhzMHZXeDgyTGgyY2c1U1gtTmRCd3RpTHZSZ1JaN1hOSTA3TnBOcVVkX3ZvSk1McHlMRm5paS0tQ0dELU",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUt3RWhNM3ByUFBMT0VHbVltS0g1TkpkSWlOUFkwNlVKbUJjaW5qQXRwTnBhS0dQbkR4LXB4QXpoMEhzMHZXeDgyTGgyY2c1U1gtTmRCd3RpTHZSZ1JaN1hOSTA3TnBOcVVkX3ZvSk1McHlMRm5paS0tQ0dELUxJTWxnQW1UMnhMT2Z2bHZreXEtSEhLS1VwcHlNMFNMQQ?oc=5",
-      "firstSeenAt": "2026-06-09T21:58:26.851Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
-      "seenCount": 3
-    },
-    {
-      "id": "CBMiwgFBVV95cUxPMWNGb2dYQVI0ZWNab3NFMmRvYWlNcWZXWWxuS1JSdi15a2syMHZadzQ2aFRNTFB3RTl4bjdNeW9RNk1mSTdpbG9fa1lpcVhaZzlhVDRESVNOTUpsSGI1V0JTM253U1pfSk5ybTQ4OE1QT0xrLXc1eHhnUTF6SEZ5ZUg5eHc3NkRBYlpVU1hpSl9VY0FYWnBsNEFFLW1CVjBOVVd1bGpIZHdraHdsaEVLdlMwaGFlb2tBRmtCZVFlYlNzQQ",
-      "title": "Anthropic's Fable AI Brings The Capabilities Of Its Unreleased Mythos Model To Regular Users - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWNGb2dYQVI0ZWNab3NFMmRvYWlNcWZXWWxuS1JSdi15a2syMHZadzQ2aFRNTFB3RTl4bjdNeW9RNk1mSTdpbG9fa1lpcVhaZzlhVDRESVNOTUpsSGI1V0JTM253U1pfSk5ybTQ4OE1QT0xrLXc1eHhnUTF6SEZ5ZUg5eHc3NkRBYlpVU1hpSl9VY0FYWnBsNEFFLW1CVjBOVVd1bGpIZHdraHdsaEVLdlMwaGFlb2tBRmtCZVFlYlNzQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWNGb2dYQVI0ZWNab3NFMmRvYWlNcWZXWWxuS1JSdi15a2syMHZadzQ2aFRNTFB3RTl4bjdNeW9RNk1mSTdpbG9fa1lpcVhaZzlhVDRESVNOTUpsSGI1V0JTM253U1pfSk5ybTQ4OE1QT0xrLXc1eHhnUTF6SEZ5ZUg5eHc3NkRBYlpVU1hpSl9VY0FYWnBsNEFFLW1CVjBOVVd1bGpIZHdraHdsaEVLdlMwaGFlb2tBRmtCZVFlYlNzQQ?oc=5\" target=\"_blank\">Anthropic's Fable AI Brings The Capabilities Of Its Unreleased Mythos Model To Regular Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "publishedAt": "2026-06-09T20:23:39.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWNGb2dYQVI0ZWNab3NFMmRvYWlNcWZXWWxuS1JSdi15a2syMHZadzQ2aFRNTFB3RTl4bjdNeW9RNk1mSTdpbG9fa1lpcVhaZzlhVDRESVNOTUpsSGI1V0JTM253U1pfSk5ybTQ4OE1QT0xrLXc1eHhnUTF6SE",
-      "score": 76,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWNGb2dYQVI0ZWNab3NFMmRvYWlNcWZXWWxuS1JSdi15a2syMHZadzQ2aFRNTFB3RTl4bjdNeW9RNk1mSTdpbG9fa1lpcVhaZzlhVDRESVNOTUpsSGI1V0JTM253U1pfSk5ybTQ4OE1QT0xrLXc1eHhnUTF6SEZ5ZUg5eHc3NkRBYlpVU1hpSl9VY0FYWnBsNEFFLW1CVjBOVVd1bGpIZHdraHdsaEVLdlMwaGFlb2tBRmtCZVFlYlNzQQ?oc=5",
-      "firstSeenAt": "2026-06-09T21:58:26.851Z",
-      "lastSeenAt": "2026-06-09T21:58:26.851Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMilwFBVV95cUxOYzhHX3NHWU9taUp2VC1XamlXdG9WZHg2SjA1UFJ1SldEU3djVU1OejNxbVV1OW1JREEzZnN6N1h6NW43bWdRZ0xWa2hpS1ZvOHRySUtpZGhNakt5VG1zalg5Z2Z6VFJUWnJlZWhlcHk1M3RUNWRFZ203SjlKTmlpX1ItYnJkNDFzM3FYTU41emJkVXp5RDdV",
-      "title": "The Price Enterprises Will Pay for Anthropic Claude Fable 5 - AI Business",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzhHX3NHWU9taUp2VC1XamlXdG9WZHg2SjA1UFJ1SldEU3djVU1OejNxbVV1OW1JREEzZnN6N1h6NW43bWdRZ0xWa2hpS1ZvOHRySUtpZGhNakt5VG1zalg5Z2Z6VFJUWnJlZWhlcHk1M3RUNWRFZ203SjlKTmlpX1ItYnJkNDFzM3FYTU41emJkVXp5RDdV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzhHX3NHWU9taUp2VC1XamlXdG9WZHg2SjA1UFJ1SldEU3djVU1OejNxbVV1OW1JREEzZnN6N1h6NW43bWdRZ0xWa2hpS1ZvOHRySUtpZGhNakt5VG1zalg5Z2Z6VFJUWnJlZWhlcHk1M3RUNWRFZ203SjlKTmlpX1ItYnJkNDFzM3FYTU41emJkVXp5RDdV?oc=5\" target=\"_blank\">The Price Enterprises Will Pay for Anthropic Claude Fable 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Business</font>",
-      "publishedAt": "2026-06-09T23:09:06.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzhHX3NHWU9taUp2VC1XamlXdG9WZHg2SjA1UFJ1SldEU3djVU1OejNxbVV1OW1JREEzZnN6N1h6NW43bWdRZ0xWa2hpS1ZvOHRySUtpZGhNakt5VG1zalg5Z2Z6VFJUWnJlZWhlcHk1M3RUNWRFZ203SjlKTm",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzhHX3NHWU9taUp2VC1XamlXdG9WZHg2SjA1UFJ1SldEU3djVU1OejNxbVV1OW1JREEzZnN6N1h6NW43bWdRZ0xWa2hpS1ZvOHRySUtpZGhNakt5VG1zalg5Z2Z6VFJUWnJlZWhlcHk1M3RUNWRFZ203SjlKTmlpX1ItYnJkNDFzM3FYTU41emJkVXp5RDdV?oc=5",
-      "firstSeenAt": "2026-06-10T04:47:33.455Z",
-      "lastSeenAt": "2026-06-10T11:47:23.159Z",
+      "lastSeenAt": "2026-06-10T16:08:04.702Z",
       "seenCount": 2
     }
   ]
