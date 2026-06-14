@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T05:05:31.986Z",
+  "generatedAt": "2026-06-14T11:08:20.395Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,7 +7,7 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 53,
+      "count": 50,
       "error": null
     },
     {
@@ -19,13 +19,13 @@
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 98,
+      "count": 96,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 83,
+      "count": 84,
       "error": null
     },
     {
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 99,
+      "count": 94,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 69,
+      "count": 81,
       "error": null
     },
     {
