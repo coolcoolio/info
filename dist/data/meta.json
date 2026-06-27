@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T17:22:04.973Z",
+  "generatedAt": "2026-06-27T21:19:00.139Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,7 +7,7 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 57,
+      "count": 53,
       "error": null
     },
     {
@@ -25,7 +25,7 @@
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 79,
+      "count": 78,
       "error": null
     },
     {
@@ -61,19 +61,19 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 95,
+      "count": 94,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 80,
+      "count": 78,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
       "ok": true,
-      "count": 100,
+      "count": 59,
       "error": null
     }
   ]
