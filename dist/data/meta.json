@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T21:18:55.151Z",
+  "generatedAt": "2026-06-29T04:58:37.386Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,7 +7,7 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 57,
+      "count": 52,
       "error": null
     },
     {
@@ -25,7 +25,7 @@
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 83,
+      "count": 84,
       "error": null
     },
     {
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 96,
+      "count": 94,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 73,
+      "count": 82,
       "error": null
     },
     {
