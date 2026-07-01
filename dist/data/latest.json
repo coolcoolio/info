@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T11:32:46.129Z",
+  "generatedAt": "2026-07-01T15:11:07.645Z",
   "items": [
     {
       "id": "CBMimAFBVV95cUxPYVJlMTVaLWd3cEh2bEpmS2R4eTlXbm51a0VMdExCYWFnS2dQdzVWY29lZDZfTVB1SzdvWUg1MFhKMEh6OVp2RnZiUnkyX1dQVW5oZGhQUkU3X3lKZVNja2ZiYm96SXhicUVtNUNkSmR4Q1JDUUx5a2liZDg0ZmxnYmYtVHBMbmZWOENPcklTVDc2aTRKN21NRQ",
@@ -14,7 +14,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVJlMTVaLWd3cEh2bEpmS2R4eTlXbm51a0VMdExCYWFnS2dQdzVWY29lZDZfTVB1SzdvWUg1MFhKMEh6OVp2RnZiUnkyX1dQVW5oZGhQUkU3X3lKZVNja2ZiYm96SXhicUVtNUNkSmR4Q1JDUUx5a2liZDg0Zm",
-      "score": 102,
+      "score": 100,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVJlMTVaLWd3cEh2bEpmS2R4eTlXbm51a0VMdExCYWFnS2dQdzVWY29lZDZfTVB1SzdvWUg1MFhKMEh6OVp2RnZiUnkyX1dQVW5oZGhQUkU3X3lKZVNja2ZiYm96SXhicUVtNUNkSmR4Q1JDUUx5a2liZDg0ZmxnYmYtVHBMbmZWOENPcklTVDc2aTRKN21NRQ?oc=5",
       "firstSeenAt": "2026-06-30T21:45:54.104Z",
@@ -182,6 +182,26 @@
       "seenCount": 1
     },
     {
+      "id": "CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ",
+      "title": "Anthropic accused of embedding hidden spyware in Claude Code targeting Chinese users - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=5\" target=\"_blank\">Anthropic accused of embedding hidden spyware in Claude Code targeting Chinese users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "publishedAt": "2026-06-30T17:51:06.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=",
+      "score": 92,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=5",
+      "firstSeenAt": "2026-06-30T21:45:54.104Z",
+      "lastSeenAt": "2026-06-30T21:45:54.104Z",
+      "seenCount": 1
+    },
+    {
       "id": "CBMikAFBVV95cUxPRm1XQlFkWlBWcERiZ1JTX3pVblVKb1lfN1FrMXFkb3pLM19HdGt0cXUzc2lWTmhKem1zdWNVMm45eXQzQXZ4aDdDYURYUFRNZ3BfZVdaWnBfejhta1VZdG42aW5OQzNvTVlBaHlNbk81X0VpRHBEaXV5R2g5eDJ0ejJzMExsTUJNNWpDbjAxRWw",
       "title": "Anthropic says Trump administration lifted restrictions on some of its most powerful Claude AI models - CBS News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1XQlFkWlBWcERiZ1JTX3pVblVKb1lfN1FrMXFkb3pLM19HdGt0cXUzc2lWTmhKem1zdWNVMm45eXQzQXZ4aDdDYURYUFRNZ3BfZVdaWnBfejhta1VZdG42aW5OQzNvTVlBaHlNbk81X0VpRHBEaXV5R2g5eDJ0ejJzMExsTUJNNWpDbjAxRWw?oc=5",
@@ -194,7 +214,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1XQlFkWlBWcERiZ1JTX3pVblVKb1lfN1FrMXFkb3pLM19HdGt0cXUzc2lWTmhKem1zdWNVMm45eXQzQXZ4aDdDYURYUFRNZ3BfZVdaWnBfejhta1VZdG42aW5OQzNvTVlBaHlNbk81X0VpRHBEaXV5R2g5eD",
-      "score": 92,
+      "score": 90,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1XQlFkWlBWcERiZ1JTX3pVblVKb1lfN1FrMXFkb3pLM19HdGt0cXUzc2lWTmhKem1zdWNVMm45eXQzQXZ4aDdDYURYUFRNZ3BfZVdaWnBfejhta1VZdG42aW5OQzNvTVlBaHlNbk81X0VpRHBEaXV5R2g5eDJ0ejJzMExsTUJNNWpDbjAxRWw?oc=5",
       "firstSeenAt": "2026-07-01T04:53:03.056Z",
@@ -214,7 +234,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGdkSEJsa2FFMExLVUpvaEJLZy1zTGxnYzE4eFNZSjdwY1lBYUNBY3VCaklGYjl2al9na3FVUklzdk9zb2NJT3EtX0t6ZENZY2hsT3lZNThlMzBYRGZwSTc2Y3cxZ0p4MmI2SjJNWExSYWRJY3hTRzdKNmE5c0",
-      "score": 92,
+      "score": 90,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGdkSEJsa2FFMExLVUpvaEJLZy1zTGxnYzE4eFNZSjdwY1lBYUNBY3VCaklGYjl2al9na3FVUklzdk9zb2NJT3EtX0t6ZENZY2hsT3lZNThlMzBYRGZwSTc2Y3cxZ0p4MmI2SjJNWExSYWRJY3hTRzdKNmE5c05CQjhPU1F6MHhXMjdpNHBVOG1fdk9yRXZGcVBRLWNMcXg1SDJ0MG1seDVZNEJ4cElBYmRGNFdWTV8xWGVGSElLX1BqS0JnWXVPdnNCbVhYSHp2Wm16VERZQlNjd9IB3wFBVV95cUxNcTFVX01JZWtFS053YzdXVWN0Q04xTTB1WlBaUWVrUE9CTmI0aXVEZFhxS0ZWV1lnMVZWYnk0Vko2UEkzcHZveXZiU0N4RGR6Z3piM0JxRl9TMkNVN2F0RURVeU9UWFV5VDdyN2MxREs3QmZjRmwySlRaMXlXSTN6eDk1WDdQd0xPM01nTWVTQVJxeW1HM0JtUnNaVXAyS3Z5TWpNZl9JbzJlT29idTFtRFdzRGhsazBqR3J5RUFhbFpFX1ZfOERzZ2V0VEt1TFZsOWE1aVBxOHNVOUU3a1Fn?oc=5",
       "firstSeenAt": "2026-07-01T04:53:03.056Z",
@@ -234,32 +254,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZldDREpCR3h2NTUxODFwLWU5OHVLLWVOQXFzaExVeUk0MUkwR3dhNk9OWk41c29kX2o0OXA5MkNUdTAxTVdOQVh6ZzNqTE5rMVBuaUt4Nm5vZzNVcThFZHIwZ0Y2cjdhTWtuMVEtWkszWDBwNnd2TUVrTnh1el",
-      "score": 92,
+      "score": 90,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZldDREpCR3h2NTUxODFwLWU5OHVLLWVOQXFzaExVeUk0MUkwR3dhNk9OWk41c29kX2o0OXA5MkNUdTAxTVdOQVh6ZzNqTE5rMVBuaUt4Nm5vZzNVcThFZHIwZ0Y2cjdhTWtuMVEtWkszWDBwNnd2TUVrTnh1elUyYmk1TUhuVmczUm11UVp2Qml2dmt5Nzc2NlBGdVBpVEZrbkkyRDAzQW9Jbkp6QWFMU3VaT0F1V3Q5VzFXM2VR?oc=5",
       "firstSeenAt": "2026-07-01T04:53:03.056Z",
       "lastSeenAt": "2026-07-01T11:32:46.129Z",
       "seenCount": 2
-    },
-    {
-      "id": "CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ",
-      "title": "Anthropic accused of embedding hidden spyware in Claude Code targeting Chinese users - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=5\" target=\"_blank\">Anthropic accused of embedding hidden spyware in Claude Code targeting Chinese users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
-      "publishedAt": "2026-06-30T17:51:06.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=",
-      "score": 92,
-      "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcmVyVXBwSmlRWFZVYXdTNTl1WV8xNHd4cXBxTEI0M0NNX0xrbnM3VzlZOHJnOUUzc1luaUxsSk43cnRyS0JobENJLURxSDA5cndValRyZ2szeXNjZ0ZEbl9DN2pfbkFqbUpXeXE4UWFFQXktNmJZcG5JVQ?oc=5",
-      "firstSeenAt": "2026-06-30T21:45:54.104Z",
-      "lastSeenAt": "2026-06-30T21:45:54.104Z",
-      "seenCount": 1
     },
     {
       "id": "CBMiqAFBVV95cUxNUmhtTER6NXJneng0RUFhUzhOQmlsdEg4bV9hY0tFQWZTNE9XM1BPWWdkdVRPYnhwQmZZZzNJOVp2UUNONmc2U1RQZElPdDAtTW1mbmVpUmFNN3FFVHByTnNaLXZJUnh2X2xUNHBiOHZfUjlMeXUzRGo5QXRmd1lQVlkySnlMZFZveXQzemMybV9NZGNxX3U0RHVJU0xkYlFPcmRpRHpOYWY",
@@ -374,7 +374,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTJYLWpVMFhwR21sVHNsV3N5QjFrUjZTNE9ETHA0RjRETTRtaTE3b2NBU0F6RnRONEduOXlsdDZjVDFSUEowQnhVQ21tNmtfWEZpMy1tOHlHRHVkVVhXcG1BMUpFcUVXakJ6cVR3OFNIUzFaWENXdW9KYkxIZE",
-      "score": 89,
+      "score": 87,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTJYLWpVMFhwR21sVHNsV3N5QjFrUjZTNE9ETHA0RjRETTRtaTE3b2NBU0F6RnRONEduOXlsdDZjVDFSUEowQnhVQ21tNmtfWEZpMy1tOHlHRHVkVVhXcG1BMUpFcUVXakJ6cVR3OFNIUzFaWENXdW9KYkxIZE1IZEdfUXQ5eXdZam1qSWZBR0FUS2pkaUxKT1R6aXUyb2NlYUtxdHl6WGN3UUhCODNiZEZldlRZVW8?oc=5",
       "firstSeenAt": "2026-07-01T04:53:03.056Z",
@@ -394,7 +394,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE05Q3ZETnhuQ1hQU0FTbGgwWEFGVm5kOUEtUDBBZ3BKZVJQQ1RNUjQ4RURDd2RRNHhqeXdGVWpPNnFqMGs1ZjVaUHdHdlBkX19abDdsRTdseklOMFQ1bEFORWVKei03Z1pZQk9qUy1fT0N5UWJiM3BuSldWMDRKcz",
-      "score": 89,
+      "score": 87,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05Q3ZETnhuQ1hQU0FTbGgwWEFGVm5kOUEtUDBBZ3BKZVJQQ1RNUjQ4RURDd2RRNHhqeXdGVWpPNnFqMGs1ZjVaUHdHdlBkX19abDdsRTdseklOMFQ1bEFORWVKei03Z1pZQk9qUy1fT0N5UWJiM3BuSldWMDRKczg?oc=5",
       "firstSeenAt": "2026-07-01T04:53:03.056Z",
