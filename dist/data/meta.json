@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T04:20:20.988Z",
+  "generatedAt": "2026-07-02T10:50:35.489Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 102,
+      "count": 101,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 79,
+      "count": 77,
       "error": null
     },
     {
