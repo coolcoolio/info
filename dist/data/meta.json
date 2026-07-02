@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T14:27:45.148Z",
+  "generatedAt": "2026-07-02T18:01:29.655Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -19,13 +19,13 @@
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 102,
+      "count": 103,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 87,
+      "count": 86,
       "error": null
     },
     {
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 99,
+      "count": 103,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 77,
+      "count": 76,
       "error": null
     },
     {
