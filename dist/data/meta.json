@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T10:50:35.489Z",
+  "generatedAt": "2026-07-02T14:27:45.148Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,13 +7,13 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 54,
+      "count": 53,
       "error": null
     },
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 96,
+      "count": 95,
       "error": null
     },
     {
@@ -25,7 +25,7 @@
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 90,
+      "count": 87,
       "error": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 101,
+      "count": 99,
       "error": null
     },
     {
