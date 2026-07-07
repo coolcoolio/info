@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T15:13:12.475Z",
+  "generatedAt": "2026-07-07T18:18:52.849Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,7 +7,7 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 55,
+      "count": 54,
       "error": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 103,
+      "count": 102,
       "error": null
     },
     {
