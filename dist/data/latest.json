@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T21:40:00.509Z",
+  "generatedAt": "2026-07-08T03:42:51.370Z",
   "items": [
     {
       "id": "CBMingFBVV95cUxOUHFNNXhrQlJCUjhhZ0R4TVNkSF9kVVU0NjFjSnc4MG1vcUd4SHlLRTczZGNVdlNkeTg2RWNpQUlaN2lHN2JnWTBvZWFMb3FpYUJmRlhjaW1aM3dUb3pWS2pMZGtBUDBpMzFDYjVfenJUaVg4b3ZlQmRWX3hHMjRVT2xocWx0WmxiTl9Zem11cF8tWHh0NHhHUHktSzZrQQ",
@@ -14,11 +14,51 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUHFNNXhrQlJCUjhhZ0R4TVNkSF9kVVU0NjFjSnc4MG1vcUd4SHlLRTczZGNVdlNkeTg2RWNpQUlaN2lHN2JnWTBvZWFMb3FpYUJmRlhjaW1aM3dUb3pWS2pMZGtBUDBpMzFDYjVfenJUaVg4b3ZlQmRWX3hHMj",
-      "score": 110,
+      "score": 108,
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHFNNXhrQlJCUjhhZ0R4TVNkSF9kVVU0NjFjSnc4MG1vcUd4SHlLRTczZGNVdlNkeTg2RWNpQUlaN2lHN2JnWTBvZWFMb3FpYUJmRlhjaW1aM3dUb3pWS2pMZGtBUDBpMzFDYjVfenJUaVg4b3ZlQmRWX3hHMjRVT2xocWx0WmxiTl9Zem11cF8tWHh0NHhHUHktSzZrQQ?oc=5",
       "firstSeenAt": "2026-07-07T15:13:12.475Z",
       "lastSeenAt": "2026-07-07T15:13:12.475Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMimwFBVV95cUxNWFFpQnRvOGkxRHUtUWE0V1F0V0h2SG1jSm9ZTGZXcm80SFc3aU9QdUo4R25MZGxrSlk2VDVBUjF0cUNEMTBlTFo1QTZZckYwdlIyYWw4VzJtbUxXdnUzdDFEZXJNbkN6ZktCZ2hOeUR2Y3Mya1N6cnR3b29zWHc3TUs2b3B6R3NxNDR0V3NtTHRNQ0lSQS1XdkNHWQ",
+      "title": "Anthropic Brings Claude Code and Cowork to Government - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFFpQnRvOGkxRHUtUWE0V1F0V0h2SG1jSm9ZTGZXcm80SFc3aU9QdUo4R25MZGxrSlk2VDVBUjF0cUNEMTBlTFo1QTZZckYwdlIyYWw4VzJtbUxXdnUzdDFEZXJNbkN6ZktCZ2hOeUR2Y3Mya1N6cnR3b29zWHc3TUs2b3B6R3NxNDR0V3NtTHRNQ0lSQS1XdkNHWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFFpQnRvOGkxRHUtUWE0V1F0V0h2SG1jSm9ZTGZXcm80SFc3aU9QdUo4R25MZGxrSlk2VDVBUjF0cUNEMTBlTFo1QTZZckYwdlIyYWw4VzJtbUxXdnUzdDFEZXJNbkN6ZktCZ2hOeUR2Y3Mya1N6cnR3b29zWHc3TUs2b3B6R3NxNDR0V3NtTHRNQ0lSQS1XdkNHWQ?oc=5\" target=\"_blank\">Anthropic Brings Claude Code and Cowork to Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "publishedAt": "2026-07-07T22:47:14.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFFpQnRvOGkxRHUtUWE0V1F0V0h2SG1jSm9ZTGZXcm80SFc3aU9QdUo4R25MZGxrSlk2VDVBUjF0cUNEMTBlTFo1QTZZckYwdlIyYWw4VzJtbUxXdnUzdDFEZXJNbkN6ZktCZ2hOeUR2Y3Mya1N6cnR3b29zWH",
+      "score": 107,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFFpQnRvOGkxRHUtUWE0V1F0V0h2SG1jSm9ZTGZXcm80SFc3aU9QdUo4R25MZGxrSlk2VDVBUjF0cUNEMTBlTFo1QTZZckYwdlIyYWw4VzJtbUxXdnUzdDFEZXJNbkN6ZktCZ2hOeUR2Y3Mya1N6cnR3b29zWHc3TUs2b3B6R3NxNDR0V3NtTHRNQ0lSQS1XdkNHWQ?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMimAFBVV95cUxPcEI4ZjNpNXl2bEUyWHd2MU53R1B4SUJjUF9HcXhCNTJMUXNSUGtNc205NWRUMFpYV3EtVTd2US1KOVNqLVpEVUdXQ29UNHJ4Y3ZPZzBmXzdLTjE1ZGhXRlBkQk1NWHgyMnVzMkhfd295c2gzS2UwbmFPZEg3aUxpcVRiQnh5a0FXUkJpWVRqRno1V0taOWI2MA",
+      "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEI4ZjNpNXl2bEUyWHd2MU53R1B4SUJjUF9HcXhCNTJMUXNSUGtNc205NWRUMFpYV3EtVTd2US1KOVNqLVpEVUdXQ29UNHJ4Y3ZPZzBmXzdLTjE1ZGhXRlBkQk1NWHgyMnVzMkhfd295c2gzS2UwbmFPZEg3aUxpcVRiQnh5a0FXUkJpWVRqRno1V0taOWI2MA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEI4ZjNpNXl2bEUyWHd2MU53R1B4SUJjUF9HcXhCNTJMUXNSUGtNc205NWRUMFpYV3EtVTd2US1KOVNqLVpEVUdXQ29UNHJ4Y3ZPZzBmXzdLTjE1ZGhXRlBkQk1NWHgyMnVzMkhfd295c2gzS2UwbmFPZEg3aUxpcVRiQnh5a0FXUkJpWVRqRno1V0taOWI2MA?oc=5\" target=\"_blank\">Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
+      "publishedAt": "2026-07-07T22:31:03.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEI4ZjNpNXl2bEUyWHd2MU53R1B4SUJjUF9HcXhCNTJMUXNSUGtNc205NWRUMFpYV3EtVTd2US1KOVNqLVpEVUdXQ29UNHJ4Y3ZPZzBmXzdLTjE1ZGhXRlBkQk1NWHgyMnVzMkhfd295c2gzS2UwbmFPZEg3aU",
+      "score": 94,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEI4ZjNpNXl2bEUyWHd2MU53R1B4SUJjUF9HcXhCNTJMUXNSUGtNc205NWRUMFpYV3EtVTd2US1KOVNqLVpEVUdXQ29UNHJ4Y3ZPZzBmXzdLTjE1ZGhXRlBkQk1NWHgyMnVzMkhfd295c2gzS2UwbmFPZEg3aUxpcVRiQnh5a0FXUkJpWVRqRno1V0taOWI2MA?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
       "seenCount": 1
     },
     {
@@ -38,27 +78,7 @@
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR25WV2U5ek1HXy1jR1VxOGo5MW81RTlCYi1WT2lzWEdMOGtCVE5Yb2ZBUDFSNWVrRUlidGVjR05HTVBUbGJvQkhyTVliT05lMkRNVUJzclJsNktlNXU3T1hyUFJYOERuZEJmUXI5ZHZsMkY3WEN6dnZkSWVlMzdPZVowRmNwZFRsckVsY0xGUUxkcUFBenZ5a3B3RDJKM2FLTXRDRnFUZ2lWVFpUcnZid2ZEVjFYWmVrR0J2QW9XeGdGaF85c2c?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc",
-      "title": "Anthropic Secretly Tracked Chinese Claude Code Users – Then Got Caught - Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc?oc=5\" target=\"_blank\">Anthropic Secretly Tracked Chinese Claude Code Users – Then Got Caught</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
-      "publishedAt": "2026-07-07T15:02:48.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZG",
-      "score": 94,
-      "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc?oc=5",
-      "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
       "seenCount": 2
     },
     {
@@ -78,68 +98,48 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEotWEdUQUFxcGNVU2V5UlF1Tk5zSDdBeDlVeDZGbmtXd1lOaUZKeE1FMF94c0ltNkY3aVNlMUJ5QjluQ2RfUFFQRkVGdHZZQWRIc3dRQWpoaWc4WkZXSjZCWTJZLU5jU2JqQ2xhUVhqSVFCR0w0TDlNM3FQTU1iVFFETi1PSGtkNUZiZ0hNOWFfTkRwbjVVNy1DOA?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
-      "id": "CBMiS0FVX3lxTE1tZWFoLXZwd3lQaWk3MjFSNlBCNkh4NTQwd05qU2N3ckotZ2JFVnhPdUFtYWRSUVFLYlZISzl6R2RPUlVzMjh5X1pFUdIBQkFVX3lxTE5kSmg0cjJDaHRiT1p0Z0hzd1dwZ09QSWFiZ3RmLVNkOWtuTk1xWFVuYXBYbU1DTEdJWlVuQURHMkJuUQ",
-      "title": "Secret Tracker in Claude Code Uncovered, Anthropic Directly Deletes Code - VOI.id",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tZWFoLXZwd3lQaWk3MjFSNlBCNkh4NTQwd05qU2N3ckotZ2JFVnhPdUFtYWRSUVFLYlZISzl6R2RPUlVzMjh5X1pFUdIBQkFVX3lxTE5kSmg0cjJDaHRiT1p0Z0hzd1dwZ09QSWFiZ3RmLVNkOWtuTk1xWFVuYXBYbU1DTEdJWlVuQURHMkJuUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tZWFoLXZwd3lQaWk3MjFSNlBCNkh4NTQwd05qU2N3ckotZ2JFVnhPdUFtYWRSUVFLYlZISzl6R2RPUlVzMjh5X1pFUdIBQkFVX3lxTE5kSmg0cjJDaHRiT1p0Z0hzd1dwZ09QSWFiZ3RmLVNkOWtuTk1xWFVuYXBYbU1DTEdJWlVuQURHMkJuUQ?oc=5\" target=\"_blank\">Secret Tracker in Claude Code Uncovered, Anthropic Directly Deletes Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
-      "publishedAt": "2026-07-07T05:50:21.000Z",
+      "id": "CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc",
+      "title": "Anthropic Secretly Tracked Chinese Claude Code Users – Then Got Caught - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc?oc=5\" target=\"_blank\">Anthropic Secretly Tracked Chinese Claude Code Users – Then Got Caught</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
+      "publishedAt": "2026-07-07T15:02:48.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tZWFoLXZwd3lQaWk3MjFSNlBCNkh4NTQwd05qU2N3ckotZ2JFVnhPdUFtYWRSUVFLYlZISzl6R2RPUlVzMjh5X1pFUdIBQkFVX3lxTE5kSmg0cjJDaHRiT1p0Z0hzd1dwZ09QSWFiZ3RmLVNkOWtuTk1xWFVuYX",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZG",
       "score": 92,
       "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tZWFoLXZwd3lQaWk3MjFSNlBCNkh4NTQwd05qU2N3ckotZ2JFVnhPdUFtYWRSUVFLYlZISzl6R2RPUlVzMjh5X1pFUdIBQkFVX3lxTE5kSmg0cjJDaHRiT1p0Z0hzd1dwZ09QSWFiZ3RmLVNkOWtuTk1xWFVuYXBYbU1DTEdJWlVuQURHMkJuUQ?oc=5",
-      "firstSeenAt": "2026-07-07T07:53:26.351Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 5
+      "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlFmOVJDak5uYVBLTmlQVnJsTHR2czlnUUVIV1B1SXpTWEZzdTZrQkFvbGc0WUZBWktGOXJRaUV6Vm5XdVBLVUNKbnNveU5IdFpfeTc0QWFwZS1yYXBxTHZFUDE2YmU3MkxQbjNscjk1cDZBUDF1QktFZm9CZGZXWktSMnZOcDJmVUpWQmhLb2UxdmZCMU5wOEV4djBlMnc?oc=5",
+      "firstSeenAt": "2026-07-07T18:18:52.849Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
-      "id": "CBMiakFVX3lxTE1HZW4tRFZiUF9QbmU0NkdjaWNaVkFrVTFScDNyOHRzeFIyVmR0Q0pZWEYzdW9hNlBaNVktMUxydndVNEhjWTZyNVlTaEljT2wzOXh6dEVkR1Jmd2ExZV8tcEM4clFoRkcxMFE",
-      "title": "Alibaba Orders Staff to Drop Anthropic Claude Code Over Security Fears - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZW4tRFZiUF9QbmU0NkdjaWNaVkFrVTFScDNyOHRzeFIyVmR0Q0pZWEYzdW9hNlBaNVktMUxydndVNEhjWTZyNVlTaEljT2wzOXh6dEVkR1Jmd2ExZV8tcEM4clFoRkcxMFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZW4tRFZiUF9QbmU0NkdjaWNaVkFrVTFScDNyOHRzeFIyVmR0Q0pZWEYzdW9hNlBaNVktMUxydndVNEhjWTZyNVlTaEljT2wzOXh6dEVkR1Jmd2ExZV8tcEM4clFoRkcxMFE?oc=5\" target=\"_blank\">Alibaba Orders Staff to Drop Anthropic Claude Code Over Security Fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
-      "publishedAt": "2026-07-07T05:05:00.000Z",
+      "id": "CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg",
+      "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic - Malwarebytes",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5\" target=\"_blank\">Claude Code’s hidden tracker was an “experiment,” says Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Malwarebytes</font>",
+      "publishedAt": "2026-07-07T11:27:45.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZW4tRFZiUF9QbmU0NkdjaWNaVkFrVTFScDNyOHRzeFIyVmR0Q0pZWEYzdW9hNlBaNVktMUxydndVNEhjWTZyNVlTaEljT2wzOXh6dEVkR1Jmd2ExZV8tcEM4clFoRkcxMFE?oc=5\" target=\"_blank\">Alib",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NX",
       "score": 92,
       "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZW4tRFZiUF9QbmU0NkdjaWNaVkFrVTFScDNyOHRzeFIyVmR0Q0pZWEYzdW9hNlBaNVktMUxydndVNEhjWTZyNVlTaEljT2wzOXh6dEVkR1Jmd2ExZV8tcEM4clFoRkcxMFE?oc=5",
-      "firstSeenAt": "2026-07-07T07:53:26.351Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMisAFBVV95cUxNUWNmRHRkUGFhaVJyaHhwQjhSUEd2azVUcWlEQWpMbVI3YXptWE9uZzRQQm5vbFI4aHE1dXZwY0VNLUxOTHRkaWdYSGZQcGJsOEdmN2VqOEd1VUlfQ0I2RUpzNUJjZDM1M0FMX2ZCQjNkZElPTzU1VlI1V2hkSFRWS1F1SHNmNXkyT0tyRzFrWGJmbkpNcHJFMERrZzlHSU54bHoyTGQyaEplQWE0ZGx4dw",
-      "title": "Alibaba bans Claude Code amid Anthropic feud: report - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWNmRHRkUGFhaVJyaHhwQjhSUEd2azVUcWlEQWpMbVI3YXptWE9uZzRQQm5vbFI4aHE1dXZwY0VNLUxOTHRkaWdYSGZQcGJsOEdmN2VqOEd1VUlfQ0I2RUpzNUJjZDM1M0FMX2ZCQjNkZElPTzU1VlI1V2hkSFRWS1F1SHNmNXkyT0tyRzFrWGJmbkpNcHJFMERrZzlHSU54bHoyTGQyaEplQWE0ZGx4dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWNmRHRkUGFhaVJyaHhwQjhSUEd2azVUcWlEQWpMbVI3YXptWE9uZzRQQm5vbFI4aHE1dXZwY0VNLUxOTHRkaWdYSGZQcGJsOEdmN2VqOEd1VUlfQ0I2RUpzNUJjZDM1M0FMX2ZCQjNkZElPTzU1VlI1V2hkSFRWS1F1SHNmNXkyT0tyRzFrWGJmbkpNcHJFMERrZzlHSU54bHoyTGQyaEplQWE0ZGx4dw?oc=5\" target=\"_blank\">Alibaba bans Claude Code amid Anthropic feud: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
-      "publishedAt": "2026-07-07T03:48:54.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWNmRHRkUGFhaVJyaHhwQjhSUEd2azVUcWlEQWpMbVI3YXptWE9uZzRQQm5vbFI4aHE1dXZwY0VNLUxOTHRkaWdYSGZQcGJsOEdmN2VqOEd1VUlfQ0I2RUpzNUJjZDM1M0FMX2ZCQjNkZElPTzU1VlI1V2hkSF",
-      "score": 92,
-      "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWNmRHRkUGFhaVJyaHhwQjhSUEd2azVUcWlEQWpMbVI3YXptWE9uZzRQQm5vbFI4aHE1dXZwY0VNLUxOTHRkaWdYSGZQcGJsOEdmN2VqOEd1VUlfQ0I2RUpzNUJjZDM1M0FMX2ZCQjNkZElPTzU1VlI1V2hkSFRWS1F1SHNmNXkyT0tyRzFrWGJmbkpNcHJFMERrZzlHSU54bHoyTGQyaEplQWE0ZGx4dw?oc=5",
-      "firstSeenAt": "2026-07-07T04:15:33.357Z",
-      "lastSeenAt": "2026-07-07T18:18:52.849Z",
-      "seenCount": 5
+      "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 1
     },
     {
       "id": "CBMimwFBVV95cUxNWVduelVGYkRQS09OUVNHQUhJTjNrWmtyeERNUWp2WmtkYzM3M05RVWtQUGNPQzBrNDJ6SVRGRkJVU3JBcjFXaF9teWUyZGZUNWVrTzY2a3ZmRkVPa2VkQVpXSEh0S3JDa21STlIzZ3VzNmFkVEhQalV2RFJ1YzE2Mi0yYjBjSE16NUc4V3BFNlV0UzlWLVBnVTNyZw",
@@ -158,8 +158,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVduelVGYkRQS09OUVNHQUhJTjNrWmtyeERNUWp2WmtkYzM3M05RVWtQUGNPQzBrNDJ6SVRGRkJVU3JBcjFXaF9teWUyZGZUNWVrTzY2a3ZmRkVPa2VkQVpXSEh0S3JDa21STlIzZ3VzNmFkVEhQalV2RFJ1YzE2Mi0yYjBjSE16NUc4V3BFNlV0UzlWLVBnVTNyZw?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 2
     },
     {
       "id": "CBMiowFBVV95cUxQYnRNTGEzZWNTUkRwaElRa2VPYTU3ajNmN2RqMXRXWmxCcTdnS3Zkcm5yUGQtWS1YZWVNbDgxLTM0MVN6TXRkNTVLQmFDR0g0SmpsSXJDeExpck1uZjBOR203S0xuVFhzNGpoUnd2VkhUNmRUTXB6OXRjbnRYam51SDZHRTUtNXZpdjZCMmo2aEF3Q09LWndOYUduV21SRmlHVWlF",
@@ -178,8 +178,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnRNTGEzZWNTUkRwaElRa2VPYTU3ajNmN2RqMXRXWmxCcTdnS3Zkcm5yUGQtWS1YZWVNbDgxLTM0MVN6TXRkNTVLQmFDR0g0SmpsSXJDeExpck1uZjBOR203S0xuVFhzNGpoUnd2VkhUNmRUTXB6OXRjbnRYam51SDZHRTUtNXZpdjZCMmo2aEF3Q09LWndOYUduV21SRmlHVWlF?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 2
     },
     {
       "id": "CBMinwFBVV95cUxQY1RKSzMzamxQQzVwVGVWVGU4Q2xiU0tMNElmYjZyV053UVJIS3doZ3EwWFVTVTdFa2tzWlk3TW82NVd2UWhvbE0tTEdPSTRKbk5kVWJldllOa2hjc09jaHR6T19YTWNnVEVJVkRyV3hRbnAzYXY3TC1lNHlfNzRXbDRRX1FldzBKenh4RnBmWWJveWJsOE4xZFJUczUzQXc",
@@ -198,8 +198,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1RKSzMzamxQQzVwVGVWVGU4Q2xiU0tMNElmYjZyV053UVJIS3doZ3EwWFVTVTdFa2tzWlk3TW82NVd2UWhvbE0tTEdPSTRKbk5kVWJldllOa2hjc09jaHR6T19YTWNnVEVJVkRyV3hRbnAzYXY3TC1lNHlfNzRXbDRRX1FldzBKenh4RnBmWWJveWJsOE4xZFJUczUzQXc?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMimAFBVV95cUxNamRlZ3Z4eWtNbFJyMGVieDBFTnN3ZHZqUWZ5OTFYcnJfRzdkbFkyS1lnTU9HM1hqc1pTVU5IbEs2QTlQamJTdzNFdkdNb2FLSVUxbjRIMjVQQjVTZUVQT0JUekFtbVNsVF9qbXY0ZHgxbk96bWMxaEpYSTFWaVB6bG9PUHlDZjByd2VFRGFqTVltejg0LUUtZQ",
@@ -218,8 +218,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamRlZ3Z4eWtNbFJyMGVieDBFTnN3ZHZqUWZ5OTFYcnJfRzdkbFkyS1lnTU9HM1hqc1pTVU5IbEs2QTlQamJTdzNFdkdNb2FLSVUxbjRIMjVQQjVTZUVQT0JUekFtbVNsVF9qbXY0ZHgxbk96bWMxaEpYSTFWaVB6bG9PUHlDZjByd2VFRGFqTVltejg0LUUtZQ?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiogFBVV95cUxQUUhySFRHNFhoWEhKQWJCaDYtR2hZbEZZS0dlNlctTjRtZ21KY1N4UVFGb21KdnFfUkJEUi1XTURfQzJ0VUhRYmlPZEJxUW9Ud2ZrMVZZeWQzSU01cEFpa3o5VXVpc0FtOW5ybjBwNFEtbEpUOXVuYk9QSnlqZXhmWXgwX0JYTXVPNnFBWUlMTm40UVdtTVVXX1BERlVKdEw5Z2c",
@@ -238,8 +238,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUhySFRHNFhoWEhKQWJCaDYtR2hZbEZZS0dlNlctTjRtZ21KY1N4UVFGb21KdnFfUkJEUi1XTURfQzJ0VUhRYmlPZEJxUW9Ud2ZrMVZZeWQzSU01cEFpa3o5VXVpc0FtOW5ybjBwNFEtbEpUOXVuYk9QSnlqZXhmWXgwX0JYTXVPNnFBWUlMTm40UVdtTVVXX1BERlVKdEw5Z2c?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMivgFBVV95cUxNTlk1b2M1ak5MTGVUTUxYaXdqMzhMQ2d0aDdzWlE1U05tWWNUU2RnMFR3dHBsVTRTaHhQSm9QQmNIOGdIS3J2V3Ztdmh2bFJva0NNQXQ2d0Z2REtST1ptaU5xZkk5VFlVajc2cWd4bVZqalY4N1R5Vk9GLTFPck13SFV5X0xISmtGSGVFRG5LMkxLZGtRTHRYNk8zNXlucFpNaTcxZ05JVVFzSGhhalpJZ1NVRTJCOFdKSGZlNDFB",
@@ -258,28 +258,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlk1b2M1ak5MTGVUTUxYaXdqMzhMQ2d0aDdzWlE1U05tWWNUU2RnMFR3dHBsVTRTaHhQSm9QQmNIOGdIS3J2V3Ztdmh2bFJva0NNQXQ2d0Z2REtST1ptaU5xZkk5VFlVajc2cWd4bVZqalY4N1R5Vk9GLTFPck13SFV5X0xISmtGSGVFRG5LMkxLZGtRTHRYNk8zNXlucFpNaTcxZ05JVVFzSGhhalpJZ1NVRTJCOFdKSGZlNDFB?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA",
-      "title": "AI Predicts Argentina vs Egypt – ChatGPT, Gemini & Claude Picks - nysportsday.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA?oc=5\" target=\"_blank\">AI Predicts Argentina vs Egypt – ChatGPT, Gemini & Claude Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nysportsday.com</font>",
-      "publishedAt": "2026-07-07T14:37:49.000Z",
-      "sourceName": "ChatGPT and Gemini",
-      "category": "AI Models",
-      "tags": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMn",
-      "score": 83,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA?oc=5",
-      "firstSeenAt": "2026-07-07T15:13:12.475Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 2
     },
     {
       "id": "CBMipgJBVV95cUxQVkRUNUpsVTQ5WjByUHZBaDdzcnJoRmZUWWVzSzBTMEMzYk9fSzlIbmFtWl8tRkpwcmh3bW13QXkxYzRjTmtjRFdlOWszY0JHbXBDcmdWZ2RsdnpGRzhWRVMxUVZ2aUdZRVV3T3ZycGNaQU5ZbXhDY01EZzNqWkh1TlRCUkhuRXN4STcybUI4SnJoYThsQzEtZlA0NmkwSWRTbWs1WDIweWI4SGVxWkt0a0tZZFpXUXBtb2VrR1ZnVkxvbDlUazB3TlVPLTZZUGJhRnNMbHh1LXNBOERHbWFfNE5yRHVkWXhvY24yZkxsRUtiSnFCRU5ocDk4NW9ITnRseGttYnlvRnE0cGxGX1RPQ09JLWs4d0pPMDlxMy10LUMzcW94NHfSAasCQVVfeXFMTlNRZXhzLTl4U3QycXJuWmRmdmpuLVlTMHg3VW1hOEYxRUZGX0pTMjNrNXRiSF9qTmh5VGhzWXNGZlJCRTBYeEUzSHZDYUJTaWs1MWdIRUVicmlaUnowZDhRMUZ5VGVZanIxSXBONm9kdGRMcEdIem45dFpmNURERllnUjU5SWhKQXVtblc1WHkyT2EwZWtkOWFUSjcyVExBUWdudm54akJzcFFBUzA4Y1Qtb24tWnNkM3BkdDNrQ0FWbHFEb3E4amlsdFp4R2p1Y1psWDJNbThSYlQyZklST2JYRjBmREZ3VWo4N29IaVRJTG1IQTFQZG9VSFNZLWYyUWhhSVdGUGxaaHE1N2U0MVFHT2ZmLWQ5QXNmNnZaODJZMHlEVDNqZmtoR2M",
@@ -302,6 +282,106 @@
       "seenCount": 4
     },
     {
+      "id": "CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA",
+      "title": "AI Predicts Argentina vs Egypt – ChatGPT, Gemini & Claude Picks - nysportsday.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA?oc=5\" target=\"_blank\">AI Predicts Argentina vs Egypt – ChatGPT, Gemini & Claude Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nysportsday.com</font>",
+      "publishedAt": "2026-07-07T14:37:49.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMn",
+      "score": 81,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGFIM2IwbHpVM3dkM2VPeWdJTXRadWg4Q0RrTlN5cFJINy1nMlMwM2dKOHZzNEpqLWFNTmd5a1BBSTFQUEkyaWZXQjRCR09pUFA4dnFRczExSjJnSmtmVy1fMFBQRmxqME1jUXJnaDlOOFBZclFmdnVjU0xSMnZodElCQjVfVkZraUJESF9yY1h1bWVPSmZ6dkFmQnFDWjA?oc=5",
+      "firstSeenAt": "2026-07-07T15:13:12.475Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 4
+    },
+    {
+      "id": "CBMivwFBVV95cUxNcGUyRm5VLXczRzZOZEpVazVTMVJhRjRPNTRvbW9qUjJKZWNSTWw1ODdSQVlpNWdrUDJRbEsxZXdkaER3MkJ0QXMwRllMa2FmMk12MU5GczBERnI1a1RlSS1nNjBDYXRxRHpjV0hydkNLN0hrcVNTbDd0UXZmRzFmREo3aDhKalJkT1lNbmZDS3lTWVZpd1BkWHo5eEFPR1ZhRnYwLWIyX2JtSEs0bk1fV21wY2hhOHREWC1JWUVfOA",
+      "title": "Claude Code Defaults to Human Approval: Auto Mode Requires Explicit Opt-In - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGUyRm5VLXczRzZOZEpVazVTMVJhRjRPNTRvbW9qUjJKZWNSTWw1ODdSQVlpNWdrUDJRbEsxZXdkaER3MkJ0QXMwRllMa2FmMk12MU5GczBERnI1a1RlSS1nNjBDYXRxRHpjV0hydkNLN0hrcVNTbDd0UXZmRzFmREo3aDhKalJkT1lNbmZDS3lTWVZpd1BkWHo5eEFPR1ZhRnYwLWIyX2JtSEs0bk1fV21wY2hhOHREWC1JWUVfOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGUyRm5VLXczRzZOZEpVazVTMVJhRjRPNTRvbW9qUjJKZWNSTWw1ODdSQVlpNWdrUDJRbEsxZXdkaER3MkJ0QXMwRllMa2FmMk12MU5GczBERnI1a1RlSS1nNjBDYXRxRHpjV0hydkNLN0hrcVNTbDd0UXZmRzFmREo3aDhKalJkT1lNbmZDS3lTWVZpd1BkWHo5eEFPR1ZhRnYwLWIyX2JtSEs0bk1fV21wY2hhOHREWC1JWUVfOA?oc=5\" target=\"_blank\">Claude Code Defaults to Human Approval: Auto Mode Requires Explicit Opt-In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+      "publishedAt": "2026-07-08T01:00:59.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGUyRm5VLXczRzZOZEpVazVTMVJhRjRPNTRvbW9qUjJKZWNSTWw1ODdSQVlpNWdrUDJRbEsxZXdkaER3MkJ0QXMwRllMa2FmMk12MU5GczBERnI1a1RlSS1nNjBDYXRxRHpjV0hydkNLN0hrcVNTbDd0UXZmRz",
+      "score": 77,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGUyRm5VLXczRzZOZEpVazVTMVJhRjRPNTRvbW9qUjJKZWNSTWw1ODdSQVlpNWdrUDJRbEsxZXdkaER3MkJ0QXMwRllMa2FmMk12MU5GczBERnI1a1RlSS1nNjBDYXRxRHpjV0hydkNLN0hrcVNTbDd0UXZmRzFmREo3aDhKalJkT1lNbmZDS3lTWVZpd1BkWHo5eEFPR1ZhRnYwLWIyX2JtSEs0bk1fV21wY2hhOHREWC1JWUVfOA?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiywFBVV95cUxOZktHcWhkR1lvQmQzZlo0WUFQX1NiRFhydWFYU1Vlak10amE2OEJEbk1MRDZXN3NvbWFQTy1tSVVVS1lEeTV1NXNUYTQzaHZPWURCbkllaGpCNURqX3U3Vlo2WGF5NkNmT2ZlN3pxSnJDZFBDYnU2NlYzMnRfTDRNQmJaUzJybExuVXVDZWEwUmFiYVhSUi1tZ2NXMzFGc1Jla2o0andMUS1iY1NsQjZMMXdCZmVXdVdSUWJ1NEN4ejZITlpiZTZqWE1uWdIB0AFBVV95cUxQZHd0Wnd5d2JYYkstaFBsUTVsc0plTFMybTc1T2cyODA1c29OZW9CUzZ0S1V5eHNSTFBPbEk3U1R6OTJUbnB6bG9uX3RyYW1JWlJqMkFGdmRmbG1SYVNMNGxxTDZwSG42ZDlnSTNDRkJBVmFiZFpVRmFMMzVySXlxQTc5WkVFMkNQUG9vTHFHaVpkRXBiOWQydzhnSlZNNE82WURKenYxQmFYWUVLX3VmVFAydW5QLUo5SHpHQnEwMC1HQTB4U3FNaXVwY3pYS3JH",
+      "title": "Anthropic brings Claude Cowork to web and mobile, extends Fable 5 access for paid users - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZktHcWhkR1lvQmQzZlo0WUFQX1NiRFhydWFYU1Vlak10amE2OEJEbk1MRDZXN3NvbWFQTy1tSVVVS1lEeTV1NXNUYTQzaHZPWURCbkllaGpCNURqX3U3Vlo2WGF5NkNmT2ZlN3pxSnJDZFBDYnU2NlYzMnRfTDRNQmJaUzJybExuVXVDZWEwUmFiYVhSUi1tZ2NXMzFGc1Jla2o0andMUS1iY1NsQjZMMXdCZmVXdVdSUWJ1NEN4ejZITlpiZTZqWE1uWdIB0AFBVV95cUxQZHd0Wnd5d2JYYkstaFBsUTVsc0plTFMybTc1T2cyODA1c29OZW9CUzZ0S1V5eHNSTFBPbEk3U1R6OTJUbnB6bG9uX3RyYW1JWlJqMkFGdmRmbG1SYVNMNGxxTDZwSG42ZDlnSTNDRkJBVmFiZFpVRmFMMzVySXlxQTc5WkVFMkNQUG9vTHFHaVpkRXBiOWQydzhnSlZNNE82WURKenYxQmFYWUVLX3VmVFAydW5QLUo5SHpHQnEwMC1HQTB4U3FNaXVwY3pYS3JH?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZktHcWhkR1lvQmQzZlo0WUFQX1NiRFhydWFYU1Vlak10amE2OEJEbk1MRDZXN3NvbWFQTy1tSVVVS1lEeTV1NXNUYTQzaHZPWURCbkllaGpCNURqX3U3Vlo2WGF5NkNmT2ZlN3pxSnJDZFBDYnU2NlYzMnRfTDRNQmJaUzJybExuVXVDZWEwUmFiYVhSUi1tZ2NXMzFGc1Jla2o0andMUS1iY1NsQjZMMXdCZmVXdVdSUWJ1NEN4ejZITlpiZTZqWE1uWdIB0AFBVV95cUxQZHd0Wnd5d2JYYkstaFBsUTVsc0plTFMybTc1T2cyODA1c29OZW9CUzZ0S1V5eHNSTFBPbEk3U1R6OTJUbnB6bG9uX3RyYW1JWlJqMkFGdmRmbG1SYVNMNGxxTDZwSG42ZDlnSTNDRkJBVmFiZFpVRmFMMzVySXlxQTc5WkVFMkNQUG9vTHFHaVpkRXBiOWQydzhnSlZNNE82WURKenYxQmFYWUVLX3VmVFAydW5QLUo5SHpHQnEwMC1HQTB4U3FNaXVwY3pYS3JH?oc=5\" target=\"_blank\">Anthropic brings Claude Cowork to web and mobile, extends Fable 5 access for paid users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>",
+      "publishedAt": "2026-07-08T03:30:26.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZktHcWhkR1lvQmQzZlo0WUFQX1NiRFhydWFYU1Vlak10amE2OEJEbk1MRDZXN3NvbWFQTy1tSVVVS1lEeTV1NXNUYTQzaHZPWURCbkllaGpCNURqX3U3Vlo2WGF5NkNmT2ZlN3pxSnJDZFBDYnU2NlYzMnRfTD",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZktHcWhkR1lvQmQzZlo0WUFQX1NiRFhydWFYU1Vlak10amE2OEJEbk1MRDZXN3NvbWFQTy1tSVVVS1lEeTV1NXNUYTQzaHZPWURCbkllaGpCNURqX3U3Vlo2WGF5NkNmT2ZlN3pxSnJDZFBDYnU2NlYzMnRfTDRNQmJaUzJybExuVXVDZWEwUmFiYVhSUi1tZ2NXMzFGc1Jla2o0andMUS1iY1NsQjZMMXdCZmVXdVdSUWJ1NEN4ejZITlpiZTZqWE1uWdIB0AFBVV95cUxQZHd0Wnd5d2JYYkstaFBsUTVsc0plTFMybTc1T2cyODA1c29OZW9CUzZ0S1V5eHNSTFBPbEk3U1R6OTJUbnB6bG9uX3RyYW1JWlJqMkFGdmRmbG1SYVNMNGxxTDZwSG42ZDlnSTNDRkJBVmFiZFpVRmFMMzVySXlxQTc5WkVFMkNQUG9vTHFHaVpkRXBiOWQydzhnSlZNNE82WURKenYxQmFYWUVLX3VmVFAydW5QLUo5SHpHQnEwMC1HQTB4U3FNaXVwY3pYS3JH?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMicEFVX3lxTE5qYWxqWjdEWmwwTm0ybTU0SkFiOUF0VXRxOTVReXRSMThEN3dRc29SY2JXWm1ZZ1pTTEJIUGRtTHIwaU9sSTQtYlhnSWtsX0lKVkx6U25UWEhsVGVkV25YYmk3MDd4QXloTFFTU2RzZELSAXZBVV95cUxNVlNyOEF2bEVidEJMbDFRMExjS0ZwNTNaQ1RiSnVxZkg4MUNYaVdkeU1vQkpDLUIxOXZvdTNlZDVvWksyQnJyWkRaQWRIVmRjQUw5eTVjbHMwdW1qeGE3N2s3S3VVbGN1b1JzcG1yN3Zzai1zeXhn",
+      "title": "Anthropic Extends Free Access to Claude Fable 5 on All Paid Plans - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qYWxqWjdEWmwwTm0ybTU0SkFiOUF0VXRxOTVReXRSMThEN3dRc29SY2JXWm1ZZ1pTTEJIUGRtTHIwaU9sSTQtYlhnSWtsX0lKVkx6U25UWEhsVGVkV25YYmk3MDd4QXloTFFTU2RzZELSAXZBVV95cUxNVlNyOEF2bEVidEJMbDFRMExjS0ZwNTNaQ1RiSnVxZkg4MUNYaVdkeU1vQkpDLUIxOXZvdTNlZDVvWksyQnJyWkRaQWRIVmRjQUw5eTVjbHMwdW1qeGE3N2s3S3VVbGN1b1JzcG1yN3Zzai1zeXhn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5qYWxqWjdEWmwwTm0ybTU0SkFiOUF0VXRxOTVReXRSMThEN3dRc29SY2JXWm1ZZ1pTTEJIUGRtTHIwaU9sSTQtYlhnSWtsX0lKVkx6U25UWEhsVGVkV25YYmk3MDd4QXloTFFTU2RzZELSAXZBVV95cUxNVlNyOEF2bEVidEJMbDFRMExjS0ZwNTNaQ1RiSnVxZkg4MUNYaVdkeU1vQkpDLUIxOXZvdTNlZDVvWksyQnJyWkRaQWRIVmRjQUw5eTVjbHMwdW1qeGE3N2s3S3VVbGN1b1JzcG1yN3Zzai1zeXhn?oc=5\" target=\"_blank\">Anthropic Extends Free Access to Claude Fable 5 on All Paid Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyberSecurityNews</font>",
+      "publishedAt": "2026-07-08T02:44:54.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5qYWxqWjdEWmwwTm0ybTU0SkFiOUF0VXRxOTVReXRSMThEN3dRc29SY2JXWm1ZZ1pTTEJIUGRtTHIwaU9sSTQtYlhnSWtsX0lKVkx6U25UWEhsVGVkV25YYmk3MDd4QXloTFFTU2RzZELSAXZBVV95cUxNVlNyOE",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qYWxqWjdEWmwwTm0ybTU0SkFiOUF0VXRxOTVReXRSMThEN3dRc29SY2JXWm1ZZ1pTTEJIUGRtTHIwaU9sSTQtYlhnSWtsX0lKVkx6U25UWEhsVGVkV25YYmk3MDd4QXloTFFTU2RzZELSAXZBVV95cUxNVlNyOEF2bEVidEJMbDFRMExjS0ZwNTNaQ1RiSnVxZkg4MUNYaVdkeU1vQkpDLUIxOXZvdTNlZDVvWksyQnJyWkRaQWRIVmRjQUw5eTVjbHMwdW1qeGE3N2s3S3VVbGN1b1JzcG1yN3Zzai1zeXhn?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMidkFVX3lxTFBWMHk4T1ZIRlNMS2ZBc2xKVC1iRmhaMWJfS1BSZm9MN0pYZUd2QmljSWhCNzB5UnhIMlU0UkRHdXdqcE8wZTB4MUx3LW56ZjgtUmNmQ2RyOXlkbFpRMkZPd1B4dm5TNWdUalU1X3kza1hYckFfWFE",
+      "title": "Anthropic Extends Free Access to Claude Fable 5 by Five Days Through July 13 - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMHk4T1ZIRlNMS2ZBc2xKVC1iRmhaMWJfS1BSZm9MN0pYZUd2QmljSWhCNzB5UnhIMlU0UkRHdXdqcE8wZTB4MUx3LW56ZjgtUmNmQ2RyOXlkbFpRMkZPd1B4dm5TNWdUalU1X3kza1hYckFfWFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMHk4T1ZIRlNMS2ZBc2xKVC1iRmhaMWJfS1BSZm9MN0pYZUd2QmljSWhCNzB5UnhIMlU0UkRHdXdqcE8wZTB4MUx3LW56ZjgtUmNmQ2RyOXlkbFpRMkZPd1B4dm5TNWdUalU1X3kza1hYckFfWFE?oc=5\" target=\"_blank\">Anthropic Extends Free Access to Claude Fable 5 by Five Days Through July 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "publishedAt": "2026-07-08T01:16:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMHk4T1ZIRlNMS2ZBc2xKVC1iRmhaMWJfS1BSZm9MN0pYZUd2QmljSWhCNzB5UnhIMlU0UkRHdXdqcE8wZTB4MUx3LW56ZjgtUmNmQ2RyOXlkbFpRMkZPd1B4dm5TNWdUalU1X3kza1hYckFfWFE?oc=5\" targ",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMHk4T1ZIRlNMS2ZBc2xKVC1iRmhaMWJfS1BSZm9MN0pYZUd2QmljSWhCNzB5UnhIMlU0UkRHdXdqcE8wZTB4MUx3LW56ZjgtUmNmQ2RyOXlkbFpRMkZPd1B4dm5TNWdUalU1X3kza1hYckFfWFE?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 1
+    },
+    {
       "id": "CBMirAFBVV95cUxOYm5TaGl2Um1YeUYwamtwLUVrTDAwOE5uQ1RkbWVCWC1NVVNhbFhqaUJlbklwaTJjYUp4ZXJSMEhoajgxT1p6OWFVSUJTTG1aZTBVOGRzYy1HRldOcnUzeC15MVF3S1gwUkhLQUdtLTZaclNyLWNKQ3BzUWl5bkNBX3JZRjJqRVVWdTU4aFVpZDA5ZGRJN0RIdmxGRldZTFR6ZkJGZnhldmRZX1F2",
       "title": "Anthropic Launches Mobile Access for Claude Cowork - PYMNTS.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYm5TaGl2Um1YeUYwamtwLUVrTDAwOE5uQ1RkbWVCWC1NVVNhbFhqaUJlbklwaTJjYUp4ZXJSMEhoajgxT1p6OWFVSUJTTG1aZTBVOGRzYy1HRldOcnUzeC15MVF3S1gwUkhLQUdtLTZaclNyLWNKQ3BzUWl5bkNBX3JZRjJqRVVWdTU4aFVpZDA5ZGRJN0RIdmxGRldZTFR6ZkJGZnhldmRZX1F2?oc=5",
@@ -318,8 +398,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYm5TaGl2Um1YeUYwamtwLUVrTDAwOE5uQ1RkbWVCWC1NVVNhbFhqaUJlbklwaTJjYUp4ZXJSMEhoajgxT1p6OWFVSUJTTG1aZTBVOGRzYy1HRldOcnUzeC15MVF3S1gwUkhLQUdtLTZaclNyLWNKQ3BzUWl5bkNBX3JZRjJqRVVWdTU4aFVpZDA5ZGRJN0RIdmxGRldZTFR6ZkJGZnhldmRZX1F2?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 2
     },
     {
       "id": "CBMipAFBVV95cUxPRF8xUDloLUVYRkNYdXN1OGZlSkwwQW9VQm10b2xvaXZieTJpVFQ2OXg4bC1MT29kOEs0UHJpZnlWZUl3czVuaU9TRGFfUzhTZGhNSWthUzZmczZndmtkQWc4UGRSWXNzTTVCRVJpazRaejVsRDRjQ002WlBwMzFjVC1VVjRxNGk2a3hqSlhYZHBoeW41ZTJSZnNfNlNqNnBQWVJldg",
@@ -338,8 +418,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRF8xUDloLUVYRkNYdXN1OGZlSkwwQW9VQm10b2xvaXZieTJpVFQ2OXg4bC1MT29kOEs0UHJpZnlWZUl3czVuaU9TRGFfUzhTZGhNSWthUzZmczZndmtkQWc4UGRSWXNzTTVCRVJpazRaejVsRDRjQ002WlBwMzFjVC1VVjRxNGk2a3hqSlhYZHBoeW41ZTJSZnNfNlNqNnBQWVJldg?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 2
     },
     {
       "id": "CBMixAFBVV95cUxQckE2c0JtRkJtRVFNMXZVVTBLcWQ1bXd2TnVFMXNpenRCbTRoOGVsS1h5QlpSUWhUMDUxMlFMVXU3ZUdhbVBaeVNFOF80eDRIZW15ODMyaDlEX2xkOExjY3BteGJnc0xxSzJ4Qk9lcWN6cVNLeUV6NHRpQkdKTFotRndna0VEQklqbW8td3dXRlo2VmZWZC1hR2pGTkU0bDE3Wkt5WFgxV2ZnazVqUnJPUzFtMVdENGttZTlZMEZIbG1CWGpz",
@@ -378,8 +458,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zcjZ1M1cxdnY5OEpUcUpVaGpPSHBJMkI4UEE4bTFWVXhjUUc2V2dyUFJ4UnpvQVFHY0NCMGZRWGdLbTMtOXk5TzdXTG8td1l3WkU2MWc3d0ROYVU4Z3JF?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiXkFVX3lxTE9nQlMyLTd1MHVieHBKQkI0blR1S0JUSGxDNHRvTVBMVGZ2N3Z6TzJqcnRGTG96ZGY4NTN0UmJ5T1pocllWOEl6TGJid1FmMFBKdWlabG9HVnBOb1Npbnc",
@@ -398,7 +478,27 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQlMyLTd1MHVieHBKQkI0blR1S0JUSGxDNHRvTVBMVGZ2N3Z6TzJqcnRGTG96ZGY4NTN0UmJ5T1pocllWOEl6TGJid1FmMFBKdWlabG9HVnBOb1Npbnc?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 2
+    },
+    {
+      "id": "CBMidkFVX3lxTE8xNnJRN19RcXhOMlczZ0t5d1RjSE9OSjcxY29aTXFLRGlidXVkMnZ6c2x0dmh2ZXpTTk1EQmtrUVQ1TTh2akpIb05QYUUxRmptTi1rWXRWTmUyQmFtUUtESVdjcEQyakZKWUlva1lrMC1zcGpZMFE",
+      "title": "Anthropic Discovers Claude Spontaneously Formed a \"Thought Workspace,\" Reigniting the AI Consciousness Debate - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xNnJRN19RcXhOMlczZ0t5d1RjSE9OSjcxY29aTXFLRGlidXVkMnZ6c2x0dmh2ZXpTTk1EQmtrUVQ1TTh2akpIb05QYUUxRmptTi1rWXRWTmUyQmFtUUtESVdjcEQyakZKWUlva1lrMC1zcGpZMFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8xNnJRN19RcXhOMlczZ0t5d1RjSE9OSjcxY29aTXFLRGlidXVkMnZ6c2x0dmh2ZXpTTk1EQmtrUVQ1TTh2akpIb05QYUUxRmptTi1rWXRWTmUyQmFtUUtESVdjcEQyakZKWUlva1lrMC1zcGpZMFE?oc=5\" target=\"_blank\">Anthropic Discovers Claude Spontaneously Formed a \"Thought Workspace,\" Reigniting the AI Consciousness Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "publishedAt": "2026-07-07T18:25:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8xNnJRN19RcXhOMlczZ0t5d1RjSE9OSjcxY29aTXFLRGlidXVkMnZ6c2x0dmh2ZXpTTk1EQmtrUVQ1TTh2akpIb05QYUUxRmptTi1rWXRWTmUyQmFtUUtESVdjcEQyakZKWUlva1lrMC1zcGpZMFE?oc=5\" targ",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xNnJRN19RcXhOMlczZ0t5d1RjSE9OSjcxY29aTXFLRGlidXVkMnZ6c2x0dmh2ZXpTTk1EQmtrUVQ1TTh2akpIb05QYUUxRmptTi1rWXRWTmUyQmFtUUtESVdjcEQyakZKWUlva1lrMC1zcGpZMFE?oc=5",
+      "firstSeenAt": "2026-07-08T03:42:51.370Z",
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
       "seenCount": 1
     },
     {
@@ -418,8 +518,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2tMX09DUXVWX0ZFVExPSXhHU0Q4MHVwc244S3EtUllCY2dkYVBvYXd2RXltUGlvVjdqTmhxYVl6ZGVUWWk1UXhsQU1PT0hjWHU2cTRrTzhLWWYxTVc1SmNQNG81cUN2c1k3YklVbDhvM3FQdWE4SVl1d19Kbjd1NQ?oc=5",
       "firstSeenAt": "2026-07-07T21:40:00.509Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 2
     },
     {
       "id": "CBMisgFBVV95cUxPczc2SEN5V3BXVTNZT0lJRGhnSmk5V2VZd19UYklVOS0ycmVuX21YQlByTEJQaGF4dnJIeVRVcUlOOV9JUzhBVlRhSTdCYmtlUVhEQ3Bfb3hjZ04zYk1yWE4wV1pNWm1CQ1JkRVhZYXhQUzI5Q1lKTFNIRm5Ca0w1blhVaEktT213cy1NdnpacVlrdlZJekQ0bXN5cE1IZll6NV9zNjJpTFVRVU5TUjlHT3BB",
@@ -438,8 +538,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczc2SEN5V3BXVTNZT0lJRGhnSmk5V2VZd19UYklVOS0ycmVuX21YQlByTEJQaGF4dnJIeVRVcUlOOV9JUzhBVlRhSTdCYmtlUVhEQ3Bfb3hjZ04zYk1yWE4wV1pNWm1CQ1JkRVhZYXhQUzI5Q1lKTFNIRm5Ca0w1blhVaEktT213cy1NdnpacVlrdlZJekQ0bXN5cE1IZll6NV9zNjJpTFVRVU5TUjlHT3BB?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMimAFBVV95cUxQdDVDSGhCMDRHZHRmVzJkOGI0ZkJwYmd5ZC0xVzJOemJaUk5ZVVNQNmRUVFJMdWdjOThSN2M2ZHE0UzBmSEUzQXdPR0VwTllxTkZ0X1A1bGQ3QkI5QVdlWmhIbjVSRW9hYkhZVnRZdFdrQVdGMmd3dTZ2SC1IekhqeHZCbE9FZXJfbkZ1S1NEN21jaDZRbHhxcw",
@@ -458,28 +558,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDVDSGhCMDRHZHRmVzJkOGI0ZkJwYmd5ZC0xVzJOemJaUk5ZVVNQNmRUVFJMdWdjOThSN2M2ZHE0UzBmSEUzQXdPR0VwTllxTkZ0X1A1bGQ3QkI5QVdlWmhIbjVSRW9hYkhZVnRZdFdrQVdGMmd3dTZ2SC1IekhqeHZCbE9FZXJfbkZ1S1NEN21jaDZRbHhxcw?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw",
-      "title": "Anthropic says Claude has carved out its own space to ponder - Axios",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5\" target=\"_blank\">Anthropic says Claude has carved out its own space to ponder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "publishedAt": "2026-07-07T17:35:12.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5\" target=\"_blan",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5",
-      "firstSeenAt": "2026-07-07T04:15:33.357Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMixgFBVV95cUxQNlVqTTNVcTJibXlucm9rbVJDTU42TjQ0SC1sSEJVSEpVa19XM1dNQ1VPV3ZteE5FdVJBblZFRHFZNmV1QlVyVk90YjM2M0t1Y05JbldBc0NDS0h5NGY4dUs5V04yZXhoLVFrS2JyTGd5d1kyR0ZvMnhfUnd6RllWM09HdnhhbHJ3cVZwVzhoR3FobjMxUzUxWHpCM1JYcElSUGJkZWRYb0FoX25MejlldTJRb2dZNHpERlNsd2tDOV9vTjROUXc",
@@ -498,8 +578,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNlVqTTNVcTJibXlucm9rbVJDTU42TjQ0SC1sSEJVSEpVa19XM1dNQ1VPV3ZteE5FdVJBblZFRHFZNmV1QlVyVk90YjM2M0t1Y05JbldBc0NDS0h5NGY4dUs5V04yZXhoLVFrS2JyTGd5d1kyR0ZvMnhfUnd6RllWM09HdnhhbHJ3cVZwVzhoR3FobjMxUzUxWHpCM1JYcElSUGJkZWRYb0FoX25MejlldTJRb2dZNHpERlNsd2tDOV9vTjROUXc?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMidkFVX3lxTFBJay1QNC1wWmFYOGNtcTNWaVo1aUowd3BrYWpoVmdJQUs1V20tNHdvRTZycS05U3ZWNjVCNWczLXY4VFN5QnFQaFNYNzNqYWFaSWhvYk4zTGM4MEMzRHdTekd2XzgtWmNQakktN09pN0tCNTUyanc",
@@ -518,8 +598,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJay1QNC1wWmFYOGNtcTNWaVo1aUowd3BrYWpoVmdJQUs1V20tNHdvRTZycS05U3ZWNjVCNWczLXY4VFN5QnFQaFNYNzNqYWFaSWhvYk4zTGM4MEMzRHdTekd2XzgtWmNQakktN09pN0tCNTUyanc?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMibkFVX3lxTFBqRUM5cmh6NmtZNHpITGVyYURLY2FzSkJVTmhCVmNEd0M5NmZxejAybXU1Nkg0Zk9MSnNEZ1lyY1Z4cVI0Tks0X2dwWEtRb3ZmWEtGaHdBaWFjb21KamNsVmJQTmNVY2VYZmNKYjV3",
@@ -538,8 +618,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRUM5cmh6NmtZNHpITGVyYURLY2FzSkJVTmhCVmNEd0M5NmZxejAybXU1Nkg0Zk9MSnNEZ1lyY1Z4cVI0Tks0X2dwWEtRb3ZmWEtGaHdBaWFjb21KamNsVmJQTmNVY2VYZmNKYjV3?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiugFBVV95cUxPU0pqODBXOHFXS3B3dTRKMGI0SG1lbGN0cmlYWWx2bU96MmVxZlVnaERxVzl3U1VhRl9FSk1uV2o0ejJGUWFtZlZFakZpZ1hJVEZobHQ0dlFEVVlwaVk1YXp4X3lnYnd4TjF2ZndXMWgzN0RXUlBzOXcyck9ONzJaYWhmNHJDdGZwVkJUWTBCd0x6QWpTQjFPaVZXVC1ObkV2enFOM3BGVHA5VXV1NVNzVnFyc24xWXA0eUE",
@@ -558,8 +638,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0pqODBXOHFXS3B3dTRKMGI0SG1lbGN0cmlYWWx2bU96MmVxZlVnaERxVzl3U1VhRl9FSk1uV2o0ejJGUWFtZlZFakZpZ1hJVEZobHQ0dlFEVVlwaVk1YXp4X3lnYnd4TjF2ZndXMWgzN0RXUlBzOXcyck9ONzJaYWhmNHJDdGZwVkJUWTBCd0x6QWpTQjFPaVZXVC1ObkV2enFOM3BGVHA5VXV1NVNzVnFyc24xWXA0eUE?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiygFBVV95cUxPVlRzSUMydjVvYzVpMjRGbEZTeUk0clNPcDQ5YVRXMHlTRU40U0dqM3lJMkxLYmpvNU11UG4tU1pkQmRQSFhtd1lZSmtWc0djYjJiRjIydEp1VHUwRjlmRmNic0FYdWxaUmxod0stVnlpREpTTk5mZkh6dUN0NkxuSmkyZnVxV3kzZ281MWE5UU1OX3pGb0lLR0NmYXRlbVpWX2toeE81TFA5TTNrTUxXaUtDUnhlUnJ3RjE3Q2pHbVQ4ZGtTUFJYTmFn0gHSAUFVX3lxTE8wOVdsR1Y1YnpJYS14UEZ6V1E0c1FFVFd4d0p6TkJEUkZwM2ZMTXQ0aG1Ca0QyMWd3bDROY0tOSEM4bUw0UHphRkxtRjBrY25WMDlvQ1JfS05GcS1BTmFYUWlqOWEzNWJENUxyNlIzUzlqTGJ1d01tTl84Zy1UUUNKVFN0bXc3UG1CeW9RSnc4Z1cwUy0yQXVwYWNHbWlIVHpuMk5LLUstNG5oYUhrUEt3bU5DMVhEajdxTTZJZ2xSendfY1pCZzd0NWd1MmdMZmw4dw",
@@ -578,8 +658,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlRzSUMydjVvYzVpMjRGbEZTeUk0clNPcDQ5YVRXMHlTRU40U0dqM3lJMkxLYmpvNU11UG4tU1pkQmRQSFhtd1lZSmtWc0djYjJiRjIydEp1VHUwRjlmRmNic0FYdWxaUmxod0stVnlpREpTTk5mZkh6dUN0NkxuSmkyZnVxV3kzZ281MWE5UU1OX3pGb0lLR0NmYXRlbVpWX2toeE81TFA5TTNrTUxXaUtDUnhlUnJ3RjE3Q2pHbVQ4ZGtTUFJYTmFn0gHSAUFVX3lxTE8wOVdsR1Y1YnpJYS14UEZ6V1E0c1FFVFd4d0p6TkJEUkZwM2ZMTXQ0aG1Ca0QyMWd3bDROY0tOSEM4bUw0UHphRkxtRjBrY25WMDlvQ1JfS05GcS1BTmFYUWlqOWEzNWJENUxyNlIzUzlqTGJ1d01tTl84Zy1UUUNKVFN0bXc3UG1CeW9RSnc4Z1cwUy0yQXVwYWNHbWlIVHpuMk5LLUstNG5oYUhrUEt3bU5DMVhEajdxTTZJZ2xSendfY1pCZzd0NWd1MmdMZmw4dw?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMinAFBVV95cUxOd2Q0ZlhfcUJNbkhhcG1yVVRmM3hieDVyNWk3Rm5RN0J4SjVKelZXc1VjTGdYVGdpeDlHNnphaGYyeTBiNFpVWng2V1FIbW9wMjVqVFZ2blVRc01lZExMZVJ0cDFHZzlKbDI4UEt3TGYtTzZGQXdsSE5qdS1Oc21MeU9oNGhDM2JVQzVpS2k0WFVsQ1VQNkZiU0h4MnQ",
@@ -598,8 +678,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2Q0ZlhfcUJNbkhhcG1yVVRmM3hieDVyNWk3Rm5RN0J4SjVKelZXc1VjTGdYVGdpeDlHNnphaGYyeTBiNFpVWng2V1FIbW9wMjVqVFZ2blVRc01lZExMZVJ0cDFHZzlKbDI4UEt3TGYtTzZGQXdsSE5qdS1Oc21MeU9oNGhDM2JVQzVpS2k0WFVsQ1VQNkZiU0h4MnQ?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiekFVX3lxTE5ObGpYSjNFMWtRcEFOXy1qSDRqU29sTUI5a1lBOTBQQTdQR0xEaURVMkZvT0hBRmZXUlFQNUJ1UzhQRDU4WlR6TUhrTVhNMTRlLTZmUGw5TU5JZE5keW9MTVNodmJpejhleWFtZGtfZVdWMEwzY3RYaUtn",
@@ -618,15 +698,15 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ObGpYSjNFMWtRcEFOXy1qSDRqU29sTUI5a1lBOTBQQTdQR0xEaURVMkZvT0hBRmZXUlFQNUJ1UzhQRDU4WlR6TUhrTVhNMTRlLTZmUGw5TU5JZE5keW9MTVNodmJpejhleWFtZGtfZVdWMEwzY3RYaUtn?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiqAFBVV95cUxObEp1eUMxeWdHeTdEZk93N2NsZmNBcDlwT3VObHZ3VkM0TDdOeERwTEJSeWpSUkZVRU15WnRWS1Fub0NtakpGUjVHRlFSQ3BjcWxjd01oSk0yeWJPdHZwNDktMXhZMDJKSml2NXhkYkVzTmVaZkUzUm9oWVhwTzYteEJ2WHA0clV2bXJRSGVPZXpUa3RoMnhJM3lTRWtrSWMxZFVjSThqcV8",
       "title": "Anthropic will make Claude Cowork available to users via the cloud - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEp1eUMxeWdHeTdEZk93N2NsZmNBcDlwT3VObHZ3VkM0TDdOeERwTEJSeWpSUkZVRU15WnRWS1Fub0NtakpGUjVHRlFSQ3BjcWxjd01oSk0yeWJPdHZwNDktMXhZMDJKSml2NXhkYkVzTmVaZkUzUm9oWVhwTzYteEJ2WHA0clV2bXJRSGVPZXpUa3RoMnhJM3lTRWtrSWMxZFVjSThqcV8?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEp1eUMxeWdHeTdEZk93N2NsZmNBcDlwT3VObHZ3VkM0TDdOeERwTEJSeWpSUkZVRU15WnRWS1Fub0NtakpGUjVHRlFSQ3BjcWxjd01oSk0yeWJPdHZwNDktMXhZMDJKSml2NXhkYkVzTmVaZkUzUm9oWVhwTzYteEJ2WHA0clV2bXJRSGVPZXpUa3RoMnhJM3lTRWtrSWMxZFVjSThqcV8?oc=5\" target=\"_blank\">Anthropic will make Claude Cowork available to users via the cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "publishedAt": "2026-07-07T16:00:41.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
@@ -638,88 +718,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEp1eUMxeWdHeTdEZk93N2NsZmNBcDlwT3VObHZ3VkM0TDdOeERwTEJSeWpSUkZVRU15WnRWS1Fub0NtakpGUjVHRlFSQ3BjcWxjd01oSk0yeWJPdHZwNDktMXhZMDJKSml2NXhkYkVzTmVaZkUzUm9oWVhwTzYteEJ2WHA0clV2bXJRSGVPZXpUa3RoMnhJM3lTRWtrSWMxZFVjSThqcV8?oc=5",
       "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMixgFBVV95cUxQa3d4Yk02Rmh4RTY3UlpZYnplVXpvSWVYMS1BZjhZRVBaU2k0MW9rTF9KUUlOa19qYXg2ZFFnMzJ2X2tud2x0VGZ2SEhQVUhuWjRUMFp1b0NEVVhwdXlBeUJqdUdrWnRzSndIWXZ0U1NMdDJHNFJabzhjQm5ONF8tY0NjX2owbHBLZU5kcHpMX29PYUJKOEtNZmtnRTllX2lHRnBGRUFXcFJLb2VXUHVhU1FDT1Ezdm1xN3hEZ2V5bTlMRjBiMXc",
-      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding - Venturebeat",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3d4Yk02Rmh4RTY3UlpZYnplVXpvSWVYMS1BZjhZRVBaU2k0MW9rTF9KUUlOa19qYXg2ZFFnMzJ2X2tud2x0VGZ2SEhQVUhuWjRUMFp1b0NEVVhwdXlBeUJqdUdrWnRzSndIWXZ0U1NMdDJHNFJabzhjQm5ONF8tY0NjX2owbHBLZU5kcHpMX29PYUJKOEtNZmtnRTllX2lHRnBGRUFXcFJLb2VXUHVhU1FDT1Ezdm1xN3hEZ2V5bTlMRjBiMXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3d4Yk02Rmh4RTY3UlpZYnplVXpvSWVYMS1BZjhZRVBaU2k0MW9rTF9KUUlOa19qYXg2ZFFnMzJ2X2tud2x0VGZ2SEhQVUhuWjRUMFp1b0NEVVhwdXlBeUJqdUdrWnRzSndIWXZ0U1NMdDJHNFJabzhjQm5ONF8tY0NjX2owbHBLZU5kcHpMX29PYUJKOEtNZmtnRTllX2lHRnBGRUFXcFJLb2VXUHVhU1FDT1Ezdm1xN3hEZ2V5bTlMRjBiMXc?oc=5\" target=\"_blank\">Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3d4Yk02Rmh4RTY3UlpZYnplVXpvSWVYMS1BZjhZRVBaU2k0MW9rTF9KUUlOa19qYXg2ZFFnMzJ2X2tud2x0VGZ2SEhQVUhuWjRUMFp1b0NEVVhwdXlBeUJqdUdrWnRzSndIWXZ0U1NMdDJHNFJabzhjQm5ONF",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3d4Yk02Rmh4RTY3UlpZYnplVXpvSWVYMS1BZjhZRVBaU2k0MW9rTF9KUUlOa19qYXg2ZFFnMzJ2X2tud2x0VGZ2SEhQVUhuWjRUMFp1b0NEVVhwdXlBeUJqdUdrWnRzSndIWXZ0U1NMdDJHNFJabzhjQm5ONF8tY0NjX2owbHBLZU5kcHpMX29PYUJKOEtNZmtnRTllX2lHRnBGRUFXcFJLb2VXUHVhU1FDT1Ezdm1xN3hEZ2V5bTlMRjBiMXc?oc=5",
-      "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ",
-      "title": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ?oc=5\" target=\"_blank\">Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNk",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ?oc=5",
-      "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMihgFBVV95cUxPeS1WUVlvUTEtaU9vQW1UVVdSUW1tdE05dG9MQUEtV1ZGOWFnM0xrTW1oLXNuWEQ4MzJZQ0VRXzFLSTV1LW5EZzJILXF1N3FCcEVMcVhHeXRlUjBubzZUdDlrMExYcUp4cTk5RjlFQldBM2J0SE02QWZXYkc2c1lwRi1NMUFoZw",
-      "title": "Anthropic's Claude Cowork heads to the cloud as data shows 90% of sessions aren't for coding - ZDNET",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeS1WUVlvUTEtaU9vQW1UVVdSUW1tdE05dG9MQUEtV1ZGOWFnM0xrTW1oLXNuWEQ4MzJZQ0VRXzFLSTV1LW5EZzJILXF1N3FCcEVMcVhHeXRlUjBubzZUdDlrMExYcUp4cTk5RjlFQldBM2J0SE02QWZXYkc2c1lwRi1NMUFoZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPeS1WUVlvUTEtaU9vQW1UVVdSUW1tdE05dG9MQUEtV1ZGOWFnM0xrTW1oLXNuWEQ4MzJZQ0VRXzFLSTV1LW5EZzJILXF1N3FCcEVMcVhHeXRlUjBubzZUdDlrMExYcUp4cTk5RjlFQldBM2J0SE02QWZXYkc2c1lwRi1NMUFoZw?oc=5\" target=\"_blank\">Anthropic's Claude Cowork heads to the cloud as data shows 90% of sessions aren't for coding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPeS1WUVlvUTEtaU9vQW1UVVdSUW1tdE05dG9MQUEtV1ZGOWFnM0xrTW1oLXNuWEQ4MzJZQ0VRXzFLSTV1LW5EZzJILXF1N3FCcEVMcVhHeXRlUjBubzZUdDlrMExYcUp4cTk5RjlFQldBM2J0SE02QWZXYkc2c1",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeS1WUVlvUTEtaU9vQW1UVVdSUW1tdE05dG9MQUEtV1ZGOWFnM0xrTW1oLXNuWEQ4MzJZQ0VRXzFLSTV1LW5EZzJILXF1N3FCcEVMcVhHeXRlUjBubzZUdDlrMExYcUp4cTk5RjlFQldBM2J0SE02QWZXYkc2c1lwRi1NMUFoZw?oc=5",
-      "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMigwJBVV95cUxOMzFyM3pXLTRYNElnMWVwd3B2S0JDcHhOY25VaXNpSUdoX0hVVnRIbnNRVkRXR0xfV3pTMUJmWEdReEx5R3I2Z000bS1FdDgzVTVPYU5VUl9LbEdGeFVkX2pSQm5VV0NiNE80QlBBMzRhazRfR0xaclFkYUdwZ1pjM0xOWWZCdm00b3Etc3M0NDAyZk9VbjdrOEpocDM0ZWI3NGpfbHE5Mnh5amlNLUNkbXd1eGhmZU5jbkZfSXJpUFQ4eHR0akw2YUFsSUZ4M3dsQ0E5TVVyTzlBNzdnTFo4aUlFRGJwTW9jaThFYUVhVzJVMFR0aEJaSmJrTk81WlFxM3JR",
-      "title": "'We can find that Claude is thinking, but not telling us': Anthropic's AI has created its own brain space that emerged on its own without programming - Tom's Guide",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMzFyM3pXLTRYNElnMWVwd3B2S0JDcHhOY25VaXNpSUdoX0hVVnRIbnNRVkRXR0xfV3pTMUJmWEdReEx5R3I2Z000bS1FdDgzVTVPYU5VUl9LbEdGeFVkX2pSQm5VV0NiNE80QlBBMzRhazRfR0xaclFkYUdwZ1pjM0xOWWZCdm00b3Etc3M0NDAyZk9VbjdrOEpocDM0ZWI3NGpfbHE5Mnh5amlNLUNkbXd1eGhmZU5jbkZfSXJpUFQ4eHR0akw2YUFsSUZ4M3dsQ0E5TVVyTzlBNzdnTFo4aUlFRGJwTW9jaThFYUVhVzJVMFR0aEJaSmJrTk81WlFxM3JR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOMzFyM3pXLTRYNElnMWVwd3B2S0JDcHhOY25VaXNpSUdoX0hVVnRIbnNRVkRXR0xfV3pTMUJmWEdReEx5R3I2Z000bS1FdDgzVTVPYU5VUl9LbEdGeFVkX2pSQm5VV0NiNE80QlBBMzRhazRfR0xaclFkYUdwZ1pjM0xOWWZCdm00b3Etc3M0NDAyZk9VbjdrOEpocDM0ZWI3NGpfbHE5Mnh5amlNLUNkbXd1eGhmZU5jbkZfSXJpUFQ4eHR0akw2YUFsSUZ4M3dsQ0E5TVVyTzlBNzdnTFo4aUlFRGJwTW9jaThFYUVhVzJVMFR0aEJaSmJrTk81WlFxM3JR?oc=5\" target=\"_blank\">'We can find that Claude is thinking, but not telling us': Anthropic's AI has created its own brain space that emerged on its own without programming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font>",
-      "publishedAt": "2026-07-07T15:55:58.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOMzFyM3pXLTRYNElnMWVwd3B2S0JDcHhOY25VaXNpSUdoX0hVVnRIbnNRVkRXR0xfV3pTMUJmWEdReEx5R3I2Z000bS1FdDgzVTVPYU5VUl9LbEdGeFVkX2pSQm5VV0NiNE80QlBBMzRhazRfR0xaclFkYUdwZ1",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMzFyM3pXLTRYNElnMWVwd3B2S0JDcHhOY25VaXNpSUdoX0hVVnRIbnNRVkRXR0xfV3pTMUJmWEdReEx5R3I2Z000bS1FdDgzVTVPYU5VUl9LbEdGeFVkX2pSQm5VV0NiNE80QlBBMzRhazRfR0xaclFkYUdwZ1pjM0xOWWZCdm00b3Etc3M0NDAyZk9VbjdrOEpocDM0ZWI3NGpfbHE5Mnh5amlNLUNkbXd1eGhmZU5jbkZfSXJpUFQ4eHR0akw2YUFsSUZ4M3dsQ0E5TVVyTzlBNzdnTFo4aUlFRGJwTW9jaThFYUVhVzJVMFR0aEJaSmJrTk81WlFxM3JR?oc=5",
-      "firstSeenAt": "2026-07-07T18:18:52.849Z",
-      "lastSeenAt": "2026-07-07T21:40:00.509Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-07-08T03:42:51.370Z",
+      "seenCount": 3
     }
   ]
 }
