@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T17:33:25.752Z",
+  "generatedAt": "2026-07-14T21:13:40.421Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,25 +7,25 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 57,
+      "count": 54,
       "error": null
     },
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 96,
+      "count": 95,
       "error": null
     },
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 100,
+      "count": 99,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 88,
+      "count": 86,
       "error": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 101,
+      "count": 103,
       "error": null
     },
     {
