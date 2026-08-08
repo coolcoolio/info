@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:11:01.127Z",
+  "generatedAt": "2026-08-08T16:50:19.338Z",
   "items": [
     {
       "id": "CBMihgJBVV95cUxOd2RMTkZXdmU2SDVyRzFMUFZFTHdaYW1jbFJCTXBQRjhpOXEwaFpPaVk5aDhLcW11OHFmLUhjQmNfbHc4c3otdjFUQUE1cGhGNWMweDNkZDI4ZVF1aWg2NkJMOW9NRjJBRk16NENoS0dWaUJHUU53T2R0OUlXd0RIX0tia3ZFQTBsVUF3ZjJ4eTJSakY5ZWFNekpNOGlQQS1iQkViLVBjakVZZkFuSWlpc1prTENQcmJ4Y2JEOENDNVliYWxseW1ka0JQVjNSOGo4emNEQmZFTjdBblZiWU0yTEdDWTlqZ1laUXhybGdObG5ZZE4zai1McXBjbmhuZGtrTV9RZndB",
@@ -18,8 +18,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOd2RMTkZXdmU2SDVyRzFMUFZFTHdaYW1jbFJCTXBQRjhpOXEwaFpPaVk5aDhLcW11OHFmLUhjQmNfbHc4c3otdjFUQUE1cGhGNWMweDNkZDI4ZVF1aWg2NkJMOW9NRjJBRk16NENoS0dWaUJHUU53T2R0OUlXd0RIX0tia3ZFQTBsVUF3ZjJ4eTJSakY5ZWFNekpNOGlQQS1iQkViLVBjakVZZkFuSWlpc1prTENQcmJ4Y2JEOENDNVliYWxseW1ka0JQVjNSOGo4emNEQmZFTjdBblZiWU0yTEdDWTlqZ1laUXhybGdObG5ZZE4zai1McXBjbmhuZGtrTV9RZndB?oc=5",
       "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 3
     },
     {
       "id": "CBMipAJBVV95cUxQdUpaRG5fY2lSYkQ5a0hMOFZwVS1YaDRvLXN5YlVqUVJrYkl4RDNXX01Fa0hmMjlmZ1FLd0VXUElqb3hKeHV4R2g2UXNuMXVkRE81cDVUZ1gxNzFoVWw2dmVHci1jMDNNV20zOGhUTnBLcWd0dnotNUNNN2FmNmR4eGVZYl9kSURHM2VRUl83YmQxaDVSZm94MlZpcW5tTWtjZmF4d2pOTjdDSE9BMWVyT1ctTVJKaEVfbmJWZFVqZUgxWndiLUZod3V0MFlqNWwwRFhIT2xwVVN0UVE1QzFfRGlNN3NpN0RmdWxjdjQ1YVR0TFdTLTRBUWU2UEdoeUxQUG5BM0FpNnFBdGNFa3VBdkMxRUJmaEFpM3U1a2UwSkpNS3pD",
@@ -38,8 +38,28 @@
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdUpaRG5fY2lSYkQ5a0hMOFZwVS1YaDRvLXN5YlVqUVJrYkl4RDNXX01Fa0hmMjlmZ1FLd0VXUElqb3hKeHV4R2g2UXNuMXVkRE81cDVUZ1gxNzFoVWw2dmVHci1jMDNNV20zOGhUTnBLcWd0dnotNUNNN2FmNmR4eGVZYl9kSURHM2VRUl83YmQxaDVSZm94MlZpcW5tTWtjZmF4d2pOTjdDSE9BMWVyT1ctTVJKaEVfbmJWZFVqZUgxWndiLUZod3V0MFlqNWwwRFhIT2xwVVN0UVE1QzFfRGlNN3NpN0RmdWxjdjQ1YVR0TFdTLTRBUWU2UEdoeUxQUG5BM0FpNnFBdGNFa3VBdkMxRUJmaEFpM3U1a2UwSkpNS3pD?oc=5",
       "firstSeenAt": "2026-08-07T17:06:05.474Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 7
+    },
+    {
+      "id": "CBMitwFBVV95cUxNUlFvQ0M3SkQ0ZlQ4RzI1OUpBWno2Y3JSQTEwd01qS01CdVRkeTdLR2VOdmd0a0UzQ2M0UzF0UG9kUlA1SzBzeXJyU0U1QUN4RVRmakxCcVdoTG0wRGVMdTVTUTEwVVhWODZWNEdwYVQwR1plVDloVVk1T0ROc3M4ZVFVMmFuTjhTd21sc3RfNzNHS1I0TGxFSHgxMmZzei05VjhYTXh2LWg5YTNKaHlJdTFsdjgwelk",
+      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFvQ0M3SkQ0ZlQ4RzI1OUpBWno2Y3JSQTEwd01qS01CdVRkeTdLR2VOdmd0a0UzQ2M0UzF0UG9kUlA1SzBzeXJyU0U1QUN4RVRmakxCcVdoTG0wRGVMdTVTUTEwVVhWODZWNEdwYVQwR1plVDloVVk1T0ROc3M4ZVFVMmFuTjhTd21sc3RfNzNHS1I0TGxFSHgxMmZzei05VjhYTXh2LWg5YTNKaHlJdTFsdjgwelk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFvQ0M3SkQ0ZlQ4RzI1OUpBWno2Y3JSQTEwd01qS01CdVRkeTdLR2VOdmd0a0UzQ2M0UzF0UG9kUlA1SzBzeXJyU0U1QUN4RVRmakxCcVdoTG0wRGVMdTVTUTEwVVhWODZWNEdwYVQwR1plVDloVVk1T0ROc3M4ZVFVMmFuTjhTd21sc3RfNzNHS1I0TGxFSHgxMmZzei05VjhYTXh2LWg5YTNKaHlJdTFsdjgwelk?oc=5\" target=\"_blank\">Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-decoder.com</font>",
+      "publishedAt": "2026-08-08T15:02:52.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFvQ0M3SkQ0ZlQ4RzI1OUpBWno2Y3JSQTEwd01qS01CdVRkeTdLR2VOdmd0a0UzQ2M0UzF0UG9kUlA1SzBzeXJyU0U1QUN4RVRmakxCcVdoTG0wRGVMdTVTUTEwVVhWODZWNEdwYVQwR1plVDloVVk1T0ROc3",
+      "score": 94,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFvQ0M3SkQ0ZlQ4RzI1OUpBWno2Y3JSQTEwd01qS01CdVRkeTdLR2VOdmd0a0UzQ2M0UzF0UG9kUlA1SzBzeXJyU0U1QUN4RVRmakxCcVdoTG0wRGVMdTVTUTEwVVhWODZWNEdwYVQwR1plVDloVVk1T0ROc3M4ZVFVMmFuTjhTd21sc3RfNzNHS1I0TGxFSHgxMmZzei05VjhYTXh2LWg5YTNKaHlJdTFsdjgwelk?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 1
     },
     {
       "id": "CBMiqgFBVV95cUxOMTV4RVd2LWpEQjJuc1pHV3dPMVgxZmxVV1dHeElZSFRMalVFQVRsa1B5ZnU4RkFGampTVlZpNFp1X053bHhLSWRwaXQyc1F3MU5RZWFkRTgtN0tNZk14ZGV4V3ZvY3BDZUktYllaeEdnTkphOVJ5V2lSaE51cEpLZzR0M2QyckdNY2tFRjctZDM1d3Q1MEItTEsxZC1WSkVrRFpjel91RXExZ9IBrwFBVV95cUxPQmpfT2hEX0dmTzJKTC1PalFXMkFBT2lQSU5vRTBFTTJPT0tXMWRxaV96OUNPS0lhZWxzRDdBQnk3Ml81OGNsanNDdzdDdGRYX21KRHF0MXE3RFItMUt4bnNKVm5ZUEtROGRoLVd4VXd0eVF1SURVWkstT29ROEtaYTZPYkx1Ymw5TnZyaS15QXNiMUo0UHF5RG1PY0xPN2g5dUdGS3YzdUR5TXRHZTgw",
@@ -58,8 +78,8 @@
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTV4RVd2LWpEQjJuc1pHV3dPMVgxZmxVV1dHeElZSFRMalVFQVRsa1B5ZnU4RkFGampTVlZpNFp1X053bHhLSWRwaXQyc1F3MU5RZWFkRTgtN0tNZk14ZGV4V3ZvY3BDZUktYllaeEdnTkphOVJ5V2lSaE51cEpLZzR0M2QyckdNY2tFRjctZDM1d3Q1MEItTEsxZC1WSkVrRFpjel91RXExZ9IBrwFBVV95cUxPQmpfT2hEX0dmTzJKTC1PalFXMkFBT2lQSU5vRTBFTTJPT0tXMWRxaV96OUNPS0lhZWxzRDdBQnk3Ml81OGNsanNDdzdDdGRYX21KRHF0MXE3RFItMUt4bnNKVm5ZUEtROGRoLVd4VXd0eVF1SURVWkstT29ROEtaYTZPYkx1Ymw5TnZyaS15QXNiMUo0UHF5RG1PY0xPN2g5dUdGS3YzdUR5TXRHZTgw?oc=5",
       "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 3
     },
     {
       "id": "CBMipAFBVV95cUxOLXV5d0YyUkM0elFOVWJFNWFEV2dwZDFDUmxvZk5rbWFlanlSMGpjc2dLQ2ZGajRsOHhoWjNyd0ZXMVN5ZGl1QjN5blRKV0hIbjhZenFEcGNyVkdIbXNYcjdDMm10NF9iVmVWSkhYUUhsc3hLcV9fOEFoRmJvZVppYzNvYzgtNXIzTjdPTlBoVXI3anh4N2JXRHJXT2gtLXpYMWN5MQ",
@@ -78,8 +98,8 @@
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXV5d0YyUkM0elFOVWJFNWFEV2dwZDFDUmxvZk5rbWFlanlSMGpjc2dLQ2ZGajRsOHhoWjNyd0ZXMVN5ZGl1QjN5blRKV0hIbjhZenFEcGNyVkdIbXNYcjdDMm10NF9iVmVWSkhYUUhsc3hLcV9fOEFoRmJvZVppYzNvYzgtNXIzTjdPTlBoVXI3anh4N2JXRHJXT2gtLXpYMWN5MQ?oc=5",
       "firstSeenAt": "2026-08-07T20:57:05.245Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 5
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 6
     },
     {
       "id": "CBMiowFBVV95cUxNVDlxMlhQb3h5NElOVVVMRTkyTk9wWjAwS05oaUthS0dsMFRKeG1HQ2pvNXNHSU0xX0tlZlZGMzJ3bjNNc1hIQ2FGUDdGVGllSUtvc2RQWTcwYXBibl9jUlRkRjVjVHhSQjU3dG1uSUp3cUVtNm9wclRFUFhwNWdOeXhNc29XRlNxVW5Yc3d5cklVdzZWVTF0cE5zQ19MemJmZXhF",
@@ -102,6 +122,66 @@
       "seenCount": 5
     },
     {
+      "id": "CBMiggFBVV95cUxNSVdtVE9ITUFfRi1mMjlKMmx4bkhXc2NLcTNGUklLenhYTU95OGVGQ2tIbzVUY1l6YS1ZdkJUSjhPT2tXRWJrbkZDNTMtcmNQNjhMX0tCako2b0ZPWTZab2pPVVlHdFpNSVoxbXBIaGozYjVUZkI4ZWxvdG9aZTU1NGt3",
+      "title": "Claude Vs ChatGPT: How These AI Assistants Differ - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSVdtVE9ITUFfRi1mMjlKMmx4bkhXc2NLcTNGUklLenhYTU95OGVGQ2tIbzVUY1l6YS1ZdkJUSjhPT2tXRWJrbkZDNTMtcmNQNjhMX0tCako2b0ZPWTZab2pPVVlHdFpNSVoxbXBIaGozYjVUZkI4ZWxvdG9aZTU1NGt3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSVdtVE9ITUFfRi1mMjlKMmx4bkhXc2NLcTNGUklLenhYTU95OGVGQ2tIbzVUY1l6YS1ZdkJUSjhPT2tXRWJrbkZDNTMtcmNQNjhMX0tCako2b0ZPWTZab2pPVVlHdFpNSVoxbXBIaGozYjVUZkI4ZWxvdG9aZTU1NGt3?oc=5\" target=\"_blank\">Claude Vs ChatGPT: How These AI Assistants Differ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "publishedAt": "2026-08-08T15:30:00.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSVdtVE9ITUFfRi1mMjlKMmx4bkhXc2NLcTNGUklLenhYTU95OGVGQ2tIbzVUY1l6YS1ZdkJUSjhPT2tXRWJrbkZDNTMtcmNQNjhMX0tCako2b0ZPWTZab2pPVVlHdFpNSVoxbXBIaGozYjVUZkI4ZWxvdG9aZT",
+      "score": 85,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSVdtVE9ITUFfRi1mMjlKMmx4bkhXc2NLcTNGUklLenhYTU95OGVGQ2tIbzVUY1l6YS1ZdkJUSjhPT2tXRWJrbkZDNTMtcmNQNjhMX0tCako2b0ZPWTZab2pPVVlHdFpNSVoxbXBIaGozYjVUZkI4ZWxvdG9aZTU1NGt3?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiugFBVV95cUxOTFZITE13b1RRVWpyZU5MZ0JFbVIzQ08ycVk1ZEZ1UFdzcWdYQ3ZLUWE2VlpzUWQ3Nzg2Y2tTcS1IMjJFZzhmQ25PdHU3aDg1UnVpTU9iOGNaMEpuSUlHU09PUFI4TEVXYlZaYzVVVEplZThpczR5Vkkwa3ZzbHV2QUtnb0ZJSnlTVy1oV2VlamFuV1lmVkZqSkJQY3ZDRGFDZHB5UjVRTEUtTGpRQ1BueVg0dFhNamExYmc",
+      "title": "I had Claude, ChatGPT, and Gemini build my resume—our recruiter told me this one was the best - How-To Geek",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFZITE13b1RRVWpyZU5MZ0JFbVIzQ08ycVk1ZEZ1UFdzcWdYQ3ZLUWE2VlpzUWQ3Nzg2Y2tTcS1IMjJFZzhmQ25PdHU3aDg1UnVpTU9iOGNaMEpuSUlHU09PUFI4TEVXYlZaYzVVVEplZThpczR5Vkkwa3ZzbHV2QUtnb0ZJSnlTVy1oV2VlamFuV1lmVkZqSkJQY3ZDRGFDZHB5UjVRTEUtTGpRQ1BueVg0dFhNamExYmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFZITE13b1RRVWpyZU5MZ0JFbVIzQ08ycVk1ZEZ1UFdzcWdYQ3ZLUWE2VlpzUWQ3Nzg2Y2tTcS1IMjJFZzhmQ25PdHU3aDg1UnVpTU9iOGNaMEpuSUlHU09PUFI4TEVXYlZaYzVVVEplZThpczR5Vkkwa3ZzbHV2QUtnb0ZJSnlTVy1oV2VlamFuV1lmVkZqSkJQY3ZDRGFDZHB5UjVRTEUtTGpRQ1BueVg0dFhNamExYmc?oc=5\" target=\"_blank\">I had Claude, ChatGPT, and Gemini build my resume—our recruiter told me this one was the best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">How-To Geek</font>",
+      "publishedAt": "2026-08-08T15:30:14.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFZITE13b1RRVWpyZU5MZ0JFbVIzQ08ycVk1ZEZ1UFdzcWdYQ3ZLUWE2VlpzUWQ3Nzg2Y2tTcS1IMjJFZzhmQ25PdHU3aDg1UnVpTU9iOGNaMEpuSUlHU09PUFI4TEVXYlZaYzVVVEplZThpczR5Vkkwa3ZzbH",
+      "score": 83,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFZITE13b1RRVWpyZU5MZ0JFbVIzQ08ycVk1ZEZ1UFdzcWdYQ3ZLUWE2VlpzUWQ3Nzg2Y2tTcS1IMjJFZzhmQ25PdHU3aDg1UnVpTU9iOGNaMEpuSUlHU09PUFI4TEVXYlZaYzVVVEplZThpczR5Vkkwa3ZzbHV2QUtnb0ZJSnlTVy1oV2VlamFuV1lmVkZqSkJQY3ZDRGFDZHB5UjVRTEUtTGpRQ1BueVg0dFhNamExYmc?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMioAFBVV95cUxNSndNWUxtWV9NZkFUQTFMenRPdzNfRkJzeEZ3TDVscjFwXzlub3NyM1hYMDR3X21wWUJYamlHSFh6dDFBeG5VZU9QSnpfcE1nVVo0QUctTWYwdmV5RmV0UDBIYXFoWkRubzh2RU9iRDlKMGp0Rm1kNWsyUWxOQ0hSZkhpZHFldnhaNGt3dnAtU3NvX1Zvb3pVbGw2RXc1Nlgy",
+      "title": "Cancel Your ChatGPT Subscription and Get GPT, Gemini, Claude, and More for $70 - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSndNWUxtWV9NZkFUQTFMenRPdzNfRkJzeEZ3TDVscjFwXzlub3NyM1hYMDR3X21wWUJYamlHSFh6dDFBeG5VZU9QSnpfcE1nVVo0QUctTWYwdmV5RmV0UDBIYXFoWkRubzh2RU9iRDlKMGp0Rm1kNWsyUWxOQ0hSZkhpZHFldnhaNGt3dnAtU3NvX1Zvb3pVbGw2RXc1Nlgy?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSndNWUxtWV9NZkFUQTFMenRPdzNfRkJzeEZ3TDVscjFwXzlub3NyM1hYMDR3X21wWUJYamlHSFh6dDFBeG5VZU9QSnpfcE1nVVo0QUctTWYwdmV5RmV0UDBIYXFoWkRubzh2RU9iRDlKMGp0Rm1kNWsyUWxOQ0hSZkhpZHFldnhaNGt3dnAtU3NvX1Zvb3pVbGw2RXc1Nlgy?oc=5\" target=\"_blank\">Cancel Your ChatGPT Subscription and Get GPT, Gemini, Claude, and More for $70</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "publishedAt": "2026-08-08T14:50:03.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSndNWUxtWV9NZkFUQTFMenRPdzNfRkJzeEZ3TDVscjFwXzlub3NyM1hYMDR3X21wWUJYamlHSFh6dDFBeG5VZU9QSnpfcE1nVVo0QUctTWYwdmV5RmV0UDBIYXFoWkRubzh2RU9iRDlKMGp0Rm1kNWsyUWxOQ0",
+      "score": 83,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSndNWUxtWV9NZkFUQTFMenRPdzNfRkJzeEZ3TDVscjFwXzlub3NyM1hYMDR3X21wWUJYamlHSFh6dDFBeG5VZU9QSnpfcE1nVVo0QUctTWYwdmV5RmV0UDBIYXFoWkRubzh2RU9iRDlKMGp0Rm1kNWsyUWxOQ0hSZkhpZHFldnhaNGt3dnAtU3NvX1Zvb3pVbGw2RXc1Nlgy?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 1
+    },
+    {
       "id": "CBMiugFBVV95cUxNWkpuUnhtcmRTUjlHWERkTjhRZ2tMUkJ5c3UwWVloNmdKTlhkTHk4UjZkMzFaMmowZ0VPVTVxalhXeUJ1ZU5yWDI4MmtlaUtVU0tOTTJpRUtDTUk5a25hVlZNaTNBV2t0Yko2LVkyenFsRXBFOEdHbzJEZVV3cm9oWUJ0TGNENUlVR19OTHRWN2w1aTZUNFRCcF9KM1VMMk50dmJRS1VmWURpdVNzdTlTdkp4bm5PMUNPUkHSAb8BQVVfeXFMTnhPUnhIV0VvVzRlUl9CUkVpMEd4RXR2cEdIVTZIR0xOUzZKUW1FMlppOEpyYXZuQjJrNHNTTDhVUzhOT01VbllGU2hvdUoxX1FLTGdjdVpVNHhjTWdkNGgxNnE1a3dMQWdzc1dhSG5DUHN6SmZvY082X0xlc2c4QzMtOEl2WWVoZ1JzSXZiZHRTSHZmYzdoTE1YTURxeDF4a2VFbHJjQzk0WnhsUGNEa2FYNzlvSXl3UWpWU05oMjQ",
       "title": "Expensify: New Platform Revenue Surges Over 250% As AI Agents Connect With ChatGPT, Claude And Cursor - Pulse 2.0",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkpuUnhtcmRTUjlHWERkTjhRZ2tMUkJ5c3UwWVloNmdKTlhkTHk4UjZkMzFaMmowZ0VPVTVxalhXeUJ1ZU5yWDI4MmtlaUtVU0tOTTJpRUtDTUk5a25hVlZNaTNBV2t0Yko2LVkyenFsRXBFOEdHbzJEZVV3cm9oWUJ0TGNENUlVR19OTHRWN2w1aTZUNFRCcF9KM1VMMk50dmJRS1VmWURpdVNzdTlTdkp4bm5PMUNPUkHSAb8BQVVfeXFMTnhPUnhIV0VvVzRlUl9CUkVpMEd4RXR2cEdIVTZIR0xOUzZKUW1FMlppOEpyYXZuQjJrNHNTTDhVUzhOT01VbllGU2hvdUoxX1FLTGdjdVpVNHhjTWdkNGgxNnE1a3dMQWdzc1dhSG5DUHN6SmZvY082X0xlc2c4QzMtOEl2WWVoZ1JzSXZiZHRTSHZmYzdoTE1YTURxeDF4a2VFbHJjQzk0WnhsUGNEa2FYNzlvSXl3UWpWU05oMjQ?oc=5",
@@ -114,12 +194,12 @@
         "Gemini"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkpuUnhtcmRTUjlHWERkTjhRZ2tMUkJ5c3UwWVloNmdKTlhkTHk4UjZkMzFaMmowZ0VPVTVxalhXeUJ1ZU5yWDI4MmtlaUtVU0tOTTJpRUtDTUk5a25hVlZNaTNBV2t0Yko2LVkyenFsRXBFOEdHbzJEZVV3cm",
-      "score": 82,
+      "score": 80,
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkpuUnhtcmRTUjlHWERkTjhRZ2tMUkJ5c3UwWVloNmdKTlhkTHk4UjZkMzFaMmowZ0VPVTVxalhXeUJ1ZU5yWDI4MmtlaUtVU0tOTTJpRUtDTUk5a25hVlZNaTNBV2t0Yko2LVkyenFsRXBFOEdHbzJEZVV3cm9oWUJ0TGNENUlVR19OTHRWN2w1aTZUNFRCcF9KM1VMMk50dmJRS1VmWURpdVNzdTlTdkp4bm5PMUNPUkHSAb8BQVVfeXFMTnhPUnhIV0VvVzRlUl9CUkVpMEd4RXR2cEdIVTZIR0xOUzZKUW1FMlppOEpyYXZuQjJrNHNTTDhVUzhOT01VbllGU2hvdUoxX1FLTGdjdVpVNHhjTWdkNGgxNnE1a3dMQWdzc1dhSG5DUHN6SmZvY082X0xlc2c4QzMtOEl2WWVoZ1JzSXZiZHRTSHZmYzdoTE1YTURxeDF4a2VFbHJjQzk0WnhsUGNEa2FYNzlvSXl3UWpWU05oMjQ?oc=5",
       "firstSeenAt": "2026-08-08T05:08:40.012Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 4
     },
     {
       "id": "CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc",
@@ -138,8 +218,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc?oc=5",
       "firstSeenAt": "2026-08-08T02:20:15.000Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 4
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 5
     },
     {
       "id": "CBMijwFBVV95cUxQanRTWUFQQnJGTmViMHRjOEFISVpMXzcxQUwzV0hqb0lyYkQ1N0tmNGg5cXljLXZ0dExHWlVNTlI5REd4dU1vLXFIdjFQVXMyS3B6V1Nkb2h3Z29VckZuaUJjQ3ZyLTZxSGpzTFl3NFA0Y0lfck1WRk1sSHh5VzhTcmpHV1FOcUFMUE1lVUp6QQ",
@@ -158,8 +238,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQanRTWUFQQnJGTmViMHRjOEFISVpMXzcxQUwzV0hqb0lyYkQ1N0tmNGg5cXljLXZ0dExHWlVNTlI5REd4dU1vLXFIdjFQVXMyS3B6V1Nkb2h3Z29VckZuaUJjQ3ZyLTZxSGpzTFl3NFA0Y0lfck1WRk1sSHh5VzhTcmpHV1FOcUFMUE1lVUp6QQ?oc=5",
       "firstSeenAt": "2026-08-07T13:37:13.666Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 7
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 8
     },
     {
       "id": "CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUzN6OWFBLXpJUVdMZTd6QTduREU1SkhfZXVNWE1YRHRqWGdPamJncDEwanV1dXdxRVZSXzBKVEEyTGh1dEdwVWNWTzNTcXV0",
@@ -174,12 +254,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUz",
-      "score": 74,
+      "score": 72,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUzN6OWFBLXpJUVdMZTd6QTduREU1SkhfZXVNWE1YRHRqWGdPamJncDEwanV1dXdxRVZSXzBKVEEyTGh1dEdwVWNWTzNTcXV0?oc=5",
       "firstSeenAt": "2026-08-07T17:06:05.474Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 7
     },
     {
       "id": "CBMifkFVX3lxTE1ZRWtHZ0ZJOUNyTVkwWXI0SXlvc2ZJTFg5THZhMjFHSXNXVzBhTDZwdTNrZ3htUmdGOGRucThVZ2tNRW9Cb1VkSDBHOHYzd3NQdDV1VEp1SXJ3c1ZaNU9DSE00dWhpYzU0d0lWdDlobkk5QUZXSEpZSHpITmNBZw",
@@ -194,12 +274,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRWtHZ0ZJOUNyTVkwWXI0SXlvc2ZJTFg5THZhMjFHSXNXVzBhTDZwdTNrZ3htUmdGOGRucThVZ2tNRW9Cb1VkSDBHOHYzd3NQdDV1VEp1SXJ3c1ZaNU9DSE00dWhpYzU0d0lWdDlobkk5QUZXSEpZSHpITmNBZw",
-      "score": 74,
+      "score": 72,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRWtHZ0ZJOUNyTVkwWXI0SXlvc2ZJTFg5THZhMjFHSXNXVzBhTDZwdTNrZ3htUmdGOGRucThVZ2tNRW9Cb1VkSDBHOHYzd3NQdDV1VEp1SXJ3c1ZaNU9DSE00dWhpYzU0d0lWdDlobkk5QUZXSEpZSHpITmNBZw?oc=5",
       "firstSeenAt": "2026-08-07T13:37:13.666Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 7
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 8
     },
     {
       "id": "CBMiY0FVX3lxTE03UnRtYWpyb1h0X2o3bm40bHhvSGFmeVdYRFpJNVNoU0c5NHFUTEJOeXc4QWFBcmw5U3o4Mm5OUi1QQUEteXBrWHg1RUhGbk5sLXhWRnE0Z1VzUXVFS0RkWTF4Z9IBaEFVX3lxTFBBM1UtaWItMVotYWxSMTFPSl83M25NUE9qSktsRUdSZGZiVG1OQkc0SVNsNmQ1RmVfd010U2V1NkYyeF9FbFhPSGc3aDJkVlpweWgyZ08yZHNLWmtibVhVVGhNVkdiNm9q",
@@ -222,31 +302,31 @@
       "seenCount": 4
     },
     {
-      "id": "CBMidkFVX3lxTE5PRUZuTDNqOS1CT29XcGxoZUNUYUVsUThrRU5aS1lZbElDaUpEMlFkTEZfYmEteTZpLV9MWnZTMXJiU2U3UW10MjVqWnhxbXRIQlVfdjJmbWFpTFFFY1FZbjljTHJ2dXdWSmJsTXp1bFJCcHR2cHc",
-      "title": "Anthropic Significantly Relaxes Safety Guardrails on Top-Tier AI 'Claude Fable 5' for Biology, Cutting Daily-Use Restrictions by 85% - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRUZuTDNqOS1CT29XcGxoZUNUYUVsUThrRU5aS1lZbElDaUpEMlFkTEZfYmEteTZpLV9MWnZTMXJiU2U3UW10MjVqWnhxbXRIQlVfdjJmbWFpTFFFY1FZbjljTHJ2dXdWSmJsTXp1bFJCcHR2cHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRUZuTDNqOS1CT29XcGxoZUNUYUVsUThrRU5aS1lZbElDaUpEMlFkTEZfYmEteTZpLV9MWnZTMXJiU2U3UW10MjVqWnhxbXRIQlVfdjJmbWFpTFFFY1FZbjljTHJ2dXdWSmJsTXp1bFJCcHR2cHc?oc=5\" target=\"_blank\">Anthropic Significantly Relaxes Safety Guardrails on Top-Tier AI 'Claude Fable 5' for Biology, Cutting Daily-Use Restrictions by 85%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-      "publishedAt": "2026-08-07T12:05:00.000Z",
-      "sourceName": "Claude and Claude Code",
+      "id": "CBMioAFBVV95cUxOOHBPay1zRUpMck81VjhnUFlRU1FtcDZGUkplSlR6eE95T0hrbTV6TU5hY1M0RnhCdDZDb2YwMmNpWUJJU2J0VWJ1djhIV2xJMS1sMGhiTFRYbGRPMV9Nd0FFbEpVOFE2Rmt3SEtEd3lDczlCNkVsM3hZOTRrMmhfWlA4bUtaSF9WODRNQUxaLWM4SlZWTzlvZTZtSWt6OFJn",
+      "title": "Use This Special Code to Get GPT, Claude, Gemini, and More for Life for $60 - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHBPay1zRUpMck81VjhnUFlRU1FtcDZGUkplSlR6eE95T0hrbTV6TU5hY1M0RnhCdDZDb2YwMmNpWUJJU2J0VWJ1djhIV2xJMS1sMGhiTFRYbGRPMV9Nd0FFbEpVOFE2Rmt3SEtEd3lDczlCNkVsM3hZOTRrMmhfWlA4bUtaSF9WODRNQUxaLWM4SlZWTzlvZTZtSWt6OFJn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHBPay1zRUpMck81VjhnUFlRU1FtcDZGUkplSlR6eE95T0hrbTV6TU5hY1M0RnhCdDZDb2YwMmNpWUJJU2J0VWJ1djhIV2xJMS1sMGhiTFRYbGRPMV9Nd0FFbEpVOFE2Rmt3SEtEd3lDczlCNkVsM3hZOTRrMmhfWlA4bUtaSF9WODRNQUxaLWM4SlZWTzlvZTZtSWt6OFJn?oc=5\" target=\"_blank\">Use This Special Code to Get GPT, Claude, Gemini, and More for Life for $60</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "publishedAt": "2026-08-08T14:00:27.000Z",
+      "sourceName": "ChatGPT and Gemini",
       "category": "AI Models",
       "tags": [
-        "Claude",
-        "Claude Code"
+        "ChatGPT",
+        "Gemini"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRUZuTDNqOS1CT29XcGxoZUNUYUVsUThrRU5aS1lZbElDaUpEMlFkTEZfYmEteTZpLV9MWnZTMXJiU2U3UW10MjVqWnhxbXRIQlVfdjJmbWFpTFFFY1FZbjljTHJ2dXdWSmJsTXp1bFJCcHR2cHc?oc=5\" targ",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRUZuTDNqOS1CT29XcGxoZUNUYUVsUThrRU5aS1lZbElDaUpEMlFkTEZfYmEteTZpLV9MWnZTMXJiU2U3UW10MjVqWnhxbXRIQlVfdjJmbWFpTFFFY1FZbjljTHJ2dXdWSmJsTXp1bFJCcHR2cHc?oc=5",
-      "firstSeenAt": "2026-08-07T13:37:13.666Z",
-      "lastSeenAt": "2026-08-08T05:08:40.012Z",
-      "seenCount": 4
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHBPay1zRUpMck81VjhnUFlRU1FtcDZGUkplSlR6eE95T0hrbTV6TU5hY1M0RnhCdDZDb2YwMmNpWUJJU2J0VWJ1djhIV2xJMS1sMGhiTFRYbGRPMV9Nd0FFbEpVOFE2Rmt3SEtEd3lDczlCNkVsM3hZOTRrMm",
+      "score": 69,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHBPay1zRUpMck81VjhnUFlRU1FtcDZGUkplSlR6eE95T0hrbTV6TU5hY1M0RnhCdDZDb2YwMmNpWUJJU2J0VWJ1djhIV2xJMS1sMGhiTFRYbGRPMV9Nd0FFbEpVOFE2Rmt3SEtEd3lDczlCNkVsM3hZOTRrMmhfWlA4bUtaSF9WODRNQUxaLWM4SlZWTzlvZTZtSWt6OFJn?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 1
     },
     {
       "id": "CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI",
-      "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - mashable.com",
+      "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5\" target=\"_blank\">Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mashable.com</font>",
-      "publishedAt": "2026-08-08T09:01:11.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5\" target=\"_blank\">Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "publishedAt": "2026-08-08T10:43:47.000Z",
       "sourceName": "ChatGPT and Gemini",
       "category": "AI Models",
       "tags": [
@@ -258,8 +338,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5",
       "firstSeenAt": "2026-08-08T13:11:01.127Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 2
     },
     {
       "id": "CBMiygFBVV95cUxPNDk3bEhOamZpY2VLcHlublpRdVZsdXF1ZUw0SjNUcjYteU8tdHhST3NLRkNwZWNRYUZudHREZFdDSFlFUV9pa3MxOE9nT2pBZDliTWVCbTRpcmFydXkzd0NHU2pLYXBVY3I1bGxpS0lhRWZCR2haYUJUWG13LVVHeUJ2YXJkd25zTmJhaUlia1B5VThIQUJTTHVQdTdodE9TSmRqNWk2TmhVeGhIZHJSVnlvZHFWaDhnamlJM1oyN0ZxV0I4MUVCUUNn",
@@ -278,8 +358,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDk3bEhOamZpY2VLcHlublpRdVZsdXF1ZUw0SjNUcjYteU8tdHhST3NLRkNwZWNRYUZudHREZFdDSFlFUV9pa3MxOE9nT2pBZDliTWVCbTRpcmFydXkzd0NHU2pLYXBVY3I1bGxpS0lhRWZCR2haYUJUWG13LVVHeUJ2YXJkd25zTmJhaUlia1B5VThIQUJTTHVQdTdodE9TSmRqNWk2TmhVeGhIZHJSVnlvZHFWaDhnamlJM1oyN0ZxV0I4MUVCUUNn?oc=5",
       "firstSeenAt": "2026-08-07T17:06:05.474Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 7
     },
     {
       "id": "CBMi4wFBVV95cUxPdW1ya0ltUXV5aE9qNU5HQndMSmRuV0NPT3ZlcGpzdzVLYW5maGxfWEJrMFZwSnJOclI4ajE0bGxJblVoNVVGVF9ObHRQbUxLLUNQSVJmNDg4N3NlQ0xPS1BsdmQ3eVA0RnMzeC1iTDBKR3JNYWlncWdZNk90Y0M2WW9DOFpWbTJrWFBJTnA0aHdtRm5GY1ZJU1IyR09RaXdiemxfc1JFTmxGQmMyRmlsdl81M215YWJaZWJvZlJKYk9KcWNxdmNFbHRvOFUxVDQ0U21DRTN3TWVrQlpYZ3c1RWotVdIB6AFBVV95cUxQOXpDNzI2MHlOcVZGTXVqQTNXUHFmcDRmQ3FsX19kdzhITEFHR3FEakZ1STZ6WEdMX1NkcG93ZHJ6bm8wQTJZM2VCLTNURW43Z0ppR1F1ZGRRMmNTODZTc3hRWk1ncm1oZ3IzcHJid0hvNmlEaXRUM0FfZW8xTjU2R282dkdxa0REcFd2VUFVUU5XVW5KLVJ4NlhoVFY3ZXZNZW9ObFdyeWlDRG5wbUxHWXozbFRIb3NMdjR4R1lqLWIyNW5HemF4a2Rhc2lzdUlvQnpocjlON2YyTlVlMVpXdW9jMVk4OXJP",
@@ -318,66 +398,7 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRm9pUWFyMTNFdjFKLURjdjRmY2NzQ2JYeFAzcW5tME1aZFZUbWk4TTZoQ3FjR0JPUWhZODhjMEw3WFozMmF0NWF0SlNOOXI4UXJ1UHR0a0FUdGRHMDNZQlI3US1BVnhKODBUT2c1SFdjcnN0T1ltcFRBZWxGWU9ncVlocmFkNUs5MWlSUEFYcXdBQnZ0Ml9NWjFiM0c4enE0NnZJUVFmcm1xRnhpajN3RmVFLWlCdEhqNFpJNWhZa3YwNnFqNUlLWVJxRVVNd2hQRDF3btIB2gFBVV95cUxNY0FJcGtURjRWUWlsMHlEaUpjb3l6QkVZSmYtcU9vU2RMR1RLTVpNUWJ5YXFYTS1IRkJRdFFNYVVwSHA3SzhVWXlpM2hBSXhXaGVfU2h5NGJOVXJKU194S3BmQTZyRm9BMnRTb04wYldsMGJ4M0VmMGhOd2xVU21FckpNaWhGdWZMcXloWEdnZFFJei1vcDVuUm9DNlE1OE5RWlR3WGVkZFRYSDA1VEk3YXJsanptSkpiQlNQYlVlWWRxZU9aY2hlVV9CaGVCZXBrdXd3cFhSLXYtQQ?oc=5",
       "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU",
-      "title": "Mängelmelder Norderstedt: Was die Bürger an ihrer Stadt auszusetzen haben - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU?oc=5\" target=\"_blank\">Mängelmelder Norderstedt: Was die Bürger an ihrer Stadt auszusetzen haben</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-07T16:03:00.000Z",
-      "sourceName": "Norderstedt",
-      "category": "Local",
-      "tags": [
-        "Norderstedt"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tk",
-      "score": 66,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU?oc=5",
-      "firstSeenAt": "2026-08-07T17:06:05.474Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 6
-    },
-    {
-      "id": "CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U",
-      "title": "OpenAI Expands ChatGPT Access With New Models, Details Emerge on Upcoming Hardware Device - AI Insider",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U?oc=5\" target=\"_blank\">OpenAI Expands ChatGPT Access With New Models, Details Emerge on Upcoming Hardware Device</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
-      "publishedAt": "2026-08-07T15:10:47.000Z",
-      "sourceName": "ChatGPT and Gemini",
-      "category": "AI Models",
-      "tags": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdW",
-      "score": 66,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U?oc=5",
-      "firstSeenAt": "2026-08-07T17:06:05.474Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 6
-    },
-    {
-      "id": "CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk",
-      "title": "ChatGPT Ads Arrive in Brazil as OpenAI Adds Conversion Tools and Carousels - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk?oc=5\" target=\"_blank\">ChatGPT Ads Arrive in Brazil as OpenAI Adds Conversion Tools and Carousels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
-      "publishedAt": "2026-08-07T13:23:01.000Z",
-      "sourceName": "ChatGPT and Gemini",
-      "category": "AI Models",
-      "tags": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLV",
-      "score": 66,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk?oc=5",
-      "firstSeenAt": "2026-08-07T13:37:13.666Z",
-      "lastSeenAt": "2026-08-07T20:57:05.245Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
       "seenCount": 3
     },
     {
@@ -397,7 +418,66 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOFZiTGJmSWVxd2RUdWxBQmtSbk5BemxVRkE3b0p3LXBXbzUyaGpkNWhUVHpzUGpyUm5lSE9YZmgtXzZ2ZlRxZG9qcVpDZDVyLTM1THp0UGlHZHB1anZ1VVE3Tkxsd0E2bGczUXdLV2NJUEszb3Q3UEZzaXhYMGpBV0lXZlBSOG1IbjdmVnlfOTJkQjM3T3FqQkN4NTBQbHRBcUY5RlRPRHM0WUhQd2h0R0JRbjJ1b1U5aWc?oc=5",
       "firstSeenAt": "2026-08-08T05:08:40.012Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 4
+    },
+    {
+      "id": "CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU",
+      "title": "Mängelmelder Norderstedt: Was die Bürger an ihrer Stadt auszusetzen haben - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU?oc=5\" target=\"_blank\">Mängelmelder Norderstedt: Was die Bürger an ihrer Stadt auszusetzen haben</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
+      "publishedAt": "2026-08-07T16:03:00.000Z",
+      "sourceName": "Norderstedt",
+      "category": "Local",
+      "tags": [
+        "Norderstedt"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tk",
+      "score": 64,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFMtUXpaOFJpT3cxVmFXSndIM0NTZkN3dDFsOW1qUkMtSm1VWl92UGNaQXd2ODBhaEZmenRybDM2ejVxMUF0YzE5SzJ3Tjh1ZklaNDhCU0ZHaDlYV0tKNTljS2NjUFNDUjN0ZmdVOFpKbW9rQlZoYmNrUVF1Tkh1VGRSYjFLY3VpMEthRGlMV2J1WmNFc0VUbEpWRzY0Q1N0MEtzY05Oc194WlpTX2drUXRDcHpneVhBOC1jRDVLUm13VF95M3hSa1l5WU9rMHpvejJMa05SeGszeDhEckp1TWRrcW43RFU?oc=5",
+      "firstSeenAt": "2026-08-07T17:06:05.474Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 7
+    },
+    {
+      "id": "CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U",
+      "title": "OpenAI Expands ChatGPT Access With New Models, Details Emerge on Upcoming Hardware Device - AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U?oc=5\" target=\"_blank\">OpenAI Expands ChatGPT Access With New Models, Details Emerge on Upcoming Hardware Device</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
+      "publishedAt": "2026-08-07T15:10:47.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdW",
+      "score": 64,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWVI1THQwSkhZYTFwS1NqVUFTc2R0T3ZXb2NyeEU5YURZTGdkWnpHay1TYUE5VkNtMDBjTW0xand1Vk5JSXJTN2lmUy1fMWZtLXdXenVEYld2MEJ2cmFqVnVocGt4bUJ4dE1BYnFEb3Qxb0F1UzlySEd0cEtZdWs3OE1LR3g3V1B1bXN6SG8xWi03V2NIV2xVUEl3dGRRczZxS3pBeDlZZF9FT0FtbVpHOGpia2dNNE82M3E4V093NVJxNk5U?oc=5",
+      "firstSeenAt": "2026-08-07T17:06:05.474Z",
       "lastSeenAt": "2026-08-08T13:11:01.127Z",
+      "seenCount": 6
+    },
+    {
+      "id": "CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk",
+      "title": "ChatGPT Ads Arrive in Brazil as OpenAI Adds Conversion Tools and Carousels - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk?oc=5\" target=\"_blank\">ChatGPT Ads Arrive in Brazil as OpenAI Adds Conversion Tools and Carousels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
+      "publishedAt": "2026-08-07T13:23:01.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLV",
+      "score": 64,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VkWEpOOEw1TllUUmxla3VUaW1kamhPZ2JOY3VfVTVTY25BdWpnLTltRTRoYTF3cVhoSl85MzFVVzIzd2QzckRKX09iYzFVREF1LWxoeGFxWUxoRV9xbjNKV3NaLU1SUTQyT3NYX1FQMG1SUG0xbzVqMV9YLVVFTERjanNscTZtRjl5NmV0SG1iYThheldoT3Y1Ujk?oc=5",
+      "firstSeenAt": "2026-08-07T13:37:13.666Z",
+      "lastSeenAt": "2026-08-07T20:57:05.245Z",
       "seenCount": 3
     },
     {
@@ -417,8 +497,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQmdEeXIySVpqaUVSdUxJalRZMU53QkZjZUJvR29DU0U1djJOdHRLUzNJZXVEUDl6OTRTeXJVSGdqOG91WW9jWFRnVTBIeTJndDFwSnJrZjllc1RfVHI4NzNNLWtScU1Jd1U4UmV6QUNNV3BhWk00dDg0UDROekdwMklHaWFNbS1QZGRhVTVPLVpwa0xMb2p0cGFZOTNYLXBYTkhYd2pyczhVSWNlYzJLNzQ4d0UzUlVkdUdxVlJLQmExOUctZ1NPU3J2bnZ0Y21VazdZY0Nsc0V2cXJVOEk0WkEwOGcydGZIdmc?oc=5",
       "firstSeenAt": "2026-08-07T17:06:05.474Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 7
     },
     {
       "id": "CBMiigFBVV95cUxQMWFCTEpEWUxqcGZxNGx2ZjBoT3JhRnZxcFlYR1Fnbk9sbUhlTzAwZC1yVkFpT0x2UC1Nd1BaZ3VPR0ZVc2ltaEJzV0pxNmFWQ0M2aVFKdm9DMnJVYk1LVzNzcHMya3kxVllSV1pUTFJXTWtlaEJYNFEya01vQk9fRXo1bGlaaFVzZHc",
@@ -433,7 +513,7 @@
         "Gemini"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQMWFCTEpEWUxqcGZxNGx2ZjBoT3JhRnZxcFlYR1Fnbk9sbUhlTzAwZC1yVkFpT0x2UC1Nd1BaZ3VPR0ZVc2ltaEJzV0pxNmFWQ0M2aVFKdm9DMnJVYk1LVzNzcHMya3kxVllSV1pUTFJXTWtlaEJYNFEya01vQk",
-      "score": 62,
+      "score": 60,
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMWFCTEpEWUxqcGZxNGx2ZjBoT3JhRnZxcFlYR1Fnbk9sbUhlTzAwZC1yVkFpT0x2UC1Nd1BaZ3VPR0ZVc2ltaEJzV0pxNmFWQ0M2aVFKdm9DMnJVYk1LVzNzcHMya3kxVllSV1pUTFJXTWtlaEJYNFEya01vQk9fRXo1bGlaaFVzZHc?oc=5",
       "firstSeenAt": "2026-08-07T20:57:05.245Z",
@@ -441,68 +521,10 @@
       "seenCount": 4
     },
     {
-      "id": "CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR",
-      "title": "Cursor vs GitHub Copilot vs Gemini Code Assist: Which AI coding tool should you use in 2026? - gizmotimes.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5\" target=\"_blank\">Cursor vs GitHub Copilot vs Gemini Code Assist: Which AI coding tool should you use in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gizmotimes.com</font>",
-      "publishedAt": "2026-08-08T04:21:18.000Z",
-      "sourceName": "ChatGPT and Gemini",
-      "category": "AI Models",
-      "tags": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVE",
-      "score": 61,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
-      "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T08:58:34.036Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw",
-      "title": "Verkehr Hamburg: Weniger neue Radwege und E-Busse, schlechtere Straßen: Hamburgs Verkehrszukunft - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw?oc=5\" target=\"_blank\">Verkehr Hamburg: Weniger neue Radwege und E-Busse, schlechtere Straßen: Hamburgs Verkehrszukunft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-07T16:45:00.000Z",
-      "sourceName": "Hamburg",
-      "category": "Local",
-      "tags": [
-        "Hamburg"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWm",
-      "score": 61,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw?oc=5",
-      "firstSeenAt": "2026-08-07T17:06:05.474Z",
-      "lastSeenAt": "2026-08-08T02:20:15.000Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE",
-      "title": "Tierarzt Hamburg: Wie Mars und Nestlé in der Hamburger Tiermedizin mitmischen - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE?oc=5\" target=\"_blank\">Tierarzt Hamburg: Wie Mars und Nestlé in der Hamburger Tiermedizin mitmischen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-07T14:01:00.000Z",
-      "sourceName": "Hamburg",
-      "category": "Local",
-      "tags": [
-        "Hamburg"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta0",
-      "score": 61,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE?oc=5",
-      "firstSeenAt": "2026-08-08T02:20:15.000Z",
-      "lastSeenAt": "2026-08-08T02:20:15.000Z",
-      "seenCount": 1
-    },
-    {
       "id": "CBMiqwFBVV95cUxNMlhjbmx6ZEdUeDRTdlNzSVVYY0lJVGl6MTllOGtxUVFvQ3ltZEdGcFZjZ0VidlBaLWg2dks3dHdFWFZLZU5jRjhDZk8xU3lwanF6WUxsM1R1bG9NVGJadHh4bDZ3cmp3UExOeVQ4VXZyM05KalEtQzJNdFNnbEo1bUJwNWxHV2lOS25GUFl3TXdyaXBDRDJ4bDE3b1ZwYlVDYjRUZTRzakY5SFU",
-      "title": "Have we mistaken ChatGPT-like LLMs and AI agents for the whole transformation? - Tearsheet",
+      "title": "Have we mistaken ChatGPT-like LLMs and AI agents for the whole transformation? - tearsheet.co",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlhjbmx6ZEdUeDRTdlNzSVVYY0lJVGl6MTllOGtxUVFvQ3ltZEdGcFZjZ0VidlBaLWg2dks3dHdFWFZLZU5jRjhDZk8xU3lwanF6WUxsM1R1bG9NVGJadHh4bDZ3cmp3UExOeVQ4VXZyM05KalEtQzJNdFNnbEo1bUJwNWxHV2lOS25GUFl3TXdyaXBDRDJ4bDE3b1ZwYlVDYjRUZTRzakY5SFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlhjbmx6ZEdUeDRTdlNzSVVYY0lJVGl6MTllOGtxUVFvQ3ltZEdGcFZjZ0VidlBaLWg2dks3dHdFWFZLZU5jRjhDZk8xU3lwanF6WUxsM1R1bG9NVGJadHh4bDZ3cmp3UExOeVQ4VXZyM05KalEtQzJNdFNnbEo1bUJwNWxHV2lOS25GUFl3TXdyaXBDRDJ4bDE3b1ZwYlVDYjRUZTRzakY5SFU?oc=5\" target=\"_blank\">Have we mistaken ChatGPT-like LLMs and AI agents for the whole transformation?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tearsheet</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlhjbmx6ZEdUeDRTdlNzSVVYY0lJVGl6MTllOGtxUVFvQ3ltZEdGcFZjZ0VidlBaLWg2dks3dHdFWFZLZU5jRjhDZk8xU3lwanF6WUxsM1R1bG9NVGJadHh4bDZ3cmp3UExOeVQ4VXZyM05KalEtQzJNdFNnbEo1bUJwNWxHV2lOS25GUFl3TXdyaXBDRDJ4bDE3b1ZwYlVDYjRUZTRzakY5SFU?oc=5\" target=\"_blank\">Have we mistaken ChatGPT-like LLMs and AI agents for the whole transformation?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tearsheet.co</font>",
       "publishedAt": "2026-08-07T12:10:35.000Z",
       "sourceName": "ChatGPT and Gemini",
       "category": "AI Models",
@@ -515,8 +537,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlhjbmx6ZEdUeDRTdlNzSVVYY0lJVGl6MTllOGtxUVFvQ3ltZEdGcFZjZ0VidlBaLWg2dks3dHdFWFZLZU5jRjhDZk8xU3lwanF6WUxsM1R1bG9NVGJadHh4bDZ3cmp3UExOeVQ4VXZyM05KalEtQzJNdFNnbEo1bUJwNWxHV2lOS25GUFl3TXdyaXBDRDJ4bDE3b1ZwYlVDYjRUZTRzakY5SFU?oc=5",
       "firstSeenAt": "2026-08-07T13:37:13.666Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 7
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 8
     },
     {
       "id": "CBMixAFBVV95cUxQem12T2lLLURsdTllSGk4QllYWVdHajZBLUhoWS1ad0Z3RjdlejQwSXZHZzczLUtlUHoteW9IRlFnZDFHN3E1SThZZC1aM2xUNFFUckxjMzVzZGZtUl8yZE0wYjJBUG9pVWE3eG9RWmgwNGJFT1lUdUhERDZrVFVFNHd5Qm9pc210VW5ERVhjOGpJU0FnWS1MZ0xPcUZQQUlhSFNrcjItTUxMZ2JXanpNVnF4RHhMN1g1NXFNRnpvNHhoZkpk",
@@ -535,7 +557,65 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQem12T2lLLURsdTllSGk4QllYWVdHajZBLUhoWS1ad0Z3RjdlejQwSXZHZzczLUtlUHoteW9IRlFnZDFHN3E1SThZZC1aM2xUNFFUckxjMzVzZGZtUl8yZE0wYjJBUG9pVWE3eG9RWmgwNGJFT1lUdUhERDZrVFVFNHd5Qm9pc210VW5ERVhjOGpJU0FnWS1MZ0xPcUZQQUlhSFNrcjItTUxMZ2JXanpNVnF4RHhMN1g1NXFNRnpvNHhoZkpk?oc=5",
       "firstSeenAt": "2026-08-08T13:11:01.127Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 2
+    },
+    {
+      "id": "CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR",
+      "title": "Cursor vs GitHub Copilot vs Gemini Code Assist: Which AI coding tool should you use in 2026? - gizmotimes.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5\" target=\"_blank\">Cursor vs GitHub Copilot vs Gemini Code Assist: Which AI coding tool should you use in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gizmotimes.com</font>",
+      "publishedAt": "2026-08-08T04:21:18.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVE",
+      "score": 59,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
+      "firstSeenAt": "2026-08-08T08:58:34.036Z",
+      "lastSeenAt": "2026-08-08T08:58:34.036Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw",
+      "title": "Verkehr Hamburg: Weniger neue Radwege und E-Busse, schlechtere Straßen: Hamburgs Verkehrszukunft - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw?oc=5\" target=\"_blank\">Verkehr Hamburg: Weniger neue Radwege und E-Busse, schlechtere Straßen: Hamburgs Verkehrszukunft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
+      "publishedAt": "2026-08-07T16:45:00.000Z",
+      "sourceName": "Hamburg",
+      "category": "Local",
+      "tags": [
+        "Hamburg"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWm",
+      "score": 59,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVV5VEhWSEN4c2RXTjMwd0ZuajBHb3pDbndhY21Zbk05Wll4MkVpTWp6ZUR2RkRNQWZVNjczcXdfaXF2Rnhwc0NjRXhwWFRYUzNaeEp0dWdjVGdzXzd6TWtiR0sxenZodGZxc0tnUS1weTE0N3Jvd0R4MWxGWmdHUGYxcnRta0Y1VVlkZWpzYk5KamdrYlJDVnFad1JGeTJpcmZ3NktTYldiV2NzazlOYUZfb054UDR0T3QzS2hZTmg0bThJTk1pREl1X1M0U3c2LVNhWlN0SmVndw?oc=5",
+      "firstSeenAt": "2026-08-07T17:06:05.474Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 3
+    },
+    {
+      "id": "CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE",
+      "title": "Tierarzt Hamburg: Wie Mars und Nestlé in der Hamburger Tiermedizin mitmischen - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE?oc=5\" target=\"_blank\">Tierarzt Hamburg: Wie Mars und Nestlé in der Hamburger Tiermedizin mitmischen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
+      "publishedAt": "2026-08-07T14:01:00.000Z",
+      "sourceName": "Hamburg",
+      "category": "Local",
+      "tags": [
+        "Hamburg"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta0",
+      "score": 59,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2dnb3Y5alRMSWVlRWdETHMxWUVHVjR6Y2dMX3EtMmc0TnZZSkkzWUVBTU1xcjRSRUhSWEJyYVh5U3U3cmsza0Z6OXlVd1VXR0xMSUg0aGZ4RWEwM3ZtaGt3VkFiZDBaaXJ0eGNzd1UweGhTeENhS0F5YS0ta05kUXpUazRfa3AzTExUeTN0YldqdWJLLXB4UHBMOHdMZEZMQm41WTR5U0tJNEloNFI2Z242MXBZQ1BvVkVLanczOUtTR1B2ejVfMEQwRk1tQ29McG1TNVl3TjJGVllnNkE?oc=5",
+      "firstSeenAt": "2026-08-08T02:20:15.000Z",
+      "lastSeenAt": "2026-08-08T02:20:15.000Z",
       "seenCount": 1
     },
     {
@@ -555,8 +635,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlJkY0FwdTMwRFU0ZTBaRmFZWDFRLXpuMmNNTFFfeGRxUDJkamNfSlkxUDBIVW9VbXBSX0h5UHIyYXhzOEVoeWNOV1hVaks4M1h6NDFic0NLdmdrU0ZfUFBBSVhpSVpVNl91Z0pvdWh6WTMzbk5hRjdsd2R1eU1DS1NVdW55dXlPZmc?oc=5",
       "firstSeenAt": "2026-08-08T13:11:01.127Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 2
     },
     {
       "id": "CBMisAFBVV95cUxQT1FkQ3NidlM5cFltcm1FTjhaVVlUZjNnS01FYlUxMUpkaEdTamZBMkFxc3RYSVRlZ3R6N1NWaWw2dThpLWlzVHZ0Vy1GaGVPZVlTWV9WQlVkR05YZFNtaVNLdlRQYnp6cnhqT1JFWVU1MXpuc3JFZk16eGp6NU5CODZtMExzSUw4QTlibkF1YldNUlN4eFpzTzNwbTNaQ0tlYnhEbTcySnI1OGVhSFQ3Qw",
@@ -575,140 +655,64 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1FkQ3NidlM5cFltcm1FTjhaVVlUZjNnS01FYlUxMUpkaEdTamZBMkFxc3RYSVRlZ3R6N1NWaWw2dThpLWlzVHZ0Vy1GaGVPZVlTWV9WQlVkR05YZFNtaVNLdlRQYnp6cnhqT1JFWVU1MXpuc3JFZk16eGp6NU5CODZtMExzSUw4QTlibkF1YldNUlN4eFpzTzNwbTNaQ0tlYnhEbTcySnI1OGVhSFQ3Qw?oc=5",
       "firstSeenAt": "2026-08-07T20:57:05.245Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 5
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
+      "seenCount": 6
     },
     {
-      "id": "CBMi1gFBVV95cUxPQWtrdkdLbGdsdGkzZ2ZVSEY4eEQ5LU90em5PZzRINDNzOVdkTXNMZUJxbFNQeG9vY3pFVXRtLWhOYWVTcmtEWlFnaWhPSnBDb3lfbk9tQnc2RVFQLUhJb04yZVExNDE4R3ZOUXNlSFBXUVc5RC1sQTdVMjYxcjI4MWVNRzhZSko5eFlyZUZOLWRBNGc3eGJMbzZoaVRZbm9zSFJwNkdyd29TQ2F3eVNweWl5eFNycTIzekJyYXZyc2RFNEx6MEsxMjFUSkRaUDZab3ZDQWJR",
-      "title": "Neues Festival bringt frischen Wind nach Hamburg – und zeigt politisch Haltung - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWtrdkdLbGdsdGkzZ2ZVSEY4eEQ5LU90em5PZzRINDNzOVdkTXNMZUJxbFNQeG9vY3pFVXRtLWhOYWVTcmtEWlFnaWhPSnBDb3lfbk9tQnc2RVFQLUhJb04yZVExNDE4R3ZOUXNlSFBXUVc5RC1sQTdVMjYxcjI4MWVNRzhZSko5eFlyZUZOLWRBNGc3eGJMbzZoaVRZbm9zSFJwNkdyd29TQ2F3eVNweWl5eFNycTIzekJyYXZyc2RFNEx6MEsxMjFUSkRaUDZab3ZDQWJR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWtrdkdLbGdsdGkzZ2ZVSEY4eEQ5LU90em5PZzRINDNzOVdkTXNMZUJxbFNQeG9vY3pFVXRtLWhOYWVTcmtEWlFnaWhPSnBDb3lfbk9tQnc2RVFQLUhJb04yZVExNDE4R3ZOUXNlSFBXUVc5RC1sQTdVMjYxcjI4MWVNRzhZSko5eFlyZUZOLWRBNGc3eGJMbzZoaVRZbm9zSFJwNkdyd29TQ2F3eVNweWl5eFNycTIzekJyYXZyc2RFNEx6MEsxMjFUSkRaUDZab3ZDQWJR?oc=5\" target=\"_blank\">Neues Festival bringt frischen Wind nach Hamburg – und zeigt politisch Haltung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-08T11:25:55.000Z",
+      "id": "CBMisAFBVV95cUxPWnhNdnI0X0dWemN2S2E0MXFGajhHT213LU5hWFFieDhfSkg5MkxXR2NNYjFWaS1PZnFjVFlfMVVzcHFGWG82b1psWkhBeGMtYlF5Q1ZxMVRka3BhWjBndlBycUh5amUtWkNpb3dXbldvZTdYLTV5N3I1SHlydGxJR01FMkZ2NzFfbEI0QXozUDdFdzZxU0dQOWhDSjIxMlRqZGxsZjFmUWo4YjFPOXotTA",
+      "title": "Bahnstrecke Hamburg–Berlin: Nur jeder vierte Zug zwischen Hamburg und Berlin ist pünktlich - zeit.de",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWnhNdnI0X0dWemN2S2E0MXFGajhHT213LU5hWFFieDhfSkg5MkxXR2NNYjFWaS1PZnFjVFlfMVVzcHFGWG82b1psWkhBeGMtYlF5Q1ZxMVRka3BhWjBndlBycUh5amUtWkNpb3dXbldvZTdYLTV5N3I1SHlydGxJR01FMkZ2NzFfbEI0QXozUDdFdzZxU0dQOWhDSjIxMlRqZGxsZjFmUWo4YjFPOXotTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWnhNdnI0X0dWemN2S2E0MXFGajhHT213LU5hWFFieDhfSkg5MkxXR2NNYjFWaS1PZnFjVFlfMVVzcHFGWG82b1psWkhBeGMtYlF5Q1ZxMVRka3BhWjBndlBycUh5amUtWkNpb3dXbldvZTdYLTV5N3I1SHlydGxJR01FMkZ2NzFfbEI0QXozUDdFdzZxU0dQOWhDSjIxMlRqZGxsZjFmUWo4YjFPOXotTA?oc=5\" target=\"_blank\">Bahnstrecke Hamburg–Berlin: Nur jeder vierte Zug zwischen Hamburg und Berlin ist pünktlich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zeit.de</font>",
+      "publishedAt": "2026-08-08T15:22:32.000Z",
       "sourceName": "Hamburg",
       "category": "Local",
       "tags": [
         "Hamburg"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWtrdkdLbGdsdGkzZ2ZVSEY4eEQ5LU90em5PZzRINDNzOVdkTXNMZUJxbFNQeG9vY3pFVXRtLWhOYWVTcmtEWlFnaWhPSnBDb3lfbk9tQnc2RVFQLUhJb04yZVExNDE4R3ZOUXNlSFBXUVc5RC1sQTdVMjYxcj",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWnhNdnI0X0dWemN2S2E0MXFGajhHT213LU5hWFFieDhfSkg5MkxXR2NNYjFWaS1PZnFjVFlfMVVzcHFGWG82b1psWkhBeGMtYlF5Q1ZxMVRka3BhWjBndlBycUh5amUtWkNpb3dXbldvZTdYLTV5N3I1SHlydG",
       "score": 53,
       "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWtrdkdLbGdsdGkzZ2ZVSEY4eEQ5LU90em5PZzRINDNzOVdkTXNMZUJxbFNQeG9vY3pFVXRtLWhOYWVTcmtEWlFnaWhPSnBDb3lfbk9tQnc2RVFQLUhJb04yZVExNDE4R3ZOUXNlSFBXUVc5RC1sQTdVMjYxcjI4MWVNRzhZSko5eFlyZUZOLWRBNGc3eGJMbzZoaVRZbm9zSFJwNkdyd29TQ2F3eVNweWl5eFNycTIzekJyYXZyc2RFNEx6MEsxMjFUSkRaUDZab3ZDQWJR?oc=5",
-      "firstSeenAt": "2026-08-08T13:11:01.127Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
+      "key": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWnhNdnI0X0dWemN2S2E0MXFGajhHT213LU5hWFFieDhfSkg5MkxXR2NNYjFWaS1PZnFjVFlfMVVzcHFGWG82b1psWkhBeGMtYlF5Q1ZxMVRka3BhWjBndlBycUh5amUtWkNpb3dXbldvZTdYLTV5N3I1SHlydGxJR01FMkZ2NzFfbEI0QXozUDdFdzZxU0dQOWhDSjIxMlRqZGxsZjFmUWo4YjFPOXotTA?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
       "seenCount": 1
     },
     {
-      "id": "CBMivgFBVV95cUxQVmhwMmhaMzJNMGRCeWFrR0swTXBnWkVzdnloRHR4aFkxQ0xNTXRwR0NCTWdubjFQWHAtVWEyOWxrMS1PMTFfem9PamVLeTdJdWtuMmFWYTRTRzVBSVM0WUhVSTY5TEdudVdmU1VHSnBBTmR4VGJKbHM1UmNFSGNRQVd4Si10UWNEckxQa2JGVzFHY05UR2Z3RVhLV2Zfdmt1VlZoN1JRN2pFblA3bk9QcDd3NkhNdFVscm1UVENR",
-      "title": "Störung auf der Bahnstrecke zwischen Bremen und Hamburg - Radio Hamburg",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmhwMmhaMzJNMGRCeWFrR0swTXBnWkVzdnloRHR4aFkxQ0xNTXRwR0NCTWdubjFQWHAtVWEyOWxrMS1PMTFfem9PamVLeTdJdWtuMmFWYTRTRzVBSVM0WUhVSTY5TEdudVdmU1VHSnBBTmR4VGJKbHM1UmNFSGNRQVd4Si10UWNEckxQa2JGVzFHY05UR2Z3RVhLV2Zfdmt1VlZoN1JRN2pFblA3bk9QcDd3NkhNdFVscm1UVENR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmhwMmhaMzJNMGRCeWFrR0swTXBnWkVzdnloRHR4aFkxQ0xNTXRwR0NCTWdubjFQWHAtVWEyOWxrMS1PMTFfem9PamVLeTdJdWtuMmFWYTRTRzVBSVM0WUhVSTY5TEdudVdmU1VHSnBBTmR4VGJKbHM1UmNFSGNRQVd4Si10UWNEckxQa2JGVzFHY05UR2Z3RVhLV2Zfdmt1VlZoN1JRN2pFblA3bk9QcDd3NkhNdFVscm1UVENR?oc=5\" target=\"_blank\">Störung auf der Bahnstrecke zwischen Bremen und Hamburg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Hamburg</font>",
-      "publishedAt": "2026-08-08T08:34:37.000Z",
+      "id": "CBMi3AFBVV95cUxPQlp2NlBZV2hKV2gxampCMjM3d0JWemQ2TWh0Yi00NlNlSzFDdHlWSlQxMlBRWkNTZkFHSmZmbUxhQzRUVjNlTTVWS3JEaG9rVkRBS1U1NkRGSkMtTE9RazBfbEdxME8weXpSR0NwMUUwa29OdXlyTnQ2MnFXTGJ3LTVHR0gxaXVOTFdhNWtSazdJMjgwZG43ellkZUFlVzh5MnNQbDdRS3lJNlREZ1g3elprcnNIRW56aUhPS3pCSmg4QXNpQkY4YzBfMUtlVDVpbFRIVFlnYm5Vd0NV",
+      "title": "Trotz Milliarden-Sanierung: Kaum eine Bahn zwischen Hamburg und Berlin pünktlich - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlp2NlBZV2hKV2gxampCMjM3d0JWemQ2TWh0Yi00NlNlSzFDdHlWSlQxMlBRWkNTZkFHSmZmbUxhQzRUVjNlTTVWS3JEaG9rVkRBS1U1NkRGSkMtTE9RazBfbEdxME8weXpSR0NwMUUwa29OdXlyTnQ2MnFXTGJ3LTVHR0gxaXVOTFdhNWtSazdJMjgwZG43ellkZUFlVzh5MnNQbDdRS3lJNlREZ1g3elprcnNIRW56aUhPS3pCSmg4QXNpQkY4YzBfMUtlVDVpbFRIVFlnYm5Vd0NV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlp2NlBZV2hKV2gxampCMjM3d0JWemQ2TWh0Yi00NlNlSzFDdHlWSlQxMlBRWkNTZkFHSmZmbUxhQzRUVjNlTTVWS3JEaG9rVkRBS1U1NkRGSkMtTE9RazBfbEdxME8weXpSR0NwMUUwa29OdXlyTnQ2MnFXTGJ3LTVHR0gxaXVOTFdhNWtSazdJMjgwZG43ellkZUFlVzh5MnNQbDdRS3lJNlREZ1g3elprcnNIRW56aUhPS3pCSmg4QXNpQkY4YzBfMUtlVDVpbFRIVFlnYm5Vd0NV?oc=5\" target=\"_blank\">Trotz Milliarden-Sanierung: Kaum eine Bahn zwischen Hamburg und Berlin pünktlich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
+      "publishedAt": "2026-08-08T15:21:50.000Z",
       "sourceName": "Hamburg",
       "category": "Local",
       "tags": [
         "Hamburg"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmhwMmhaMzJNMGRCeWFrR0swTXBnWkVzdnloRHR4aFkxQ0xNTXRwR0NCTWdubjFQWHAtVWEyOWxrMS1PMTFfem9PamVLeTdJdWtuMmFWYTRTRzVBSVM0WUhVSTY5TEdudVdmU1VHSnBBTmR4VGJKbHM1UmNFSG",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlp2NlBZV2hKV2gxampCMjM3d0JWemQ2TWh0Yi00NlNlSzFDdHlWSlQxMlBRWkNTZkFHSmZmbUxhQzRUVjNlTTVWS3JEaG9rVkRBS1U1NkRGSkMtTE9RazBfbEdxME8weXpSR0NwMUUwa29OdXlyTnQ2MnFXTG",
       "score": 53,
       "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmhwMmhaMzJNMGRCeWFrR0swTXBnWkVzdnloRHR4aFkxQ0xNTXRwR0NCTWdubjFQWHAtVWEyOWxrMS1PMTFfem9PamVLeTdJdWtuMmFWYTRTRzVBSVM0WUhVSTY5TEdudVdmU1VHSnBBTmR4VGJKbHM1UmNFSGNRQVd4Si10UWNEckxQa2JGVzFHY05UR2Z3RVhLV2Zfdmt1VlZoN1JRN2pFblA3bk9QcDd3NkhNdFVscm1UVENR?oc=5",
-      "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMi0gFBVV95cUxQYms2bUFEaWduNFJwanQ0N3JwLTBHWXlaVjRvNF96M2hxYWpQT1IxSHJBR3BWWUI5eVg5Zmt0c1FCNjZpWW5xajlqNjFENWlJeERtSE1NY3F5cDd1aGx1MVppV3l2OVFMZlZCS1BjcWxpbU1yUHFSejlYbl83QmxwS2xTNnBSSWlXMkQwR0xVRV90OTZYWFh4SE56dS1PbUI4c2trZXhqMm9Sb19MN2pJaHpHWElPMFUzd1hTNFNYd3FnVkdPX04xT2FjODRzdkxFMUE",
-      "title": "Sternbrücke polarisiert: Das ist der Koloss, den Hamburg gebraucht hat - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYms2bUFEaWduNFJwanQ0N3JwLTBHWXlaVjRvNF96M2hxYWpQT1IxSHJBR3BWWUI5eVg5Zmt0c1FCNjZpWW5xajlqNjFENWlJeERtSE1NY3F5cDd1aGx1MVppV3l2OVFMZlZCS1BjcWxpbU1yUHFSejlYbl83QmxwS2xTNnBSSWlXMkQwR0xVRV90OTZYWFh4SE56dS1PbUI4c2trZXhqMm9Sb19MN2pJaHpHWElPMFUzd1hTNFNYd3FnVkdPX04xT2FjODRzdkxFMUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYms2bUFEaWduNFJwanQ0N3JwLTBHWXlaVjRvNF96M2hxYWpQT1IxSHJBR3BWWUI5eVg5Zmt0c1FCNjZpWW5xajlqNjFENWlJeERtSE1NY3F5cDd1aGx1MVppV3l2OVFMZlZCS1BjcWxpbU1yUHFSejlYbl83QmxwS2xTNnBSSWlXMkQwR0xVRV90OTZYWFh4SE56dS1PbUI4c2trZXhqMm9Sb19MN2pJaHpHWElPMFUzd1hTNFNYd3FnVkdPX04xT2FjODRzdkxFMUE?oc=5\" target=\"_blank\">Sternbrücke polarisiert: Das ist der Koloss, den Hamburg gebraucht hat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-08T08:06:00.000Z",
-      "sourceName": "Hamburg",
-      "category": "Local",
-      "tags": [
-        "Hamburg"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYms2bUFEaWduNFJwanQ0N3JwLTBHWXlaVjRvNF96M2hxYWpQT1IxSHJBR3BWWUI5eVg5Zmt0c1FCNjZpWW5xajlqNjFENWlJeERtSE1NY3F5cDd1aGx1MVppV3l2OVFMZlZCS1BjcWxpbU1yUHFSejlYbl83Qm",
-      "score": 53,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYms2bUFEaWduNFJwanQ0N3JwLTBHWXlaVjRvNF96M2hxYWpQT1IxSHJBR3BWWUI5eVg5Zmt0c1FCNjZpWW5xajlqNjFENWlJeERtSE1NY3F5cDd1aGx1MVppV3l2OVFMZlZCS1BjcWxpbU1yUHFSejlYbl83QmxwS2xTNnBSSWlXMkQwR0xVRV90OTZYWFh4SE56dS1PbUI4c2trZXhqMm9Sb19MN2pJaHpHWElPMFUzd1hTNFNYd3FnVkdPX04xT2FjODRzdkxFMUE?oc=5",
-      "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T08:58:34.036Z",
+      "key": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlp2NlBZV2hKV2gxampCMjM3d0JWemQ2TWh0Yi00NlNlSzFDdHlWSlQxMlBRWkNTZkFHSmZmbUxhQzRUVjNlTTVWS3JEaG9rVkRBS1U1NkRGSkMtTE9RazBfbEdxME8weXpSR0NwMUUwa29OdXlyTnQ2MnFXTGJ3LTVHR0gxaXVOTFdhNWtSazdJMjgwZG43ellkZUFlVzh5MnNQbDdRS3lJNlREZ1g3elprcnNIRW56aUhPS3pCSmg4QXNpQkY4YzBfMUtlVDVpbFRIVFlnYm5Vd0NV?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
       "seenCount": 1
     },
     {
-      "id": "CBMiywFBVV95cUxQZDlCaVdmaEdQcmstVkh1bllORENHQS1mUmRKWmlkb1hoeVBUVDV2RTFEdE1MN3pBSDVhX29EdWVtQUVkLVdyWHVXSWxQQXI2Mk03eTlmQ1hpUDA0TFNpQm9sVEl6TmFGY2JkOXp6SEJCUFNDNDBQbHpMVW5iaXNwSUkzX09ua28zLVhVT2k0VkY0SU1uRTFFY3BjS0hneWVacTIxWWFqWHhicnpzZ2I2YWtVT2h0bWV4LWpoay15WFhRS21TUjlKVC1MMA",
-      "title": "Hamburg & Schleswig-Holstein: Mann wird in Hamburg vor seiner Haustür angeschossen - n-tv.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDlCaVdmaEdQcmstVkh1bllORENHQS1mUmRKWmlkb1hoeVBUVDV2RTFEdE1MN3pBSDVhX29EdWVtQUVkLVdyWHVXSWxQQXI2Mk03eTlmQ1hpUDA0TFNpQm9sVEl6TmFGY2JkOXp6SEJCUFNDNDBQbHpMVW5iaXNwSUkzX09ua28zLVhVT2k0VkY0SU1uRTFFY3BjS0hneWVacTIxWWFqWHhicnpzZ2I2YWtVT2h0bWV4LWpoay15WFhRS21TUjlKVC1MMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDlCaVdmaEdQcmstVkh1bllORENHQS1mUmRKWmlkb1hoeVBUVDV2RTFEdE1MN3pBSDVhX29EdWVtQUVkLVdyWHVXSWxQQXI2Mk03eTlmQ1hpUDA0TFNpQm9sVEl6TmFGY2JkOXp6SEJCUFNDNDBQbHpMVW5iaXNwSUkzX09ua28zLVhVT2k0VkY0SU1uRTFFY3BjS0hneWVacTIxWWFqWHhicnpzZ2I2YWtVT2h0bWV4LWpoay15WFhRS21TUjlKVC1MMA?oc=5\" target=\"_blank\">Hamburg & Schleswig-Holstein: Mann wird in Hamburg vor seiner Haustür angeschossen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font>",
-      "publishedAt": "2026-08-08T07:21:00.000Z",
+      "id": "CBMi2gFBVV95cUxOSklVUlF5c01QMENBcDVHcVdEb3BXVm1uelBHVk5WZGRHWGJySmc0N0kyNTgxZE9FS0pvMmVEbTU4U2hZMEhfYVYwVEIwa1Vwc1l2Y1BGdjFWc0RWUVpkY1FUQlhtb0ZFRDhxOU1Gek1RQ251QUxEcEdQZGFTeVUyakU1U2lqQmxUcGtUQ3FTdkZ2NHZSaDNKNDA0UG1ReHRmN1FUQWxUX3FKVngxMVRXWnhGODVsbGJXOVZYSmE3WEE1NVVfYXg5MHI5NUxxcGJzUVlyZ0c2WGFXQQ",
+      "title": "Mann ortet gestohlenen Rucksack aus ICE in Hamburg – Polizei nimmt den Dieb fest - Hamburger Abendblatt",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSklVUlF5c01QMENBcDVHcVdEb3BXVm1uelBHVk5WZGRHWGJySmc0N0kyNTgxZE9FS0pvMmVEbTU4U2hZMEhfYVYwVEIwa1Vwc1l2Y1BGdjFWc0RWUVpkY1FUQlhtb0ZFRDhxOU1Gek1RQ251QUxEcEdQZGFTeVUyakU1U2lqQmxUcGtUQ3FTdkZ2NHZSaDNKNDA0UG1ReHRmN1FUQWxUX3FKVngxMVRXWnhGODVsbGJXOVZYSmE3WEE1NVVfYXg5MHI5NUxxcGJzUVlyZ0c2WGFXQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSklVUlF5c01QMENBcDVHcVdEb3BXVm1uelBHVk5WZGRHWGJySmc0N0kyNTgxZE9FS0pvMmVEbTU4U2hZMEhfYVYwVEIwa1Vwc1l2Y1BGdjFWc0RWUVpkY1FUQlhtb0ZFRDhxOU1Gek1RQ251QUxEcEdQZGFTeVUyakU1U2lqQmxUcGtUQ3FTdkZ2NHZSaDNKNDA0UG1ReHRmN1FUQWxUX3FKVngxMVRXWnhGODVsbGJXOVZYSmE3WEE1NVVfYXg5MHI5NUxxcGJzUVlyZ0c2WGFXQQ?oc=5\" target=\"_blank\">Mann ortet gestohlenen Rucksack aus ICE in Hamburg – Polizei nimmt den Dieb fest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
+      "publishedAt": "2026-08-08T14:13:01.000Z",
       "sourceName": "Hamburg",
       "category": "Local",
       "tags": [
         "Hamburg"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDlCaVdmaEdQcmstVkh1bllORENHQS1mUmRKWmlkb1hoeVBUVDV2RTFEdE1MN3pBSDVhX29EdWVtQUVkLVdyWHVXSWxQQXI2Mk03eTlmQ1hpUDA0TFNpQm9sVEl6TmFGY2JkOXp6SEJCUFNDNDBQbHpMVW5iaX",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSklVUlF5c01QMENBcDVHcVdEb3BXVm1uelBHVk5WZGRHWGJySmc0N0kyNTgxZE9FS0pvMmVEbTU4U2hZMEhfYVYwVEIwa1Vwc1l2Y1BGdjFWc0RWUVpkY1FUQlhtb0ZFRDhxOU1Gek1RQ251QUxEcEdQZGFTeV",
       "score": 53,
       "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDlCaVdmaEdQcmstVkh1bllORENHQS1mUmRKWmlkb1hoeVBUVDV2RTFEdE1MN3pBSDVhX29EdWVtQUVkLVdyWHVXSWxQQXI2Mk03eTlmQ1hpUDA0TFNpQm9sVEl6TmFGY2JkOXp6SEJCUFNDNDBQbHpMVW5iaXNwSUkzX09ua28zLVhVT2k0VkY0SU1uRTFFY3BjS0hneWVacTIxWWFqWHhicnpzZ2I2YWtVT2h0bWV4LWpoay15WFhRS21TUjlKVC1MMA?oc=5",
-      "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMi1wFBVV95cUxPR0MxYWsxNmZoNnE0R3ZTVm5mODdJYjBnakM2Z0t6RTh1cC04eU5iVXRNXzZXY3NVMjhFMlRSN3JkUjFfSl9kUHIyX3pzT1VldnNtSWhrcW9lcHVtSjk5WTB5RnEzdWZoeUJIQ2NwTld5LVdjRC10TUVtcnVRTTJkN25EdnNHbHFHbTAxdHBTUnZnWVIwLVFCa01fRnRtRlNUMVRLRG5Cb1c5OWtYNFJVS0VCdlFzNTVUS3JBcWNWNy1pQW1UUDUxV3dYMTEtd25wWDVGWVU5TQ",
-      "title": "Hamburgs Musikszene heute: Das Erbe vom Onkel reicht bis in die Technoclubs - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0MxYWsxNmZoNnE0R3ZTVm5mODdJYjBnakM2Z0t6RTh1cC04eU5iVXRNXzZXY3NVMjhFMlRSN3JkUjFfSl9kUHIyX3pzT1VldnNtSWhrcW9lcHVtSjk5WTB5RnEzdWZoeUJIQ2NwTld5LVdjRC10TUVtcnVRTTJkN25EdnNHbHFHbTAxdHBTUnZnWVIwLVFCa01fRnRtRlNUMVRLRG5Cb1c5OWtYNFJVS0VCdlFzNTVUS3JBcWNWNy1pQW1UUDUxV3dYMTEtd25wWDVGWVU5TQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0MxYWsxNmZoNnE0R3ZTVm5mODdJYjBnakM2Z0t6RTh1cC04eU5iVXRNXzZXY3NVMjhFMlRSN3JkUjFfSl9kUHIyX3pzT1VldnNtSWhrcW9lcHVtSjk5WTB5RnEzdWZoeUJIQ2NwTld5LVdjRC10TUVtcnVRTTJkN25EdnNHbHFHbTAxdHBTUnZnWVIwLVFCa01fRnRtRlNUMVRLRG5Cb1c5OWtYNFJVS0VCdlFzNTVUS3JBcWNWNy1pQW1UUDUxV3dYMTEtd25wWDVGWVU5TQ?oc=5\" target=\"_blank\">Hamburgs Musikszene heute: Das Erbe vom Onkel reicht bis in die Technoclubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-08T05:49:00.000Z",
-      "sourceName": "Hamburg",
-      "category": "Local",
-      "tags": [
-        "Hamburg"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0MxYWsxNmZoNnE0R3ZTVm5mODdJYjBnakM2Z0t6RTh1cC04eU5iVXRNXzZXY3NVMjhFMlRSN3JkUjFfSl9kUHIyX3pzT1VldnNtSWhrcW9lcHVtSjk5WTB5RnEzdWZoeUJIQ2NwTld5LVdjRC10TUVtcnVRTT",
-      "score": 53,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0MxYWsxNmZoNnE0R3ZTVm5mODdJYjBnakM2Z0t6RTh1cC04eU5iVXRNXzZXY3NVMjhFMlRSN3JkUjFfSl9kUHIyX3pzT1VldnNtSWhrcW9lcHVtSjk5WTB5RnEzdWZoeUJIQ2NwTld5LVdjRC10TUVtcnVRTTJkN25EdnNHbHFHbTAxdHBTUnZnWVIwLVFCa01fRnRtRlNUMVRLRG5Cb1c5OWtYNFJVS0VCdlFzNTVUS3JBcWNWNy1pQW1UUDUxV3dYMTEtd25wWDVGWVU5TQ?oc=5",
-      "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMi2AFBVV95cUxOWkhoMXVSUGY1UC0zVDJnZDB3NUxNOTVtdHV0UHpfVlJleGRwSWZDQzNIc0pZTXprc2Qxa21pQndjN25fd21nQlRtYVFHOUUtSEJ5bkVsUUtsbEhfYnZaVWJPRXBxQUJDcGxrS3BtTEs2S1pNRE0zZGsxLVhIdEl3OFAzalJSYmpESHZ5Z3VWTjRrcnJrYngxSzhJMnZkcGdzdEQxVVhmREFxUnZzMlNHZWFKTWhwNUl1NnVMV0VmajlqWGFnM2UwVFpVM3hzaUF2dmdMMUtUZVk",
-      "title": "Schüsse in Hamburg: Mann schwer verletzt, Polizei sucht flüchtigen Täter - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkhoMXVSUGY1UC0zVDJnZDB3NUxNOTVtdHV0UHpfVlJleGRwSWZDQzNIc0pZTXprc2Qxa21pQndjN25fd21nQlRtYVFHOUUtSEJ5bkVsUUtsbEhfYnZaVWJPRXBxQUJDcGxrS3BtTEs2S1pNRE0zZGsxLVhIdEl3OFAzalJSYmpESHZ5Z3VWTjRrcnJrYngxSzhJMnZkcGdzdEQxVVhmREFxUnZzMlNHZWFKTWhwNUl1NnVMV0VmajlqWGFnM2UwVFpVM3hzaUF2dmdMMUtUZVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkhoMXVSUGY1UC0zVDJnZDB3NUxNOTVtdHV0UHpfVlJleGRwSWZDQzNIc0pZTXprc2Qxa21pQndjN25fd21nQlRtYVFHOUUtSEJ5bkVsUUtsbEhfYnZaVWJPRXBxQUJDcGxrS3BtTEs2S1pNRE0zZGsxLVhIdEl3OFAzalJSYmpESHZ5Z3VWTjRrcnJrYngxSzhJMnZkcGdzdEQxVVhmREFxUnZzMlNHZWFKTWhwNUl1NnVMV0VmajlqWGFnM2UwVFpVM3hzaUF2dmdMMUtUZVk?oc=5\" target=\"_blank\">Schüsse in Hamburg: Mann schwer verletzt, Polizei sucht flüchtigen Täter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-08T05:35:36.000Z",
-      "sourceName": "Hamburg",
-      "category": "Local",
-      "tags": [
-        "Hamburg"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkhoMXVSUGY1UC0zVDJnZDB3NUxNOTVtdHV0UHpfVlJleGRwSWZDQzNIc0pZTXprc2Qxa21pQndjN25fd21nQlRtYVFHOUUtSEJ5bkVsUUtsbEhfYnZaVWJPRXBxQUJDcGxrS3BtTEs2S1pNRE0zZGsxLVhIdE",
-      "score": 53,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkhoMXVSUGY1UC0zVDJnZDB3NUxNOTVtdHV0UHpfVlJleGRwSWZDQzNIc0pZTXprc2Qxa21pQndjN25fd21nQlRtYVFHOUUtSEJ5bkVsUUtsbEhfYnZaVWJPRXBxQUJDcGxrS3BtTEs2S1pNRE0zZGsxLVhIdEl3OFAzalJSYmpESHZ5Z3VWTjRrcnJrYngxSzhJMnZkcGdzdEQxVVhmREFxUnZzMlNHZWFKTWhwNUl1NnVMV0VmajlqWGFnM2UwVFpVM3hzaUF2dmdMMUtUZVk?oc=5",
-      "firstSeenAt": "2026-08-08T08:58:34.036Z",
-      "lastSeenAt": "2026-08-08T13:11:01.127Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMixgFBVV95cUxOWUZnWGhKUGJtMG1QdEdUcTVreS1DcnBPVWVvcm5kOTFyOC1fbkN3NnRVQUFkZHU2RXRHUEYzV0ZwMF9VOXNGLWFrX04tMTctM3NuNU53VmNtWS1sQjVXT21qay11OFgzbHV1V0ZQQ3EwVEJOcHFkMlFqVFpGS0FGRWpRX2x1eXI1bXVfZUdCcWZvaEdxSEp5X1dleDlXU3UwRmh3eWN0MUFwOGJ3eGM5bUhPVFRRalJEaFE0TS1aeTUtU1BnTGc",
-      "title": "Die Hamburger Reeperbahn: 10 verblüffende Geheimnisse der sündigsten Meile der Welt - Hamburger Abendblatt",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUZnWGhKUGJtMG1QdEdUcTVreS1DcnBPVWVvcm5kOTFyOC1fbkN3NnRVQUFkZHU2RXRHUEYzV0ZwMF9VOXNGLWFrX04tMTctM3NuNU53VmNtWS1sQjVXT21qay11OFgzbHV1V0ZQQ3EwVEJOcHFkMlFqVFpGS0FGRWpRX2x1eXI1bXVfZUdCcWZvaEdxSEp5X1dleDlXU3UwRmh3eWN0MUFwOGJ3eGM5bUhPVFRRalJEaFE0TS1aeTUtU1BnTGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUZnWGhKUGJtMG1QdEdUcTVreS1DcnBPVWVvcm5kOTFyOC1fbkN3NnRVQUFkZHU2RXRHUEYzV0ZwMF9VOXNGLWFrX04tMTctM3NuNU53VmNtWS1sQjVXT21qay11OFgzbHV1V0ZQQ3EwVEJOcHFkMlFqVFpGS0FGRWpRX2x1eXI1bXVfZUdCcWZvaEdxSEp5X1dleDlXU3UwRmh3eWN0MUFwOGJ3eGM5bUhPVFRRalJEaFE0TS1aeTUtU1BnTGc?oc=5\" target=\"_blank\">Die Hamburger Reeperbahn: 10 verblüffende Geheimnisse der sündigsten Meile der Welt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamburger Abendblatt</font>",
-      "publishedAt": "2026-08-08T04:45:00.000Z",
-      "sourceName": "Hamburg",
-      "category": "Local",
-      "tags": [
-        "Hamburg"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUZnWGhKUGJtMG1QdEdUcTVreS1DcnBPVWVvcm5kOTFyOC1fbkN3NnRVQUFkZHU2RXRHUEYzV0ZwMF9VOXNGLWFrX04tMTctM3NuNU53VmNtWS1sQjVXT21qay11OFgzbHV1V0ZQQ3EwVEJOcHFkMlFqVFpGS0",
-      "score": 53,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUZnWGhKUGJtMG1QdEdUcTVreS1DcnBPVWVvcm5kOTFyOC1fbkN3NnRVQUFkZHU2RXRHUEYzV0ZwMF9VOXNGLWFrX04tMTctM3NuNU53VmNtWS1sQjVXT21qay11OFgzbHV1V0ZQQ3EwVEJOcHFkMlFqVFpGS0FGRWpRX2x1eXI1bXVfZUdCcWZvaEdxSEp5X1dleDlXU3UwRmh3eWN0MUFwOGJ3eGM5bUhPVFRRalJEaFE0TS1aeTUtU1BnTGc?oc=5",
-      "firstSeenAt": "2026-08-08T05:08:40.012Z",
-      "lastSeenAt": "2026-08-08T05:08:40.012Z",
+      "key": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSklVUlF5c01QMENBcDVHcVdEb3BXVm1uelBHVk5WZGRHWGJySmc0N0kyNTgxZE9FS0pvMmVEbTU4U2hZMEhfYVYwVEIwa1Vwc1l2Y1BGdjFWc0RWUVpkY1FUQlhtb0ZFRDhxOU1Gek1RQ251QUxEcEdQZGFTeVUyakU1U2lqQmxUcGtUQ3FTdkZ2NHZSaDNKNDA0UG1ReHRmN1FUQWxUX3FKVngxMVRXWnhGODVsbGJXOVZYSmE3WEE1NVVfYXg5MHI5NUxxcGJzUVlyZ0c2WGFXQQ?oc=5",
+      "firstSeenAt": "2026-08-08T16:50:19.338Z",
+      "lastSeenAt": "2026-08-08T16:50:19.338Z",
       "seenCount": 1
     }
   ]
