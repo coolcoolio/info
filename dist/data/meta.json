@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T20:57:05.245Z",
+  "generatedAt": "2026-08-08T02:20:15.000Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -25,7 +25,7 @@
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 76,
+      "count": 72,
       "error": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 101,
+      "count": 99,
       "error": null
     },
     {
