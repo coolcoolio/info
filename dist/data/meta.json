@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-08-08T20:46:48.881Z",
+  "generatedAt": "2026-08-09T02:27:19.927Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
   "sourceStatuses": [
     {
       "title": "Hermes Agent",
-      "ok": true,
-      "count": 57,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "OpenClaw",
-      "ok": true,
-      "count": 96,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "Claude and Claude Code",
-      "ok": true,
-      "count": 98,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "ChatGPT and Gemini",
-      "ok": true,
-      "count": 73,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "GitHub AI",
@@ -36,45 +36,45 @@
     },
     {
       "title": "AI Skills and repos",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "Tech Gadgets",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "Nutrition Science",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "Trump Politics",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "Hamburg",
-      "ok": true,
-      "count": 97,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "Norderstedt",
-      "ok": true,
-      "count": 68,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "title": "Sci-Fi Serien und Filme",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     }
   ]
 }
