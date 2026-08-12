@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:10:36.422Z",
+  "generatedAt": "2026-08-12T21:01:37.979Z",
   "items": [
     {
       "id": "CBMinwFBVV95cUxNb3lneVNDR1hLSkNzblFHOFlucFJKa1BMOEZBazRVVkxiTkFHZ0hUdlJQNnBIZHR4Tkp5ODV2RnQzLXgzb0FxWFhwV0NPc2RzdmdkRmlHVVpBODlubDhzWk5Jc2JWREFDMkdHejFVZlBpZ3F5OGhQRkRkeHVJNmRWRkF4cU52dlJST0hpZlo0Y0NWSXBXZURBUDhaMS1JQXc",
@@ -18,7 +18,27 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3lneVNDR1hLSkNzblFHOFlucFJKa1BMOEZBazRVVkxiTkFHZ0hUdlJQNnBIZHR4Tkp5ODV2RnQzLXgzb0FxWFhwV0NPc2RzdmdkRmlHVVpBODlubDhzWk5Jc2JWREFDMkdHejFVZlBpZ3F5OGhQRkRkeHVJNmRWRkF4cU52dlJST0hpZlo0Y0NWSXBXZURBUDhaMS1JQXc?oc=5",
       "firstSeenAt": "2026-08-12T17:10:36.422Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 2
+    },
+    {
+      "id": "CBMiUEFVX3lxTE1zX2NzVG9lc2hkc1F1amxpNk54Slh1dWgzNXJXeWpIbGdBRF81cWtDeEEtY1haYmNNMHZ4Q3IwVEZxZmk2N0o4Z01rVzQtOVU4",
+      "title": "DeepSeek publicises efforts to challenge Anthropic’s Claude Code - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zX2NzVG9lc2hkc1F1amxpNk54Slh1dWgzNXJXeWpIbGdBRF81cWtDeEEtY1haYmNNMHZ4Q3IwVEZxZmk2N0o4Z01rVzQtOVU4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zX2NzVG9lc2hkc1F1amxpNk54Slh1dWgzNXJXeWpIbGdBRF81cWtDeEEtY1haYmNNMHZ4Q3IwVEZxZmk2N0o4Z01rVzQtOVU4?oc=5\" target=\"_blank\">DeepSeek publicises efforts to challenge Anthropic’s Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
+      "publishedAt": "2026-08-12T16:59:42.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zX2NzVG9lc2hkc1F1amxpNk54Slh1dWgzNXJXeWpIbGdBRF81cWtDeEEtY1haYmNNMHZ4Q3IwVEZxZmk2N0o4Z01rVzQtOVU4?oc=5\" target=\"_blank\">DeepSeek publicises efforts to challeng",
+      "score": 94,
+      "sourceMatchScore": 12,
+      "key": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zX2NzVG9lc2hkc1F1amxpNk54Slh1dWgzNXJXeWpIbGdBRF81cWtDeEEtY1haYmNNMHZ4Q3IwVEZxZmk2N0o4Z01rVzQtOVU4?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
       "seenCount": 1
     },
     {
@@ -38,48 +58,8 @@
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVR5Qm1Mb1dzd1BRNzUxYjlnQlhPbmZVV1l3STR0UDV5d19VaDloOTdXUGp2LWNJNk5RVTdrS04zTUw5aEZQUnRXSkRLUXpPUUc2OTdGMHZ2cmVKejNLek56SlhDVG1IbnBoZzRpMFNOa1FvbDVXMDVmemFXVnZDTUxkc2NfQ0thRm9pcVpDZ1FMTWNMWnlud0plN1p5NmhVY0JHdnYzRzU1OVJyNms1T1FlZFlYZw?oc=5",
       "firstSeenAt": "2026-08-12T17:10:36.422Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 1
-    },
-    {
-      "id": "CBMivwFBVV95cUxNSXlNWGU2eU1SbE5VaFNieWlBUFYwc3VfQjM4aFZBMlpGOFZLRHhVWU1yZDd2OXFIbmdoUUJlNVpYaDlwUjU2d0xsUE1KOXpiS003X0xSNjdHcXJqNDVmRXRXWEVxLUhIYS1fY3dyYVF5aHhwZlFOc19VeEhNV29jWUY4S0htRlBjeXhEWFhzekRJUGVxbEViWm1FeE0zajFIdWp5UHZTWkF2VVRzLTdQdS1hYlVOUE5UZDNzYlo2cw",
-      "title": "Anthropic opens self-hosted Claude Code sessions to Team and Enterprise customers - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXlNWGU2eU1SbE5VaFNieWlBUFYwc3VfQjM4aFZBMlpGOFZLRHhVWU1yZDd2OXFIbmdoUUJlNVpYaDlwUjU2d0xsUE1KOXpiS003X0xSNjdHcXJqNDVmRXRXWEVxLUhIYS1fY3dyYVF5aHhwZlFOc19VeEhNV29jWUY4S0htRlBjeXhEWFhzekRJUGVxbEViWm1FeE0zajFIdWp5UHZTWkF2VVRzLTdQdS1hYlVOUE5UZDNzYlo2cw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXlNWGU2eU1SbE5VaFNieWlBUFYwc3VfQjM4aFZBMlpGOFZLRHhVWU1yZDd2OXFIbmdoUUJlNVpYaDlwUjU2d0xsUE1KOXpiS003X0xSNjdHcXJqNDVmRXRXWEVxLUhIYS1fY3dyYVF5aHhwZlFOc19VeEhNV29jWUY4S0htRlBjeXhEWFhzekRJUGVxbEViWm1FeE0zajFIdWp5UHZTWkF2VVRzLTdQdS1hYlVOUE5UZDNzYlo2cw?oc=5\" target=\"_blank\">Anthropic opens self-hosted Claude Code sessions to Team and Enterprise customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdTech Innovation Hub</font>",
-      "publishedAt": "2026-08-11T23:45:05.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXlNWGU2eU1SbE5VaFNieWlBUFYwc3VfQjM4aFZBMlpGOFZLRHhVWU1yZDd2OXFIbmdoUUJlNVpYaDlwUjU2d0xsUE1KOXpiS003X0xSNjdHcXJqNDVmRXRXWEVxLUhIYS1fY3dyYVF5aHhwZlFOc19VeEhNV2",
-      "score": 92,
-      "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXlNWGU2eU1SbE5VaFNieWlBUFYwc3VfQjM4aFZBMlpGOFZLRHhVWU1yZDd2OXFIbmdoUUJlNVpYaDlwUjU2d0xsUE1KOXpiS003X0xSNjdHcXJqNDVmRXRXWEVxLUhIYS1fY3dyYVF5aHhwZlFOc19VeEhNV29jWUY4S0htRlBjeXhEWFhzekRJUGVxbEViWm1FeE0zajFIdWp5UHZTWkF2VVRzLTdQdS1hYlVOUE5UZDNzYlo2cw?oc=5",
-      "firstSeenAt": "2026-08-12T02:42:25.350Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMinAFBVV95cUxOdFhKVEpRNUdDMXZoR0tKcWJYMmN4WmxJVW5FekYwQTYteWhWNWo3MHdpTHFVTUE3VHRSYlNINGhlUk54VTd1UklsRzRFTFpORE1rS3Z2VFRPYTNTYUh3VU5vNWFWQm4yMXctd25hSngxUW05UFBQRXNBM2JqV010dEk2Sm9pZ0pNX183UEdkLWRUV1ZyLXlYT3REZ3fSAaIBQVVfeXFMT1RhSTczVktOYzdOc2U5Y0VOdFhxT2dEbnAyWGcwNVZPUmRmNUZrRU9hRjM0aG50WmF5SklUYjhGOWRtenpWQW9YYlRfVnNyOTRUWUdMazMzUHhxTEFiYWl1emdlTVg0QzRzVDFHbElQdDV4N3RQcVFWUlBlS3JUemtWdng4ZmVWdDF2a2JlcTBxV1prWVdHQXRFZTdPZzJ1V1lB",
-      "title": "Anthropic Adds Hidden Watermarks to Claude AI Text to Help Identify AI-Generated Content - Gadgets 360",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFhKVEpRNUdDMXZoR0tKcWJYMmN4WmxJVW5FekYwQTYteWhWNWo3MHdpTHFVTUE3VHRSYlNINGhlUk54VTd1UklsRzRFTFpORE1rS3Z2VFRPYTNTYUh3VU5vNWFWQm4yMXctd25hSngxUW05UFBQRXNBM2JqV010dEk2Sm9pZ0pNX183UEdkLWRUV1ZyLXlYT3REZ3fSAaIBQVVfeXFMT1RhSTczVktOYzdOc2U5Y0VOdFhxT2dEbnAyWGcwNVZPUmRmNUZrRU9hRjM0aG50WmF5SklUYjhGOWRtenpWQW9YYlRfVnNyOTRUWUdMazMzUHhxTEFiYWl1emdlTVg0QzRzVDFHbElQdDV4N3RQcVFWUlBlS3JUemtWdng4ZmVWdDF2a2JlcTBxV1prWVdHQXRFZTdPZzJ1V1lB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFhKVEpRNUdDMXZoR0tKcWJYMmN4WmxJVW5FekYwQTYteWhWNWo3MHdpTHFVTUE3VHRSYlNINGhlUk54VTd1UklsRzRFTFpORE1rS3Z2VFRPYTNTYUh3VU5vNWFWQm4yMXctd25hSngxUW05UFBQRXNBM2JqV010dEk2Sm9pZ0pNX183UEdkLWRUV1ZyLXlYT3REZ3fSAaIBQVVfeXFMT1RhSTczVktOYzdOc2U5Y0VOdFhxT2dEbnAyWGcwNVZPUmRmNUZrRU9hRjM0aG50WmF5SklUYjhGOWRtenpWQW9YYlRfVnNyOTRUWUdMazMzUHhxTEFiYWl1emdlTVg0QzRzVDFHbElQdDV4N3RQcVFWUlBlS3JUemtWdng4ZmVWdDF2a2JlcTBxV1prWVdHQXRFZTdPZzJ1V1lB?oc=5\" target=\"_blank\">Anthropic Adds Hidden Watermarks to Claude AI Text to Help Identify AI-Generated Content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadgets 360</font>",
-      "publishedAt": "2026-08-12T03:28:57.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFhKVEpRNUdDMXZoR0tKcWJYMmN4WmxJVW5FekYwQTYteWhWNWo3MHdpTHFVTUE3VHRSYlNINGhlUk54VTd1UklsRzRFTFpORE1rS3Z2VFRPYTNTYUh3VU5vNWFWQm4yMXctd25hSngxUW05UFBQRXNBM2JqV0",
-      "score": 90,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFhKVEpRNUdDMXZoR0tKcWJYMmN4WmxJVW5FekYwQTYteWhWNWo3MHdpTHFVTUE3VHRSYlNINGhlUk54VTd1UklsRzRFTFpORE1rS3Z2VFRPYTNTYUh3VU5vNWFWQm4yMXctd25hSngxUW05UFBQRXNBM2JqV010dEk2Sm9pZ0pNX183UEdkLWRUV1ZyLXlYT3REZ3fSAaIBQVVfeXFMT1RhSTczVktOYzdOc2U5Y0VOdFhxT2dEbnAyWGcwNVZPUmRmNUZrRU9hRjM0aG50WmF5SklUYjhGOWRtenpWQW9YYlRfVnNyOTRUWUdMazMzUHhxTEFiYWl1emdlTVg0QzRzVDFHbElQdDV4N3RQcVFWUlBlS3JUemtWdng4ZmVWdDF2a2JlcTBxV1prWVdHQXRFZTdPZzJ1V1lB?oc=5",
-      "firstSeenAt": "2026-08-12T05:44:18.362Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 4
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 2
     },
     {
       "id": "CBMimgFBVV95cUxOdWdVRGZkQncxU1ZaMzFfWlJWMk9iZ0NFczdkWV9PaF9iZlN5TWxfRXdSZUVuZkdMSy1mZEtBRlltcXFCYU4teDB2S0pSWDc4bjN5LUswdnBkbHNnTXhkaGY2elNsb3cyU1JUeEhscjhRUDdjaWRUWllzVXUtbHg2YVdfQlJ6c0JKT195SDhNaFdkOENHbHJZeHdn",
@@ -94,51 +74,31 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWdVRGZkQncxU1ZaMzFfWlJWMk9iZ0NFczdkWV9PaF9iZlN5TWxfRXdSZUVuZkdMSy1mZEtBRlltcXFCYU4teDB2S0pSWDc4bjN5LUswdnBkbHNnTXhkaGY2elNsb3cyU1JUeEhscjhRUDdjaWRUWllzVXUtbH",
-      "score": 89,
+      "score": 87,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWdVRGZkQncxU1ZaMzFfWlJWMk9iZ0NFczdkWV9PaF9iZlN5TWxfRXdSZUVuZkdMSy1mZEtBRlltcXFCYU4teDB2S0pSWDc4bjN5LUswdnBkbHNnTXhkaGY2elNsb3cyU1JUeEhscjhRUDdjaWRUWllzVXUtbHg2YVdfQlJ6c0JKT195SDhNaFdkOENHbHJZeHdn?oc=5",
       "firstSeenAt": "2026-08-12T09:30:48.804Z",
-      "lastSeenAt": "2026-08-12T09:30:48.804Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 2
     },
     {
-      "id": "CBMi0gFBVV95cUxPRVdueGZlZGlocFB4Sm96Y3I5X25zNkJocmxoOUk2RU5sSVBLU0RyU09pM3ZQWWNPZGxQeWxDdW9vUF85VngzaVRsanlGODJIaDQtQ096NThCQ0YxVDV3eU9fSGx6TWtFUHNUNzQ0RzI3TEt6WDN0RG5YWFdja1VOaFhHRFYwNURva1pWbHlYUVhJV1NJSk5LTF9IRTdqMk5RNG1LT2EyQnJJOE1DcUhNWmpwa05ER1lYNlNxRTVrYzlTYUxwU2xzVF9fSHJrdS1uOVE",
-      "title": "Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - KESQ",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVdueGZlZGlocFB4Sm96Y3I5X25zNkJocmxoOUk2RU5sSVBLU0RyU09pM3ZQWWNPZGxQeWxDdW9vUF85VngzaVRsanlGODJIaDQtQ096NThCQ0YxVDV3eU9fSGx6TWtFUHNUNzQ0RzI3TEt6WDN0RG5YWFdja1VOaFhHRFYwNURva1pWbHlYUVhJV1NJSk5LTF9IRTdqMk5RNG1LT2EyQnJJOE1DcUhNWmpwa05ER1lYNlNxRTVrYzlTYUxwU2xzVF9fSHJrdS1uOVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVdueGZlZGlocFB4Sm96Y3I5X25zNkJocmxoOUk2RU5sSVBLU0RyU09pM3ZQWWNPZGxQeWxDdW9vUF85VngzaVRsanlGODJIaDQtQ096NThCQ0YxVDV3eU9fSGx6TWtFUHNUNzQ0RzI3TEt6WDN0RG5YWFdja1VOaFhHRFYwNURva1pWbHlYUVhJV1NJSk5LTF9IRTdqMk5RNG1LT2EyQnJJOE1DcUhNWmpwa05ER1lYNlNxRTVrYzlTYUxwU2xzVF9fSHJrdS1uOVE?oc=5\" target=\"_blank\">Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KESQ</font>",
-      "publishedAt": "2026-08-12T01:56:04.000Z",
-      "sourceName": "Claude and Claude Code",
+      "id": "CBMioAFBVV95cUxOOXJhY2lXdjBXWXV0WDlCX2VyX2h4NmZxRjVmWDdMX0VsX19GWGNlSS1PRGpPdVV5YjVIMzlDUjJheGtQV2lBQkt6bHZveEZlLWV1T3dhWWZoWlg3UTVYaldURUxxdV81ME9xU2YtSnJqQk94NXd1djlNUlg3MWpxMGNDbDhXWnJJcFc5T2pQUjhITUVFc2VzVXVkTnNPOC1u",
+      "title": "A Free Tool Now Strips AI Watermarks From Claude, OpenAI and Gemini Text - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXJhY2lXdjBXWXV0WDlCX2VyX2h4NmZxRjVmWDdMX0VsX19GWGNlSS1PRGpPdVV5YjVIMzlDUjJheGtQV2lBQkt6bHZveEZlLWV1T3dhWWZoWlg3UTVYaldURUxxdV81ME9xU2YtSnJqQk94NXd1djlNUlg3MWpxMGNDbDhXWnJJcFc5T2pQUjhITUVFc2VzVXVkTnNPOC1u?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXJhY2lXdjBXWXV0WDlCX2VyX2h4NmZxRjVmWDdMX0VsX19GWGNlSS1PRGpPdVV5YjVIMzlDUjJheGtQV2lBQkt6bHZveEZlLWV1T3dhWWZoWlg3UTVYaldURUxxdV81ME9xU2YtSnJqQk94NXd1djlNUlg3MWpxMGNDbDhXWnJJcFc5T2pQUjhITUVFc2VzVXVkTnNPOC1u?oc=5\" target=\"_blank\">A Free Tool Now Strips AI Watermarks From Claude, OpenAI and Gemini Text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+      "publishedAt": "2026-08-12T12:36:51.000Z",
+      "sourceName": "ChatGPT and Gemini",
       "category": "AI Models",
       "tags": [
-        "Claude",
-        "Claude Code"
+        "ChatGPT",
+        "Gemini"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVdueGZlZGlocFB4Sm96Y3I5X25zNkJocmxoOUk2RU5sSVBLU0RyU09pM3ZQWWNPZGxQeWxDdW9vUF85VngzaVRsanlGODJIaDQtQ096NThCQ0YxVDV3eU9fSGx6TWtFUHNUNzQ0RzI3TEt6WDN0RG5YWFdja1",
-      "score": 87,
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXJhY2lXdjBXWXV0WDlCX2VyX2h4NmZxRjVmWDdMX0VsX19GWGNlSS1PRGpPdVV5YjVIMzlDUjJheGtQV2lBQkt6bHZveEZlLWV1T3dhWWZoWlg3UTVYaldURUxxdV81ME9xU2YtSnJqQk94NXd1djlNUlg3MW",
+      "score": 86,
       "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVdueGZlZGlocFB4Sm96Y3I5X25zNkJocmxoOUk2RU5sSVBLU0RyU09pM3ZQWWNPZGxQeWxDdW9vUF85VngzaVRsanlGODJIaDQtQ096NThCQ0YxVDV3eU9fSGx6TWtFUHNUNzQ0RzI3TEt6WDN0RG5YWFdja1VOaFhHRFYwNURva1pWbHlYUVhJV1NJSk5LTF9IRTdqMk5RNG1LT2EyQnJJOE1DcUhNWmpwa05ER1lYNlNxRTVrYzlTYUxwU2xzVF9fSHJrdS1uOVE?oc=5",
-      "firstSeenAt": "2026-08-12T05:44:18.362Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 4
-    },
-    {
-      "id": "CBMi0gFBVV95cUxOZ05YMEczanlYdzRWZVZndEVwOGVXU2hSNF92X2w5Y0dJU1pmaWMzOE12RkpaUGw3UlgtWWFPWGNKa0hKVUpmWHUzLVNZRThpZms3a1RUUzlhZXhYbXVrdE5heGd6WHctdDBBNEx0WkktNkxlcExoVWdSbUVLcmxuTWpSNWtjRG12R3p0SzJjUktteXZKRkV2MkVZdGlzTEhIbmZVWG9MZW05RkhtUG5aVFBPUXpsaWRjdWJQWF96WmNBajJWZzRuYWFuTkp1QURXQmc",
-      "title": "Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - News Channel 3-12",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ05YMEczanlYdzRWZVZndEVwOGVXU2hSNF92X2w5Y0dJU1pmaWMzOE12RkpaUGw3UlgtWWFPWGNKa0hKVUpmWHUzLVNZRThpZms3a1RUUzlhZXhYbXVrdE5heGd6WHctdDBBNEx0WkktNkxlcExoVWdSbUVLcmxuTWpSNWtjRG12R3p0SzJjUktteXZKRkV2MkVZdGlzTEhIbmZVWG9MZW05RkhtUG5aVFBPUXpsaWRjdWJQWF96WmNBajJWZzRuYWFuTkp1QURXQmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ05YMEczanlYdzRWZVZndEVwOGVXU2hSNF92X2w5Y0dJU1pmaWMzOE12RkpaUGw3UlgtWWFPWGNKa0hKVUpmWHUzLVNZRThpZms3a1RUUzlhZXhYbXVrdE5heGd6WHctdDBBNEx0WkktNkxlcExoVWdSbUVLcmxuTWpSNWtjRG12R3p0SzJjUktteXZKRkV2MkVZdGlzTEhIbmZVWG9MZW05RkhtUG5aVFBPUXpsaWRjdWJQWF96WmNBajJWZzRuYWFuTkp1QURXQmc?oc=5\" target=\"_blank\">Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Channel 3-12</font>",
-      "publishedAt": "2026-08-11T22:27:39.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ05YMEczanlYdzRWZVZndEVwOGVXU2hSNF92X2w5Y0dJU1pmaWMzOE12RkpaUGw3UlgtWWFPWGNKa0hKVUpmWHUzLVNZRThpZms3a1RUUzlhZXhYbXVrdE5heGd6WHctdDBBNEx0WkktNkxlcExoVWdSbUVLcm",
-      "score": 87,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ05YMEczanlYdzRWZVZndEVwOGVXU2hSNF92X2w5Y0dJU1pmaWMzOE12RkpaUGw3UlgtWWFPWGNKa0hKVUpmWHUzLVNZRThpZms3a1RUUzlhZXhYbXVrdE5heGd6WHctdDBBNEx0WkktNkxlcExoVWdSbUVLcmxuTWpSNWtjRG12R3p0SzJjUktteXZKRkV2MkVZdGlzTEhIbmZVWG9MZW05RkhtUG5aVFBPUXpsaWRjdWJQWF96WmNBajJWZzRuYWFuTkp1QURXQmc?oc=5",
-      "firstSeenAt": "2026-08-12T02:42:25.350Z",
-      "lastSeenAt": "2026-08-12T02:42:25.350Z",
+      "key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXJhY2lXdjBXWXV0WDlCX2VyX2h4NmZxRjVmWDdMX0VsX19GWGNlSS1PRGpPdVV5YjVIMzlDUjJheGtQV2lBQkt6bHZveEZlLWV1T3dhWWZoWlg3UTVYaldURUxxdV81ME9xU2YtSnJqQk94NXd1djlNUlg3MWpxMGNDbDhXWnJJcFc5T2pQUjhITUVFc2VzVXVkTnNPOC1u?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
       "seenCount": 1
     },
     {
@@ -154,11 +114,111 @@
         "OpenClaw"
       ],
       "blurb": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNemUtd09OYlc3TER4OWlnbjJtV2ZSVENhaS1PZEY0RTNleEZsU3NUM2FVRGdQQ1Rlc0N0SzVEVDdIWmJEOEpveC1qUXhlcHdhZEw2NS1iYmVSUmRlbkxMblN6OURXTndmd2dNa25VVGxMQUNQcHZHUV",
-      "score": 83,
+      "score": 81,
       "sourceMatchScore": 1,
       "key": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNemUtd09OYlc3TER4OWlnbjJtV2ZSVENhaS1PZEY0RTNleEZsU3NUM2FVRGdQQ1Rlc0N0SzVEVDdIWmJEOEpveC1qUXhlcHdhZEw2NS1iYmVSUmRlbkxMblN6OURXTndmd2dNa25VVGxMQUNQcHZHUVg2ZmJYa2w1QUFzQlF2WVAzYWltTmd6WUVlTDNJbmx0RmtJbHFfbk1LYnAwY2VCaGZxQ1JNek1wQTI0ejlYb2QzT0NHclhLTEFSakgwNVp2NUg0S0FMVllXUnVaX3ptTVJsWWVoYnQyNmp2Ujk5dUdmdG9TVk5DM1nSAfYBQVVfeXFMT2FQckpiSEhXaURzbFB1ZThQeUpCQjluc1FHR1VVQjVWejVLc2dJcl9BUFdIRDB6SnE0VW9hZ19xck1DY3dzRlU0bTlMT2M0RGZVR1pKMExkd195WHRFa0RIdmh1SDdRV01jWmUyYUN6S0lXUjFaZFdGSEprYmp0XzlXTVNVVU1XTjBNb3R6V0VBSjh2NjhGVWtDOGlta3VzUmFINlZPaGFZdVNwM1ZkWGlyc0k2UVRmaWc1VFYzN2ZFa181Y0s5ZTVQcXBpRjY2c19CNGtIXzFWN1RUTWdKQXRFWUhFTU5SM3lrVnZiMzJHQnNWSnpR?oc=5",
       "firstSeenAt": "2026-08-12T09:30:48.804Z",
       "lastSeenAt": "2026-08-12T09:30:48.804Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3",
+      "title": "Anthropic to watermark Claude-generated text - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3?oc=5\" target=\"_blank\">Anthropic to watermark Claude-generated text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
+      "publishedAt": "2026-08-12T19:46:51.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYU",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3?oc=5",
+      "firstSeenAt": "2026-08-12T09:30:48.804Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
+    },
+    {
+      "id": "CBMi0wFBVV95cUxNck5yejlwcy1qaWtMWUt0bWROWS1OU2FuelN6ZjJ2bzM4Sk9yUmVOa1VLeDFGb2J5Y2E1WlBFYVpGTFF0R1IxRlhkQkMzaXVJc2x5Tnh1Z29GR1BuSFNscThtUFU1SG1RM01XNUJZbnFjd29NT0h5cFJ0U01IVDJjWlR6T0dNYll3cXhXTkNqeW9QNkw4NGNFRHRkaGFHWHFCUnl1bzYtTUcxSVB5U2IzcnN6VlJfWjZiNUtDMXo2dnVweEdSaDdUdHlmTThjQ1Qta1JB",
+      "title": "Four Cents Strips Claude Watermark; Anthropic Detection API Confirms Evasion Oracle - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNck5yejlwcy1qaWtMWUt0bWROWS1OU2FuelN6ZjJ2bzM4Sk9yUmVOa1VLeDFGb2J5Y2E1WlBFYVpGTFF0R1IxRlhkQkMzaXVJc2x5Tnh1Z29GR1BuSFNscThtUFU1SG1RM01XNUJZbnFjd29NT0h5cFJ0U01IVDJjWlR6T0dNYll3cXhXTkNqeW9QNkw4NGNFRHRkaGFHWHFCUnl1bzYtTUcxSVB5U2IzcnN6VlJfWjZiNUtDMXo2dnVweEdSaDdUdHlmTThjQ1Qta1JB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNck5yejlwcy1qaWtMWUt0bWROWS1OU2FuelN6ZjJ2bzM4Sk9yUmVOa1VLeDFGb2J5Y2E1WlBFYVpGTFF0R1IxRlhkQkMzaXVJc2x5Tnh1Z29GR1BuSFNscThtUFU1SG1RM01XNUJZbnFjd29NT0h5cFJ0U01IVDJjWlR6T0dNYll3cXhXTkNqeW9QNkw4NGNFRHRkaGFHWHFCUnl1bzYtTUcxSVB5U2IzcnN6VlJfWjZiNUtDMXo2dnVweEdSaDdUdHlmTThjQ1Qta1JB?oc=5\" target=\"_blank\">Four Cents Strips Claude Watermark; Anthropic Detection API Confirms Evasion Oracle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+      "publishedAt": "2026-08-12T19:21:08.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNck5yejlwcy1qaWtMWUt0bWROWS1OU2FuelN6ZjJ2bzM4Sk9yUmVOa1VLeDFGb2J5Y2E1WlBFYVpGTFF0R1IxRlhkQkMzaXVJc2x5Tnh1Z29GR1BuSFNscThtUFU1SG1RM01XNUJZbnFjd29NT0h5cFJ0U01IVD",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNck5yejlwcy1qaWtMWUt0bWROWS1OU2FuelN6ZjJ2bzM4Sk9yUmVOa1VLeDFGb2J5Y2E1WlBFYVpGTFF0R1IxRlhkQkMzaXVJc2x5Tnh1Z29GR1BuSFNscThtUFU1SG1RM01XNUJZbnFjd29NT0h5cFJ0U01IVDJjWlR6T0dNYll3cXhXTkNqeW9QNkw4NGNFRHRkaGFHWHFCUnl1bzYtTUcxSVB5U2IzcnN6VlJfWjZiNUtDMXo2dnVweEdSaDdUdHlmTThjQ1Qta1JB?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMie0FVX3lxTE83Q1l3R2RFSjh0dnZlUEQ5Y0xIaW1lY2hQcWhGSk40UnVmdUhqLXZSc0RVbEFEckNnY2ZvQXlHV2dKOHgzZi1fUWxTWk1lLV85VkdmNzdaWG1kaTlHUnJtQmxUeDZUUE1lTXl0eG0wSnVoYjh5bUxPTFFaZw",
+      "title": "Anthropic’s Claude will watermark AI-generated text. Here’s how it works - Global News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Q1l3R2RFSjh0dnZlUEQ5Y0xIaW1lY2hQcWhGSk40UnVmdUhqLXZSc0RVbEFEckNnY2ZvQXlHV2dKOHgzZi1fUWxTWk1lLV85VkdmNzdaWG1kaTlHUnJtQmxUeDZUUE1lTXl0eG0wSnVoYjh5bUxPTFFaZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE83Q1l3R2RFSjh0dnZlUEQ5Y0xIaW1lY2hQcWhGSk40UnVmdUhqLXZSc0RVbEFEckNnY2ZvQXlHV2dKOHgzZi1fUWxTWk1lLV85VkdmNzdaWG1kaTlHUnJtQmxUeDZUUE1lTXl0eG0wSnVoYjh5bUxPTFFaZw?oc=5\" target=\"_blank\">Anthropic’s Claude will watermark AI-generated text. Here’s how it works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>",
+      "publishedAt": "2026-08-12T19:10:57.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE83Q1l3R2RFSjh0dnZlUEQ5Y0xIaW1lY2hQcWhGSk40UnVmdUhqLXZSc0RVbEFEckNnY2ZvQXlHV2dKOHgzZi1fUWxTWk1lLV85VkdmNzdaWG1kaTlHUnJtQmxUeDZUUE1lTXl0eG0wSnVoYjh5bUxPTFFaZw?oc=",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Q1l3R2RFSjh0dnZlUEQ5Y0xIaW1lY2hQcWhGSk40UnVmdUhqLXZSc0RVbEFEckNnY2ZvQXlHV2dKOHgzZi1fUWxTWk1lLV85VkdmNzdaWG1kaTlHUnJtQmxUeDZUUE1lTXl0eG0wSnVoYjh5bUxPTFFaZw?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMi6AFBVV95cUxQVzhERHg0Nm5aSFFjWFMxcm9mMzVMcnFwV1VwSEdXYWpHcUtwNXA1NE5FMzlVWW5mVFl6Y0QtM1MzQTV4amJjSzNuVXE2UUZtVVBud2EtbTFHSmM2eVBWdDdEXzRHWUtINUhnay11bW1hM0d3M3lCSGdBREFzT19kSTJWd1pIbWI0ZmlWSHo2bDNBRVdKRzkzY2ZtOVNBVXlRb2ZJWlNQSGkwLWx5ZWVJbEVhaVU3SVNERG1ubzEtYWJDUktzdmVrcUVWdC1BaGFDdHBJOGhIM2x6UFRHR3hoUHptSElZRGFX",
+      "title": "Anthropic adds Claude watermarks that could affect users worldwide - Nonstop Local News",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzhERHg0Nm5aSFFjWFMxcm9mMzVMcnFwV1VwSEdXYWpHcUtwNXA1NE5FMzlVWW5mVFl6Y0QtM1MzQTV4amJjSzNuVXE2UUZtVVBud2EtbTFHSmM2eVBWdDdEXzRHWUtINUhnay11bW1hM0d3M3lCSGdBREFzT19kSTJWd1pIbWI0ZmlWSHo2bDNBRVdKRzkzY2ZtOVNBVXlRb2ZJWlNQSGkwLWx5ZWVJbEVhaVU3SVNERG1ubzEtYWJDUktzdmVrcUVWdC1BaGFDdHBJOGhIM2x6UFRHR3hoUHptSElZRGFX?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzhERHg0Nm5aSFFjWFMxcm9mMzVMcnFwV1VwSEdXYWpHcUtwNXA1NE5FMzlVWW5mVFl6Y0QtM1MzQTV4amJjSzNuVXE2UUZtVVBud2EtbTFHSmM2eVBWdDdEXzRHWUtINUhnay11bW1hM0d3M3lCSGdBREFzT19kSTJWd1pIbWI0ZmlWSHo2bDNBRVdKRzkzY2ZtOVNBVXlRb2ZJWlNQSGkwLWx5ZWVJbEVhaVU3SVNERG1ubzEtYWJDUktzdmVrcUVWdC1BaGFDdHBJOGhIM2x6UFRHR3hoUHptSElZRGFX?oc=5\" target=\"_blank\">Anthropic adds Claude watermarks that could affect users worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nonstop Local News</font>",
+      "publishedAt": "2026-08-12T17:24:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzhERHg0Nm5aSFFjWFMxcm9mMzVMcnFwV1VwSEdXYWpHcUtwNXA1NE5FMzlVWW5mVFl6Y0QtM1MzQTV4amJjSzNuVXE2UUZtVVBud2EtbTFHSmM2eVBWdDdEXzRHWUtINUhnay11bW1hM0d3M3lCSGdBREFzT1",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzhERHg0Nm5aSFFjWFMxcm9mMzVMcnFwV1VwSEdXYWpHcUtwNXA1NE5FMzlVWW5mVFl6Y0QtM1MzQTV4amJjSzNuVXE2UUZtVVBud2EtbTFHSmM2eVBWdDdEXzRHWUtINUhnay11bW1hM0d3M3lCSGdBREFzT19kSTJWd1pIbWI0ZmlWSHo2bDNBRVdKRzkzY2ZtOVNBVXlRb2ZJWlNQSGkwLWx5ZWVJbEVhaVU3SVNERG1ubzEtYWJDUktzdmVrcUVWdC1BaGFDdHBJOGhIM2x6UFRHR3hoUHptSElZRGFX?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiugFBVV95cUxQcnR4S3dDMGVaSDY0VERqVjNWdi0wMjdYSXkwTmRqcUdhM0JZNHVwWld6WG9tbjF0bFFxaEVjYjkzMTY1d2NuQkpOWlF5Y0NYU1h6M0tsVXNFRkZZMF84V05HeGk1S2UzZE56a04tdGFLeEh1a0Z4Zl9Ud1k3NGp2Y1A1RG13Wmo1dTlfZ0lTbFhVcXN5Mi1mTVJ2aUFiWENWZGk0REVXRVJfbjg0ZjZUaDhqOGo3TU80MVE",
+      "title": "Anthropic’s Claude Gets Invisible Text Watermarks That Proofreading Alone Could Trigger - International Business Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnR4S3dDMGVaSDY0VERqVjNWdi0wMjdYSXkwTmRqcUdhM0JZNHVwWld6WG9tbjF0bFFxaEVjYjkzMTY1d2NuQkpOWlF5Y0NYU1h6M0tsVXNFRkZZMF84V05HeGk1S2UzZE56a04tdGFLeEh1a0Z4Zl9Ud1k3NGp2Y1A1RG13Wmo1dTlfZ0lTbFhVcXN5Mi1mTVJ2aUFiWENWZGk0REVXRVJfbjg0ZjZUaDhqOGo3TU80MVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnR4S3dDMGVaSDY0VERqVjNWdi0wMjdYSXkwTmRqcUdhM0JZNHVwWld6WG9tbjF0bFFxaEVjYjkzMTY1d2NuQkpOWlF5Y0NYU1h6M0tsVXNFRkZZMF84V05HeGk1S2UzZE56a04tdGFLeEh1a0Z4Zl9Ud1k3NGp2Y1A1RG13Wmo1dTlfZ0lTbFhVcXN5Mi1mTVJ2aUFiWENWZGk0REVXRVJfbjg0ZjZUaDhqOGo3TU80MVE?oc=5\" target=\"_blank\">Anthropic’s Claude Gets Invisible Text Watermarks That Proofreading Alone Could Trigger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>",
+      "publishedAt": "2026-08-12T17:16:04.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnR4S3dDMGVaSDY0VERqVjNWdi0wMjdYSXkwTmRqcUdhM0JZNHVwWld6WG9tbjF0bFFxaEVjYjkzMTY1d2NuQkpOWlF5Y0NYU1h6M0tsVXNFRkZZMF84V05HeGk1S2UzZE56a04tdGFLeEh1a0Z4Zl9Ud1k3NG",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnR4S3dDMGVaSDY0VERqVjNWdi0wMjdYSXkwTmRqcUdhM0JZNHVwWld6WG9tbjF0bFFxaEVjYjkzMTY1d2NuQkpOWlF5Y0NYU1h6M0tsVXNFRkZZMF84V05HeGk1S2UzZE56a04tdGFLeEh1a0Z4Zl9Ud1k3NGp2Y1A1RG13Wmo1dTlfZ0lTbFhVcXN5Mi1mTVJ2aUFiWENWZGk0REVXRVJfbjg0ZjZUaDhqOGo3TU80MVE?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
       "seenCount": 1
     },
     {
@@ -178,8 +238,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVKcVV6OHNnMmFGTm1UNDlTSHhZd0w1MVNlbXdmbmlxMkp3MHl4aFZBN3padGxDWVMtNUtzc2JQX05wenA3S0swNmZ6YUN3R3d0REtzSjJTU0xwQlhHMWxfM2otc3FIR3FZZm01djZ4cnBIOUhKb084Mk94ajYyY08zTG11eXRrb1Zxd0c0cnhWeXZqVGhkd3ZCOElfRTRI?oc=5",
       "firstSeenAt": "2026-08-12T17:10:36.422Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 2
     },
     {
       "id": "CBMi2wFBVV95cUxQWXV0SjdQUDVXbVBEUjE3TDlEa1NfMkM5RW9ZN2t5cy1yd1JKVFRPa2gzZlBfOXJXUjJZaW9Pd3Raa3RydGtUZllIZl9BVENhbGw2WWtxdVM5WFpLbHNramhjbC1mUFA1aW9oX1pCRG0zck82SDVZWnFoaFJOM1RBbEJTNFNNWTctbXZUWV9CS293VERLeWhUVEdOLWw4WmxWSVBsN2ZxQW1aVW5TNU9PcGZqU2Q5WVZSRzJjZ2tzLTFCNE55S0RDdGJRSFR5T0Y4bFJ1VVBRbXhqaDg",
@@ -198,7 +258,47 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWXV0SjdQUDVXbVBEUjE3TDlEa1NfMkM5RW9ZN2t5cy1yd1JKVFRPa2gzZlBfOXJXUjJZaW9Pd3Raa3RydGtUZllIZl9BVENhbGw2WWtxdVM5WFpLbHNramhjbC1mUFA1aW9oX1pCRG0zck82SDVZWnFoaFJOM1RBbEJTNFNNWTctbXZUWV9CS293VERLeWhUVEdOLWw4WmxWSVBsN2ZxQW1aVW5TNU9PcGZqU2Q5WVZSRzJjZ2tzLTFCNE55S0RDdGJRSFR5T0Y4bFJ1VVBRbXhqaDg?oc=5",
       "firstSeenAt": "2026-08-12T17:10:36.422Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 2
+    },
+    {
+      "id": "CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk1JRjZXOU1oY1NHNDhjS000WFdWV0dMRE9HanB2cXNMV3RmT0dJYUtENE5zU0dP",
+      "title": "Anthropic’s Claude Will Start Adding Invisible Watermarks to AI-Generated Text - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk1JRjZXOU1oY1NHNDhjS000WFdWV0dMRE9HanB2cXNMV3RmT0dJYUtENE5zU0dP?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk1JRjZXOU1oY1NHNDhjS000WFdWV0dMRE9HanB2cXNMV3RmT0dJYUtENE5zU0dP?oc=5\" target=\"_blank\">Anthropic’s Claude Will Start Adding Invisible Watermarks to AI-Generated Text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "publishedAt": "2026-08-12T16:00:56.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk1JRjZXOU1oY1NHNDhjS000WFdWV0dMRE9HanB2cXNMV3RmT0dJYUtENE5zU0dP?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ",
+      "title": "Anthropic | History, Controversies, & Claude AI - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5\" target=\"_blank\">Anthropic | History, Controversies, & Claude AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
+      "publishedAt": "2026-08-12T14:07:10.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5\" target=\"_blank\">Anthropic | History, Cont",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
       "seenCount": 1
     },
     {
@@ -238,8 +338,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51V2xXVmhQSDRZVHlCMW12NDRKQWlDcmhkbGNOMTEySEhqV25GUFJobFJ3V2k1SzY2eG5BUGtWV1ExcWdJZnlRTnBjME8?oc=5",
       "firstSeenAt": "2026-08-12T17:10:36.422Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 2
     },
     {
       "id": "CBMiowFBVV95cUxQQ0cwc2dWY2hfdXhsYnR2N0lfUHJjM3pweGhEUW12ZldxUktBdVg4UDR1OEh0ZFJKd3FFMi1uMDlLQkNXTVdNS2lVQ0ZlcUQxZVNlMFZJNHZjNnY5d2RyMGFMV25ud1hKQjRtcE5ueWZrdVRnbURsd2EtNkt5UUdWSXpqNjh5RFhWZk95VHZTelZzSVIyVGhmUHVvWEkwNU5XdTN3",
@@ -258,8 +358,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0cwc2dWY2hfdXhsYnR2N0lfUHJjM3pweGhEUW12ZldxUktBdVg4UDR1OEh0ZFJKd3FFMi1uMDlLQkNXTVdNS2lVQ0ZlcUQxZVNlMFZJNHZjNnY5d2RyMGFMV25ud1hKQjRtcE5ueWZrdVRnbURsd2EtNkt5UUdWSXpqNjh5RFhWZk95VHZTelZzSVIyVGhmUHVvWEkwNU5XdTN3?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMirwFBVV95cUxQbXREWW81VVRvOV9DRXBIQkVtQ0dJYjFnWWt1ZF9ieTBab1dwRDlTSlNfZ2N1WWdNQUUtQUF1dGl0bXV3MURvNmxER3djMV9YTUdjSWZLbVJCbjl3dnBhRjR1azBkTlpPa2g4Uy1QSU9wZV9tTm02eWM1dEUyaGl4c2FPLUZ3WTg3Q09qUk9rbjNzUzFIWGRzVy1uclcybVRyRWZTaWhTZ0laaUQzeEZz",
@@ -278,8 +378,28 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXREWW81VVRvOV9DRXBIQkVtQ0dJYjFnWWt1ZF9ieTBab1dwRDlTSlNfZ2N1WWdNQUUtQUF1dGl0bXV3MURvNmxER3djMV9YTUdjSWZLbVJCbjl3dnBhRjR1azBkTlpPa2g4Uy1QSU9wZV9tTm02eWM1dEUyaGl4c2FPLUZ3WTg3Q09qUk9rbjNzUzFIWGRzVy1uclcybVRyRWZTaWhTZ0laaUQzeEZz?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
+    },
+    {
+      "id": "CBMisgFBVV95cUxNNEZPYnRiUVg0R2hlWDA0OWJyUXMwLU5CeXlabnMtQmVyWW1feXljeU43emNfaFMzTURodGYtcHJCWkJuSUotTkNYNjRfSFdFTzRZaHgzNUFDRDZ6OUl6bTI4Z3dLeWQzbzVaTllfVW54SnlRY3FveWY3dk8yTmppLWVFNXp3WGIzTTBuRy01b0JPbEs3Y0JOd3VIel9OaENPYVQ1WDVUZ2Ezak9Fd1Z2SVFn",
+      "title": "Shutterstock Brings High-Quality Images, Videos, Music, and Sound Effects to Anthropic's Claude - aijourn.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEZPYnRiUVg0R2hlWDA0OWJyUXMwLU5CeXlabnMtQmVyWW1feXljeU43emNfaFMzTURodGYtcHJCWkJuSUotTkNYNjRfSFdFTzRZaHgzNUFDRDZ6OUl6bTI4Z3dLeWQzbzVaTllfVW54SnlRY3FveWY3dk8yTmppLWVFNXp3WGIzTTBuRy01b0JPbEs3Y0JOd3VIel9OaENPYVQ1WDVUZ2Ezak9Fd1Z2SVFn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEZPYnRiUVg0R2hlWDA0OWJyUXMwLU5CeXlabnMtQmVyWW1feXljeU43emNfaFMzTURodGYtcHJCWkJuSUotTkNYNjRfSFdFTzRZaHgzNUFDRDZ6OUl6bTI4Z3dLeWQzbzVaTllfVW54SnlRY3FveWY3dk8yTmppLWVFNXp3WGIzTTBuRy01b0JPbEs3Y0JOd3VIel9OaENPYVQ1WDVUZ2Ezak9Fd1Z2SVFn?oc=5\" target=\"_blank\">Shutterstock Brings High-Quality Images, Videos, Music, and Sound Effects to Anthropic's Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aijourn.com</font>",
+      "publishedAt": "2026-08-12T13:15:18.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEZPYnRiUVg0R2hlWDA0OWJyUXMwLU5CeXlabnMtQmVyWW1feXljeU43emNfaFMzTURodGYtcHJCWkJuSUotTkNYNjRfSFdFTzRZaHgzNUFDRDZ6OUl6bTI4Z3dLeWQzbzVaTllfVW54SnlRY3FveWY3dk8yTm",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEZPYnRiUVg0R2hlWDA0OWJyUXMwLU5CeXlabnMtQmVyWW1feXljeU43emNfaFMzTURodGYtcHJCWkJuSUotTkNYNjRfSFdFTzRZaHgzNUFDRDZ6OUl6bTI4Z3dLeWQzbzVaTllfVW54SnlRY3FveWY3dk8yTmppLWVFNXp3WGIzTTBuRy01b0JPbEs3Y0JOd3VIel9OaENPYVQ1WDVUZ2Ezak9Fd1Z2SVFn?oc=5",
+      "firstSeenAt": "2026-08-12T21:01:37.979Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 1
     },
     {
       "id": "CBMiugFBVV95cUxORk9SdE45dzQxN0ZWUzN1UE9KSmU2Nnkxbmp6T2QyNGlVYUNITHAwVkdLZ3BNOTdOSGE5QkFuQ0xRWEJzcHM3WXJJU2s0RXpYQ2V6c19YMGtwUGVsaGlWem8xcGd5NG5SbGNqOWhrald4VWpGYTZ0R3cxTHZzcnVaSUpwWER5TjBvR21zSXJxVE9QVEI5LXZtZVI5azl5SVlpZ1Z6S3ZMVVVHSVFUSkVpVldEYmVuUjBrTVE",
@@ -298,8 +418,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORk9SdE45dzQxN0ZWUzN1UE9KSmU2Nnkxbmp6T2QyNGlVYUNITHAwVkdLZ3BNOTdOSGE5QkFuQ0xRWEJzcHM3WXJJU2s0RXpYQ2V6c19YMGtwUGVsaGlWem8xcGd5NG5SbGNqOWhrald4VWpGYTZ0R3cxTHZzcnVaSUpwWER5TjBvR21zSXJxVE9QVEI5LXZtZVI5azl5SVlpZ1Z6S3ZMVVVHSVFUSkVpVldEYmVuUjBrTVE?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMipgFBVV95cUxQVGxNTFRON3QwWm5udkNWSlZJeGFfVXdNNjVfNjhDVGlXZWtuZkZHMm9QbERodk9YVklQS1F6UHdSMl9XTGJqd1lmUlpMWFFSZ1JJa2doYXhMTWZVOHE2MXFLV2FGNWR0SWl1UTNkbmRNU0VvMGhXejFUS0tuSXVxM2FTYlVnbzlIemczOXZQdHcyVm1nZzZVbmdsY0d4T2ZaMzZUaHd3",
@@ -338,8 +458,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQci1TNmpFdjZxNmFhVjJzTVZESElSY1l0R2ZvSXI0TTRkck04UzRDX1hVMGxyN2I4OFhwRFBGNlhvYWlBdEJ0U3ZkS0NadmtFQWFJcEE0Z21rVTBOWUp6dmNJOWZuWG9vMnlSTnBTbGt4bHRSMmRxSDlEcmEtSzJaVmxlQklUV1NkQV91YnFESjA4a0xfUExJZUo1RElFcktaT2tWdXBCQWU2WnQ4SmozdFlQQkVsUVR0S1g4WjJ5akRRcWU5Ui1fa1dFZDVQNjJlTW1uRXo1enNuTGtncFFJTWkzUXB5Ump1VzFwM3BELVI1eHpTVlJJM0Qzd09pOUZWdFUxTVNoRU1PQVZsbzFlMUFxNDJMcjBRUWJUUWwtV3dKbXMtMV9BNjMxSGZ1YTNJd0VISkhTMHdJNm5ieURVUw?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMihAFBVV95cUxQdkFPckJOd0NYWlh3aldBVWo1cDRSdFg1aUFKRUtsTGNRcmJjYkZfSUp0V1hjR3ZCTU1rVVZSVGZFNFg1amtBU0Z6QW94RUdvTUJDN1NpZkxNLTdBdENOWnY1VDVrYS05UmU1Y0ZmWUJpMHBIdGRRS3dKdDVKNFJSN3lTV2k",
@@ -358,8 +478,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkFPckJOd0NYWlh3aldBVWo1cDRSdFg1aUFKRUtsTGNRcmJjYkZfSUp0V1hjR3ZCTU1rVVZSVGZFNFg1amtBU0Z6QW94RUdvTUJDN1NpZkxNLTdBdENOWnY1VDVrYS05UmU1Y0ZmWUJpMHBIdGRRS3dKdDVKNFJSN3lTV2k?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMifEFVX3lxTE5GNHRBa0ZBdFFxN3JDWGpCT2o4WHNxemVTSE14WUJSVVRGdFZHQmgyNl90bDVDc3l3N1RlcnM3YXVYQXBzSTRiTEFSeHpzZ3VBQVk4Q1JnRkkyTGJlN1hYRXVuUDRtUTh5QkRGR1dNOFlxQU1OZ2hmNm9FZHA",
@@ -378,8 +498,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNHRBa0ZBdFFxN3JDWGpCT2o4WHNxemVTSE14WUJSVVRGdFZHQmgyNl90bDVDc3l3N1RlcnM3YXVYQXBzSTRiTEFSeHpzZ3VBQVk4Q1JnRkkyTGJlN1hYRXVuUDRtUTh5QkRGR1dNOFlxQU1OZ2hmNm9FZHA?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiqwFBVV95cUxQOXdybmREcU5UNk9ibURFRjhRS002czZmc0doYXB4UU1HQ2xZaHZZanN2OEFLRVV6Wk96bXZ3V2NGTkJiSE1aS05DSXJFSG85bFJBWVhSWjc1a09haVpXUlg0V0kwejRoclJpMFRTcWlCY0xwZi1ESnd3M1pQdmhrZkpXOFYwUks1UDlzRjBhWXJFN19kNXN5MEpfbjRFYXJObnpBRExiSTQtY3M",
@@ -398,14 +518,14 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXdybmREcU5UNk9ibURFRjhRS002czZmc0doYXB4UU1HQ2xZaHZZanN2OEFLRVV6Wk96bXZ3V2NGTkJiSE1aS05DSXJFSG85bFJBWVhSWjc1a09haVpXUlg0V0kwejRoclJpMFRTcWlCY0xwZi1ESnd3M1pQdmhrZkpXOFYwUks1UDlzRjBhWXJFN19kNXN5MEpfbjRFYXJObnpBRExiSTQtY3M?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiwwFBVV95cUxNYkhlMjlKRGpzYTR5eVhGTkVUTlNMX1I2TmJiRTdmRVpybHlIZnVOYkZsa19lLTFNOVktdENHV1ZHZ1lSbEZYWXlZYU5FR0swREYxV0M5WXVBMURtY1NjRF9PZzd6ckIzdmllT3hQczl3ZkdXRkRmSmxNZnFZaXRUUl9oZjhjeU0xbXRBZkZka09ZTGpxSWFXczIyTDNnMUdOVHZydDY3MjJNUG5ZUlhob0VDLUtWR3RZVGprQmxFd0M1UzQ",
-      "title": "Storm of critique after Anthropic watermarks Claude text worldwide to meet EU AI Act rules - brusselssignal.eu",
+      "title": "Storm of critique after Anthropic watermarks Claude text worldwide to meet EU AI Act rules - Brussels Signal",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkhlMjlKRGpzYTR5eVhGTkVUTlNMX1I2TmJiRTdmRVpybHlIZnVOYkZsa19lLTFNOVktdENHV1ZHZ1lSbEZYWXlZYU5FR0swREYxV0M5WXVBMURtY1NjRF9PZzd6ckIzdmllT3hQczl3ZkdXRkRmSmxNZnFZaXRUUl9oZjhjeU0xbXRBZkZka09ZTGpxSWFXczIyTDNnMUdOVHZydDY3MjJNUG5ZUlhob0VDLUtWR3RZVGprQmxFd0M1UzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkhlMjlKRGpzYTR5eVhGTkVUTlNMX1I2TmJiRTdmRVpybHlIZnVOYkZsa19lLTFNOVktdENHV1ZHZ1lSbEZYWXlZYU5FR0swREYxV0M5WXVBMURtY1NjRF9PZzd6ckIzdmllT3hQczl3ZkdXRkRmSmxNZnFZaXRUUl9oZjhjeU0xbXRBZkZka09ZTGpxSWFXczIyTDNnMUdOVHZydDY3MjJNUG5ZUlhob0VDLUtWR3RZVGprQmxFd0M1UzQ?oc=5\" target=\"_blank\">Storm of critique after Anthropic watermarks Claude text worldwide to meet EU AI Act rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">brusselssignal.eu</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkhlMjlKRGpzYTR5eVhGTkVUTlNMX1I2TmJiRTdmRVpybHlIZnVOYkZsa19lLTFNOVktdENHV1ZHZ1lSbEZYWXlZYU5FR0swREYxV0M5WXVBMURtY1NjRF9PZzd6ckIzdmllT3hQczl3ZkdXRkRmSmxNZnFZaXRUUl9oZjhjeU0xbXRBZkZka09ZTGpxSWFXczIyTDNnMUdOVHZydDY3MjJNUG5ZUlhob0VDLUtWR3RZVGprQmxFd0M1UzQ?oc=5\" target=\"_blank\">Storm of critique after Anthropic watermarks Claude text worldwide to meet EU AI Act rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brussels Signal</font>",
       "publishedAt": "2026-08-12T09:24:56.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
@@ -418,8 +538,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkhlMjlKRGpzYTR5eVhGTkVUTlNMX1I2TmJiRTdmRVpybHlIZnVOYkZsa19lLTFNOVktdENHV1ZHZ1lSbEZYWXlZYU5FR0swREYxV0M5WXVBMURtY1NjRF9PZzd6ckIzdmllT3hQczl3ZkdXRkRmSmxNZnFZaXRUUl9oZjhjeU0xbXRBZkZka09ZTGpxSWFXczIyTDNnMUdOVHZydDY3MjJNUG5ZUlhob0VDLUtWR3RZVGprQmxFd0M1UzQ?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiiwFBVV95cUxNdGZuSWswRVlRNVVwVnBOMDRwNG5FZTA4elRJdW0xYXNzenRVQmFzOVRSRjhncDctd3dTNTd4Rmlmei02N01GNkZ2MXVOYmpMcEZkc3doUHZrN0l5aEh3YVRDTEYzX3d2UkxrSjJ2MHZDMzFEWGcxM2VvaUtoZkFTWlllTDJFcTZ6QUNR",
@@ -434,32 +554,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGZuSWswRVlRNVVwVnBOMDRwNG5FZTA4elRJdW0xYXNzenRVQmFzOVRSRjhncDctd3dTNTd4Rmlmei02N01GNkZ2MXVOYmpMcEZkc3doUHZrN0l5aEh3YVRDTEYzX3d2UkxrSjJ2MHZDMzFEWGcxM2VvaUtoZk",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGZuSWswRVlRNVVwVnBOMDRwNG5FZTA4elRJdW0xYXNzenRVQmFzOVRSRjhncDctd3dTNTd4Rmlmei02N01GNkZ2MXVOYmpMcEZkc3doUHZrN0l5aEh3YVRDTEYzX3d2UkxrSjJ2MHZDMzFEWGcxM2VvaUtoZkFTWlllTDJFcTZ6QUNR?oc=5",
       "firstSeenAt": "2026-08-12T09:30:48.804Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 3
-    },
-    {
-      "id": "CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3",
-      "title": "Anthropic to watermark Claude-generated text - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3?oc=5\" target=\"_blank\">Anthropic to watermark Claude-generated text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
-      "publishedAt": "2026-08-12T07:46:14.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYU",
-      "score": 76,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2YyOWw3dko1QUVHMDJYeUhUczNiM3JSM2VsdlRwNVQwWDlIQ2ROdjNjaURGdV9rS2VyOGZrUzQwcHo2Z1dVUWhHRUVzaEdZaS1yd0NocHpTcG0wUVBENEs1NUQ3R3BwdEZxRmZlUFFkQkFMaHJjcWFSX09NYUpaZlVYNVpwbFlZcXVpNkFnZk0tc0phY0YyRlAwY2JnTjNSUFR3?oc=5",
-      "firstSeenAt": "2026-08-12T09:30:48.804Z",
-      "lastSeenAt": "2026-08-12T13:44:46.935Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 4
     },
     {
       "id": "CBMiuwFBVV95cUxNUUt1d1UweE1jaUdFNW1MT19TUnE3S0dxZ0t5SUNVUDAtX3A4bEl6T2tOZW9WQURLSXBQWTN6UmxsQjF3ZUYzdzhGbXVMRl9XbzlSVGdOVkJ5dktENzY0X0hVYTFXdU1QOEN3c1BzWVMyYy1wLU1ySEpNMzYtOVFQTjZTM0M0eE1XLVFiTmtlWlUtb2IxR3BTUjBwVDZfQnVYOFVkWmF1SVRzd2Jwc01LNVZlLW5Bb3I1R044",
@@ -474,7 +574,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUt1d1UweE1jaUdFNW1MT19TUnE3S0dxZ0t5SUNVUDAtX3A4bEl6T2tOZW9WQURLSXBQWTN6UmxsQjF3ZUYzdzhGbXVMRl9XbzlSVGdOVkJ5dktENzY0X0hVYTFXdU1QOEN3c1BzWVMyYy1wLU1ySEpNMzYtOV",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUt1d1UweE1jaUdFNW1MT19TUnE3S0dxZ0t5SUNVUDAtX3A4bEl6T2tOZW9WQURLSXBQWTN6UmxsQjF3ZUYzdzhGbXVMRl9XbzlSVGdOVkJ5dktENzY0X0hVYTFXdU1QOEN3c1BzWVMyYy1wLU1ySEpNMzYtOVFQTjZTM0M0eE1XLVFiTmtlWlUtb2IxR3BTUjBwVDZfQnVYOFVkWmF1SVRzd2Jwc01LNVZlLW5Bb3I1R044?oc=5",
       "firstSeenAt": "2026-08-12T09:30:48.804Z",
@@ -494,18 +594,18 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHVrQmZTbU5RcUZzQ3RvRHZXTWxJUkwybXRqZ3pXd2I2dVNFSHo4VE9yemNyb2tXaTg3ckZhbExNSjR2QXlCWWw5X0RiWjZ5SEsxanpEYW0zNHgxSWFsaUpPVlgxWXk4RV9yQW9BbnUwbE4xb1BVa05XQjhRUW",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHVrQmZTbU5RcUZzQ3RvRHZXTWxJUkwybXRqZ3pXd2I2dVNFSHo4VE9yemNyb2tXaTg3ckZhbExNSjR2QXlCWWw5X0RiWjZ5SEsxanpEYW0zNHgxSWFsaUpPVlgxWXk4RV9yQW9BbnUwbE4xb1BVa05XQjhRUWdSOGNzUm9xVUlEdzc4a3o2cUROa2tQODBDNmdPSEVoTDRadFoyYzBn?oc=5",
       "firstSeenAt": "2026-08-12T09:30:48.804Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 4
     },
     {
       "id": "CBMidkFVX3lxTE1aSHZMd1ZBVWpkMVVtYlY1RU8wLVJEVC1fbV9zaFN3T3dDNUNQS0lsMnRmOTRrX00tRWxvTDlfYWNMMmg2U0J2Tk9Wc1JWaFBCZGFtQUhXblZwWHdaUU5tZEY3VFZPckxIM1Y5OFZYQm9mQ1FyRVE",
-      "title": "Samsung Cuts Chip Design Time by 15x Using Anthropic's Claude, Aims to Close Workforce Gap with Qualcomm - finance.biggo.com",
+      "title": "Samsung Cuts Chip Design Time by 15x Using Anthropic's Claude, Narrowing Workforce Gap with Qualcomm - finance.biggo.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSHZMd1ZBVWpkMVVtYlY1RU8wLVJEVC1fbV9zaFN3T3dDNUNQS0lsMnRmOTRrX00tRWxvTDlfYWNMMmg2U0J2Tk9Wc1JWaFBCZGFtQUhXblZwWHdaUU5tZEY3VFZPckxIM1Y5OFZYQm9mQ1FyRVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSHZMd1ZBVWpkMVVtYlY1RU8wLVJEVC1fbV9zaFN3T3dDNUNQS0lsMnRmOTRrX00tRWxvTDlfYWNMMmg2U0J2Tk9Wc1JWaFBCZGFtQUhXblZwWHdaUU5tZEY3VFZPckxIM1Y5OFZYQm9mQ1FyRVE?oc=5\" target=\"_blank\">Samsung Cuts Chip Design Time by 15x Using Anthropic's Claude, Aims to Close Workforce Gap with Qualcomm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSHZMd1ZBVWpkMVVtYlY1RU8wLVJEVC1fbV9zaFN3T3dDNUNQS0lsMnRmOTRrX00tRWxvTDlfYWNMMmg2U0J2Tk9Wc1JWaFBCZGFtQUhXblZwWHdaUU5tZEY3VFZPckxIM1Y5OFZYQm9mQ1FyRVE?oc=5\" target=\"_blank\">Samsung Cuts Chip Design Time by 15x Using Anthropic's Claude, Narrowing Workforce Gap with Qualcomm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
       "publishedAt": "2026-08-12T06:26:00.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
@@ -514,18 +614,18 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSHZMd1ZBVWpkMVVtYlY1RU8wLVJEVC1fbV9zaFN3T3dDNUNQS0lsMnRmOTRrX00tRWxvTDlfYWNMMmg2U0J2Tk9Wc1JWaFBCZGFtQUhXblZwWHdaUU5tZEY3VFZPckxIM1Y5OFZYQm9mQ1FyRVE?oc=5\" targ",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSHZMd1ZBVWpkMVVtYlY1RU8wLVJEVC1fbV9zaFN3T3dDNUNQS0lsMnRmOTRrX00tRWxvTDlfYWNMMmg2U0J2Tk9Wc1JWaFBCZGFtQUhXblZwWHdaUU5tZEY3VFZPckxIM1Y5OFZYQm9mQ1FyRVE?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiuwFBVV95cUxNTTVQUDg1MDNnSXFfdkl1SFk4M1g3VXREVGlRV29pNFVjd3QzY1cyYlRUak5DeUo3MC1hRkNjY1JxeHpnTTBXMVZEUC1pUGVMTXd2S0lObHhmSTJUNEVWMWhTMkEzbnU0WEdsVjJtdUJ0cTZ5LUdINzY4Tk1OMmJxUmt1WEZhMWtKTm80anUtOGhqb2tKRGF4S0RJcDJxSEhOLXRHcmhaWVVVeDU5Q0FxRldQS292eE5fQUk0",
-      "title": "Samsung adopts Anthropic’s Claude AI for chip design- report - Investing.com Nigeria",
+      "title": "Samsung adopts Anthropic’s Claude AI for chip design- report - ng.investing.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVQUDg1MDNnSXFfdkl1SFk4M1g3VXREVGlRV29pNFVjd3QzY1cyYlRUak5DeUo3MC1hRkNjY1JxeHpnTTBXMVZEUC1pUGVMTXd2S0lObHhmSTJUNEVWMWhTMkEzbnU0WEdsVjJtdUJ0cTZ5LUdINzY4Tk1OMmJxUmt1WEZhMWtKTm80anUtOGhqb2tKRGF4S0RJcDJxSEhOLXRHcmhaWVVVeDU5Q0FxRldQS292eE5fQUk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVQUDg1MDNnSXFfdkl1SFk4M1g3VXREVGlRV29pNFVjd3QzY1cyYlRUak5DeUo3MC1hRkNjY1JxeHpnTTBXMVZEUC1pUGVMTXd2S0lObHhmSTJUNEVWMWhTMkEzbnU0WEdsVjJtdUJ0cTZ5LUdINzY4Tk1OMmJxUmt1WEZhMWtKTm80anUtOGhqb2tKRGF4S0RJcDJxSEhOLXRHcmhaWVVVeDU5Q0FxRldQS292eE5fQUk0?oc=5\" target=\"_blank\">Samsung adopts Anthropic’s Claude AI for chip design- report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVQUDg1MDNnSXFfdkl1SFk4M1g3VXREVGlRV29pNFVjd3QzY1cyYlRUak5DeUo3MC1hRkNjY1JxeHpnTTBXMVZEUC1pUGVMTXd2S0lObHhmSTJUNEVWMWhTMkEzbnU0WEdsVjJtdUJ0cTZ5LUdINzY4Tk1OMmJxUmt1WEZhMWtKTm80anUtOGhqb2tKRGF4S0RJcDJxSEhOLXRHcmhaWVVVeDU5Q0FxRldQS292eE5fQUk0?oc=5\" target=\"_blank\">Samsung adopts Anthropic’s Claude AI for chip design- report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ng.investing.com</font>",
       "publishedAt": "2026-08-12T06:20:07.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
@@ -534,12 +634,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVQUDg1MDNnSXFfdkl1SFk4M1g3VXREVGlRV29pNFVjd3QzY1cyYlRUak5DeUo3MC1hRkNjY1JxeHpnTTBXMVZEUC1pUGVMTXd2S0lObHhmSTJUNEVWMWhTMkEzbnU0WEdsVjJtdUJ0cTZ5LUdINzY4Tk1OMm",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVQUDg1MDNnSXFfdkl1SFk4M1g3VXREVGlRV29pNFVjd3QzY1cyYlRUak5DeUo3MC1hRkNjY1JxeHpnTTBXMVZEUC1pUGVMTXd2S0lObHhmSTJUNEVWMWhTMkEzbnU0WEdsVjJtdUJ0cTZ5LUdINzY4Tk1OMmJxUmt1WEZhMWtKTm80anUtOGhqb2tKRGF4S0RJcDJxSEhOLXRHcmhaWVVVeDU5Q0FxRldQS292eE5fQUk0?oc=5",
       "firstSeenAt": "2026-08-12T09:30:48.804Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 4
     },
     {
       "id": "CBMi0AFBVV95cUxNNjlrdjFuVTdaUFdfd3RBdGRrbDVVd09KVnFDTkJ6WnNFM0g2d0NyTnlkZ1pUWGNhWkRyYmprMlhSVnd1NXZQOUo4bXNnT1lDUWZQbGVhSXVWOGZrWHJCZ2x1VUZUZkl0ZGlJb2VSbm4wMkxLZWFyRElQRU53UXFaamY2ckdjZ0h3bWdzcTdyc0VrYzhzZEFxS2NkeFNtbFJ3ZUFJbTRtQ2hvZTlqRWI1b2tqd3FTX2dSLWkxemRGbDFnMktUWGNVSm9zc25FNFJC0gHWAUFVX3lxTE9kWTNDbDNDZ2NLeHduYzIzZW8tRHU1UHJJTmpHbDVJNmN5Vk03RFlzQ0RDSFZSOTk0QTJJV3B3TTdCa2Vmak5yMzZwNlhocUY0cHdHc3VnS1hvQnZweWM5SEJMWkNvS0h1UEY4ckVMZ3NKWnVGX1V2UXoySWlrY2FKZ294YlViNTRENkd5VkFLUGZTc1dCY1c1X3Y4emM4UkltRUhiRmM3VEJlS01HeUpIN1IwNWxEcmlYZVczdHZJUm5iQlBYTXJHRGtuTWV5LTh4N1ZyQUE",
@@ -598,87 +698,7 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWU2aXJRTGxyaVYtUEJXRWV2Mm5HYkI4MVdPVTdGU3ViSUxya3RBZHdiNEk2VlN0TW1Db3JJQnROLVlpcnI3a3lGeERac3J0Y3hpQXZQSm1PSnZBR3diaS0xcG44OGlrMmtOd1RTYS1qSWFBOE1BZjVibnRfR0M3a21FTkMtZU9VMzVPaDVFOS03VEVJY3VybjU0MGpEX2Y1dGo3clRlTW9GUQ?oc=5",
       "firstSeenAt": "2026-08-12T05:44:18.362Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 4
-    },
-    {
-      "id": "CBMirgFBVV95cUxNV3RZM1NDbzVvYjVnVTd0c0w5Tzhjd3JjS0JlZjZSVFhLc09fMkl2X2JLWkY4LWxGNndvMk5KdlJJQ0YxLVZFTXYyXzlfcUlIellZOGpoYWJQU1NNaDZUMVBXRlAxckltc2tfMGJuTEpCRHFPdXFlUXU4TGo4Tnloei1JVm5QaVJLQTlhT00tc091S2hPVzhLamJWZVBkRTBLWHBKQVNKdmxTMDhqR2c",
-      "title": "Anthropic introduces invisible watermarks for Claude-generated text - afaqs!",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3RZM1NDbzVvYjVnVTd0c0w5Tzhjd3JjS0JlZjZSVFhLc09fMkl2X2JLWkY4LWxGNndvMk5KdlJJQ0YxLVZFTXYyXzlfcUlIellZOGpoYWJQU1NNaDZUMVBXRlAxckltc2tfMGJuTEpCRHFPdXFlUXU4TGo4Tnloei1JVm5QaVJLQTlhT00tc091S2hPVzhLamJWZVBkRTBLWHBKQVNKdmxTMDhqR2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3RZM1NDbzVvYjVnVTd0c0w5Tzhjd3JjS0JlZjZSVFhLc09fMkl2X2JLWkY4LWxGNndvMk5KdlJJQ0YxLVZFTXYyXzlfcUlIellZOGpoYWJQU1NNaDZUMVBXRlAxckltc2tfMGJuTEpCRHFPdXFlUXU4TGo4Tnloei1JVm5QaVJLQTlhT00tc091S2hPVzhLamJWZVBkRTBLWHBKQVNKdmxTMDhqR2c?oc=5\" target=\"_blank\">Anthropic introduces invisible watermarks for Claude-generated text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">afaqs!</font>",
-      "publishedAt": "2026-08-11T23:40:37.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3RZM1NDbzVvYjVnVTd0c0w5Tzhjd3JjS0JlZjZSVFhLc09fMkl2X2JLWkY4LWxGNndvMk5KdlJJQ0YxLVZFTXYyXzlfcUlIellZOGpoYWJQU1NNaDZUMVBXRlAxckltc2tfMGJuTEpCRHFPdXFlUXU4TGo4Tn",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3RZM1NDbzVvYjVnVTd0c0w5Tzhjd3JjS0JlZjZSVFhLc09fMkl2X2JLWkY4LWxGNndvMk5KdlJJQ0YxLVZFTXYyXzlfcUlIellZOGpoYWJQU1NNaDZUMVBXRlAxckltc2tfMGJuTEpCRHFPdXFlUXU4TGo4Tnloei1JVm5QaVJLQTlhT00tc091S2hPVzhLamJWZVBkRTBLWHBKQVNKdmxTMDhqR2c?oc=5",
-      "firstSeenAt": "2026-08-12T02:42:25.350Z",
-      "lastSeenAt": "2026-08-12T05:44:18.362Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMimAFBVV95cUxOY25YY1NGM3dCaGZoUlN5WjBhd1hPUGlYQXptMndqbGFBdHlxUHBDUUtaX180enlWdzFMdlJxeUFPYXdWbnlFeG5vN2R4OEJibUphQjd2alpoM2FkSmJsRmtIemdMSm5vNkNUcVR1QlU2aktycjlXUHYtWi0xdGpMWVBrZHV5dlRmY1pUSktpZmtVVXB2S1g3TQ",
-      "title": "SWFs Bolster AI: GIC Extends Anthropic Bet Into Claude Data Centres - Global SWF Data Platform",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY25YY1NGM3dCaGZoUlN5WjBhd1hPUGlYQXptMndqbGFBdHlxUHBDUUtaX180enlWdzFMdlJxeUFPYXdWbnlFeG5vN2R4OEJibUphQjd2alpoM2FkSmJsRmtIemdMSm5vNkNUcVR1QlU2aktycjlXUHYtWi0xdGpMWVBrZHV5dlRmY1pUSktpZmtVVXB2S1g3TQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOY25YY1NGM3dCaGZoUlN5WjBhd1hPUGlYQXptMndqbGFBdHlxUHBDUUtaX180enlWdzFMdlJxeUFPYXdWbnlFeG5vN2R4OEJibUphQjd2alpoM2FkSmJsRmtIemdMSm5vNkNUcVR1QlU2aktycjlXUHYtWi0xdGpMWVBrZHV5dlRmY1pUSktpZmtVVXB2S1g3TQ?oc=5\" target=\"_blank\">SWFs Bolster AI: GIC Extends Anthropic Bet Into Claude Data Centres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global SWF Data Platform</font>",
-      "publishedAt": "2026-08-11T21:43:48.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOY25YY1NGM3dCaGZoUlN5WjBhd1hPUGlYQXptMndqbGFBdHlxUHBDUUtaX180enlWdzFMdlJxeUFPYXdWbnlFeG5vN2R4OEJibUphQjd2alpoM2FkSmJsRmtIemdMSm5vNkNUcVR1QlU2aktycjlXUHYtWi0xdG",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY25YY1NGM3dCaGZoUlN5WjBhd1hPUGlYQXptMndqbGFBdHlxUHBDUUtaX180enlWdzFMdlJxeUFPYXdWbnlFeG5vN2R4OEJibUphQjd2alpoM2FkSmJsRmtIemdMSm5vNkNUcVR1QlU2aktycjlXUHYtWi0xdGpMWVBrZHV5dlRmY1pUSktpZmtVVXB2S1g3TQ?oc=5",
-      "firstSeenAt": "2026-08-12T02:42:25.350Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu",
-      "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files - CNET",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5\" target=\"_blank\">Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "publishedAt": "2026-08-11T21:35:10.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZD",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5",
-      "firstSeenAt": "2026-08-12T02:42:25.350Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 3
-    },
-    {
-      "id": "CBMijAFBVV95cUxNaXcyMDJ4TFltZlZhV19IWnNOc3VnaVpDdjR5Wld6Q3Bwb09UNFo1b0JHeXR6azFMdGRrRHhmMXEtbUFiSzJ2TFFNOXRqMXBUdjJpZ2dfbU44aWlTcl9qUGlaRkhaOHYyeXJRamlFc3lWUi0wZncwVGJ0VHBBZ1FjNEQ3a25abFFhaXZLMQ",
-      "title": "Claude text gains invisible watermarks across 5 Anthropic products - PPC Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXcyMDJ4TFltZlZhV19IWnNOc3VnaVpDdjR5Wld6Q3Bwb09UNFo1b0JHeXR6azFMdGRrRHhmMXEtbUFiSzJ2TFFNOXRqMXBUdjJpZ2dfbU44aWlTcl9qUGlaRkhaOHYyeXJRamlFc3lWUi0wZncwVGJ0VHBBZ1FjNEQ3a25abFFhaXZLMQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXcyMDJ4TFltZlZhV19IWnNOc3VnaVpDdjR5Wld6Q3Bwb09UNFo1b0JHeXR6azFMdGRrRHhmMXEtbUFiSzJ2TFFNOXRqMXBUdjJpZ2dfbU44aWlTcl9qUGlaRkhaOHYyeXJRamlFc3lWUi0wZncwVGJ0VHBBZ1FjNEQ3a25abFFhaXZLMQ?oc=5\" target=\"_blank\">Claude text gains invisible watermarks across 5 Anthropic products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PPC Land</font>",
-      "publishedAt": "2026-08-11T21:13:39.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXcyMDJ4TFltZlZhV19IWnNOc3VnaVpDdjR5Wld6Q3Bwb09UNFo1b0JHeXR6azFMdGRrRHhmMXEtbUFiSzJ2TFFNOXRqMXBUdjJpZ2dfbU44aWlTcl9qUGlaRkhaOHYyeXJRamlFc3lWUi0wZncwVGJ0VHBBZ1",
-      "score": 74,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXcyMDJ4TFltZlZhV19IWnNOc3VnaVpDdjR5Wld6Q3Bwb09UNFo1b0JHeXR6azFMdGRrRHhmMXEtbUFiSzJ2TFFNOXRqMXBUdjJpZ2dfbU44aWlTcl9qUGlaRkhaOHYyeXJRamlFc3lWUi0wZncwVGJ0VHBBZ1FjNEQ3a25abFFhaXZLMQ?oc=5",
-      "firstSeenAt": "2026-08-12T02:42:25.350Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
       "seenCount": 5
     },
     {
@@ -698,28 +718,8 @@
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHVXR09qa2tsNzlZSUNsMUsxWDlIYl9zQW9CdUtnbGJwVWd1NWl6S21xU2JWbmF5YUNMQWZ2WlZROXZWNk9DUkl3LWprUXk4QkpXZ3hsUnBHOUFvLW9CTFpzcFRiX3Y2RDdWMHR5MURMdFBKdzhod3VNSEk0RzBQOFNKUi15SlE5VGVtblBzVGxRaXc5SFlOVzltSzAwS2VhYXZOZVdZbkhfMzZFdWpxVHhCckhQRWR3bVZLVDFrUkM1Q01xTElvbVRmNXF3emRkQmswRFp3?oc=5",
       "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMi3wFBVV95cUxNUExvWFNVNDQzRmRsZTBpTHVTbmRFWEp2RjhnUDF2Rl9NZ0Njd1RHTEZzdEs2M2taTkhNLUZNanNOWnBNOVV0YndLc2pabTFxVXdTZFU0ODNsdElEd2pkY0k4c1BWeGF0MkRDUWp3VE5WTGxNbGFveEVNT0gxUUNsYlpPcVBQSUxueml4X1k4Zi05YW8zaU1SbzVQV0FnRkpiMjN1STFINEJHakFZbDdFanIxS0dLRHdnam9ha2pBdGtPM0xRUE5KS1ViQmJZS0lMVkVxRnJBbVFnUDhMdzBB",
-      "title": "MindMap AI Launches MCP Server Letting Claude and ChatGPT Create and Edit Mind Maps in Conversation - EIN Presswire",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUExvWFNVNDQzRmRsZTBpTHVTbmRFWEp2RjhnUDF2Rl9NZ0Njd1RHTEZzdEs2M2taTkhNLUZNanNOWnBNOVV0YndLc2pabTFxVXdTZFU0ODNsdElEd2pkY0k4c1BWeGF0MkRDUWp3VE5WTGxNbGFveEVNT0gxUUNsYlpPcVBQSUxueml4X1k4Zi05YW8zaU1SbzVQV0FnRkpiMjN1STFINEJHakFZbDdFanIxS0dLRHdnam9ha2pBdGtPM0xRUE5KS1ViQmJZS0lMVkVxRnJBbVFnUDhMdzBB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUExvWFNVNDQzRmRsZTBpTHVTbmRFWEp2RjhnUDF2Rl9NZ0Njd1RHTEZzdEs2M2taTkhNLUZNanNOWnBNOVV0YndLc2pabTFxVXdTZFU0ODNsdElEd2pkY0k4c1BWeGF0MkRDUWp3VE5WTGxNbGFveEVNT0gxUUNsYlpPcVBQSUxueml4X1k4Zi05YW8zaU1SbzVQV0FnRkpiMjN1STFINEJHakFZbDdFanIxS0dLRHdnam9ha2pBdGtPM0xRUE5KS1ViQmJZS0lMVkVxRnJBbVFnUDhMdzBB?oc=5\" target=\"_blank\">MindMap AI Launches MCP Server Letting Claude and ChatGPT Create and Edit Mind Maps in Conversation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN Presswire</font>",
-      "publishedAt": "2026-08-12T11:41:00.000Z",
-      "sourceName": "ChatGPT and Gemini",
-      "category": "AI Models",
-      "tags": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUExvWFNVNDQzRmRsZTBpTHVTbmRFWEp2RjhnUDF2Rl9NZ0Njd1RHTEZzdEs2M2taTkhNLUZNanNOWnBNOVV0YndLc2pabTFxVXdTZFU0ODNsdElEd2pkY0k4c1BWeGF0MkRDUWp3VE5WTGxNbGFveEVNT0gxUU",
-      "score": 69,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUExvWFNVNDQzRmRsZTBpTHVTbmRFWEp2RjhnUDF2Rl9NZ0Njd1RHTEZzdEs2M2taTkhNLUZNanNOWnBNOVV0YndLc2pabTFxVXdTZFU0ODNsdElEd2pkY0k4c1BWeGF0MkRDUWp3VE5WTGxNbGFveEVNT0gxUUNsYlpPcVBQSUxueml4X1k4Zi05YW8zaU1SbzVQV0FnRkpiMjN1STFINEJHakFZbDdFanIxS0dLRHdnam9ha2pBdGtPM0xRUE5KS1ViQmJZS0lMVkVxRnJBbVFnUDhMdzBB?oc=5",
-      "firstSeenAt": "2026-08-12T13:44:46.935Z",
-      "lastSeenAt": "2026-08-12T17:10:36.422Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-08-12T21:01:37.979Z",
+      "seenCount": 3
     }
   ]
 }
