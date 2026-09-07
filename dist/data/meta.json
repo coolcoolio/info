@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T22:07:07.550Z",
+  "generatedAt": "2026-09-07T04:37:54.022Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -19,13 +19,13 @@
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 96,
+      "count": 95,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 79,
+      "count": 78,
       "error": null
     },
     {
@@ -61,19 +61,19 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 99,
+      "count": 103,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 82,
+      "count": 83,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
       "ok": true,
-      "count": 54,
+      "count": 100,
       "error": null
     }
   ]
