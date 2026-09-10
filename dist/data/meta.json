@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:40:17.870Z",
+  "generatedAt": "2026-09-10T12:54:19.635Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,7 +7,7 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 52,
+      "count": 48,
       "error": null
     },
     {
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 101,
+      "count": 97,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 79,
+      "count": 77,
       "error": null
     },
     {
