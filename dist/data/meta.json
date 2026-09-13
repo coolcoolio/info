@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:46:13.573Z",
+  "generatedAt": "2026-09-13T22:23:40.623Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -13,7 +13,7 @@
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 95,
+      "count": 94,
       "error": null
     },
     {
@@ -67,14 +67,14 @@
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 76,
+      "count": 75,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     }
   ]
 }
