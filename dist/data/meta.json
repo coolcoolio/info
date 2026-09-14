@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T22:23:40.623Z",
+  "generatedAt": "2026-09-14T04:53:45.708Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -19,7 +19,7 @@
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 98,
+      "count": 99,
       "error": null
     },
     {
@@ -61,20 +61,20 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 93,
+      "count": 87,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 75,
+      "count": 76,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 100,
+      "error": null
     }
   ]
 }
