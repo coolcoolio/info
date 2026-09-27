@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:16:22.063Z",
+  "generatedAt": "2026-09-27T13:56:37.068Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,13 +7,13 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 62,
+      "count": 57,
       "error": null
     },
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 94,
+      "count": 93,
       "error": null
     },
     {
@@ -61,7 +61,7 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 102,
+      "count": 95,
       "error": null
     },
     {
