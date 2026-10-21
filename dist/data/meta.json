@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:45:36.699Z",
+  "generatedAt": "2026-10-21T20:08:15.324Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,13 +7,13 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 53,
+      "count": 51,
       "error": null
     },
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 95,
+      "count": 94,
       "error": null
     },
     {
@@ -25,7 +25,7 @@
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 88,
+      "count": 93,
       "error": null
     },
     {
@@ -43,7 +43,7 @@
     {
       "title": "Tech Gadgets",
       "ok": true,
-      "count": 79,
+      "count": 100,
       "error": null
     },
     {
@@ -61,19 +61,19 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 100,
+      "count": 104,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 77,
+      "count": 72,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
       "ok": true,
-      "count": 100,
+      "count": 56,
       "error": null
     }
   ]
