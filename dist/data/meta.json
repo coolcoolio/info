@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:33:26.380Z",
+  "generatedAt": "2026-10-24T12:39:41.268Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,25 +7,25 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 51,
+      "count": 46,
       "error": null
     },
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 95,
+      "count": 58,
       "error": null
     },
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 100,
+      "count": 99,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 91,
+      "count": 89,
       "error": null
     },
     {
@@ -49,7 +49,7 @@
     {
       "title": "Nutrition Science",
       "ok": true,
-      "count": 100,
+      "count": 40,
       "error": null
     },
     {
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 94,
+      "count": 96,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 79,
+      "count": 75,
       "error": null
     },
     {
