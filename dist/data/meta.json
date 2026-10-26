@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:43:34.548Z",
+  "generatedAt": "2026-10-26T15:10:05.864Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,25 +7,25 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 47,
+      "count": 46,
       "error": null
     },
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 95,
+      "count": 94,
       "error": null
     },
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 99,
+      "count": 100,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 90,
+      "count": 89,
       "error": null
     },
     {
@@ -61,19 +61,19 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 96,
+      "count": 97,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 77,
+      "count": 76,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
       "ok": true,
-      "count": 100,
+      "count": 55,
       "error": null
     }
   ]
