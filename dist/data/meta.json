@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:30:29.456Z",
+  "generatedAt": "2026-10-31T19:57:35.302Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -19,13 +19,13 @@
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 98,
+      "count": 97,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 91,
+      "count": 92,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
     {
       "title": "AI Skills and repos",
       "ok": true,
-      "count": 82,
+      "count": 80,
       "error": null
     },
     {
@@ -49,7 +49,7 @@
     {
       "title": "Nutrition Science",
       "ok": true,
-      "count": 100,
+      "count": 39,
       "error": null
     },
     {
@@ -67,13 +67,13 @@
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 54,
+      "count": 81,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
       "ok": true,
-      "count": 100,
+      "count": 57,
       "error": null
     }
   ]
