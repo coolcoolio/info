@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:09:30.182Z",
+  "generatedAt": "2026-11-08T20:27:45.187Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -25,7 +25,7 @@
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 70,
+      "count": 69,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
     {
       "title": "AI Skills and repos",
       "ok": true,
-      "count": 75,
+      "count": 76,
       "error": null
     },
     {
@@ -49,7 +49,7 @@
     {
       "title": "Nutrition Science",
       "ok": true,
-      "count": 42,
+      "count": 41,
       "error": null
     },
     {
@@ -61,19 +61,19 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 91,
+      "count": 84,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 33,
+      "count": 40,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
       "ok": true,
-      "count": 59,
+      "count": 57,
       "error": null
     }
   ]
