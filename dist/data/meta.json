@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:39:02.440Z",
+  "generatedAt": "2026-11-14T00:52:33.103Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -25,7 +25,7 @@
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 91,
+      "count": 92,
       "error": null
     },
     {
@@ -43,13 +43,13 @@
     {
       "title": "Tech Gadgets",
       "ok": true,
-      "count": 94,
+      "count": 96,
       "error": null
     },
     {
       "title": "Nutrition Science",
       "ok": true,
-      "count": 38,
+      "count": 37,
       "error": null
     },
     {
@@ -61,19 +61,19 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 95,
+      "count": 96,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 43,
+      "count": 48,
       "error": null
     },
     {
       "title": "Sci-Fi Serien und Filme",
       "ok": true,
-      "count": 55,
+      "count": 53,
       "error": null
     }
   ]
