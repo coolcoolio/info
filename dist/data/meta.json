@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T18:29:58.289Z",
+  "generatedAt": "2026-11-17T02:54:44.760Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -7,7 +7,7 @@
     {
       "title": "Hermes Agent",
       "ok": true,
-      "count": 37,
+      "count": 38,
       "error": null
     },
     {
@@ -18,14 +18,14 @@
     },
     {
       "title": "Claude and Claude Code",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 429"
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 90,
+      "count": 92,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
     {
       "title": "AI Skills and repos",
       "ok": true,
-      "count": 77,
+      "count": 78,
       "error": null
     },
     {
@@ -49,7 +49,7 @@
     {
       "title": "Nutrition Science",
       "ok": true,
-      "count": 37,
+      "count": 38,
       "error": null
     },
     {
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 95,
+      "count": 93,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 42,
+      "count": 46,
       "error": null
     },
     {
