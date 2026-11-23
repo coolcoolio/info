@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:47:12.134Z",
+  "generatedAt": "2026-11-23T07:32:52.034Z",
   "items": [
     {
       "id": "CBMieEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZdIBeEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZQ",
@@ -14,12 +14,12 @@
         "Hermes Agent"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZdIBeEFVX3",
-      "score": 111,
+      "score": 109,
       "sourceMatchScore": 4,
       "key": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZdIBeEFVX3lxTE1nc0dpa1NLeUJ6cjdlcDFHekxYLXZqMWxYY3ZwVnRFMVlmQWZoWU5NUkJKd21nSUdwVXk2YlJoQUNhandPT0E5aG5HVVRaaGUxR1lnbzZNNk5BTVlEVjlHNDdTVkZkbXA1eGtaa2JOR0lXajRVczRQZQ?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 3
     },
     {
       "id": "CBMipwFBVV95cUxNbTNqVHZRancwV2p4X0pFdWpHWUpYWWlad29BSV9lbFVhZFdnbUpiM1E5THdNc1BBMWJwaDUzZS1qNl9reWR6TDR1dGFLUWpNWi1WM3FITF9XRzVFY29PZExhMmlNV3NXSVFGbl9JSFJFYjBxNW5qVzBMZG9vTGRDTXhUSWRPOEdoendEMnNpOUwxTEJuTUgwbkhTNGx3TklTYXZJWTlVbw",
@@ -34,52 +34,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTNqVHZRancwV2p4X0pFdWpHWUpYWWlad29BSV9lbFVhZFdnbUpiM1E5THdNc1BBMWJwaDUzZS1qNl9reWR6TDR1dGFLUWpNWi1WM3FITF9XRzVFY29PZExhMmlNV3NXSVFGbl9JSFJFYjBxNW5qVzBMZG9vTG",
-      "score": 107,
+      "score": 105,
       "sourceMatchScore": 12,
       "key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTNqVHZRancwV2p4X0pFdWpHWUpYWWlad29BSV9lbFVhZFdnbUpiM1E5THdNc1BBMWJwaDUzZS1qNl9reWR6TDR1dGFLUWpNWi1WM3FITF9XRzVFY29PZExhMmlNV3NXSVFGbl9JSFJFYjBxNW5qVzBMZG9vTGRDTXhUSWRPOEdoendEMnNpOUwxTEJuTUgwbkhTNGx3TklTYXZJWTlVbw?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg",
-      "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5\" target=\"_blank\">Anthropic engineer's warning about Claude Code explains why tech outages could get much worse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "publishedAt": "2026-11-21T11:00:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRm",
-      "score": 90,
-      "sourceMatchScore": 12,
-      "key": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
-      "firstSeenAt": "2026-11-21T12:36:48.182Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk",
-      "title": "Gemini subscriptions may reach Hermes Agent on December 2 - TestingCatalog AI News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk?oc=5\" target=\"_blank\">Gemini subscriptions may reach Hermes Agent on December 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TestingCatalog AI News</font>",
-      "publishedAt": "2026-11-22T11:53:04.000Z",
-      "sourceName": "ChatGPT and Gemini",
-      "category": "AI Models",
-      "tags": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSn",
-      "score": 88,
-      "sourceMatchScore": 4,
-      "key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk?oc=5",
-      "firstSeenAt": "2026-11-22T16:14:46.595Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 3
     },
     {
       "id": "CBMitwFBVV95cUxPTXFLcEJlYk15RHFGY1dhY041ZlBCdU5nRGhDVzNGdXdRYXQ5amFRa3FBYVNxZ25ETi10MkRWZGFaTVNvaWJuSDluTE14SzhRUUxFZHhjSVliRDdzdTBLWkxzUkRaRkVoVG5HTGZLdVhLYkhpb2ZBUG01Z1J1TnJvc1FEN2tFYzA4WjBOeW1jbjJvT29uTFJhVUsxUTkxVl9kT3pEUDdZYXo1VHE1VFNKQnpzXzdWWEU",
@@ -98,8 +58,28 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXFLcEJlYk15RHFGY1dhY041ZlBCdU5nRGhDVzNGdXdRYXQ5amFRa3FBYVNxZ25ETi10MkRWZGFaTVNvaWJuSDluTE14SzhRUUxFZHhjSVliRDdzdTBLWkxzUkRaRkVoVG5HTGZLdVhLYkhpb2ZBUG01Z1J1TnJvc1FEN2tFYzA4WjBOeW1jbjJvT29uTFJhVUsxUTkxVl9kT3pEUDdZYXo1VHE1VFNKQnpzXzdWWEU?oc=5",
       "firstSeenAt": "2026-11-21T21:38:06.845Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 4
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 5
+    },
+    {
+      "id": "CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk",
+      "title": "Gemini subscriptions may reach Hermes Agent on December 2 - TestingCatalog AI News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk?oc=5\" target=\"_blank\">Gemini subscriptions may reach Hermes Agent on December 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TestingCatalog AI News</font>",
+      "publishedAt": "2026-11-22T11:53:04.000Z",
+      "sourceName": "ChatGPT and Gemini",
+      "category": "AI Models",
+      "tags": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSn",
+      "score": 86,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlBXSXZscVJoQ2FrMjBsTklOOWI0ZHhyN0tQem1JVlkyNFVrX3RnX2VfWExBd1BIdFoxbEhsUVBocFlzRzA0dWVWaThoQzBhMTd3b3V1NnU5S1E3cm1OWlNDNzFwYXJaZXNpSjh0M0l6NnJXU2NYNVhXUjFxSnl6M3E2NndlekhkRGRGLUc5NUp0RUk?oc=5",
+      "firstSeenAt": "2026-11-22T16:14:46.595Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 3
     },
     {
       "id": "CBMinwFBVV95cUxNcEU0aWEzeDkyclRoRHRad2dSZkV1a09WSklCTk9JMFlJUEZwQUtQRDdxR3F1QklhOWZCSFFQMjYxYVhuQ3ZXaUxiUGg0UmF5S002UHVNZ1dKZWdELU5Pa05iMkRIdFE1UzZYdDc4eEZTcmg3WGEtZHJ3WjlkWWg2U1VPajVlQXlTMTYtVkpSV3ZKLXRuUVowUjJOMlM2ZW8",
@@ -114,12 +94,12 @@
         "Gemini"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEU0aWEzeDkyclRoRHRad2dSZkV1a09WSklCTk9JMFlJUEZwQUtQRDdxR3F1QklhOWZCSFFQMjYxYVhuQ3ZXaUxiUGg0UmF5S002UHVNZ1dKZWdELU5Pa05iMkRIdFE1UzZYdDc4eEZTcmg3WGEtZHJ3WjlkWW",
-      "score": 83,
+      "score": 81,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEU0aWEzeDkyclRoRHRad2dSZkV1a09WSklCTk9JMFlJUEZwQUtQRDdxR3F1QklhOWZCSFFQMjYxYVhuQ3ZXaUxiUGg0UmF5S002UHVNZ1dKZWdELU5Pa05iMkRIdFE1UzZYdDc4eEZTcmg3WGEtZHJ3WjlkWWg2U1VPajVlQXlTMTYtVkpSV3ZKLXRuUVowUjJOMlM2ZW8?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 3
     },
     {
       "id": "CBMibkFVX3lxTE1uc3ZtZlZjLTdrVm1QZ2lCV3laNHZtcHlzaHdwemJHekkyOVJXV0cxZ2swYjVVdU9ZYnM5RVJQSlVVY1J2QjdpbENlcGVqOTViY0JiclNtbkVqOWdvWUFkQl9XWU5rUVNUeUhjZFBB",
@@ -134,7 +114,7 @@
         "Gemini"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1uc3ZtZlZjLTdrVm1QZ2lCV3laNHZtcHlzaHdwemJHekkyOVJXV0cxZ2swYjVVdU9ZYnM5RVJQSlVVY1J2QjdpbENlcGVqOTViY0JiclNtbkVqOWdvWUFkQl9XWU5rUVNUeUhjZFBB?oc=5\" target=\"_blank\"",
-      "score": 81,
+      "score": 79,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uc3ZtZlZjLTdrVm1QZ2lCV3laNHZtcHlzaHdwemJHekkyOVJXV0cxZ2swYjVVdU9ZYnM5RVJQSlVVY1J2QjdpbENlcGVqOTViY0JiclNtbkVqOWdvWUFkQl9XWU5rUVNUeUhjZFBB?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
@@ -154,7 +134,7 @@
         "Gemini"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFVhVFNpUGhzMW1XTUYxTTU3eUJtX1NuLXBqSjJMNjZvWG01YmNZYkowWk1WT2lTVjZoUzEzVTQ0NkV2MG1Tdi1tZ3daZllveW8za1ZzdTFpYzNsTVAzcWN4cVZOT0dmVmk1eXBTM0Zib04wUGx2dm5pS2Z2Vj",
-      "score": 81,
+      "score": 79,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFVhVFNpUGhzMW1XTUYxTTU3eUJtX1NuLXBqSjJMNjZvWG01YmNZYkowWk1WT2lTVjZoUzEzVTQ0NkV2MG1Tdi1tZ3daZllveW8za1ZzdTFpYzNsTVAzcWN4cVZOT0dmVmk1eXBTM0Zib04wUGx2dm5pS2Z2VjdxTWVrMXdnamEyYVlFNDY5RmFTX3pfM2kzd0dhYVF3em9aSmdWZkJCaURjYlFRR21JZy1n?oc=5",
       "firstSeenAt": "2026-11-22T06:43:19.519Z",
@@ -162,24 +142,164 @@
       "seenCount": 3
     },
     {
-      "id": "CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw",
-      "title": "Cline vs Claude Code: $9.99 vs $20 Plans - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5\" target=\"_blank\">Cline vs Claude Code: $9.99 vs $20 Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
-      "publishedAt": "2026-11-22T14:59:24.000Z",
+      "id": "CBMirwFBVV95cUxPRVQtT1IwSzdId1VsNU8wQTlHZVFSRlRBX0EtVXFRd2hYbVJpWGFjSzl6N0tVQUJsbjdtOFUwNXg0aFE3Zk1CUmNmMzdBajl4dVd2MF9ZbDk3aTZLRHgzWFU1WTl3clBfZTc1bEo5WDh6QnYxLTV5M1dRTDlDVFZJb1NfMlhpdXU1WXNCTkxGRXlkbEZVWUF1R1N0RHdNcktsWXFKRXhxVENSY0JPMXFZ",
+      "title": "Claude Code for beginners — how to get started and 5 powerful prompts to try - Tom's Guide",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVQtT1IwSzdId1VsNU8wQTlHZVFSRlRBX0EtVXFRd2hYbVJpWGFjSzl6N0tVQUJsbjdtOFUwNXg0aFE3Zk1CUmNmMzdBajl4dVd2MF9ZbDk3aTZLRHgzWFU1WTl3clBfZTc1bEo5WDh6QnYxLTV5M1dRTDlDVFZJb1NfMlhpdXU1WXNCTkxGRXlkbEZVWUF1R1N0RHdNcktsWXFKRXhxVENSY0JPMXFZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVQtT1IwSzdId1VsNU8wQTlHZVFSRlRBX0EtVXFRd2hYbVJpWGFjSzl6N0tVQUJsbjdtOFUwNXg0aFE3Zk1CUmNmMzdBajl4dVd2MF9ZbDk3aTZLRHgzWFU1WTl3clBfZTc1bEo5WDh6QnYxLTV5M1dRTDlDVFZJb1NfMlhpdXU1WXNCTkxGRXlkbEZVWUF1R1N0RHdNcktsWXFKRXhxVENSY0JPMXFZ?oc=5\" target=\"_blank\">Claude Code for beginners — how to get started and 5 powerful prompts to try</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font>",
+      "publishedAt": "2026-11-23T06:36:48.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5\" target=\"_",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVQtT1IwSzdId1VsNU8wQTlHZVFSRlRBX0EtVXFRd2hYbVJpWGFjSzl6N0tVQUJsbjdtOFUwNXg0aFE3Zk1CUmNmMzdBajl4dVd2MF9ZbDk3aTZLRHgzWFU1WTl3clBfZTc1bEo5WDh6QnYxLTV5M1dRTDlDVF",
       "score": 77,
       "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5",
-      "firstSeenAt": "2026-11-22T21:47:12.134Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
+      "key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVQtT1IwSzdId1VsNU8wQTlHZVFSRlRBX0EtVXFRd2hYbVJpWGFjSzl6N0tVQUJsbjdtOFUwNXg0aFE3Zk1CUmNmMzdBajl4dVd2MF9ZbDk3aTZLRHgzWFU1WTl3clBfZTc1bEo5WDh6QnYxLTV5M1dRTDlDVFZJb1NfMlhpdXU1WXNCTkxGRXlkbEZVWUF1R1N0RHdNcktsWXFKRXhxVENSY0JPMXFZ?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
       "seenCount": 1
+    },
+    {
+      "id": "CBMi2wJBVV95cUxOYUhEUDByamkxWGhFSHVUcVk0dXZJYzc0ZUJtN002OUtNRHJMZDBJNVRiUGFMa1M5eElvOTVWS05ZOGNvT21VOVhNQXRabklwc1FzVERQOWozNUNVeVpGdm95eWw4VTRSNGlOUnkwYTJfMENqcUp6S1psMXJJMkU2ekxxM3czb210UlhTd1l0VVNuT2g5dDNwdWY0S3pOWVhpbnl1Wi15bGNQTFl4T0NRanVGajVCQ2tpZFlqcGpDZnJJX3FxbktPaXBjLWZKZmpxdDJyYzN5a3QxbXVkVGJ0VTA5UWpYQ1JRdUp4R0RLQjI0cmt4UkFzX3ZGLXFGOHUwU1pHNTFHQXFUVm5Hamd4Snlibmt4Q2FicGhLV0RXbU1kVURoYW1SSzFsNnhMSHJyMUE0ZGZfaFVGVlJWNTdCbnNqcldDTGQyTnE5OS1NXzFmaFZ6eFphV3pxd9IB4AJBVV95cUxQeE1IYmFWRnZLWTlRd0N6cGpUcmQ5SjlEeHRNZ2g3enMtYkJ4WGc3amFCWGxBTmllX2E4UXpQMmxtemJrckZfbkgyVDEzX0o1S0lvZ0MwMHlnaEs5OW9EUzQxblNtZzdOd0tKMEVVeGJFeEl6MEQ5UUJmcTVzQXlnSUx6a2JOdlY2WS1PUm1GQTlneS1CQkd2VG8xNnotZDVrUE4wRTl3djVYNGhwVFVZM1F0NDR5Wlp0OVhrdFhLNmJlS1dkN0p4Vy14MUdwYUt2dlRlVzdYNVh4THFkLUdMSnVVaGdFRWtpa3BYYVVEdXF5dlp4R1hlZVhCaGYtOWxyTDZsZVhpU2FiS25ZUXVhdmd1dUVLWm01VEZ0RkdQUXVZWGY5eUJ0ZjdRTmVMWFJkWUVUTExUTHoxWTdTdXpqTlBacUdGQUU0Y2tTZzhlS3NOTkJBUEVRNExJY1o5MmxF",
+      "title": "Just a day after its IPO, Anthropic's mathematician tells mathematicians around the world: Claude has 'so - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYUhEUDByamkxWGhFSHVUcVk0dXZJYzc0ZUJtN002OUtNRHJMZDBJNVRiUGFMa1M5eElvOTVWS05ZOGNvT21VOVhNQXRabklwc1FzVERQOWozNUNVeVpGdm95eWw4VTRSNGlOUnkwYTJfMENqcUp6S1psMXJJMkU2ekxxM3czb210UlhTd1l0VVNuT2g5dDNwdWY0S3pOWVhpbnl1Wi15bGNQTFl4T0NRanVGajVCQ2tpZFlqcGpDZnJJX3FxbktPaXBjLWZKZmpxdDJyYzN5a3QxbXVkVGJ0VTA5UWpYQ1JRdUp4R0RLQjI0cmt4UkFzX3ZGLXFGOHUwU1pHNTFHQXFUVm5Hamd4Snlibmt4Q2FicGhLV0RXbU1kVURoYW1SSzFsNnhMSHJyMUE0ZGZfaFVGVlJWNTdCbnNqcldDTGQyTnE5OS1NXzFmaFZ6eFphV3pxd9IB4AJBVV95cUxQeE1IYmFWRnZLWTlRd0N6cGpUcmQ5SjlEeHRNZ2g3enMtYkJ4WGc3amFCWGxBTmllX2E4UXpQMmxtemJrckZfbkgyVDEzX0o1S0lvZ0MwMHlnaEs5OW9EUzQxblNtZzdOd0tKMEVVeGJFeEl6MEQ5UUJmcTVzQXlnSUx6a2JOdlY2WS1PUm1GQTlneS1CQkd2VG8xNnotZDVrUE4wRTl3djVYNGhwVFVZM1F0NDR5Wlp0OVhrdFhLNmJlS1dkN0p4Vy14MUdwYUt2dlRlVzdYNVh4THFkLUdMSnVVaGdFRWtpa3BYYVVEdXF5dlp4R1hlZVhCaGYtOWxyTDZsZVhpU2FiS25ZUXVhdmd1dUVLWm01VEZ0RkdQUXVZWGY5eUJ0ZjdRTmVMWFJkWUVUTExUTHoxWTdTdXpqTlBacUdGQUU0Y2tTZzhlS3NOTkJBUEVRNExJY1o5MmxF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYUhEUDByamkxWGhFSHVUcVk0dXZJYzc0ZUJtN002OUtNRHJMZDBJNVRiUGFMa1M5eElvOTVWS05ZOGNvT21VOVhNQXRabklwc1FzVERQOWozNUNVeVpGdm95eWw4VTRSNGlOUnkwYTJfMENqcUp6S1psMXJJMkU2ekxxM3czb210UlhTd1l0VVNuT2g5dDNwdWY0S3pOWVhpbnl1Wi15bGNQTFl4T0NRanVGajVCQ2tpZFlqcGpDZnJJX3FxbktPaXBjLWZKZmpxdDJyYzN5a3QxbXVkVGJ0VTA5UWpYQ1JRdUp4R0RLQjI0cmt4UkFzX3ZGLXFGOHUwU1pHNTFHQXFUVm5Hamd4Snlibmt4Q2FicGhLV0RXbU1kVURoYW1SSzFsNnhMSHJyMUE0ZGZfaFVGVlJWNTdCbnNqcldDTGQyTnE5OS1NXzFmaFZ6eFphV3pxd9IB4AJBVV95cUxQeE1IYmFWRnZLWTlRd0N6cGpUcmQ5SjlEeHRNZ2g3enMtYkJ4WGc3amFCWGxBTmllX2E4UXpQMmxtemJrckZfbkgyVDEzX0o1S0lvZ0MwMHlnaEs5OW9EUzQxblNtZzdOd0tKMEVVeGJFeEl6MEQ5UUJmcTVzQXlnSUx6a2JOdlY2WS1PUm1GQTlneS1CQkd2VG8xNnotZDVrUE4wRTl3djVYNGhwVFVZM1F0NDR5Wlp0OVhrdFhLNmJlS1dkN0p4Vy14MUdwYUt2dlRlVzdYNVh4THFkLUdMSnVVaGdFRWtpa3BYYVVEdXF5dlp4R1hlZVhCaGYtOWxyTDZsZVhpU2FiS25ZUXVhdmd1dUVLWm01VEZ0RkdQUXVZWGY5eUJ0ZjdRTmVMWFJkWUVUTExUTHoxWTdTdXpqTlBacUdGQUU0Y2tTZzhlS3NOTkJBUEVRNExJY1o5MmxF?oc=5\" target=\"_blank\">Just a day after its IPO, Anthropic's mathematician tells mathematicians around the world: Claude has 'so</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "publishedAt": "2026-11-23T05:44:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYUhEUDByamkxWGhFSHVUcVk0dXZJYzc0ZUJtN002OUtNRHJMZDBJNVRiUGFMa1M5eElvOTVWS05ZOGNvT21VOVhNQXRabklwc1FzVERQOWozNUNVeVpGdm95eWw4VTRSNGlOUnkwYTJfMENqcUp6S1psMXJJMk",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOYUhEUDByamkxWGhFSHVUcVk0dXZJYzc0ZUJtN002OUtNRHJMZDBJNVRiUGFMa1M5eElvOTVWS05ZOGNvT21VOVhNQXRabklwc1FzVERQOWozNUNVeVpGdm95eWw4VTRSNGlOUnkwYTJfMENqcUp6S1psMXJJMkU2ekxxM3czb210UlhTd1l0VVNuT2g5dDNwdWY0S3pOWVhpbnl1Wi15bGNQTFl4T0NRanVGajVCQ2tpZFlqcGpDZnJJX3FxbktPaXBjLWZKZmpxdDJyYzN5a3QxbXVkVGJ0VTA5UWpYQ1JRdUp4R0RLQjI0cmt4UkFzX3ZGLXFGOHUwU1pHNTFHQXFUVm5Hamd4Snlibmt4Q2FicGhLV0RXbU1kVURoYW1SSzFsNnhMSHJyMUE0ZGZfaFVGVlJWNTdCbnNqcldDTGQyTnE5OS1NXzFmaFZ6eFphV3pxd9IB4AJBVV95cUxQeE1IYmFWRnZLWTlRd0N6cGpUcmQ5SjlEeHRNZ2g3enMtYkJ4WGc3amFCWGxBTmllX2E4UXpQMmxtemJrckZfbkgyVDEzX0o1S0lvZ0MwMHlnaEs5OW9EUzQxblNtZzdOd0tKMEVVeGJFeEl6MEQ5UUJmcTVzQXlnSUx6a2JOdlY2WS1PUm1GQTlneS1CQkd2VG8xNnotZDVrUE4wRTl3djVYNGhwVFVZM1F0NDR5Wlp0OVhrdFhLNmJlS1dkN0p4Vy14MUdwYUt2dlRlVzdYNVh4THFkLUdMSnVVaGdFRWtpa3BYYVVEdXF5dlp4R1hlZVhCaGYtOWxyTDZsZVhpU2FiS25ZUXVhdmd1dUVLWm01VEZ0RkdQUXVZWGY5eUJ0ZjdRTmVMWFJkWUVUTExUTHoxWTdTdXpqTlBacUdGQUU0Y2tTZzhlS3NOTkJBUEVRNExJY1o5MmxF?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMic0FVX3lxTFBJWnR2ZHFUdUI0V2JJUDJzaWwwbzBUbEZra3FjcXd3MjlQNTRXSHMyN0RxRjgzekFQbV9kaWNDaE15bjRrRjRTdEN2Mzlsd1cyOWJweU9FTVpPcEZkMDhyU3A5V21nWFREVzZlQktqTk12RkU",
+      "title": "Anthropic mathematician Levent Alpöge says Claude helped prove the Riemann hypothesis, verification pending - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnR2ZHFUdUI0V2JJUDJzaWwwbzBUbEZra3FjcXd3MjlQNTRXSHMyN0RxRjgzekFQbV9kaWNDaE15bjRrRjRTdEN2Mzlsd1cyOWJweU9FTVpPcEZkMDhyU3A5V21nWFREVzZlQktqTk12RkU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnR2ZHFUdUI0V2JJUDJzaWwwbzBUbEZra3FjcXd3MjlQNTRXSHMyN0RxRjgzekFQbV9kaWNDaE15bjRrRjRTdEN2Mzlsd1cyOWJweU9FTVpPcEZkMDhyU3A5V21nWFREVzZlQktqTk12RkU?oc=5\" target=\"_blank\">Anthropic mathematician Levent Alpöge says Claude helped prove the Riemann hypothesis, verification pending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "publishedAt": "2026-11-23T05:04:06.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnR2ZHFUdUI0V2JJUDJzaWwwbzBUbEZra3FjcXd3MjlQNTRXSHMyN0RxRjgzekFQbV9kaWNDaE15bjRrRjRTdEN2Mzlsd1cyOWJweU9FTVpPcEZkMDhyU3A5V21nWFREVzZlQktqTk12RkU?oc=5\" target=\"",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJWnR2ZHFUdUI0V2JJUDJzaWwwbzBUbEZra3FjcXd3MjlQNTRXSHMyN0RxRjgzekFQbV9kaWNDaE15bjRrRjRTdEN2Mzlsd1cyOWJweU9FTVpPcEZkMDhyU3A5V21nWFREVzZlQktqTk12RkU?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMirgFBVV95cUxNVVQ4SlNTa1pzMFJ6My16dUIxLXhJQnVvNm5vOWpWVVk3R2ttNG1rdVZTQTg3djN1QWE2RmRTYnMtR2pCU013VXpGUDdKOHRZdlozd3pwM1U5NWMwSlFqT2hCTnFKME5zMGZLSW81X2ZOMUtBQUFBNmhGZUFtUnVjajlCdjJfcTBaZW5UbGlabGdWMVlrcWpMZkVtWnBzS1EySVJ4anRsQktfam5LaFE",
+      "title": "Anthropic and Claude's proof of the Riemann Hypothesis sparks debate over its validity - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVQ4SlNTa1pzMFJ6My16dUIxLXhJQnVvNm5vOWpWVVk3R2ttNG1rdVZTQTg3djN1QWE2RmRTYnMtR2pCU013VXpGUDdKOHRZdlozd3pwM1U5NWMwSlFqT2hCTnFKME5zMGZLSW81X2ZOMUtBQUFBNmhGZUFtUnVjajlCdjJfcTBaZW5UbGlabGdWMVlrcWpMZkVtWnBzS1EySVJ4anRsQktfam5LaFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVQ4SlNTa1pzMFJ6My16dUIxLXhJQnVvNm5vOWpWVVk3R2ttNG1rdVZTQTg3djN1QWE2RmRTYnMtR2pCU013VXpGUDdKOHRZdlozd3pwM1U5NWMwSlFqT2hCTnFKME5zMGZLSW81X2ZOMUtBQUFBNmhGZUFtUnVjajlCdjJfcTBaZW5UbGlabGdWMVlrcWpMZkVtWnBzS1EySVJ4anRsQktfam5LaFE?oc=5\" target=\"_blank\">Anthropic and Claude's proof of the Riemann Hypothesis sparks debate over its validity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+      "publishedAt": "2026-11-23T02:57:38.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVQ4SlNTa1pzMFJ6My16dUIxLXhJQnVvNm5vOWpWVVk3R2ttNG1rdVZTQTg3djN1QWE2RmRTYnMtR2pCU013VXpGUDdKOHRZdlozd3pwM1U5NWMwSlFqT2hCTnFKME5zMGZLSW81X2ZOMUtBQUFBNmhGZUFtUn",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVQ4SlNTa1pzMFJ6My16dUIxLXhJQnVvNm5vOWpWVVk3R2ttNG1rdVZTQTg3djN1QWE2RmRTYnMtR2pCU013VXpGUDdKOHRZdlozd3pwM1U5NWMwSlFqT2hCTnFKME5zMGZLSW81X2ZOMUtBQUFBNmhGZUFtUnVjajlCdjJfcTBaZW5UbGlabGdWMVlrcWpMZkVtWnBzS1EySVJ4anRsQktfam5LaFE?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiuAFBVV95cUxNbUhPcHg0SXpWa3VRam9mWk1XOFRmeXRCM2lKNkpnUmhjanRuUEN1bXNrZjZmRHNqS2xCS0NuVXlZR2NEeVRiMXo0VWMxbVJPbENxdmhLeTVVT3ZIT2ZNWXJweUtvTTZnQ1B1UkI4akFqcFB1SWJnWlJ0N2NnYmRSb1ZURktvTHRCdHNxeFVVaGlmRUJiQzFveTkwOFVxVVFqZEFZM0YyVlFsTnN1UmI5VjY3MXBpN2pz",
+      "title": "Anthropic IPO: Claude parent beats SpaceX on cash raised, not on market value - https://internationalfinance.com/",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUhPcHg0SXpWa3VRam9mWk1XOFRmeXRCM2lKNkpnUmhjanRuUEN1bXNrZjZmRHNqS2xCS0NuVXlZR2NEeVRiMXo0VWMxbVJPbENxdmhLeTVVT3ZIT2ZNWXJweUtvTTZnQ1B1UkI4akFqcFB1SWJnWlJ0N2NnYmRSb1ZURktvTHRCdHNxeFVVaGlmRUJiQzFveTkwOFVxVVFqZEFZM0YyVlFsTnN1UmI5VjY3MXBpN2pz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUhPcHg0SXpWa3VRam9mWk1XOFRmeXRCM2lKNkpnUmhjanRuUEN1bXNrZjZmRHNqS2xCS0NuVXlZR2NEeVRiMXo0VWMxbVJPbENxdmhLeTVVT3ZIT2ZNWXJweUtvTTZnQ1B1UkI4akFqcFB1SWJnWlJ0N2NnYmRSb1ZURktvTHRCdHNxeFVVaGlmRUJiQzFveTkwOFVxVVFqZEFZM0YyVlFsTnN1UmI5VjY3MXBpN2pz?oc=5\" target=\"_blank\">Anthropic IPO: Claude parent beats SpaceX on cash raised, not on market value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://internationalfinance.com/</font>",
+      "publishedAt": "2026-11-23T02:00:19.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUhPcHg0SXpWa3VRam9mWk1XOFRmeXRCM2lKNkpnUmhjanRuUEN1bXNrZjZmRHNqS2xCS0NuVXlZR2NEeVRiMXo0VWMxbVJPbENxdmhLeTVVT3ZIT2ZNWXJweUtvTTZnQ1B1UkI4akFqcFB1SWJnWlJ0N2NnYm",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbUhPcHg0SXpWa3VRam9mWk1XOFRmeXRCM2lKNkpnUmhjanRuUEN1bXNrZjZmRHNqS2xCS0NuVXlZR2NEeVRiMXo0VWMxbVJPbENxdmhLeTVVT3ZIT2ZNWXJweUtvTTZnQ1B1UkI4akFqcFB1SWJnWlJ0N2NnYmRSb1ZURktvTHRCdHNxeFVVaGlmRUJiQzFveTkwOFVxVVFqZEFZM0YyVlFsTnN1UmI5VjY3MXBpN2pz?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiswFBVV95cUxNNm1EdWF4U0VnRmdfQzcyUk1mZXNIdFRWQkxXQ2l4QVh2Q2hEMXlRVG8yc2xSRHd6MUotN1dBRjZxMGI5Z1I5UFlDVmYtbXRFdFktV3ExaHRkQnp1RktCeHlzS3k4SUV6Mzl4Z21SUldoVWpnSWlZcktLSnM0NmhhVlhRY1FaM2VmNGE4TVVLT3UxRkswOXJoZDVaR3Fqc0NnMjVxZWQzbUREQk81ZTVZaWZWYw",
+      "title": "Anthropic researcher claims proof of Riemann hypothesis with Claude - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNm1EdWF4U0VnRmdfQzcyUk1mZXNIdFRWQkxXQ2l4QVh2Q2hEMXlRVG8yc2xSRHd6MUotN1dBRjZxMGI5Z1I5UFlDVmYtbXRFdFktV3ExaHRkQnp1RktCeHlzS3k4SUV6Mzl4Z21SUldoVWpnSWlZcktLSnM0NmhhVlhRY1FaM2VmNGE4TVVLT3UxRkswOXJoZDVaR3Fqc0NnMjVxZWQzbUREQk81ZTVZaWZWYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNm1EdWF4U0VnRmdfQzcyUk1mZXNIdFRWQkxXQ2l4QVh2Q2hEMXlRVG8yc2xSRHd6MUotN1dBRjZxMGI5Z1I5UFlDVmYtbXRFdFktV3ExaHRkQnp1RktCeHlzS3k4SUV6Mzl4Z21SUldoVWpnSWlZcktLSnM0NmhhVlhRY1FaM2VmNGE4TVVLT3UxRkswOXJoZDVaR3Fqc0NnMjVxZWQzbUREQk81ZTVZaWZWYw?oc=5\" target=\"_blank\">Anthropic researcher claims proof of Riemann hypothesis with Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "publishedAt": "2026-11-23T00:42:11.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNm1EdWF4U0VnRmdfQzcyUk1mZXNIdFRWQkxXQ2l4QVh2Q2hEMXlRVG8yc2xSRHd6MUotN1dBRjZxMGI5Z1I5UFlDVmYtbXRFdFktV3ExaHRkQnp1RktCeHlzS3k4SUV6Mzl4Z21SUldoVWpnSWlZcktLSnM0Nm",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNm1EdWF4U0VnRmdfQzcyUk1mZXNIdFRWQkxXQ2l4QVh2Q2hEMXlRVG8yc2xSRHd6MUotN1dBRjZxMGI5Z1I5UFlDVmYtbXRFdFktV3ExaHRkQnp1RktCeHlzS3k4SUV6Mzl4Z21SUldoVWpnSWlZcktLSnM0NmhhVlhRY1FaM2VmNGE4TVVLT3UxRkswOXJoZDVaR3Fqc0NnMjVxZWQzbUREQk81ZTVZaWZWYw?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMif0FVX3lxTFBhMm83WEZ4cjkwTlZGZzZwNlZHcWdQMUdoSzdmQ3ExbERxQ2FHSUZlUXRVTDNYbGUyVTZMdDN1M192RmRCcGhGSkIzTExDVXE2V016OXFmVEVvU2tyT2syN2ZlLXg4UHlTMV9mR3pfY1lGeUZkN2NKajdwY3pfUHM",
+      "title": "Anthropic’s Claude nears 350 million weekly website visits ahead of IPO - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMm83WEZ4cjkwTlZGZzZwNlZHcWdQMUdoSzdmQ3ExbERxQ2FHSUZlUXRVTDNYbGUyVTZMdDN1M192RmRCcGhGSkIzTExDVXE2V016OXFmVEVvU2tyT2syN2ZlLXg4UHlTMV9mR3pfY1lGeUZkN2NKajdwY3pfUHM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMm83WEZ4cjkwTlZGZzZwNlZHcWdQMUdoSzdmQ3ExbERxQ2FHSUZlUXRVTDNYbGUyVTZMdDN1M192RmRCcGhGSkIzTExDVXE2V016OXFmVEVvU2tyT2syN2ZlLXg4UHlTMV9mR3pfY1lGeUZkN2NKajdwY3pfUHM?oc=5\" target=\"_blank\">Anthropic’s Claude nears 350 million weekly website visits ahead of IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "publishedAt": "2026-11-23T00:34:52.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMm83WEZ4cjkwTlZGZzZwNlZHcWdQMUdoSzdmQ3ExbERxQ2FHSUZlUXRVTDNYbGUyVTZMdDN1M192RmRCcGhGSkIzTExDVXE2V016OXFmVEVvU2tyT2syN2ZlLXg4UHlTMV9mR3pfY1lGeUZkN2NKajdwY3pfUH",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhMm83WEZ4cjkwTlZGZzZwNlZHcWdQMUdoSzdmQ3ExbERxQ2FHSUZlUXRVTDNYbGUyVTZMdDN1M192RmRCcGhGSkIzTExDVXE2V016OXFmVEVvU2tyT2syN2ZlLXg4UHlTMV9mR3pfY1lGeUZkN2NKajdwY3pfUHM?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ",
+      "title": "Anthropic mathematician claims to have proved Riemann hypothesis with help of Claude - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5\" target=\"_blank\">Anthropic mathematician claims to have proved Riemann hypothesis with help of Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+      "publishedAt": "2026-11-22T23:22:32.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YX",
+      "score": 76,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5",
+      "firstSeenAt": "2026-11-21T21:38:06.845Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 5
     },
     {
       "id": "CBMi6AFBVV95cUxOY3lXYWhjdlk4eFo5OEllXzdkTDhnYWowOUFSZlNLakdEdXoxeG8xZTZjcWVMYWxxVTJCdEUycHZBdjhyMy1UUU9tcU9lMlFIb0t3cG85X1hNSWJLaGxnNEtSbVkyak0xLTJQVmNjSmwtQW80NVdGWU9sUmh0TGJhdWFLOTFRM1BONnZSOFE2YXpDREpxN2RIdnU0WXBGOTNtZ1dwNUVnTHpCOHdfU3VfVlRSVklsZ096TzBLNFlzUnFQVjJ3c0lJNHl3U0d0cGNPWkFYQTdfV01tRlZqYUJ2aHFGNXQwVlhX",
@@ -198,28 +318,28 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3lXYWhjdlk4eFo5OEllXzdkTDhnYWowOUFSZlNLakdEdXoxeG8xZTZjcWVMYWxxVTJCdEUycHZBdjhyMy1UUU9tcU9lMlFIb0t3cG85X1hNSWJLaGxnNEtSbVkyak0xLTJQVmNjSmwtQW80NVdGWU9sUmh0TGJhdWFLOTFRM1BONnZSOFE2YXpDREpxN2RIdnU0WXBGOTNtZ1dwNUVnTHpCOHdfU3VfVlRSVklsZ096TzBLNFlzUnFQVjJ3c0lJNHl3U0d0cGNPWkFYQTdfV01tRlZqYUJ2aHFGNXQwVlhX?oc=5",
       "firstSeenAt": "2026-11-22T21:47:12.134Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 2
     },
     {
-      "id": "CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ",
-      "title": "Anthropic mathematician claims to have proved Riemann hypothesis with help of Claude - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5\" target=\"_blank\">Anthropic mathematician claims to have proved Riemann hypothesis with help of Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
-      "publishedAt": "2026-11-22T20:20:46.000Z",
+      "id": "CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw",
+      "title": "Cline vs Claude Code: $9.99 vs $20 Plans - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5\" target=\"_blank\">Cline vs Claude Code: $9.99 vs $20 Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
+      "publishedAt": "2026-11-22T14:59:24.000Z",
       "sourceName": "Claude and Claude Code",
       "category": "AI Models",
       "tags": [
         "Claude",
         "Claude Code"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YX",
-      "score": 76,
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5\" target=\"_",
+      "score": 75,
       "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5",
-      "firstSeenAt": "2026-11-21T21:38:06.845Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 4
+      "key": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KV3d0a3JrWGI3N2pxT3A0ZklFdHlWbnVOcDNianRtNnNtQS1RNzdTU0FmQTBhZjA0OC1pRHRkTzNRb1JkRXpRczU0ZXhQR2ZZM1FQOU5LeHJvVVl4bGJxeFkwYUxzRVl2MkZVY1ZIVkRPZw?oc=5",
+      "firstSeenAt": "2026-11-22T21:47:12.134Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 2
     },
     {
       "id": "CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E",
@@ -234,12 +354,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMn",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG00NjY3R0Z5aTZDYkNMa2R3Q1F0blZvSHN5N1lGckwxa0R3LWdjc3ZIMFphcUxDdC1rWUVpVVNfN2VvOWJ3V09ELUNQQms1SzBBRWM2R0wxRGpFejc2b2k5MGNvb1lYT0xOcFE5S3ZiN0dFdEpSQkswWjlnMnZyU1BCQ095NG53U3RHMkJDZFowU28tcW9aS3RSMUcyeVlVc0E?oc=5",
       "firstSeenAt": "2026-11-22T21:47:12.134Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 2
     },
     {
       "id": "CBMi5wFBVV95cUxOUnZzQWZhTXdqbG5GNTRfbnpPSTZjbVE5Z1dKWDJXRFB1Y3BUTkE0TDYzaXAxRUZubEhCMC1YUXE2b0tyaGJqWnhwWEl4Mk1xWF9YVUdlamxvLXhxRzRiTHVudFJZX3I3cGhmaHQtdWRPVG9pMlBVM29rWE9TN3R1WmlYRmNTMngxdE1lUS1laWNSdDdwVE9qY1V1V3poc0lxU0R0UlRrQy0zYW9jMVZFS1JfSFBhUk5IbkNjSExwRjZtRmdoU1Q3R3o3OUktUXFqUVQtWjJPYktYU2Y4Y1BsNXhiX21TNXM",
@@ -254,12 +374,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUnZzQWZhTXdqbG5GNTRfbnpPSTZjbVE5Z1dKWDJXRFB1Y3BUTkE0TDYzaXAxRUZubEhCMC1YUXE2b0tyaGJqWnhwWEl4Mk1xWF9YVUdlamxvLXhxRzRiTHVudFJZX3I3cGhmaHQtdWRPVG9pMlBVM29rWE9TN3",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUnZzQWZhTXdqbG5GNTRfbnpPSTZjbVE5Z1dKWDJXRFB1Y3BUTkE0TDYzaXAxRUZubEhCMC1YUXE2b0tyaGJqWnhwWEl4Mk1xWF9YVUdlamxvLXhxRzRiTHVudFJZX3I3cGhmaHQtdWRPVG9pMlBVM29rWE9TN3R1WmlYRmNTMngxdE1lUS1laWNSdDdwVE9qY1V1V3poc0lxU0R0UlRrQy0zYW9jMVZFS1JfSFBhUk5IbkNjSExwRjZtRmdoU1Q3R3o3OUktUXFqUVQtWjJPYktYU2Y4Y1BsNXhiX21TNXM?oc=5",
       "firstSeenAt": "2026-11-22T21:47:12.134Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 1
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 2
     },
     {
       "id": "CBMitwFBVV95cUxPSWI0SmkxbmZJbXFWR1I1MXRnRk80SU5XblBxMjRHempLZXpUTUlWZW10SHp4Sjk0Q1NMOGxvbGE2cHdnQlh6aUVjWXlrcUtCOHd6cWV6TjF0Tl9pTldqa3JDUFI5enpCb2tvX2xCZmhUcy1VRFJaQ2dOZHliQVZpRmcxTHlWc2VuZWVPZWZxOU5STzNhRC1NRnpQeHRZdzBONVJxbHlJVE5HcDJQMkRnZ19pMWMxMm8",
@@ -274,7 +394,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWI0SmkxbmZJbXFWR1I1MXRnRk80SU5XblBxMjRHempLZXpUTUlWZW10SHp4Sjk0Q1NMOGxvbGE2cHdnQlh6aUVjWXlrcUtCOHd6cWV6TjF0Tl9pTldqa3JDUFI5enpCb2tvX2xCZmhUcy1VRFJaQ2dOZHliQV",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWI0SmkxbmZJbXFWR1I1MXRnRk80SU5XblBxMjRHempLZXpUTUlWZW10SHp4Sjk0Q1NMOGxvbGE2cHdnQlh6aUVjWXlrcUtCOHd6cWV6TjF0Tl9pTldqa3JDUFI5enpCb2tvX2xCZmhUcy1VRFJaQ2dOZHliQVZpRmcxTHlWc2VuZWVPZWZxOU5STzNhRC1NRnpQeHRZdzBONVJxbHlJVE5HcDJQMkRnZ19pMWMxMm8?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
@@ -294,11 +414,31 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHFBWVh1QnNpY2dNRnJNSDN1UGYySzJlMnU3YV9PdklVamxRV3VBWXpXaEZaaUZrX1NjcHFNZkNzM2NDeWZ5SDBhNmJQTmRQcEM1OEtCWk1TR3F3RWdmZHdxdmd0ZGhGWEdnSXIxeTQ5RDZGMlNIUS1ZdXlETC",
-      "score": 76,
+      "score": 74,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHFBWVh1QnNpY2dNRnJNSDN1UGYySzJlMnU3YV9PdklVamxRV3VBWXpXaEZaaUZrX1NjcHFNZkNzM2NDeWZ5SDBhNmJQTmRQcEM1OEtCWk1TR3F3RWdmZHdxdmd0ZGhGWEdnSXIxeTQ5RDZGMlNIUS1ZdXlETC1neFVKRkNpU2NUcWo4eUlDTVFtOXdDR05BaF9GQUx4VVNCTkVoS0tidDA2YUtrR1RVbVUxWnJaTEZqNHc?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
       "lastSeenAt": "2026-11-22T16:14:46.595Z",
+      "seenCount": 1
+    },
+    {
+      "id": "CBMiwAFBVV95cUxOTGpvMEtmYWxvbXFTZlczSVdvVEtab3JhNzRDLTZlQWRHSHdQbk93d1JLSnpOR1Uxa1lseFRmeE5yX25ZM1lhcFAtbTdLQW9Ob0M3R3M0MlEtVDBmT044NHNTRGRGQkYtakxxWHkzVkhlYlkyVFlaandBQUJrc1VHMS1lUnZudHk4aWtpLURyQ3h6RVRnM0lOZXpwZWwzWFY4VWI4NmFYQUZIQUxLYmV0X1NqelZxaVN6TGZrNTk1OEs",
+      "title": "Anthropic mathematician Levent Alpöge posts a claimed proof of the Riemann hypothesis made with Claude - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGpvMEtmYWxvbXFTZlczSVdvVEtab3JhNzRDLTZlQWRHSHdQbk93d1JLSnpOR1Uxa1lseFRmeE5yX25ZM1lhcFAtbTdLQW9Ob0M3R3M0MlEtVDBmT044NHNTRGRGQkYtakxxWHkzVkhlYlkyVFlaandBQUJrc1VHMS1lUnZudHk4aWtpLURyQ3h6RVRnM0lOZXpwZWwzWFY4VWI4NmFYQUZIQUxLYmV0X1NqelZxaVN6TGZrNTk1OEs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGpvMEtmYWxvbXFTZlczSVdvVEtab3JhNzRDLTZlQWRHSHdQbk93d1JLSnpOR1Uxa1lseFRmeE5yX25ZM1lhcFAtbTdLQW9Ob0M3R3M0MlEtVDBmT044NHNTRGRGQkYtakxxWHkzVkhlYlkyVFlaandBQUJrc1VHMS1lUnZudHk4aWtpLURyQ3h6RVRnM0lOZXpwZWwzWFY4VWI4NmFYQUZIQUxLYmV0X1NqelZxaVN6TGZrNTk1OEs?oc=5\" target=\"_blank\">Anthropic mathematician Levent Alpöge posts a claimed proof of the Riemann hypothesis made with Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLQ.ai</font>",
+      "publishedAt": "2026-11-22T13:38:00.000Z",
+      "sourceName": "Claude and Claude Code",
+      "category": "AI Models",
+      "tags": [
+        "Claude",
+        "Claude Code"
+      ],
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGpvMEtmYWxvbXFTZlczSVdvVEtab3JhNzRDLTZlQWRHSHdQbk93d1JLSnpOR1Uxa1lseFRmeE5yX25ZM1lhcFAtbTdLQW9Ob0M3R3M0MlEtVDBmT044NHNTRGRGQkYtakxxWHkzVkhlYlkyVFlaandBQUJrc1",
+      "score": 74,
+      "sourceMatchScore": 8,
+      "key": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGpvMEtmYWxvbXFTZlczSVdvVEtab3JhNzRDLTZlQWRHSHdQbk93d1JLSnpOR1Uxa1lseFRmeE5yX25ZM1lhcFAtbTdLQW9Ob0M3R3M0MlEtVDBmT044NHNTRGRGQkYtakxxWHkzVkhlYlkyVFlaandBQUJrc1VHMS1lUnZudHk4aWtpLURyQ3h6RVRnM0lOZXpwZWwzWFY4VWI4NmFYQUZIQUxLYmV0X1NqelZxaVN6TGZrNTk1OEs?oc=5",
+      "firstSeenAt": "2026-11-23T07:32:52.034Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
       "seenCount": 1
     },
     {
@@ -318,8 +458,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHhBWHBNUW00OXBvRGt4NUsyRjRxam5tcGlVR0hRV2Jaa1R1bmZpbnFiVjE3aWk0aE1na0Fmd0xpWXpqemx5UTRGN2VpWHFzc2NVSnpGVHRNRXRwcXdZajZSVnpoLWVYelB6b0VHZEc3ak1XR0E1a3JfYU9RSFFETGpfWjdXdW82VS1aU3pjeVQ2QVRidlpVbG1tSXpRVVdKUzdKUXp2X1RGYVJWVU5zVDVOb0hIemxuUDNoUDRhUjBueGFVZXJiWTdET1RkWWpmS25IZXh2OHRrbDRteF9RTUx5UVIxYjltZGcwREZPc0VwZGQw0gH6AUFVX3lxTFBYbjdwcVZwYnR1aTY4ZUhQTVZRX1ZDSDd5ejVwTjNNRERncF9IT2NRMGxHZ0tXUm1kUWZaRXcxM2pNeTFNeUJQMUdHeFpyUW00TS0taWNyTHZvZ2VVQVhFMGdnSnBXbTNBMGMzTW1xOVhKeVhIY0JvbWx5SnNrdlVudWRuaThTNEw2Q3I2dklNOHJpNENCWmdBZWlJVmZxMTZ3RGkxQnJnOHVrdjlpTFlqS3dTMGZtM1hKYXBNX1BXTXJJOTBvWl91VU51MHVubmVpYmpvbVdxYVpmX0NaYlFLLTNuM3FyWTRIZmpQSEtYM2ZWOUdkLW5Xc1E?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8",
@@ -334,7 +474,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdD",
-      "score": 74,
+      "score": 72,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8?oc=5",
       "firstSeenAt": "2026-11-21T12:36:48.182Z",
@@ -354,12 +494,12 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONlA3YmE1SENKMHdqY2MwSEVFRFQ3eW9URjRhTW83QjNCN0U3SUhweC1vTGhfYml6SG9Sc19wVHVhY1VobG9NLVM4V29Ca2QzMnByUjh0clFFOGhFSE9XcVVfNUxlVTdnRTE3ak5oYzd0alQ4QkV3NUYydFIxYX",
-      "score": 74,
+      "score": 72,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlA3YmE1SENKMHdqY2MwSEVFRFQ3eW9URjRhTW83QjNCN0U3SUhweC1vTGhfYml6SG9Sc19wVHVhY1VobG9NLVM4V29Ca2QzMnByUjh0clFFOGhFSE9XcVVfNUxlVTdnRTE3ak5oYzd0alQ4QkV3NUYydFIxYXBOWEhtblhQM25NRDY4czBDMHE5VUQxc1B6N3Q3eXNoazk0TE9PbG13?oc=5",
       "firstSeenAt": "2026-11-22T06:43:19.519Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 3
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 4
     },
     {
       "id": "CBMiSEFVX3lxTFAtanMyOVRpbzZVaVYwVVJJbnVmMjRDT0tGX1hSbUE2QXlQTDB6Sm05UUNXSXdRbHE0TFdUeGdXbXdLS3R0Y1poSA",
@@ -374,7 +514,7 @@
         "Claude Code"
       ],
       "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtanMyOVRpbzZVaVYwVVJJbnVmMjRDT0tGX1hSbUE2QXlQTDB6Sm05UUNXSXdRbHE0TFdUeGdXbXdLS3R0Y1poSA?oc=5\" target=\"_blank\">Anthropic’s Levent Alpöge claims a Claude-assiste",
-      "score": 74,
+      "score": 72,
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtanMyOVRpbzZVaVYwVVJJbnVmMjRDT0tGX1hSbUE2QXlQTDB6Sm05UUNXSXdRbHE0TFdUeGdXbXdLS3R0Y1poSA?oc=5",
       "firstSeenAt": "2026-11-22T06:43:19.519Z",
@@ -398,8 +538,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTDZXVE1hdldnRUl0S0RvWjlCZXdCby1GRlRoZjhLTU9ucDBXSnVTMl9jdVJqRG9kUVoyX3FjaGJFQW9XQ3IwTFUxZUxQSDFJNDNvSXFkN010NHZTU0Y1VjZNbWZ1aWRhWmJiOVo1LUk3aDRGUTFDY2pHVTA5QWV5aE15OTk2ek9Lb3lVbHVJc1U3bGRzUHdiWGJqOHlOLS01aUdwcjcwdG5GYTIzY3hmSzAwOWJEbDNmMC1YRDJrUmctMWFsTlJaajFkamRxY2RNeGg0MkVhLXhKMDR5RmM0OTBhUU4?oc=5",
       "firstSeenAt": "2026-11-21T21:38:06.845Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 4
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 5
     },
     {
       "id": "CBMiZ0FVX3lxTFBNYVJCOWRkZnRsenJPQmJPQTlnNVNWQ0N5NG9hdzN6NWMyalJmUHVGVzcxajZPWU9McjJ3enVIbjhFTGQ0OFpZY3VBUHlIckIyQnFLWEJzZ2hxT1VHWmotamtoZG1CVDg",
@@ -418,8 +558,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNYVJCOWRkZnRsenJPQmJPQTlnNVNWQ0N5NG9hdzN6NWMyalJmUHVGVzcxajZPWU9McjJ3enVIbjhFTGQ0OFpZY3VBUHlIckIyQnFLWEJzZ2hxT1VHWmotamtoZG1CVDg?oc=5",
       "firstSeenAt": "2026-11-21T21:38:06.845Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 4
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 5
     },
     {
       "id": "CBMitwFBVV95cUxOMDJiblV0T3E4akoxeHkySEl6OXZPMXgtRF8wRFotXzMyTldoNHdKekMtaHYxOFA1Rzl4eFJCY3hibnp1VDRIS0xZX1N1eF9OZkx6YjVZU2t1VnVvVTBjUW1lYzFrd29GR0lneEtSLWVCSk5oYXMyQmNOY0RnMkJlQml6b0tLRE9qUlhNc2xWTHlWVmFVZHFuMGtDTVlOVGZxVDBLSHBPd3MtYWtGcUNkcm1HaHBxeWs",
@@ -458,8 +598,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN05uaG5QU21lUTRNNEZMWW9tX1YwQ2Yxb1BMaUoxb2wxWXhMS3RkbXU4b3FwMF9sZjdqblZ4MU5pU01CX1JRWmVNbS14SEFLcllRZVpoUjZjMmlxWUNKaS01aU5Ibkc4NWhxMF9Xb3Y5LU9JWDRfd2dUNE5oaE5sOE9TTkhZV3hUa1ZLTGlpNGpnbXpzQWttVHVZNWpCalZJeW5nQk13?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 2
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 3
     },
     {
       "id": "CBMiywFBVV95cUxOcWF3QXhiS19OdHJOa3AwTHY4akQ5Wks2ZDNSbDV3NW1SRE1EQ2c1QXQteHUwMERhVmlNZDBEV3o4SU1LXzZ5YkRuVjkzMHdqNW1LLWZnSkItM2owNVRMNDRncjFodlhBcVl0d0x0SzJGSElUMzlNaFg0a2NpZFhOdm1meEhCTmlDaGU2RlVkbjFWT2hQQmF1UW55X252ajY4M2lNV2ttRGxjLTRCVEdsWktnN0p5clpMZ1Z3QUhuWV9rMjRPUW9oQWVFWdIB0AFBVV95cUxOeElGQW5fcDRSYXVwUjVodmlValB0a0liN3dNNVFvS1NKdmZoOVdJNEh1Ui12NDlUakx0LUVqeGliNXNPRGs5VVNOeS1DN29PN3kyNjN1cjMzUHNnc1lBZ1JTSmNvTTNwWFV2cWVITDVGOUUyMlpDQW93WXU0VDBHazlqd3dXcFVvM0VFcUZrekt5R1NKa0xjS0Y2Qll0Qm1DUEhQb29CRzVoYjRVbUF5Ry1INVFfNEFqMWRKbGdPQThJb095UmRXNmlEREY4ekVv",
@@ -498,28 +638,8 @@
       "sourceMatchScore": 8,
       "key": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDg2RE9UUUZqZ3hvYXFpZ3RrZWEyT3cwUTZ3X0ZSMTN3VXA3Mkxha3g4Z0p5OVRmT25fSXdhUUFIQTgtZHhGaXljLXJuMy1lbVhjZzlTQWMtSzRDSUFlY3dfdHJDYmxycm1pSWI4RnRWT1ZNd0h3QnJxWk00QjdkSlc4ZXQ3MUE5YjVhYlBhZGV1Y2JVTFFDTy1MZmpQVGtrVVFLX0VKTUpxR1dLWm53?oc=5",
       "firstSeenAt": "2026-11-21T21:38:06.845Z",
-      "lastSeenAt": "2026-11-22T16:14:46.595Z",
-      "seenCount": 3
-    },
-    {
-      "id": "CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ",
-      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5\" target=\"_blank\">Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "publishedAt": "2026-11-21T16:52:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
-      "firstSeenAt": "2026-11-21T01:29:39.121Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 6
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
+      "seenCount": 4
     },
     {
       "id": "CBMiywFBVV95cUxQMEpLbGtDcHRlUjVuQlM1djUyS2x1bXVJekJERTh4V1FRM1JkTUJrcWZuaGtTSU1IdXN0VHpRbExsS0dkRU1XaEJ4elR1TU9zc2lHTlRKUy1BdFhfel9xNm4tU0JwaC1aaVFmS3V5bHE3aG96WGg5aF96eGFQTUdkTXVqbGlXbFBRTE9WTW1teXBfODBOSDlpc3ZjUjlwOFBNTXFIcDdzVzdsTFdTbFlobDNmd29rOEs1aTVXM3M3YjgwNkpTX2g2TWJCRdIB0gFBVV95cUxPNVU1aU1nemN3UEdRNnhqdTVYVlV3TDB3aXQ0b2V5T0Q2WkVtcDdpRG5kSGVtQXd3SjlSNEJhbmpGWDF4azUwQzlnQXBhLXNwR053VVNlaS1kd1hnbXg1YkpHcnc3aFJyV0lFSWxUMzVhMjRIN1IwMkhHM0tNanctQ3VBNTNXQ1lDTTY0UC1wVUJkZ3BaRlp2eWZOdXBuZFJMdVZ2SHRLV0FKb0NPZkpRWXFYZ3NmamRYUWRpQW01Ym9IMUFzVFh0bFZaMVFoQnZtanc",
@@ -582,144 +702,24 @@
       "seenCount": 2
     },
     {
-      "id": "CBMivgFBVV95cUxNbHV4RUs1NGIyT0VobWphVVB4LVBtT20tcVZyYWlSejV4MmptUzdoNFZvbndVdlVhMTBRTEtBRVFRWGwzTGVXaHNBYUJzd3dhNVFvUjZETVE3eUQ4UFUtNUFrU0I1aVVBby1xT3Q2S08yODRobXZBUVMzREt5NmN2TmR3djZvWUIzVjF5dE5vOElMZ004WW1kRmxtQVpKcGE4M0pxVnl6Q1BKQmVkSndvbWU4RGZDdXJVQjZnZmd3",
-      "title": "Anthropic Claude AI Predicts a Wild Chainlink Crash for 2027 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHV4RUs1NGIyT0VobWphVVB4LVBtT20tcVZyYWlSejV4MmptUzdoNFZvbndVdlVhMTBRTEtBRVFRWGwzTGVXaHNBYUJzd3dhNVFvUjZETVE3eUQ4UFUtNUFrU0I1aVVBby1xT3Q2S08yODRobXZBUVMzREt5NmN2TmR3djZvWUIzVjF5dE5vOElMZ004WW1kRmxtQVpKcGE4M0pxVnl6Q1BKQmVkSndvbWU4RGZDdXJVQjZnZmd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHV4RUs1NGIyT0VobWphVVB4LVBtT20tcVZyYWlSejV4MmptUzdoNFZvbndVdlVhMTBRTEtBRVFRWGwzTGVXaHNBYUJzd3dhNVFvUjZETVE3eUQ4UFUtNUFrU0I1aVVBby1xT3Q2S08yODRobXZBUVMzREt5NmN2TmR3djZvWUIzVjF5dE5vOElMZ004WW1kRmxtQVpKcGE4M0pxVnl6Q1BKQmVkSndvbWU4RGZDdXJVQjZnZmd3?oc=5\" target=\"_blank\">Anthropic Claude AI Predicts a Wild Chainlink Crash for 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "publishedAt": "2026-11-21T15:22:30.000Z",
-      "sourceName": "Claude and Claude Code",
+      "id": "CBMilwFBVV95cUxObmltNmhfSUk5RkxJRkVBTXFsSDJ0N3daQ1F4dzRXZjZhYmUtSHFvS3oxanZSUXRQQnNhdnNDOU1sTEwyZkNLcWFjaE55Mkw0TWwtLW5kSVRzWE9wX0J3Q0lnM2s0SzFVN1RQWXZhZGN1QTN3RUIwRkxhaXFJYmM5R0poX280SlFqY0YxUGs0ZFB4M2NOaDZj",
+      "title": "Claude and Gemini Writing: Prompt Tie, Workflow Choice - Quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmltNmhfSUk5RkxJRkVBTXFsSDJ0N3daQ1F4dzRXZjZhYmUtSHFvS3oxanZSUXRQQnNhdnNDOU1sTEwyZkNLcWFjaE55Mkw0TWwtLW5kSVRzWE9wX0J3Q0lnM2s0SzFVN1RQWXZhZGN1QTN3RUIwRkxhaXFJYmM5R0poX280SlFqY0YxUGs0ZFB4M2NOaDZj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObmltNmhfSUk5RkxJRkVBTXFsSDJ0N3daQ1F4dzRXZjZhYmUtSHFvS3oxanZSUXRQQnNhdnNDOU1sTEwyZkNLcWFjaE55Mkw0TWwtLW5kSVRzWE9wX0J3Q0lnM2s0SzFVN1RQWXZhZGN1QTN3RUIwRkxhaXFJYmM5R0poX280SlFqY0YxUGs0ZFB4M2NOaDZj?oc=5\" target=\"_blank\">Claude and Gemini Writing: Prompt Tie, Workflow Choice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quasa.io</font>",
+      "publishedAt": "2026-11-22T14:24:00.000Z",
+      "sourceName": "ChatGPT and Gemini",
       "category": "AI Models",
       "tags": [
-        "Claude",
-        "Claude Code"
+        "ChatGPT",
+        "Gemini"
       ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHV4RUs1NGIyT0VobWphVVB4LVBtT20tcVZyYWlSejV4MmptUzdoNFZvbndVdlVhMTBRTEtBRVFRWGwzTGVXaHNBYUJzd3dhNVFvUjZETVE3eUQ4UFUtNUFrU0I1aVVBby1xT3Q2S08yODRobXZBUVMzREt5Nm",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHV4RUs1NGIyT0VobWphVVB4LVBtT20tcVZyYWlSejV4MmptUzdoNFZvbndVdlVhMTBRTEtBRVFRWGwzTGVXaHNBYUJzd3dhNVFvUjZETVE3eUQ4UFUtNUFrU0I1aVVBby1xT3Q2S08yODRobXZBUVMzREt5NmN2TmR3djZvWUIzVjF5dE5vOElMZ004WW1kRmxtQVpKcGE4M0pxVnl6Q1BKQmVkSndvbWU4RGZDdXJVQjZnZmd3?oc=5",
+      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObmltNmhfSUk5RkxJRkVBTXFsSDJ0N3daQ1F4dzRXZjZhYmUtSHFvS3oxanZSUXRQQnNhdnNDOU1sTEwyZkNLcWFjaE55Mkw0TWwtLW5kSVRzWE9wX0J3Q0lnM2s0SzFVN1RQWXZhZGN1QTN3RUIwRkxhaXFJYm",
+      "score": 67,
+      "sourceMatchScore": 4,
+      "key": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmltNmhfSUk5RkxJRkVBTXFsSDJ0N3daQ1F4dzRXZjZhYmUtSHFvS3oxanZSUXRQQnNhdnNDOU1sTEwyZkNLcWFjaE55Mkw0TWwtLW5kSVRzWE9wX0J3Q0lnM2s0SzFVN1RQWXZhZGN1QTN3RUIwRkxhaXFJYmM5R0poX280SlFqY0YxUGs0ZFB4M2NOaDZj?oc=5",
       "firstSeenAt": "2026-11-22T16:14:46.595Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
+      "lastSeenAt": "2026-11-23T07:32:52.034Z",
       "seenCount": 2
-    },
-    {
-      "id": "CBMiowFBVV95cUxPaFZuXzhtWU5HSGhlQkZTQlR6VWlrT2w0UUl4ZU4zaTlaOVNBSUgzYUI0VnNXRzB1VU1JREFLTGY3bUFLZ1lKcmY0Z3pQRFMxSTBha3RlNjlTNzVScWRFcnRKYTJOVDhmTEcwVWk5QlZQdDhsdW1jZXc0b1RhdHFDV2I3TmdSMmRmTW9VSnNOcEQwYkVjN1JNN25QZ3VLakVRQ0M4",
-      "title": "Anthropic official claims Claude AI solved Riemann hypothesis after 167 years - Peoples Gazette Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFZuXzhtWU5HSGhlQkZTQlR6VWlrT2w0UUl4ZU4zaTlaOVNBSUgzYUI0VnNXRzB1VU1JREFLTGY3bUFLZ1lKcmY0Z3pQRFMxSTBha3RlNjlTNzVScWRFcnRKYTJOVDhmTEcwVWk5QlZQdDhsdW1jZXc0b1RhdHFDV2I3TmdSMmRmTW9VSnNOcEQwYkVjN1JNN25QZ3VLakVRQ0M4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFZuXzhtWU5HSGhlQkZTQlR6VWlrT2w0UUl4ZU4zaTlaOVNBSUgzYUI0VnNXRzB1VU1JREFLTGY3bUFLZ1lKcmY0Z3pQRFMxSTBha3RlNjlTNzVScWRFcnRKYTJOVDhmTEcwVWk5QlZQdDhsdW1jZXc0b1RhdHFDV2I3TmdSMmRmTW9VSnNOcEQwYkVjN1JNN25QZ3VLakVRQ0M4?oc=5\" target=\"_blank\">Anthropic official claims Claude AI solved Riemann hypothesis after 167 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Peoples Gazette Nigeria</font>",
-      "publishedAt": "2026-11-21T15:13:44.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFZuXzhtWU5HSGhlQkZTQlR6VWlrT2w0UUl4ZU4zaTlaOVNBSUgzYUI0VnNXRzB1VU1JREFLTGY3bUFLZ1lKcmY0Z3pQRFMxSTBha3RlNjlTNzVScWRFcnRKYTJOVDhmTEcwVWk5QlZQdDhsdW1jZXc0b1RhdH",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFZuXzhtWU5HSGhlQkZTQlR6VWlrT2w0UUl4ZU4zaTlaOVNBSUgzYUI0VnNXRzB1VU1JREFLTGY3bUFLZ1lKcmY0Z3pQRFMxSTBha3RlNjlTNzVScWRFcnRKYTJOVDhmTEcwVWk5QlZQdDhsdW1jZXc0b1RhdHFDV2I3TmdSMmRmTW9VSnNOcEQwYkVjN1JNN25QZ3VLakVRQ0M4?oc=5",
-      "firstSeenAt": "2026-11-21T21:38:06.845Z",
-      "lastSeenAt": "2026-11-22T06:43:19.519Z",
-      "seenCount": 2
-    },
-    {
-      "id": "CBMiQkFVX3lxTE04NVRQQTBJLVdwbGZWb0V4enhsellNRlNxdDhWX1MxdU1ITGpIYldXX3JtQzBTNk5QV2pKeEI3RkZVQQ",
-      "title": "Anthropic mathematician claims Riemann proof with Claude. Hold the confetti - Digg",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04NVRQQTBJLVdwbGZWb0V4enhsellNRlNxdDhWX1MxdU1ITGpIYldXX3JtQzBTNk5QV2pKeEI3RkZVQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE04NVRQQTBJLVdwbGZWb0V4enhsellNRlNxdDhWX1MxdU1ITGpIYldXX3JtQzBTNk5QV2pKeEI3RkZVQQ?oc=5\" target=\"_blank\">Anthropic mathematician claims Riemann proof with Claude. Hold the confetti</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digg</font>",
-      "publishedAt": "2026-11-21T13:55:42.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE04NVRQQTBJLVdwbGZWb0V4enhsellNRlNxdDhWX1MxdU1ITGpIYldXX3JtQzBTNk5QV2pKeEI3RkZVQQ?oc=5\" target=\"_blank\">Anthropic mathematician claims Riemann proof with Claude.",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04NVRQQTBJLVdwbGZWb0V4enhsellNRlNxdDhWX1MxdU1ITGpIYldXX3JtQzBTNk5QV2pKeEI3RkZVQQ?oc=5",
-      "firstSeenAt": "2026-11-20T16:56:14.785Z",
-      "lastSeenAt": "2026-11-22T06:43:19.519Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMimgFBVV95cUxNMjBCdUszUDRCSi1QRllfakhNVVNDeUJ0eTNtYXN5T1R4ZkFTbFlqMlFRUGx6RWkyZjBqSlZUYVdDU1NpZjFhWkdLM0ZRbDZ4NmRqaHVzU1FMMzRSR2Y5RFBpZ082cXN3Y29ndVhXUDhYX3QxUzNoQndRcFRrdDBYOWtyam5HbzcyUzhNMEctWndDcXl0YnRVRkZR",
-      "title": "Anthropic worker claims to have solved a famed math problem with help of AI tool Claude - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjBCdUszUDRCSi1QRllfakhNVVNDeUJ0eTNtYXN5T1R4ZkFTbFlqMlFRUGx6RWkyZjBqSlZUYVdDU1NpZjFhWkdLM0ZRbDZ4NmRqaHVzU1FMMzRSR2Y5RFBpZ082cXN3Y29ndVhXUDhYX3QxUzNoQndRcFRrdDBYOWtyam5HbzcyUzhNMEctWndDcXl0YnRVRkZR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjBCdUszUDRCSi1QRllfakhNVVNDeUJ0eTNtYXN5T1R4ZkFTbFlqMlFRUGx6RWkyZjBqSlZUYVdDU1NpZjFhWkdLM0ZRbDZ4NmRqaHVzU1FMMzRSR2Y5RFBpZ082cXN3Y29ndVhXUDhYX3QxUzNoQndRcFRrdDBYOWtyam5HbzcyUzhNMEctWndDcXl0YnRVRkZR?oc=5\" target=\"_blank\">Anthropic worker claims to have solved a famed math problem with help of AI tool Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-      "publishedAt": "2026-11-21T13:24:06.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjBCdUszUDRCSi1QRllfakhNVVNDeUJ0eTNtYXN5T1R4ZkFTbFlqMlFRUGx6RWkyZjBqSlZUYVdDU1NpZjFhWkdLM0ZRbDZ4NmRqaHVzU1FMMzRSR2Y5RFBpZ082cXN3Y29ndVhXUDhYX3QxUzNoQndRcFRrdD",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjBCdUszUDRCSi1QRllfakhNVVNDeUJ0eTNtYXN5T1R4ZkFTbFlqMlFRUGx6RWkyZjBqSlZUYVdDU1NpZjFhWkdLM0ZRbDZ4NmRqaHVzU1FMMzRSR2Y5RFBpZ082cXN3Y29ndVhXUDhYX3QxUzNoQndRcFRrdDBYOWtyam5HbzcyUzhNMEctWndDcXl0YnRVRkZR?oc=5",
-      "firstSeenAt": "2026-11-22T06:43:19.519Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 3
-    },
-    {
-      "id": "CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3g1eWxLY3VmWFRrZmJqUVp0MkxqaEtjY0tYR2hsbndkTDA",
-      "title": "How Claude became Anthropic’s $2trn king of the bots - The Times",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3g1eWxLY3VmWFRrZmJqUVp0MkxqaEtjY0tYR2hsbndkTDA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3g1eWxLY3VmWFRrZmJqUVp0MkxqaEtjY0tYR2hsbndkTDA?oc=5\" target=\"_blank\">How Claude became Anthropic’s $2trn king of the bots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
-      "publishedAt": "2026-11-21T12:00:00.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3g1eWxLY3VmWFRrZmJqUVp0MkxqaEtjY0tYR2hsbndkTDA?oc=5",
-      "firstSeenAt": "2026-11-21T12:36:48.182Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU",
-      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft - The Decoder",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5\" target=\"_blank\">Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Decoder</font>",
-      "publishedAt": "2026-11-21T11:19:49.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUF",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5",
-      "firstSeenAt": "2026-11-21T12:36:48.182Z",
-      "lastSeenAt": "2026-11-22T21:47:12.134Z",
-      "seenCount": 5
-    },
-    {
-      "id": "CBMihAFBVV95cUxOelpmaWZDRHk5YzRhVGhrUEdPUmZRX3B4QTQ3c0RMbThzMHFBaWdST2s2WnI3LS1EQU0wYVhhdGpWdVlGSVVkNURrUFFvWnQtSm5iaHVfQ2IzX2k3YjN5emZWeHUzRW5iVkJ0Tjl2UXRrRHZTTGQxZmhKTGxEdTJiR0dOckM",
-      "title": "Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges - PRESS Insider",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelpmaWZDRHk5YzRhVGhrUEdPUmZRX3B4QTQ3c0RMbThzMHFBaWdST2s2WnI3LS1EQU0wYVhhdGpWdVlGSVVkNURrUFFvWnQtSm5iaHVfQ2IzX2k3YjN5emZWeHUzRW5iVkJ0Tjl2UXRrRHZTTGQxZmhKTGxEdTJiR0dOckM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOelpmaWZDRHk5YzRhVGhrUEdPUmZRX3B4QTQ3c0RMbThzMHFBaWdST2s2WnI3LS1EQU0wYVhhdGpWdVlGSVVkNURrUFFvWnQtSm5iaHVfQ2IzX2k3YjN5emZWeHUzRW5iVkJ0Tjl2UXRrRHZTTGQxZmhKTGxEdTJiR0dOckM?oc=5\" target=\"_blank\">Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PRESS Insider</font>",
-      "publishedAt": "2026-11-21T10:05:19.000Z",
-      "sourceName": "Claude and Claude Code",
-      "category": "AI Models",
-      "tags": [
-        "Claude",
-        "Claude Code"
-      ],
-      "blurb": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOelpmaWZDRHk5YzRhVGhrUEdPUmZRX3B4QTQ3c0RMbThzMHFBaWdST2s2WnI3LS1EQU0wYVhhdGpWdVlGSVVkNURrUFFvWnQtSm5iaHVfQ2IzX2k3YjN5emZWeHUzRW5iVkJ0Tjl2UXRrRHZTTGQxZmhKTGxEdT",
-      "score": 72,
-      "sourceMatchScore": 8,
-      "key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelpmaWZDRHk5YzRhVGhrUEdPUmZRX3B4QTQ3c0RMbThzMHFBaWdST2s2WnI3LS1EQU0wYVhhdGpWdVlGSVVkNURrUFFvWnQtSm5iaHVfQ2IzX2k3YjN5emZWeHUzRW5iVkJ0Tjl2UXRrRHZTTGQxZmhKTGxEdTJiR0dOckM?oc=5",
-      "firstSeenAt": "2026-11-21T12:36:48.182Z",
-      "lastSeenAt": "2026-11-22T16:14:46.595Z",
-      "seenCount": 4
     }
   ]
 }
