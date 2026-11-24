@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T20:11:51.254Z",
+  "generatedAt": "2026-11-24T04:45:59.525Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
@@ -13,19 +13,19 @@
     {
       "title": "OpenClaw",
       "ok": true,
-      "count": 59,
+      "count": 95,
       "error": null
     },
     {
       "title": "Claude and Claude Code",
       "ok": true,
-      "count": 99,
+      "count": 98,
       "error": null
     },
     {
       "title": "ChatGPT and Gemini",
       "ok": true,
-      "count": 72,
+      "count": 74,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
     {
       "title": "AI Skills and repos",
       "ok": true,
-      "count": 87,
+      "count": 100,
       "error": null
     },
     {
@@ -48,9 +48,9 @@
     },
     {
       "title": "Nutrition Science",
-      "ok": true,
-      "count": 43,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 429"
     },
     {
       "title": "Trump Politics",
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 95,
+      "count": 96,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 36,
+      "count": 77,
       "error": null
     },
     {
