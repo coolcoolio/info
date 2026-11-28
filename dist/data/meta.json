@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-27T13:49:32.673Z",
+  "generatedAt": "2026-11-28T00:01:16.075Z",
   "archiveAfterDays": 4,
   "dropAfterDays": 45,
   "totalStored": 400,
   "sourceStatuses": [
     {
       "title": "Hermes Agent",
-      "ok": true,
-      "count": 49,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 429"
     },
     {
       "title": "OpenClaw",
-      "ok": true,
-      "count": 88,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 429"
     },
     {
       "title": "Claude and Claude Code",
@@ -36,9 +36,9 @@
     },
     {
       "title": "AI Skills and repos",
-      "ok": true,
-      "count": 100,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 429"
     },
     {
       "title": "Tech Gadgets",
@@ -49,7 +49,7 @@
     {
       "title": "Nutrition Science",
       "ok": true,
-      "count": 100,
+      "count": 42,
       "error": null
     },
     {
@@ -61,13 +61,13 @@
     {
       "title": "Hamburg",
       "ok": true,
-      "count": 95,
+      "count": 98,
       "error": null
     },
     {
       "title": "Norderstedt",
       "ok": true,
-      "count": 77,
+      "count": 79,
       "error": null
     },
     {
